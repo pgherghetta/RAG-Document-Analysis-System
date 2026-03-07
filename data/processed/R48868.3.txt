@@ -1,0 +1,1760 @@
+Separation of Powers and NATO Withdrawal
+February 27, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R48868
+Congressional Research Service
+SUMMARY
+Separation of Powers and NATO Withdrawal
+In 2023, Congress  enacted  a law that prohibits the President from “suspend[ing], terminat[ing],
+denounc[ing], or withdraw[ing] the United States from  the North Atlantic Treaty ”—which
+established the North Atlantic Treaty Organization (NATO) —without  the advice and consent  of
+the Senate  or an act of Congress.  See Section 1250A of the 2024 National Defense Authorization
+Act, Pub. L. No.  118-31. This provision emerged  against the backdrop of  debate s concerning the
+United States’ policy toward NATO and whether the President possesses the power to withdraw
+the United States from treaties without receiving the legislative branch’s approval.
+Prior to Section 1250A’s  enactment, the Department of Justice’s  Office of Legal Counsel (OLC) published an opinion in
+2020 concluding that the President has exclusive power over treaty withdrawal  and that Congress is constitutionally
+prohibited from intruding upon  this power.  In contrast to the OLC’s legal position,  which neither courts nor Congress are
+bound to consider as authoritative, Section 1250A ’s sponsors stated  that the legislation  “ensur es that no President can
+unilaterally dissolve our bond to this invaluable alliance without  Senate approval .” If the Preside nt decided to unilaterally
+withdraw from the North Atlantic Treaty, irrespective of Section 1250A, there are at least two ways in which the statute
+might affect a court ’s analysis  of any challenge to the President’s action.  First, the statute may influence  a court’s decision on
+whether to hear such a challenge  at all , and second, the statute could affect the court’s evaluation of the President’s action in
+the event it decides to hear a case.
+With respect to whether a court would hear a challenge , two doctrines are relevant: the political question doctrine and
+standing. Historically, courts have generally left the issue of the constitutional distribution of treaty -withdrawal power to the
+political branches, concluding that challenges to unilateral  treaty withdrawal by the President present a nonjusticiable
+political question . See, e.g. , Goldwater v. Carter , 444 U.S. 996, 1003 (1979).  More recent Supreme Court jurisprudence
+suggests that  courts may be less likely to dismiss a challenge to a Presiden t’s withdrawal from the North Atlantic Treaty in
+violation of Section 1250A on political question grounds.  In a case involving another question of separation of foreign  policy
+powers, the Court  held that, where a President acts contrary to  a statute on the  ground that it interferes with the President’s
+Article II authority, the constitutional question is one properly resolved by the judiciary rather than left to the political
+branches. See Zivotofsky ex rel. Zivotofsky v. Clinton , 566 U.S. 189 , 196  (2012) .
+Another issue is who would have standing  to bring a legal challeng e to an alleged  violation of Section 1250A . This doctrine
+may present greater hurdles  than the political question doctrine , as it would ultimately depend on whether the plaintiff is able
+to allege that they suffered an injury that meets the standard s the Supreme Court has established —i.e., that the injury is
+unique to them rather than shared by the general population, is sufficiently  tied to the alleged violation , and is redressable by
+a court . See Lujan v. Defenders of Wildlife , 504 U.S. 555, 560−61 (1992).  In the past, courts have often found that plaintiffs,
+including Members of Congress, fail to meet one or more of these requireme nts in cases involving foreign  policy issues ,
+including that of treaty withdrawal . See, e.g. , Kucinich v. Bush , 236 F. Supp. 2d 1, 18 (D.D.C. 2002) .
+In the event that a court were to hear a challenge to a President’s unilateral withdrawal from the North Atlantic Treaty , it may
+likely apply the well -established framework for analyzing separation  of powers issues derived from Justice Robert Jackson’s
+concurring opinion in Youngstown Sheet & Tube Co. v. Sawyer , 343 U.S. 579  (1952) . If a court were to d etermine that a
+President’s withdrawal was contrary to a congressional prohibition, it may conclude that the action  could be upheld only if
+the President has exclusive authority, a claim that the Youngstown framework instructs  courts to “scrutinize[] with caution.”
+Zivotofsky ex rel. Zivotofsky v. Kerry 576 U.S. 1, 10 (2015).  In assessing whether such authority exists , a court might draw on
+the Constitution’s text and structure as well as other relevant judicial  precedent.  Court s also often consider the historical
+practice  of the political branches in separation  of powers cases. See id. at 23. During the 19th century, the political  branches
+often treated  the treaty withdrawal power as a shared one  in which both Congress and the President played a role . In the 20th
+century, the executive branch increasingly  asserted independent authority to withdraw from treaties , and Congress
+periodically regulate d U.S. participation in treaties . The executive branch does not appear to have  assert ed a claim of
+exclusive  presidential authority  until the 2020 OLC opinion , and Section 1250A appears to be  the first statutory prohibition of
+unilateral presidential withdrawal from a treaty.  Ultimately , given the absence of directly controlling judicial  precedent , in a
+case challenging a Section 1250A violation , both parties would be able to present arguments in support of their positions . R48868
+February 27, 2026
+Karen Sokol
+Legislative Attorney
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   Contents
+Introduction  ................................ ................................ ................................ ................................ ..... 1
+Background and Legal Framework  ................................ ................................ ................................ . 2
+Constitutional Framewor k ................................ ................................ ................................ .........  3
+Historical Practice  ................................ ................................ ................................ .....................  4
+Competing Constitutional Interpretations  ................................ ................................ .................  7
+The Executive Branch’s 2020 Claim to Exclusive Treaty Withdrawal  Power  ..........................  9
+Congressional Rejection of Exclusive Presidential Withdrawal Power in Section
+1250A  of the 2024 NDAA  ................................ ................................ ................................ .... 11
+Justiciability Issues in Enforcing Section 1250A  ................................ ................................ ..........  12
+Political Question Doctrine  ................................ ................................ ................................ ..... 12
+Standing  ................................ ................................ ................................ ................................ .. 17
+Congressional Standing  ................................ ................................ ................................ .... 18
+Standing Under Other NATO -Related Statutes ................................ ................................ . 20
+Constitutio nal Analysis of Section 1250A  ................................ ................................ ....................  22
+The Supreme Court’s Youngstown Framework for Separation of Powers Cases  ....................  22
+Zivotofsky ex rel. Zivotofsky v. Kerry  ................................ ................................ ................  23
+Trump v. United States  ................................ ................................ ................................ ...... 26
+Possible Application of Supreme Court Jurisprudence to Section  1250A  ..............................  27
+Constitutional Text and Structure  ................................ ................................ .....................  27
+Judicial Precedent  ................................ ................................ ................................ .............  28
+Historical Practice  ................................ ................................ ................................ .............  31
+Considerations for Congress ................................ ................................ ................................ ..........  32
+Contacts
+Author Information  ................................ ................................ ................................ ........................  35
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   1 Introduction
+The Constitution expressly sets forth the roles of Congress and the Executive in the making of
+treaties, b ut is silent on the matter of treaty withdrawal.1 During the 19th century, the legislative
+and executive branches often treated  the treaty withdrawal power as a shared one  in which both
+branches played a role .2 In the 20th century, the executive branch increasingly  asserted
+independent authority to withdraw from treaties , and Congress, periodically and to varying
+extents, regulated U.S. participation in treaties.3
+In 2023, Congress passed , and the President signed into law , the first statute  prohibiting the
+President from  unilateral ly withdraw ing from a Senate -approved treaty. Section 1250A of the
+2024 National Defense Authorization Act4 (2024 NDAA) prohibits the President from
+“suspend[ing], terminat[ing], denounc[ing], or withdraw[ing] the United States from the North
+Atlantic Treaty ”5—which established the North Atlantic Treaty Organization (NATO)6—without
+the advice and consent of the Senate or an act of Congress.7 This statute is in tension with the
+position taken by the Department of Justice’s Office of Legal Counsel (OLC) in a 2020 opinion
+maintaining the President has authority to withdraw the United States from treaties without
+congressional approval, and that t his authority is exclusive  to the presidency.8 The OLC’s claim of
+exclusive presidential authority  over treaty withdrawal  appears to go beyond the executive
+branch’s long -standing position that the President had independent authority to withdraw from
+treaties absent congressional restriction.9
+Prior to the enactment of Section 1250A , reviewing courts generally decided that challenges to
+unilateral treaty withdrawal by the President present ed a nonjusticiable political question —
+meaning that the issue needed to be resolved by the politically accountable legislative and
+executive branches rather than in the court s.10 The OLC ’s 2020 opinion  provided the executive
+1 See U.S.  CONST . art. II, § 2, cl. 2.
+2 See infra “Historical Practice .”
+3 See id.
+4 National Defense Authorization Act for Fiscal Year 2024, P ub. L. No.118-31, § 1250A, 137 Stat. 136 , 464‒65  (2023)
+(codified at 22 U.S.C. § 1928f).
+5 22 U.S.C. § 1928f(a). While a suspension  generally refers to a temporary pause in compliance with a treaty,
+withdrawal , termination , and denunciation  all refer to a permanent exit from the treaty.  See, e.g., RESTATEMENT
+(FOURTH ) OF FOREIGN RELATIONS  LAW OF THE UNITED STATES  § 313 (AM. L. INST. 2018 ). Furthermore, a withdrawal
+occurs in the context of a multilateral agreement in which one party may withdraw from the agreement , but the
+agreement remains in place . A termination  occurs in the context of a bilateral agreement in which the withdrawal of a
+single party effectively terminates the agreement.  See RESTATEMENT (SECOND ) OF FOREIGN RELATIONS  LAW OF THE
+UNITED STATES  § 155 cmt. c ( AM. L. INST. 1965).  Lastly, denunciation  is largely synonymous with t ermination, but
+frequently follows an accusation that the treaty was breached. See, e.g., Herbert W. Briggs, Unilateral Denunciation of
+Treaties: The Vienna Convention and the International Court of Justice , 68 AM. J. INT’L L. 51, 53 (1974).
+6 North Atlantic Treaty , Apr. 4, 1949, 63 Stat. 2241, 34 U.N.T.S. 243.
+7 22 U.S.C. § 1928f(a).  The statute provides that “ two-thirds of the Senators present ” must concur . This statutory
+language is similar to the constitutional provision found at Article II, Section 2, clause 2 (“[The President] shall have
+Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Se nators present
+concur.”).
+8 Congressionally Mandated Notice Period for Withdrawing from the  Open  Skies  Treaty, 44 Op.  O.L.C.
+(2020),  https://www.justice.gov/olc/file/1348136/download .
+9 See infra “The Executive Branch’s  2020 Claim to Exclusive Treaty Withdrawal  Power .”
+10 See, e.g. , Goldwater  v. Carter, 444 U.S. 996, 1002 –03 (1979) (plurality opinion) (concluding that a challenge to the
+President’s authority to unilaterally withdraw from the United States’ mutual defense treaty with Taiwan presented a
+nonjusticiable political question) ; infra note 116 and accompanying text.  The political question doctrine is discussed
+(continued...)
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   2 branch’s  response to this questio n; in Section 1250A , Congress provided a different response in
+the context of a specific treaty —the North Atlantic Treaty . If a President were to withdraw from
+the North Atlantic Treaty without congressional approval as required by Section 1250A , and a
+challenge were brought that a court agreed to hear, the executive branch might  argue , consistent
+with the 2020 OLC opinion,  that Section  1250A  interferes with the President’s exclusive authority
+to withdraw from treaties and is thus unconstitutional.11
+This report examines the issues that U.S. courts could potentially address if a President were to
+assert the authority to withdraw unilaterally from the North Atlantic Treaty notwithstanding
+Section 1250 A. It begins by providing the background and legal fr amework governing the
+process for treaty withdrawal at the international and U.S. domestic levels. Next, this report
+examines historical practices related to treaty  withdrawal, which began as a cooperative,
+interbranch process, but has evolved into  sometim es conflicting legislative and executive branch
+position s. This report then analyzes how a court might determine  whether it could hear a
+challenge to a n alleged  violation of Section 1250A by applying the political  question or standing
+doctrines . This repor t next analyzes how courts might approach the question of  whether  Section
+1250A violates constitutional separation  of powers principles  if they were to agree to hear a
+challenge to a President’s unilateral withdrawal from the North Atlantic Treaty . Finally, this report
+proffers some considerations for Congress as it continues to exercise its legislative and oversight
+authorities related to treaties .
+Background and Legal Framework
+Treaties operate under separate international and domestic legal framew orks, and these
+frameworks create distinct sets of rules governing how countries enter into, perform, and
+withdraw from treaties.12 Generally, under international law, a nation’s head of state has authority
+to withdraw from a treaty, provided the treaty pe rmits withdrawal  and the specified withdrawal
+process is followed .13 Article 13 of the North Atlantic Treaty permits parties to withdraw one year
+after providing a “notice of denunciation.”14 Under U.S. domestic law, the legal rules governing
+treaty withdr awal are less straightforward and have been the subject of changing practices and
+interpretation, as discussed in the following sections.
+further  infra “Political Question Doctrine .” See also  Cong. Rsch. Serv., Overview of the Political Question  Doctrine ,
+Constitution Annotated , https://constitution.congress.gov/browse/essay/artIII -S2-C1-9-1/ALDE_00001283/  (last visited
+Feb. 9 , 202 6).
+11 See infra “The Executive Branch’s  2020 Claim to Exclusive Treaty Withdrawal  Power .”
+12 Compare , e.g., Vienna Convention on the Law of Treaties, arts. 7 –17, May 23, 196 9, 1155  U.N.T.S. 33 (defining the
+rules under interna tional law in which all countries, regardless of their domestic legal system, may consent to be bound
+by a treaty), with U.S. CONST . art. II, § 2, cl. 2 ( defining a specific procedure  in U.S. domestic law  in which the United
+States may become a party to a treaty only after receiving the Senate’s advice and consent).  See also  Int’l Law
+Comm’n, Draft Articles on the Law of Treaties with Commentaries, 1966, arts. 2 cmts. 1, 9, in II YEARBOOK OF THE
+INT'L L. COMM ’N, 1966, at 187 –88, http://legal.un.org/ ilc/texts/ instruments/ english/ commentaries/ 1_1_1966.pdf
+[hereinafter Commentary on the Law of Treaties] (“[T]he in ternational and constitutional ratifications of a treaty are
+entirely separate procedural acts carried out on two different planes.”).
+13 See Vienna Convention, supra note 12, art. 67.
+14 North Atlantic Treaty, supra note 6, art 13. The full text of Article 13 provides , “After the Treaty has been in force
+for twenty years, any Party may cease to be a Party one year after its notice of denunciation has been given to the
+Government of the United States of America, which will inform the Governments of the other Parties of the deposit of
+each notice of denunciation. ” Id.
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   3 Constitutional Framework
+Article II of the Constitution sets forth a specific procedure through which the President h as the
+power to make treaties with the advice and consent of the Senate,15 but is silent as to how treaties
+may be terminated. Both Congress and the President possess other constitutional powers related
+to foreign affairs, which complicates the analysis of where the power to terminate treaties resides.
+Article I of the Constitution grants Congress several foreign -affairs -related powers, including the
+power to declare w ar; establish, fund, and regulate federal armed forces; regulate commerce with
+foreign states; “provide for the common Defence”; “define and punish violations of the law of
+nations ”; “grant Letters of Marque and Reprisal”; “make Rules concerning Captures o n Land and
+Water”; and “make all laws which shall be necessary and proper for carrying into Execution .  . .
+all . . . Powers Vested by this Constitution in the [federal] government.”16 Article II vests the
+“executive Power” in the President, makes the Pres ident “Commander in Chief” of the armed
+forces, and authorizes the President to “receive Ambassadors and other public Ministers . . . .”17
+Apart from these textual sources , the Supreme Court has stated that both the executive and
+legislative branches  have broad power s over foreign affairs that are not limited to “affirmative
+grants of the Constitution .”18 With regard to the President,  the Court has further suggested that
+such inherent foreign affairs authority includes certain  powers inherent in the role a s head of a
+sovereign state  that appear not to be shared with the legislative branch, such as  “the power to
+speak or listen as a representative of the nation .”19 Although the Court recognized this presidential
+“power  to act in foreign affairs does not enjoy any textual detail” in Article II, it determined that
+the President ’s “executive power ” under Article II  includes the “vast share of responsibility for
+the conduct of our foreign relations. ”20
+At the same time,  the Court has also recognized  that the legislative branch has a role in foreign
+affairs, emphasiz ing that Presidents are  “not free from the ordinary controls and checks of
+Congress merely because foreign affairs are at issue .”21 The Court has further explain ed that
+Congress’s role in foreign affairs must “be understood and respected,” because  only Congress
+holds the power to make the law regarding both domestic and foreign matters .22
+Applying these principles  to treaty withdrawals , scholars generally accept that President s, by
+virtue of their “unique role  in communicating with foreign governments, ”23 are responsible for
+communicating  the United States’ intention to withdraw from a treaty .24 Beyond that act of
+15 U.S. CONST . art. II, § 2, cl. 2 ( “The President . . . shall have Power, by and with the Advice and Consent of the
+Senate, to make Treaties, provided two thirds of the Senators present concur[.] ”). For background on the treaty -making
+process and Supreme Court cases interpreting the Treaty Clause, see Cong. Rsch. Serv., Overview of the President’s
+Treaty -Making Power , https://constitution.congress.gov/browse/essay /artII -S2-C2-1-1/ALDE_00012952/  (last visited
+Feb. 10 , 202 6).
+16 U.S.  CONST . art. I, § 8 , cls. 1, 3, 10, 11, 14, 18 .
+17 U.S.  CONST . art. II, §§ 1, 2. Article II also permits the President “to make Treaties” and “appoint Ambassadors [and]
+other public Ministers and Consuls,” but only after receiving the Senate’s advice and consent. U.S. CONST . art. II, § 2 .
+18 United States v. Curtiss -Wright Exp . Corp., 299 U.S. 304, 318 (1936).
+19 Id. at 318‒19.
+20 Am. Ins. Ass ’n v. Garamendi, 539 U.S. 396, 414 (2003)  (quoting Youngstown Sheet & Tube Co. v. Sawyer, 343
+U.S. 5 79, 610 –11 (1952) (Frankfurter, J., concurring)).
+21 Zivotofsky ex rel.  v. Kerry, 576 U.S. 1, 21 (2015).
+22 Id.
+23 Id. at 18 .
+24 See, e.g., RESTATEMENT (FOURTH ) OF FOREIGN RELATIONS  LAW OF THE UNITED STATES  § 313(1)  (AM. L. INST. 2018) ;
+(continued...)
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   4 communication, however , there is long -standing debate over which branch (or branches) of
+government have the power to decide  that the United States will withdraw from a treaty  as a
+matter of U.S. domestic law . In particular, t he degree to which the Constitution contemplates a
+role for the legislative branch  to participate in treaty withdrawal decisions  has been the source of
+changing practices and disagreement  among the legislative and executive branches  and legal
+scholars .
+Historical Practice
+The p ast practices related to trea ty termination have varied over the years .25 The first time that the
+United States terminated a treaty after the Constitution was ratified was  in 1798. On the eve of
+possible hostilities with France, Congress passed, and President Adams signed, legislation stating
+that four U.S. treaties with France “shall not henceforth be regarded as legally obligatory on the
+government or citizens of the Unit ed States.”26 Thomas Jefferson referred to the episode as
+support for the notion that only an “act of the legislature” can terminate a treaty ;27 however,  many
+commentators since have come to view th is 1798 statute as a historical anomaly because it is the
+only instance in which Congress purported to terminate a treaty directly through legislation
+without relying on the President to provide a notice of termination to the foreign government.28
+Moreover, because the 1798 statute was part of a series of congres sional measures authorizing
+limited hostilities against the French Republic, some view the statute as an exercise of Congress’s
+war powers rather than precedent for a congressional power to terminate treaties.29
+CONG. RSCH. SERV., TREATIES AND OTHER INTERNATIONAL AGREEMENTS : THE ROLE OF THE UNITED STATES SENATE , S.
+RPT. 106-71, at 199 (2001)  (citing Curtiss -Wright , 299 U.S. at 319); WESTEL WOODBURY WILLOUGHBY , 1
+CONSTITUTIONAL LAW OF THE UNITED STATES  587 (1929)) ( describing the “noncontroversial observation” that, “as the
+official spokesperson with other governments, the President is the person who communicates the notice of impending
+termination” of international agreements).
+25 See, e.g., DAVID GRAY ADLER , THE CONSTITUTION A ND THE TERMINATION OF TREATIES  190 (1986) (“There has been
+no predominant method of termination, or even a discernible trend. Indeed, the record is checkered.”); V GREEN
+HAYWOOD HACKWORTH , DIGEST OF INTERNATIONAL LAW 330 (1943 ) (“The question as to the aut hority of the
+Executive to terminate treaties independently of the Congress or of the Senate is in a somewhat confused state. . . . No
+settled rule or procedure has been followed.”).
+26 Act of July 17, 1798, 5 Cong. Ch. 67, 1 Stat. 578 ( An Act to declare t he treaties heretofore concluded with France, no
+longer obligatory on the United States ).
+27 See THOMAS JEFFERSON , A MANUAL OF PARLIAMENTARY PRACTICE 312  (Washington City , Samuel Harrison Smith
+ed., 1801) [hereinafter JEFFERSON ’S MANUAL ].
+28 See, e.g., Curtis A. Bradley, Treaty Termination and Historical Gloss , 92 TEX. L. REV. 773, 782 (2014) ;
+RESTATEMENT (FOURTH ) OF FOREIGN RELATIONS  LAW OF THE UNITED STATES  § 313, reporters  n.2 (AM. L. INST. 2018) ;
+CONG. RSCH. SERV., TREATIES AND OTHER INTERNATIONAL AGREEMENTS : THE ROLE OF THE UNITED STATES SENATE , S.
+RPT. 106-71, at 207 (2001) .
+29 See S. REP. NO. 34-97, at 5 (1856) (Senate Foreign Relations Committee describing the 1798 treaty abrogation statute
+as a “ rightful exercise of the war power, without viewing  it in any manner as a precedent establishing in Congress
+alone,  and under any circumstances, the power to annul a treaty.”) . Cf. Bas v. Tingy, 4 U.S. (4 Dall.) 37, 40 (1800 )
+(opinion of Washington, J.) (treating the 1798 statute as one in a bundle of congressional acts declaring a limited
+“public war” on the French Republic).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   5 During the 19th century, the gener al practi ce was to treat the power to terminate treaties as shared
+between the legislative and executive branches.30 Congress often authorized31 or instructed32 the
+President to provide notice of treaty termination to foreign governments during this time. On rare
+occasions, the Senate alone passed a resolution authorizing the President to terminate a treaty.33
+Presidents regularly complied with the legislative branch’s authorization or direction.  For
+example, after Congress enacted a joint resolution calling for the  termination of the Oregon
+Territory Treaty, then -Secretary of State (and future President) James Buchanan informed the
+U.S. Ambassador to Great Britain that “Congress have spoken their will upon the subject, in their
+joint resolution; and to this it is hi s (the President’s) and your duty to conform.”34 On other
+occasions, Congress or the Senate approved the President’s termination after -the-fact, when the
+executive branch had already provided notice of termination to the foreign government.35
+At the turn of the 20th century, the practice  regarding treaty termination  began to change, and a
+new form emerged: unilateral termination by the President without approval by the legislative
+branch. This method first occurred in 1899, when the McKinley Administration  terminated
+certain articles in a commercial treaty with Switzerland,36 and again in 1927, when the Coolidge
+Administration withdrew the United States from a convention  with Mexico regarding the
+prevent ion of  smuggling.37 Some Members of Congress questioned the constitutionality of this
+practice ,38 and the executive branch acknowledged in a 1909 memorandum that joint action
+between the President and Congress was the more  “effective and unquestionable” method  to
+terminate a treaty .39 Despite these m ixed views , unilateral presidential termination increased
+30 For analysis of 19th century understanding and practice related to treaty termination, see Bradle y, supra note 28, at
+788–801; SAMUEL B. CRANDALL , TREATIES , THEIR MAKING AND ENFORCEMENT  423–66 (2d ed. 1916).
+31 See, e.g., Joint Resolution  of Apr. 27, 1846 , 9 Stat. 109 ( concerning the Oregon Territory, providing that the
+President “is hereby authorized, at his discretion, to give to the government of Great Britain the notice required by” a
+convention allowing for joint occupancy of parts of the Oregon Territory ); Joint Resolution of June 17, 1874, 18 Stat.
+287 (authorizing the President to give notice of termination of a Treaty of Commerce with Belgium).
+32 See, e.g., Joint Resolution of Jan. 18, 1865, 13 Stat. 566; Joint Resolution of Mar. 3, 1883, 22 Stat. 641.
+33 In 1855, the Senate authorized President Franklin Pierce to terminate a Friendship, Commerce, and Navigation
+Treaty with Denmark, and the President subseq uently relied on the Senate’s action in carrying out the termination.
+Franklin Pierce, Third Annual Message (Dec. 31, 1855), in 7 A COMPILATION OF THE MESSAGES AND PAPERS OF THE
+PRESIDENTS  2860, 2867 (James D. Richardson ed., 1897).
+34 S. DOC. NO. 29-489, a t 15 (1846).
+35 See, e.g. , Joint Resolution to Terminate the Treaty of 1817 Regulating the Naval Force on the Lakes, 13 Stat. 568
+(1865).
+36 See Letter from John Hay, U.S. Sec’y of State, to Ambassador Leishman (Mar. 8, 1899), in PAPERS RELATING TO THE
+FORE IGN RELATIONS OF THE UNITED STATES , 753 –54 (1901).
+37 See Letter from Frank B. Kellogg, U.S. Sec’y of State, to Ambassador Sheffield (Mar. 21, 1927), in 3 PAPERS
+RELATING TO THE FOREIGN RELATIONS OF THE UNITED STATES , 1927, at 230, 230 –31 (1942).
+38 Compare , e.g., 58 CONG. REC. 8076 (1919) (statement of Sen . Walsh) (“I cannot believe that anybody would
+entertain any serious doubt” that the President must obtain congressional authorization for treaty withdrawal); with id.
+at 8122 (statement of Sen . Spencer) (“[I]f the President of the United States saw fit to give notice of withdrawal, that
+withdrawal would be effective. If it was in violation of or in contradiction of the wishes of the Congress at the time . . .
+it would not deprive him of his power.”); and id. at 8125 (statement of Sen . Robinson) (contending that the “customary
+method” of treaty withdrawal involves concurrence of the President and both Houses of Congress, but there may be
+exceptional cases where the President has unilateral termination power).
+39 Memorandum from James Brown Scott, Solicitor, U.S. Dep’t of State (June 12, 1909) , in V DIGEST OF
+INTERNATIONAL LAW, supra note 25, at 319 (1943 ). See also Memorandum from R. Walton Moore, Acting U.S. Sec’y
+of State, to President Roosevelt 2 (Nov . 9, 1936) (on file with author) (“The question as to the authority of the
+Executive to terminate treaties independently of Congress or of the Senate is in a somewhat confused state.”).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   6 during the Franklin Roosevelt Administration and World War II .40 Over the course of the 20th
+century, unilateral presidential termination  generally became the norm41—both for treaties that
+contain w ithdrawal clauses and those that do not.42
+While the U.S. practice since the turn of the 20th century has trended  toward unilateral
+presidential treaty  withdrawal , the practice  has not been uniform. Congress  has enacted
+legislation authorizing or instruc ting the President to terminate treaties and other international
+agreements,43 and there are a number of cases in which  Presidents relied upon  and complied with
+these congressional directives .44 Members of Congress have also occasionally raised
+constitutional objections to the President’s unilateral treaty withdrawal.45 In 20 19, Congress
+enacted legislation requiring the President to notify Congress at least 120 days before
+withdrawing the United States from the Treaty on Open Skies .46 In 2020, P resident Trump
+notified the treaty parties of the United States’  intent to withdraw without complying with  the
+statutorily required 120 -day congressional notice period.47 As discussed below, the OLC argued in
+40 See, e.g., Withdrawal of the United States from the International Convention for the Abolition of Import and Export
+Prohibitions and Restrictions, June 14, 1933, in U.S.  DEP’T OF STATE , I FOREIGN RELATIONS OF THE UNITED STATES ,
+DIPLOMATIC PAPERS  1933, at 783 (1950); Telegram from the Acting Secretary of State to the U.S. Ambassador in Italy,
+Dec. 10, 1936, in U.S. DEP’T OF STATE , II FOREIGN RELATIONS OF THE UNITED STATES , DIPLOMATIC PAPERS  1936, at
+356 (1954) (terminating commercial treaty with I taly); Armament Reduction, 1 DEP’T ST. BULL. 354
+(1939)  (suspending obligations under the London Naval Treaty); Int’l Load Line Convention, 40 U.S. Op. Atty. Gen.
+119 (1941)  (opining that the President could declare the International Load Line Convention i noperative).
+41 See, e.g., OFFICE OF THE LEGAL ADVISOR , U.S.  DEP’T OF STATE , 2002 DIGEST OF UNITED STATES PRACTICE IN
+INTERNATIONAL LAW, at 202 -206 (compiling a list of treaties terminated unilaterally by the President since 1980).
+42 Compare , e.g., OFFICE O F THE LEGAL ADVISOR , U.S.  DEP’T OF STATE , 2018, at 112 -13 (termination of Treaty of
+Amity, Economic Relations, and Consular Rights with Iran pursuant to termination clause); with OFFICE OF THE LEGAL
+ADVISOR , U.S.  DEP’T OF STATE , 2005, at 30 -31 (withdrawal from Optional Protocol to the Vienna Convention on
+Consular Relations, which does not include a withdrawal clause).
+43 See, e.g., Comprehensive Anti -Apartheid Act of 1986, P ub. L. No.  99-440 §  313, 100 Stat. 1086, 1104  (mandating
+that “[t]he Secretary of St ate shall terminate immediately” a tax treaty a nd protocol with South Africa), repealed by
+South African Democratic Transition Support Act of 1993, Pub. L. No. 103-149, § 4, 107 Stat. 1503, 1505 ; Fishery
+Conservation and Management Act of 1976, Pub. L. No. , 94-265 § 202(b), 90 Stat. 331 , 340 –41 (authorizing the
+Secretary of State to renegotiate certain fishing treaties and expressing the “sense of Congress that t he United States
+shall withdraw from any such treaty, in accordance with its provisions, if such treaty is not so renegotiated within a
+reasonable period of time after such date of enactment”) ; Trade Agreements Extension Act of 1951, Pub. L. No. 82 -50
+§ 5, 65 Stat. 72, 73 (directing the President to “take such action as is necessary to suspend, withdraw or prevent the
+application of” trade concessions contained in prior trade agreements regulating imports from the Soviet Union and
+“any nation or area domina ted or controlled by the foreign government or foreign organization controlling the world
+Communist movement.”).
+44 See South African Airways v. Dole, 817 F.2d 119, 121 (D.C. Cir. 1987) (discussing the Reagan Administration’s
+termination of an air services  agreement with South Africa as required by the Comprehensive Anti -Apartheid Act of
+1986 ), cert denied , 484 U.S. 896 (1987); RESTATEMENT (FOURTH ) OF FOREIGN RELATIONS  LAW OF THE UNITED STATES
+§ 313 reporters’ n. 3 (AM. L. INST. 2018) (discussing the Truman  and Ford Administration’s reliance on statutory
+authorities to terminate certain treaties).
+45 See, e.g., Barry M. Goldwater,  Treaty Termination is a Shared Power , 65 A.B.A. J. 198 , 198 –201 (1979) .
+46 See National Defense Authorization Act for Fiscal Year 2020, Pub. L No. 116 -92, § 1234, 133 Stat. 1198, 164 9
+(codified  at 22 U.S.C. § 2593a note)  (requiring the President to notify the appropriate congressional committees “[n] ot
+later than 120 days before the provision of notice of intent to withdraw the United States from the Open Skies Treaty to
+either treaty depository pursuant to Article XV of the Treaty .”
+47 The Trump Administration notified Congress of the President’s intent to withdrawal on the same day that it notif ied
+the treaty parties of the United States’  intent to withdraw. Compare  Congressionally Mandated Notice Period for
+Withdrawing from the  Open  Skies  Treaty , 44 Op.  O.L.C. 184, 196 –98 (2020),
+https://www.justice.gov/olc/file/1348136/dl?inline  (“On May 22, 2020, the Secretary of State and the Secretary of
+Defense advised Congress that the President had determined that it was no lon ger in the national security interest for
+the United States to remain a party to the Open Skies Treaty .”), with U.S. Dep’t of State, United States Withdrawal
+(continued...)
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   7 a 2020 opinion that this statutory notice requi rement was an unconstitutional infringement on the
+President’s exclusive power to withdraw from treaties.48 Most unilateral withdrawals have not
+generated congressional opposition, and Congress did not enact  legislation or a resolution
+formally opposing the President’s withdrawal  from a particular treaty  until it enacted Section
+1250A in 2023 ; however, some Members have filed suit challenging the  constitutionality of
+unilateral withdrawal.49 As discussed in more detail below , courts thus far have dismissed these
+challenges on justiciability grounds without reaching the merits of the constitution al question.50
+Competing Constitutional Interpretations
+Government officials in the legislative and executive branches and scholars have expressed
+differing views about the branches’ respective roles in treaty termination. Some have argued that
+the President possesses the powers to withdraw unilaterally from treaties base d on Supreme Court
+case law describing the President as the “sole organ”51 of the nation in matters related to foreign
+affairs52 and pursuant to the “executive Power” conveyed to the President in Article II, Section 1
+of the Constitution .53 Other proponent s of executive authority have likened the power to withdraw
+from treaties to the President’s power to remove executive officers.54 Although the Appointments
+Clause requires senatorial advice and consent for the appointment of certain executive officers,
+the Supreme C ourt ha s held that the President has significant unilateral authority to remove those
+from the Treaty on Open Skies  (July 6, 2020), https://2017 -2021.state.gov/united -states -withdrawal -from -the-treaty -on-
+open -skies/  (“On May 22,  the United States provided [the treaty depos itaries) notice of its decision to withdraw from
+the Treaty on Open  Skies  pursuant to paragraph 2 of Article XV. ”).
+48 See Congressionally Mandated Notice Period for Withdrawing from the  Open  Skies  Treaty , 44 Op. O.L.C. at 194;
+infra “The Executive Branch’s  2020 Claim to Exclusive Treaty Withdrawal  Power .”
+49 See, e.g. , Goldwater v. Carter, 481 F. Supp. 949 (1979); Complaint for Declaratory Relief Preliminary Statement at
+4, Kucinich v. Bush, 236 F. Supp. 2d 1 ( D.D.C. 2002) ( No. 1:02CV01137 ), 2002 WL 3296862 2 (“In this action 31
+Members of Congress seek a declaratory judgment that the President’s proposed termination of the Treaty on the
+Limitation of Anti -Ballistic Missile Systems (“the ABM Treaty”) is unconstitutional and of no effect because of the
+President’s failure to seek and obtain the assent of Congress .”); see also infra notes 100‒105 and accompanying text;
+infra note 116.
+50 See infra “Justiciability Issues in Enforcing Section 1250A .”
+51 United States v. Curtiss Wright Export Corp. 299 U.S. 304 , 319‒20 (1936)  (“[W]e are here dealing not alone with an
+authority vested in the President by an  exertion of legislative power, but with such an authority plus the very delicate,
+plenary and exclusive power of the President as the sole organ of the federal government in the field of international
+relations —a power which does not require as a basis for its exercis e an act of Congress . . . .”).
+52 See, e.g., Bradley, supra note 28, at 782  (discussing the application of the President’s role as the “sole organ” of
+communicatio ns to the concept of treaty termination); MEMORANDUM FROM JOHN C. YOO, DEPUTY ASSISTANT ATT’Y
+GEN. & ROBERT J. DELAHUNTY , SPECIAL COUNSEL , OLC , U.S.  DEP’T OF JUSTICE , TO JOHN BELLINGER , III, SENIOR
+ASSOC . COUNSEL TO THE PRESIDENT & LEGAL ADVISER TO THE NAT’L SEC. COUNCIL , AUTHORITY OF THE PRESIDENT TO
+SUSPEND CERTAIN PROVISIONS OF THE ABM  TREATY 7 (Nov. 15, 2001) [hereinafter YOO & DELAHUNTY
+MEMORANDUM ], http://www.justice.gov/ olc/docs/ memoabmtreaty11152001.pdf  (“The President ’s power to terminate
+treaties must reside in the President as a necessary corollary t o the exercise of the President’ s other plenary foreign
+affairs powers.”) . The OLC in the Depa rtment of Justice later disavowed unrelated portions of the Yoo & Delahunty
+Memorandum, but it continued to maintain that the President may unilaterally suspend a treaty where suspension is
+permitted “by the terms of the treaty or under recognized principl es of international law.” See MEMORANDUM OF
+STEVEN G. BRADBURY , PRINCIPAL DEPUTY ASSISTANT ATT’Y GEN., STATUS OF CERTAIN OLC  OPINIONS ISSUED IN THE
+AFTERMATH OF THE TERRORIST ATTACKS OF SEPTEMBER 11, 2001 , at 8 –9 (Jan. 15, 2009) , https://www.justice.gov/ sites/
+default/ files/ opa/legacy/ 2009/ 03/09/memostatusolcopinions01152009.pdf .
+53 See, e.g., MICHAEL D. RAMSEY , THE CONSTITUTION ’S TEXT IN FOREIGN AFFAIRS  158–59 (2007); YOO & DELHUNTY
+MEMORANDUM , supra note 52, at 3–13.
+54 See Bradley, supra note 28, at 781 –82; Kristen E. Eichensehr, Treaty Termination and the Separation of Powers , 53
+VA. J. INT’L L. 247, 269–71 (2013) .
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   8 officers.55 The Treaty Clause immediately precedes the Appointments Clause,  and some executive
+branch officials and legal scholars have argue d the same princip les that allow the President to
+undo appointments  that are made with the Senate’s consent  support the view that the  President
+may unilaterally terminate treaties , which are also  entered into with the  Senate’s  consent.56
+Since  the turn of the 20 th century, officials in the executive branch have adopted variations of
+these arguments and consistently taken the position that the Constitution permits the President to
+withdraw from treaties without receiving express approval from th e legislative branch.57 The
+prevailing view among foreign relations law scholars appears to be  that the President may
+unilateral ly withdraw  from treaties if it is permitted by the treaty or other international laws  and
+Congress has not expressly prohibited  it.58
+Some Members of Congress and a smaller group of observers  have advanced  a more limited view
+of presidential power , arguing  that the Constitution requires the legislative branch’s approval for
+the President to withdraw  from a treaty that received th e Senate’s advi ce and consent . According
+to these advocates for a congressional role, treaty termination  should be considered analogous to
+the termination of federal statutes  because the Supremacy Clause includes both treaties and
+statutes as sources of th e “supreme Law of the Land.”59 Thus, those advancing this view reason
+that, because domestic statutes may be terminated only through the same process in which they
+were enacted —i.e., through a majority vote in both houses and with the signature of the  President
+or veto override60—treaties must be terminated through a procedure that is symmetrical to their
+making and that includes, at a minimum, the Senate’s consent.61
+Although there was little direct discussion of the treaty termination power at the Constitutional
+Convention,62 some documents from the early constitutional era arguably  support the view that
+55 See, e.g. , Seila Law LLC v. Consum er Financial Protection Bureau, 591 U.S. 197, 238 (2020) (holding that Congress
+does not have authority to limit the President’s authority to remove “ principal officers who, acting alone, wield
+significant executive power ”); Free Enter. Fund v.  PCAOB , 561 U.S. 477, 483 (2010) (“Since 1789, the Constitution
+has been understood to empower the President to keep [executive] officers accountable —by removing them from
+office, if necessary.”).  For background on the President’s removal power, see Overview of Re moval of Executive
+Officers , Constitution Annotated, https://constitution.congress.gov/browse/essay/artII -S2-C2-3-15-1/ALDE_00013107/
+(last visited Feb. 20, 20 25).
+56 See, e.g., YOO & DELHUNTY MEMORANDUM , supra note 52, at 3 –13; Bradley, supra note 28, at 781 –82.
+57 See CRS Report R44761, Withdrawal from International Agreements: Legal Framework, the Paris Agreement, and
+the Iran Nuclear Agreement , by Stephen P. Mulligan , at 9 n.70 (2018)  (citing memoranda from the executive branch
+from 1909  through 2001) ; see also Authority to Withdraw from the North American Free Trade Agreement , 42 Op.
+O.L.C. 133, 142, 145 (2018) (“ Over the course of time, historical practice shifted towards the view that the President
+could terminate a treaty without cong ressional authorization . . . . The President . . . need not return to Congress before
+terminating or withdrawing from a treaty according to its terms .”).
+58 See, e.g., RESTATEMENT (FOURTH ) OF FOREIGN RELATIONS  LAW OF THE UNITED STATES  § 313(1)  (AM. L. INST. 2018) ;
+LOUIS HENKIN , FOREIGN AFFAIRS AND THE U.S.  CONSTITUTION  214 (2d ed. 1996) .
+59 U.S.  CONST . art. VI, cl. 2; see, e.g., Goldwater, supra note 45, at 199 –200 (analyzing “evidence that the framers
+linked the repeal of treaties to the repeal of statutes”) ; Petition for Writ of Certiorari  to the U.S. Court of Appeals for
+the D.C. Circuit at 15, Goldwater v. Carter, 444 U.S. 996 (1979) (No. 79 -856) (“Federal statutes are part of the
+Supreme Law of the Land, yet they are repealed by the same process by which they are made (although the
+Constitution does not expressly say so). Why should trea ties, which are on an equal footing with statutes, be any
+different?”) ; ADLER , supra  note 25, at 106–10 (arguing that the Framers would have understood treaties to be
+terminable pursuant to a “symmetrical rule of construction” whereby they could be unmade only in the same way that
+they were made) .
+60 See, e.g. , Clinton v. City of New York, 524 U.S. 417, 438 (1998) (“There is no provision in the Constitution that
+authorizes the President to enact, to amend, or to repeal statutes.”); INS v. Chadha, 462 U.S. 919, 954 (1983)
+(“[R]epeal of statutes, no less than enactment, must conform with Art. I.”).
+61 See, e.g. , Goldwater, supra note 45, at 199 –200; ADLER , supra  note 25, at 106 –10.
+62 See Eichensehr,  supra note 54, at 249; ADLER , supra note 25, at 84.
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   9 the legislative branch should participate in treaty withdrawal.63 In a 1791 letter, James Madison
+questioned whether a treaty with Great Britain co uld be terminated by the President and Senate or
+whether the “whole Legislature” must participate in its annulment —but he did not mention the
+possibility of unilateral termination by the Executive.64 In Ware v. Hylton , a 1796 Supreme Court
+decision concern ing the legal effect of t reaties on conflicting state laws, one Justice expressed the
+view that only Congress has the ability to declare a treaty void as a result of a breach.65 In his
+Manual of Parliamentary Practice , Thomas Jefferson wrote in 1801 that “ [t]reaties being
+declared, equally with the laws of the United States, to be the supreme law of the land, it is
+understood  that an act of the legislature alone can declare them infringed and rescinded.”66
+Proponents of executive authority have respond ed to this proposition by arguing that the
+Supremacy Clause’s purpose was to establish the primacy of treaties and federal statutes over
+state law —not to deem treaties and statutes identical in all respects.67 In addition, they argue ,
+treaties do not share every feature of federal statutes.68 Whereas statutes can be enacted over the
+President’s veto, treaties can never be concluded without the Senate’s advice and consent.69
+Moreover, when exercising its veto -override power, Congress is the final actor in making U.S.
+domestic laws. In the treaty -making process, however, the President must take the final step in
+committing that  the United States will be bound by the terms of the treaty  by submitting a  signed
+instrument of ratification after the Senate provides its advice and consent.70
+The Executive Branch’s  2020 Claim to Exclusive Treaty
+Withdrawal  Power
+In a 2020 opinion from the Department of Justice’s OLC , the executive branch publicly took the
+view , for what appears to  be the first time,71 that the President’s  authority to withdraw from
+63 For analysis of founding -era history, see  Raoul Berger, The President’s Unilateral Termination of the Taiwan Treaty ,
+75 NW. U. L. REV. 577, 580 -89 (1980); HENKIN , supra note 58, at 212 & n.139 .
+64 Letter from James Madison to Edmund Pendleton (Jan. 2, 1791), http://press -
+pubs.uchicago.edu/ founders/documents/a6_2s20.html .
+65 Ware v. Hylton , 3 U.S. (3 Dall.) 199, 261 (1796) (opinion of Iredell, J.) (“ [I]f a treaty be violated by one party, it is at
+the option of the other party . . . to declare . . . that the treaty is void. If Congress, ther efore, (who, I conceive, alone
+have such authority under our Government) sh all make such a declaration . . . I shall deem it my duty to regard the
+treaty as void, and then to forbear any share in executing it as a Judge.”) ; Goldwater, supra note 45, at 201  (discussing
+Justice Iredell’s opinion in Ware ). But see Charlton v. Kelly, 222 U.S. 447, 473 -76 (1913) (stating that, because the
+“Executive Department . . . elected  to waive any righ t to free itself” from its obligations under an extradition treaty, the
+Supreme Court must enforce the treaty even if it had been breached and made voidable, and thereby suggesting that, at
+least in the absence of direction from Congress, the President has  the power to waive treaty violations).
+66 JEFFERSON ’S MANUAL , supra note 27, at 312.
+67 See, e.g., Louis Henkin, Litigating the President’s Power To Terminate Treaties , 73 AM. J. INT’L L. 647, 653 (1979)
+(“One of the arguments made against president ial power is that treaties are the supreme law of the land and it takes a
+legislative act to repeal a law. This argument, I submit, plays with words. The pr ovision in Article VI that treaties are
+‘the supreme law of the land’ is addressed to the courts, and principally  for the purpose of declaring treaties supreme in
+relation to state law and policy.”); Eichensehr, supra note 54, at 267 (“ [T]he Supremacy Clause’s purpose is to
+establish the primacy of treaties and federal statutes over state law and that their equivalence vis -à-vis state law does
+not indicate that thei r method of termination is or should be identical.”).
+68 See, e.g., John Yoo, Politics As Law?: The Anti -Ballistic Missile Treaty, the Separation of Powers, and Treaty
+Interpretation , 89 CAL. L. REV. 851, 878 (2001) .
+69 Compare U.S.  CONST . art. I, § 7 with id.  art. II, § 2, cl 2.
+70 See, e.g., CRANDALL , supra note  30, at 81; RESTATEMENT (FOURTH ) OF FOREIGN RELATIONS  LAW OF THE UNITED
+STATES  § 303(3)  (AM. L. INST. 2018) . For examples of treaties approved  by the Senate that Presidents have declined to
+ratify, see CRANDALL , supra note  30, at 97‒99.
+71 See supra note 57.
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   10 treaties is an exclusive  presidential power that Congress cannot restrict through legislation .72 The
+opinion addressed  a statutory provision that required the President to provide notice to Congress
+at least 120 days before notifying  the other state parties that the United States inten ded to
+withdraw from the Treaty on Open Skies .73 Contending  that congressional control of treaty
+withdrawal interferes with the President ’s “exclusive authority to execute treaties and to conduct
+diplomacy, ” OLC concluded that the  statutory  requirement of a congressional -notice period was
+unconstitutional .74 Deciding whether to withdraw from a treaty is a  “quintessentially executive”
+choice that is committed to the President’s discretion, OLC opined.75 Although not binding on
+courts or Congress,76 OLC legal opinions have historically been treated as binding within  the
+executive branch .77
+Following the United States ’ withdrawal  in contravention of the statutory notice requirement ,78
+some Members of Congress expressed criticism of the executive branch’s decision not to comply
+with the congressional notification requirement ,79 and bill text was introduced expressing the
+sense of Congress that the withdrawal violated federal law,  but that text was not  enacted .80 In
+addition, Congress did not  take any formal action  after the withdrawal .
+72 Congressionally Mandated Notice Period for Withdrawing from the  Open  Skies  Treaty , 44 Op.  O.L.C. 184, 196–98
+(2020),  https://www.justice.gov/olc/file/1348136/dl?inline .
+73 National Defense Authorization Act for Fiscal Year 2020, Pub. L No. 116 -92, § 1234, 133 Stat. 1198, 164 9 (codified
+at 22 U.S.C. § 2593a note).
+74 Congressionally Mandated Notice Period for Withd rawing from the  Open  Skies  Treaty , 44 Op. O.L.C . at 213–14.
+75 Id. at 196.
+76 See, e.g., McElroy v. United States ex rel.  Guagliardo, 361 U.S. 281, 285 –86 (1960) (declining to follow an Attorney
+General opinion and explaining  that such opinions are entitled to some weight but do not have the force of judicial
+decisions).
+77 MEMORANDUM FROM DAVID J. BARRON , ACTING ASSISTANT ATT’Y GEN., OLC , TO ATT’YS OF THE OFFICE , RE: BEST
+PRACTICES FOR OLC  LEGAL ADVICE AND WRITTEN OPINIONS  1 (July 16, 2010),  https://www.justice.gov/olc/pdf/olc -
+legal -advice -opinions.pdf . For a discussion of the statutory and historical underpinnings of the authority of OLC
+opinions for the executive bra nch, see Arthur H. Garrison, The Opinions by the Attorney General and the Office of
+Legal Counsel: How and Why They Are Significant , 76 ALB. L. REV. 217 (2012).
+78 See supra notes 46‒48 and accompanying text.
+79 See, e.g., Engel & Smith Denounce Trump Administration’s Illegal Withdrawal from Open Skies Treaty (May 22,
+2020), https://democrats -foreignaffairs.house.gov/2020/5/engel -smith -denounce -trump -administration -s-illegal -
+withdrawal -from -open -skies -treaty ; Letter from Rep. Adam Smith et al. to Mark T. Esper, Sec’y, U.S. Dep’t of Def.,
+May 22, 2020, https://democrats -armedservices.house.gov/_cache/files/a/2/a2186721 -db29 -4324-acb4 -
+8cf6784dc985/85E3C84EC3080246B5541FF09F1CED30.20200522 -hasc-ost-letter -secesper.pdf ; Ranking Member
+Menendez Statement on Trump Administration’s Withdrawal from the Open Skies Treaty (May 20, 2020),
+https://www.foreign.senate.gov/press/dem/release/ranking -member -menendez_statement -on-trump -administrations -
+withdrawal -from -the-open -skies -treaty.
+80 See H. Amdt. 846 to H.R. 6395, 116 th Cong. (2020) (proposed provision expressing the sense of Congress that the
+withdrawal from the Open Skies Treaty did not comply with statutory requirements) ; see also Helsinki Commission
+Chairman Amends NDAA to Re flect Support for Open Skies Treaty (July 22, 2020),
+https://www.csce.gov/articles/helsinki -commission -chairman -amends -ndaa -reflect -support -open -skies -treaty/ . The
+United States’ withdraw al remains effective. See Government of Canada  (treaty depositary) , Treaty List, Treaty on
+Open Skies, Helsinki, Mar . 24, 1992 , https://www.treaty -
+accord.gc.ca/details.aspx?lang=eng&id=102747&t=639062448990851409  (last visited  Feb. 9, 2026) (indicating the
+United States withdrawal was effective on Nov . 22, 2020). In the year after the U.S. withdrawal, legi slation was
+introduced “ call[ing]  on the administration to consider continued participation in the Treaty on Open Skies .” H. Res.
+54, 117th Cong . (2021) .
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   11 Congressional Rejection of Exclusive Presidential Withdraw al
+Power in Section 1250A of the 2024 NDAA
+In what might be understood as  a rejection of the executive branch’s position  that the President
+possess es exclusive power over treaty withdrawal , in 2023, Congress enacted what appears to be
+the first statute prohibiting the President from unilaterally withdrawing from a treaty (specifically,
+the North Atlantic Treaty ).81 Section 1250A of the 2024 NDAA provides that the President “shall
+not suspend , terminate, denounce, or withdraw the United States from the North Atlantic Treaty ”
+without the advice and consent of the Senate,  with two -thirds of Senators present concurring, or
+pursuant to an act of Congress.82 Additionally, t he statute prohibits use of appropriated funds to
+withdraw from the Nor th Atlantic Treaty without the advice and consent of the Senate, with two -
+thirds of Senators present concurring or pursuant to an act of Congress .83 Section 1250A also
+requires the President to consult with the House and Senate foreign affairs committees  “in
+relation to any initiative” to withdraw the United States from the North Atlantic Treaty, and  to
+notify those committees “of any deliberation or decision ” to withdraw from the North Atlantic
+Treaty  “as soon as possible but in no event later than 180 day s prior to taking such action .”84 To
+date, the 2020 OLC opinion  has not been withdrawn , suggesting that the executive branch may
+maintain that the President has exclusive treaty withdrawal pow er, including power to unilaterally
+withdraw from the North Atla ntic Treaty .85
+Changing Practice in Treaty Withdrawal  Paradigms
+The United States’ treaty withdrawal practice can be summarized in several key events and stages.
+Congressional Termination (1798) . The United States’ first treaty withdrawal after the Constitution’s
+adoption  took place pursuant to  legislation stating that four treaties  “shall not henceforth be regarded as legally
+obligatory on the government or citizens of the United States.”86
+Shared Withdrawal Power (19th century) . Treaty withdrawal w as treated as a shared power between the
+legislative and executive branches, and both branches authorized or approved withdrawal.87
+Shift to Unilateral Presidential Power (20th century  to present ). Unilateral withdrawal by the executive
+branch bec omes the predominant practice.88
+81 22 U.S.C. § 1928f(a) ; see also Kaine & Rubio Applaud Adoption of Their Amendment to the NDAA to Prevent Any
+U.S. President from Leaving NATO  (July 13, 2023), https://www.kaine.senate .gov/press -releases/kaine -and-rubio -
+applaud -adoption -of-their-amendment -to-the-ndaa -to-prevent -any-us-president -from -leaving -nato (quoting Sen . Rubio
+as stating that the amendment “ensure [s] that current and future U.S. Presidents cannot leave NATO without  rigorous
+debate and consideration by the U.S. Congress with the input of the American people ”); Final Package Includes
+McClellan Amendments (Dec. 14, 2023), https://mcclellan.house.gov/media/press -releases/mcclellan -helps -pass-ndaa -
+fully -fund-military  (describing provision as an endeavor to “prevent any U.S. President from unilaterally withdrawing
+from NATO without congressional approval”).
+82 22 U.S.C. § 1928f(a).
+83 Id. § 1928f(b).
+84 Id. § 1928f(c).
+85 See supra note 77 and accompanying text.  Although in a statement issued in conjunction with signing the 2024
+NDAA, President Biden noted constitutional objections to a number of sections in the statute, such a s restrictions on
+the transfer of Guantánamo Bay detainees and requirements to submit reports that could reveal classified information,
+he did not mention Section 1250A . See Presidential Statement on Signing the NDAA  for Fiscal Year 2024, 2023 DAILY
+COMP. PRES. DOC. 1145 (Dec. 22, 2023) .
+86 See supra notes 26–29 and accompany ing text .
+87 See supra notes 30–35 and accompanying text .
+88 See supra notes 36–49 and accompanying text .
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   12 Claim of Presidential Exclusivity (2020) . In an OLC opinion, the executive branch claimed exclusive
+constitutional authority to withdraw from treaties and asserted that Congress cannot limit or condition this
+power in legislation.89
+Congressional Rejection of Presidential Exclusivity (2023) . In Section 1250A of the 2024 NDAA,
+Congress provided that the President cannot withdraw from the North Atlantic Treaty without congressional or
+Senatorial con sent.90
+Justiciability Issues in Enforcing Section 1250A
+Before addressing the constitutional analysis that a court would likely apply in a case involving a
+challenge to a President’s withdrawal from the North Atlantic  Treaty , there is the initial  question
+of whether a court would intervene in the first place or instead deem the issue improper for
+judicial resolution based on one or more justiciability doctrines.  Many cases involving issues of
+foreign affairs face significant justiciability hurdles that often have led  courts to decline to weigh
+in on the merits. Two of the princip al justiciability doctrines that have resulted in dismissal of
+cases  involving foreign affairs , including challenges to a President’s unilateral withdrawal from
+treatie s, are the political question and standing  doctrines .91 Both doctrines are based on the
+separation of powers between federal courts and the political branches; the Supreme Court has
+developed the law governing each based on its interpretation of the scope of judicial power
+granted in Article III of the Constitution.92 If a President sought to  withdraw from the North
+Atlantic Treaty, but did not obtain approval through the advice and consent of the Senate or an act
+of Congress, it is possible that the executive branch would invoke the political question and
+standing doctrines as bases to dismis s any lawsuits seeking to enforce Section 1250A.
+Political Question Doctrine
+The Supreme Court developed the political question doctrine based on its determination that
+Article III grant s the judicial branch the power to decide “cases” and “controversies ,”93 and this
+power precludes courts from deciding so -called “political questions” —a term that the Court uses
+to refer to questions that are reserved to the political branches.94 In the 196 2 case Baker v. Carr ,95
+89 See supra  “The Executive Branch’s  2020 Claim to Exclusive Treaty Withdrawal  Power .”
+90 See supra  “Congressional Rejection of Exclusive Presidential Withdraw al Power in Section 1250A of the 2024
+NDAA .”
+91 See infra notes 97 & 116.
+92 See, e.g. , Clapper v. Amnesty Int’l USA , 568 U .S. 398, 408 (2013)  (“The law of  Article III  standing, which is built
+on separation -of-powers  principles, serves to prevent the judicial process from being used to usurp the powers of the
+political branches. ”); see also  Schlesinger v. Reservists Comm. to Stop the War, 418 U.S. 208, 215 (1974) (“[T] he
+concept of justiciability, which expresses the jurisdictional limitations imposed upon federal courts by the ‘case or
+controversy’ requirement of Art. III, embodies both the standing and political question doctrine s.”).
+93 U.S. CONST . art. III, § 2, cl. 1.
+94 See, e.g. , Flast v. Cohen, 392 U.S. 83, 94−95 (1968) (explaining that “the  words ‘cases ’ and ‘controversies ’ . . .
+define the role assigned to the judiciary in a tripartite allocation of power to assure that the federal courts will not
+intrude into areas committed to the other branches of government ” and are “give[n] expression” in justiciability
+doctrines such as the political question doctrine); Baker v. Carr, 369 U.S. 186, 210−11 (1962) (“ The nonjusticiability of
+a political question is primarily a function of the separation of powers.  . . . Deciding whether a matter has in any
+measure been committed by the Constitution to another branch of government, or whether the action of that branch
+exceeds whatever author ity has been committed, is itself a delicate exercise in constitutional interpretation, and is a
+responsibility of this Court as ultimate interpreter of the Constitution. ”).
+95 369 U.S. 186 (1962).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   13 the Supreme Court articulated a factor -based analysis for courts to use in determining whether a
+case presents a political question.
+The Baker v. Carr Factors
+Under Baker v. Carr , political questions might involve the following features:
+• an issue with “a textually demonstrable constitutional commitment” to the political branches;
+• the absence of “ judicially discoverable and manageable standards for resolving ” the case;
+• a need to make policy determinations that are not fit for judicial  discretion;
+• potential expression of lack of respect for the political branches;
+• an unusual need for adherence to a political decision that has already been made; and
+• potential embarrassment from inconsistent pronouncements from different branches of gover nment.96
+Although courts have frequently dismissed cases involving foreign policy issues on the ground
+that they present a political question, courts generally state that they arrive at those conclusions
+based on the Baker  analysis rather than based on the mere fact that the case involves foreign
+policy .97 As the Supreme Court stated in Baker , the political question doctrine “is one of ‘political
+questions,’ not one of ‘politica l cases’ ”;98 thus, “ it is error to suppose that every case or
+controversy which touches foreign relations lies beyond judicial cognizanc e.”99
+In the most prominent treaty -withdrawal case to date  and the only one that has reached the
+Supreme Court —Goldwater  v. Carter100—a plurality of the Justices concluded that dismissal was
+appropriate based on the political question doctrine.101 That case arose during the 1970s when the
+executive branch was pursuing closer relations with the government of the People’s Repub lic of
+China (PRC).102 Anticipating that, as part of its efforts to normalize relations with the PRC, the
+executive branch might terminate the 1954 Mutual Defense Treaty with the government of
+Taiwan,103 Congress enacted  the International Security Assistance  Act, which, among other
+things, expressed “the sense of the Congress that there should be prior consultation between the
+Congress and the executive branch on any proposed policy changes affecting the continuation in
+force of the Mutual Defense Treaty of 1 954.”104 When the Carter Administration announced that
+the United States would provide notice to Taiwan of its intent to terminate the treaty without
+96 Id. at 217.
+97 See, e.g. , Goldwater  v. Carter, 444 U.S. 996, 1002 –03 (1979) (plurality opinion) (concluding that a challenge to the
+President’s authority to unilaterally withdraw from the United States’ mutual defense treaty with Taiwan presented a
+nonjusticiable political question);  Crocke tt v. Reagan, 720 F.2d 1355, 1356 –57 (D.C. Cir. 1983) (affirming dismissal
+on political  question grounds of suit brought by Members of Congress challenging President Reagan’s deployment of
+U.S. troops to Nicaragua without providing a notification to Congre ss pursuant to the War Powers Resolution); Smith
+v. Obama, 217 F. Supp. 3d 283, 288, 297, 302−04 (D.D.C. Cir. 2016) (dismissing on both political question and
+standing grounds a case challenging the constitutionality of President Obama’s military campaign against the Islamic
+State of Iraq and the Levant (ISIL), vacated sub nom.  Smith v. Trump, 731 F. App’x 8 (D.C. Cir. 2018)); Ange v. Bush,
+752 F. Supp. 509, 510 (D.D.C. 1990) ( dismissing challenge to President  George H.W. Bush ’s authority to deploy
+servicem ember s to the Persian Gulf during the First Gulf War as a nonjusticiable political question ).
+98 Baker , 369 U.S. at 217.
+99 Id. at 211.
+100 Goldwater v. Carter, 444 U.S. 996 (1979) .
+101 See id. at 1002 ‒06 (plurality op inion) .
+102 For additional background on Goldw ater v. Carter , see ADLER , supra note 25, at 248 –306 and VICTORIA MARIE
+KRAFT , THE U.S.  CONSTITUTION AND FOREIGN POLICY : TERMINATING THE TAIWAN TREATY 1–52 (1991).
+103 Mutual Defense Treaty Between the United States of America and the  Republic of China, Dec. 2, 1954, 6 U.S.T.
+433 [hereinafter Taiwan Mutual Defense Treaty].
+104 International Security Assistance Act of 1978, Pub. L. No.  95-384, § 26(b), 92 Stat. 730, 746.
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   14 having first obtained congressional consent,105 some Members of Congress filed a lawsuit seeking
+to block the President’s action on the ground that the President lack ed the constitutional authority
+to unilaterally terminate the treaty.106
+The U.S. District Court for the District of Columbia and the U.S. Court of Appeals for the District
+of Columbia both held that the suit was justiciable , but they came to opposite conclusions on the
+merits . While the dist rict court determin ed that the treaty power was a shared one and thus the
+President’s unilateral withdrawal was un constitutional,107 the appellate court r evers ed based on its
+holding that the President’s unilateral withdrawal from the particular treaty at issue was
+constitutional  based on the circumstances involved in the case .108 The Supreme Court granted the
+Members of Congress’s petition for a writ of cer tiorari, but did not reach the merits of the
+constitutional question.109 Instead, in a divided opinion, the Court vacated the appellate court’s
+decision  and remand ed the case to the district court with instructions to dismiss the complain t.110
+Writing for a four -Justice plurality, Justice Rehnquist concluded that the case should be dismissed
+because the constitutional question over treaty withdrawal was a nonjusticiable political
+question.111 In reaching this conclusion, t he plurality relied prim arily on the second Baker
+factor —a lack of judicially discoverable and manageable standards for resolving ” the case .112 The
+plurality reason ed that, because the Constitution did not expressly address treaty withdrawal and
+because “different termination proc edures may be appropriate for different treaties,” the issue
+presented by the case was governed by “political” rather than judicial standards.113 Justice Powell
+concurred in the judgment for dismissal, but on the ground that the case was not ripe for judici al
+review as Congress had not taken any  “formal action” disputing the President’s authority to
+105 See Backchannel  Message From Secretary of State  Vance  and the President’s Assistant for National Security Affairs
+(Brzezinski ) to the Ambassador to the Republic of China (Unger) , para. 5  (Dec. 15, 1978) , in U.S.  DEP’T OF STATE
+OFFICE OF THE HISTORIAN , XIII  FOR. RELATIONS OF THE UNITED STATES , 1977 -1980,  CHINA ,
+https://history.state.gov/historicaldocuments/frus1977 -80v13/d171/ .
+106 In addition, three days of hearings were held in the Senate Foreign Relations Committee on a resolution expressing
+the sense of the Senate that “approval of the U.S. Senate is required to terminate any mutual defense treaty between the
+United States and another nation.” S. Res. 15 , 96th Cong. (1979); Treaty Termination: Hearings Before the S. Comm.
+on Foreign Relations , 96th Cong. (1979). The resolution never passed.
+107 Goldwater v. Carter, 481 F. Supp. 949, 965 (D.D.C. 1979) , rev’d , 617 F.2d 697 (D.C. Cir. 1979)  (en banc) (per
+curiam), vacated and remanded with instructions to dismiss , Goldwater v. Carter , 444 U.S. 996 (1979) (plurality
+opinion).
+108 See 617 F.2d 697, 707‒09 (D.C. Cir. 1979) (en banc) ( basing its conclusion that the President had unilateral
+authority to withdraw from the Mutual Defense Treaty on the “material and unique elements” involved, including that
+the withdrawal was part of the President’s exercise of the power of recognition of the PRC as the government of China
+and that the treaty had a termination clause “without conditions and without designation as to who shall act to t erminate
+it”). The court further explained that “ we have no occasion to decide whether [the existence of a termination clause]
+would be determinative in a case lacking other factors identified above, e.g., under a notice of withdrawal from the
+NATO treaty unaccompanied by derecognition of the other signatories .” Id. at 708. The court also specified that “[t] he
+question of whether the Senate may be able to reserve to itself in particular treaties, at the time of their original
+submission, a specific role in their termination is not presented by the record in this appeal and we decide nothing with
+respect to it. ” Id. at 709.
+109 Goldwater , 444 U.S. at 996.
+110 Id.
+111 Id. at 1003 ‒05.
+112 Id.
+113 Id. at 1003. According to the plurality, its determination that the case was not one for judicial resolution was
+reinforced by the fact that it “involves foreign relations ” and “as far as we can tell, “is ‘entirely external to the United
+States’.” Id. at 1004 ‒05 (quoting United States v. Curtiss Wright Export Corp. 299 U.S. 304 , 315 (1936) ).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   15 terminate the treaty.114 According to Justice Powell, if Congress had done so, “it would be the
+duty of this Court to resolve the issue.”115
+Since the Goldwater decision, Justice Rehnquist’s plurality opinion has proven influential  among
+some lower federal courts, which have cited the decision in dismissing challenges to Presidents’
+unilateral withdrawals from treaties on political question grounds .116 While courts —and perhaps
+ultimately the Supreme Court —might find the Goldwater plurality’s reasoning to be persuasive in
+a case challenging a President’s unilateral withdrawal from the North Atlantic Treaty in violation
+of Section 1250A, there is a potentia lly legally significant distinction between Goldwater  and a
+case involving a violation of Section 1250A; namely in Goldwater , there was no statute
+prohibiting the President’s unilateral withdrawal from the U.S. -Taiwan Mutual Defense Treaty. In
+providing th e fifth vote for dismissal , Justice Powell maintain ed that the case would have been
+appropriate for judicial resolution  had there been such a statute prohibiting  unilateral
+withdrawal .117
+The Supreme Court’s more recent political question jurisprudence mig ht also influence whether a
+court addressing a Section 1250A case would reach the same result as  the Goldwater  plurality . In
+particular , a 2012 decision addressing  whether a case involving separation of foreign  policy
+powers presented a political question suggests that a statutory prohibition of the challenged
+presidential action might make a difference in a reviewing court’s application of the Baker
+factors. That c ase—Zivotofsky  ex rel. Zivotofsky v. Clinton (Zivotofsky I)118—involved a challenge
+to the State Department’s refusal to comply with a statute requiring the Department to record in a
+passport the birthplace of U.S. citizens born in Jerusalem as “Israel” if requested by the citizen or
+the citizen’s guardian.119 According to the State Department, its long -standing policy of recording
+the birthplace as “Jerusalem” on passport s reflected the executive branch’s decision to leave the
+question of the sovereign statu s of Jerusalem as a matter to be resolved in diplomatic
+negotiations.120 The government argued that this policy was based  on the President’s exclusive
+power to recognize foreign states  and that the statutory requirement impermissibly infringed on
+that power .121
+114 Id. at 1001 (Powell, J.,  concurring); see also id.  at 998 (“ It cannot be said that either the Senate or the House has
+rejected the President ’s claim. If the Congress cho oses not to confront the President, it is not our task to do so.” ).
+Justice Marshall also concurred in the result without a written opinion. See id.  at 996.  In a dissenting opinion, Justice
+Brennan argued that the political question doctrine did not apply because the question before the Court was “ whether a
+particular branch has been constitutionally designated as the repository of political decisionmaking power ,” which
+“falls within the competence of the court s.” Id. at 1007 (Brennan, J., dissenting). He further argued that the  President’s
+unilateral withdraw al should be upheld because it “was a necessary incident to” the President’s exercise of the power of
+recognition of foreign states, which, Brennan explained, “the Constitution commits to the President alone.” Id.
+115 Id. at 1002.
+116 See, e.g. , Kucinich v. Bush, 236 F. Supp. 2d 1, 1 8 (D.D.C. 2002)  (dismissing on both political question and standing
+grounds a challenge brought by thirty -one Members of Congress to President George W. Bush’s termination of the
+Anti-Ballistic Missile Treaty  with Russia ); Beacon Prods. Corp. v. Reagan, 633 F. Supp. 1191, 1198 –99 (D. Mass.
+1986), aff’d on other grounds , 814 F.2d 1 (1st Cir. 1987) (dismissing a group of private plaintiffs’ suit seeking to
+prevent President Reagan from unilaterally terminating a Treaty of Friendship, Commerce, and Navigation with
+Nicaragua based on the political question doctrine).
+117 See supra note 114; see also Goldwater , 444 U.S. at 996 (Powell, J., concurring) (“[A] a dispute between Congress
+and the President is not ready for judicial review unless and until each branch has taken action asserting its
+constitutional authority . . . . [and] the political branches reach[ed] a constitutional impasse.”).
+118 566 U.S. 189  (2012).
+119 Id. at 191‒93 (citing the Foreign Relations Authorization Act, Fiscal Year 2003 § 214, 116 Stat. 1350 (2002)).
+120 See Zivotofsky  ex rel. Zivotofsky v. Kerry , 576 U.S. 1, 6-7 [hereinafter Zivotofsky II ].
+121 See Zivotofsky I , 566 U.S. at 198 -99. The Supreme Court’s subsequent decision on the merits of the case —
+Zivotofsky II —is discussed infra section “ Zivotofsky ex rel. Zivotofsky v. Kerry .”
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   16 The U.S. District Court for the District of Columbia and the U.S. Court of Appeals for the D.C.
+Circuit (D.C. Circuit) agreed with the executive branch that the case presented a political question
+requiring dismissal,122 but the Supreme Court reversed in an eight -Justice majority opinion  that
+focused on the first two Baker factors.123 In concluding that the first factor —a textually
+demonstrable constitutional commitment of the issue to a coordinate political department —did
+not apply, the majority reasoned that the case required a determination of whether a statute was
+constitutional, which “is a decision for the courts.”124 According to the majority:
+[F]ederal courts are not being asked to supplant a foreign policy decision of the political
+branches with the courts ’ own unmoored determination of what United States policy
+toward Jerusalem should be. Instead, Zivotofsky requests that the courts enforce a specific
+statutory right.  To resolve his claim, the Judiciary must decide if Zivotofsky ’s
+interpretation of the statute is correct, and whether the statute is constitutional. This is a
+familiar judicial exercise.125
+The majority also found that the fact the case presented the question of the constitutionality of a
+statute was rel evant in concluding that the second Baker factor —a lack of judicial ly discoverable
+and manageable  standards for resolving the issue presented by the case —did not apply.
+Specifically, the Court observed  that the issue of whether the passport statute impermi ssibly
+infringed on the President’s constitutional powers required “careful ex amination of the textual,
+structural, and historical evidence put forward by the parties regarding the nature of the statute
+and of the passport and recognition powers ,” which “i s what courts do.”126
+Zivotofsky I arguably supports  a claim that a challenge to a ny alleged  violati on of  Section 1250A
+does not present a political question. As to the first factor, an alleged violation of  Section 1250A
+would involve a President’s refusal to comply with a statutory directive, and thus “the only real
+question for the courts [would be] whether the statute is constitutional” —a question that the
+Zivotofsky I Court emphasized was constitutionally committed to  the courts rather than to the
+political branches.127 Similarities with Zivotofsky I  also suggest that the second Baker  factor may
+not be implicated in a challenge to a possible Section 1250A violation, as the question of whether
+the President has exclusive  constitutional authority to withdraw from treaties , including the North
+Atlantic Treaty, would require courts to analyze constitutional text, structure, and history —which
+the Zivotofsky I Court emphasized are quintessential judicial standards.128
+122 Id. at 193−94.
+123 See id.  at 195 (stating that the political question doctrine applies “ where there is ‘a textually demonstrable
+constitutional commitment of the issue to a coordinate political department; or a lack of judicially discoverable and
+manageable standards for resolving it ’” (quoting Nixon v. United States, 506 U.S. 224, 228 (1993)).
+124 Id. at 196−97;  see also id. at 196 (“ At least since Marbury v. Madison , we have recognized that when an Act of
+Congress is alleged to conflict with the Constitution, ‘[i]t is emphatically the province and duty of the judicial
+department to say what the law is. ’” (quotin g 5 U.S. (1 Cranch) 137, 177 (1803))).
+125 Id. at 196. This reasoning is arguably supported by the Court’s conclusion that the political question doctrine did not
+apply in Japan Whaling Ass’n v. Am . Cetacean Soc ’y, 478 U.S. 221 (1986), a case challenging the executive branch’s
+decision related to a treaty regulating whaling, see 478 U.S. at 224−29. According to the Court, that case did not
+present a political question even though it involved foreign policy because the case “ present [ed] a purely legal question
+of statutory interpretation .” 478 U.S.  at 230. In Zivotofsky  I, Justice  Breyer wrote the sole dissent, in which he
+highlighted the Court’s precedent expressing reluctance to weigh in on matters related to forei gn affairs powers on the
+ground that they were often appropriately addressed by the political branches alone. See 478 U.S. at 213−15 (Breyer, J.,
+dissenting).
+126 Zivotofsky I , 566 U.S.  at 201.
+127 Id. at 196.
+128 See supra note 126 and accompanying text; see also Baker v. Carr, 369 U.S. 186, 217  (1962 ) (listing “ lack of
+judicially discoverable and manageable standards for resolving ” a question as among the factors relev ant to the
+(continued...)
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   17 On the other hand, the executive branch may cite Justice Rehnquist’s plurality opinion in
+Goldwater  to argue that a dismis sal is appropriate on the ground that such a challenge present s a
+political question. According to the Goldwater plurality opinion, a treaty -withdrawal case “must
+surely be controlled by political standards ” given “the absence of any constitutional provision
+governing the termination of a treaty, and the fact that different termination procedures may be
+appropriate for different treaties .”129 The Goldwater  plurality stated that this conclusion is further
+supported by the fact that the case “involve[d] foreign relations.”130 Although Zivotofsky I
+arguably rendered this latter point less relevant,131 the Goldwater plurality also emphasized that
+the type of foreign  policy  issue at stake in the case was “ a treaty commitment to use military force
+in the defense of a foreign government if attacked ”132—a consideration that would also be
+implicated in a case involving presidential withdr awal from the North Atlantic Treaty  in
+contravention of Section 1250A .
+Although, as discussed, the majority’s reasoning in Zivotofsky I may provide support for the claim
+that the political question doctrine  does not bar judicial review of a challenge to S ection 1250A,
+litigants may face hurdles under another  justiciability doctrine that the executive branch may
+invoke in seeking to get a challenge to a n alleged  violation of Section 1250A dismissed —namely,
+standing.
+Standing
+The next justiciability doctrine  that could affect whether a court resolved the merits of a Section
+1250A case is standing. Like the political question doctrine, the Supreme Court developed the
+standing doctrine based on the Court’s interpretation of the limits of the federal judiciary’s
+authority under Article III  of the U.S. Constitution  to decide “cases” and “controversies.”133
+While the political question doctrine focuses on whether the questions  presented by the case are
+appropriate for judicial resolution, the standing doctrine focus es on whether the plaintiff  is the
+right litigant to bring the case.134
+determination of whether a case presents a nonjusticiable political question).  Although the Zivotofsky I majority
+discussed only the first two factors, it did not state that courts should no longer consider the others. Additionally,
+Justice Sotomayor wrote a concurring opinion suggesting that the majority should have engaged in a more thorough
+analysis and di scussing the relevance of all six Baker factors  See Zivotofsky I , 566 U.S. at 203 ‒07 (Sotomayor, J.,
+concurring). She also wrote to emphasize that, while she agreed with the majority’s conclusion that Zivotofsky’s case
+did not present a political question,  she did not believe the majority’s opinion should be read as holding that no case
+involving an issue of a statute’s constitutionality or requiring a court to resort to text, history, and structure for its
+resolution could present a political question. See id. at 208−10.
+129 Goldwater v. Carter, 444 U.S. 996 , 1003  (1979)  (Rehnquist, J., concurring).
+130 Id.
+131 The Court’s Zivotofsky I decision sparked debate among commentators about whether it portended a greater
+willingness on the part of the Court to decide foreign  policy cases. Compare, e.g. , Ganesh Sitaraman & Ingrid Wuerth,
+The Normalization of Foreign Relations Law , 128 HARV. L. REV. 1897, 1925−27 (2015) (arguing that Zivotofsky I “is
+of far -reaching significance” because it “reduced the justiciabi lity barriers to hearing [foreign affairs] cases and in
+doing so . . . rejected arguments that foreign relations cases need exceptional treatment”), with Curtis A. Bradley,
+Foreign Relations Law and the Purported Shift Away from Exceptionalism , 128 HARV. L. REV. 294, 301 (2015)
+(“Zivotofsk y . . . presented a relatively unusual situation in which the executive branch was asserting authority to
+disregard a clear statutory provision, something not presented in earlier, “exceptionalist” foreign relations law de cisions
+in which the Court had invoked justiciability limitations, such as Goldwater v. Carter .”).
+132 Goldwater , 444 U.S.  at 1004.
+133 See supra notes 93‒94 and accompanying text.
+134 See, e.g. , Warth v. Seldin, 422 U.S. 490, 498 (1975) (“I n essence the question of standing is whether the litigant is
+entitled to have the court decide the merits of the dispute or of particular issues .”).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   18 To establish standing, the Court has set forth three primary requirements that  litigants must
+meet.135 These three requirements are designed to ensure that plaintiffs have a “‘personal stake in
+the outcome’ in order to ‘assure that concrete adverseness which sharpens the presentation of
+issues necessary for the proper resolution’” of the case.136
+Requiremen ts to Establish Standing
+To establish standing, litigants must show
+• they have  suffered or will imminently suffer  a concrete and particularized injury ;
+• the injury is traceable to the allegedly unlawful actions of the defendant;  and
+• the injury  is redressa ble by a favorable judicial decision.137
+Applying the Supreme Court’s standing jurisprudence , litigant s challenging an alleged violation
+of Section 1250A would have to demonstrate that they suffered an injury of the sort required by
+the Supreme Court’s standing doctrine as a result of a President’s unilateral withdrawal from the
+North Atlantic Treaty. The Court requires that plaintiffs establish that they suffered or will
+imminently suffer  a “particularized” injury —that is, one that affects [them ] in a personal and
+individual way”138—rather than a “generalized grievance” common across the public at large.139
+The Court has emphasized that it is not sufficient for plaintiffs to assert “‘only the generalized
+interest of all citizens in constitutional g overnance’” or in “hav[ing] the Government act in
+accordance with law.”140 Although an injury may sometimes be “widely shared,”141 to have
+standing , litigants must allege that they personally suffered or will imminently suffer an injury
+sufficiently “discret e” and “concrete” to be distinctive to them.142
+The nature of the standing analysis in a Section 1250A case may, to some extent, depend on
+whether the plaintiff was a Member of Congress or a private individual .
+Congressional Standing
+Although cases involving congressional plaintiffs make up a relatively small portion of the
+Supreme Court’s standing cases, the Court has developed several principles specific to
+congressional standing.143 In the 1997 case Raines v. Byrd , the Court clarified that it  distinguishe s
+between cases in which individual legislators have suffered an injury unique to them —such as
+being deprived of salary as a result of being unlawfully prevented from taking their congressional
+135 See Lujan v. Defenders of Wildlife, 504 U.S. 555, 560−61 (1992).
+136 City of Los Angeles v. Lyons, 461 U.S. 95, 101 (198 3) (quoting Baker v. Carr, 369 U.S. 186, 204 (1962)).
+137 See Lujan , 504 U.S. at 560−61.
+138 Id. at 560 n.1.
+139 Id. at 575.
+140 Id. at 575 (quoting Schlesinger v. Reservists Comm. to Stop the War, 418 U.S. 208, 217 (1974)); see also  Raines v.
+Byrd, 521 U.S. 811, 819−20 (1997) (“ [O]ur standing inquiry has been especially rigorous when reaching the merits of
+the dispute would force us t o decide whether an action taken by one of the other two branches of the Federal
+Government was unconstitutional. ”).
+141 See FEC v. Akins, 524 U.S. 11, 23 (1998).
+142 Lujan , 504 U.S. at 572−73; see also Akins , 524 U.S. at 24−25 (holding that, where an injury “ is sufficiently concrete
+and specific  . . . the fact that it is widely shared does not deprive Congress of constitutional power to authorize its
+vindication in the federal courts ”).
+143 See Raines , 521 U.S. at 820‒29 (discussing the Court’s precedent regardi ng standing doctrine as it applies to
+lawsuits brought by  of Congress ); see also Cong. Rsch. Serv., Federal and State Legislators and Standing , Constitution
+Annotated , https://constitution.congress.gov/browse/essay/artIII -S2-C1-6-7/ALDE_00013009/  (last visited  Feb. 9,
+2026).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   19 seats144—and cases in which Members of Congress allege a n “institutional injury” —that is, an
+injury to the governance body of which they are a part, such as the voting power of a c hamber  or
+of Congress as a whole.145 As discussed, Members of Congress have brought challenges to
+Presidents’ unilateral withdrawal f rom treaties in the past.146 In those cases in which courts
+addressed standing, they  generally  viewed the alleged injury —treaty termination without
+congressional approval —as an institutional one.147
+The Supreme Court  has indicated  that an allegation of an institutional injur y may establish
+standing  in fewer circumstances than an allegation  of a personal injury by  a Member of
+Congress .148 Because institutional  injur ies are typically shared by all members of a legislative
+body  equally,  they are often more appropriate ly remed ied through  political action rather than
+adjudication , the Court has reasoned.149 The Court has stated , however,  that where a group of
+legislators can establish that their votes were effectively “nullified,” they may be able to establish
+an institutional injury sufficient for purposes of standing.150 In such circumstances, the Court has
+explained , the institutional injury is to the legislators’ “plain, direct and adequate interest in
+maintaining the effectiveness of their votes.”151
+While t he Court has seemingly indicated that the cases in which legislators will be able to
+establish  an institutional injury for purposes of standing by showing “complete[] nullifi[cation” of
+their votes may be  relatively rare ,152 the Court has also suggested that this showing might be
+made  more easily  if the congressional plaintiffs are “authorized to represent their respective
+Houses of Congress”153 or Congress as a whole.154 When  the body suffering the alleged injury has
+144 See Raines , 521 U.S. at 820‒21 (“[W] e [have] held that a Member of Congress ’ constitutional challenge to his
+exclusion from the House of Represent atives (and his consequent loss of salary) presented an Article III case or
+controvers y.” (citing Powell  v. McCormack, 395 U.S. 486, 512−14 (1969) )).
+145 See id. at 821 ( contrasting cases in which  congressional plaintiffs had “been singled out for specially unfavorable
+treatme nt as opposed to other Members of their respective bodies” and “deprived of something  to which they
+personally are entitled—such as their seats after their constituents had elected them , with cases in which Members
+alleged “ a type of institutional injury (the diminution of legislative power), which necessarily damages all Members of
+Congress and both Houses of Congress equally ”).
+146 See supra notes  102‒108 and accompanying text; supra note 116.
+147 See, e.g. , Kucinich v. Bush, 236 F. Supp. 2d 1, 6 (D.D.C. 2002)  (concluding that the Member plaintiffs alleged an
+institutional injury “ to the constitutional role and power of the Legislative Branch —here, in the treaty termination
+process ”); cf. also Goldwater  v. Carter, 617 F.2d 697, 702‒03 (D.C. Cir. 1979) (en banc), vacated on other grounds
+and remanded with instructions to dismiss , Goldwater v. Carter, 444 U.S. 996 (1979) (plurality opinion)  (stating that
+each of the Senators challenging t he President’s unilateral withdrawal from the United States’ Mutual Defense Treaty
+with Taiwan had asserted an injury to their asserted authority “to be able to block the termination of this treaty by
+voting, in conjunction with one -third of his colleagues , against it”).
+148 See Raines , 521 U.S . at 823−29.
+149 See id.
+150 See id.  at 82 1‒25 .
+151 Id. at 821‒22 (quoting Coleman v. Miller, 307 U.S. 433, 438  (1939)).
+152 In the 1997 case Raines v. Byrd , the Court stated  that the “one case” in which it found vote nullification sufficient to
+establish standing —which was decided in 1939 —“stands ( at most  . . .) for the proposition that legislators whose votes
+would have been sufficient to defeat (or enact) a specific legisla tive Act have standing to sue if that legislative action
+goes into effect (or does not go into effect), on the ground that their votes have been completely nullified .” Id. at 821‒
+24 (citing Coleman , 307 U.S. at 438, 431, & 446)  (emphasis added) . The Raines  Court further pointed out  that it was
+not required to decide whether its standing analysis in the 1939 case, which addressed nullification of the votes of state
+legislators, would be applicable in a case brought by Members of Congress. See id.  at 824 n.8.
+153 Id. at 829 (“W e attach some importance to the fact that [they]  have not been authorized to represent their respective
+Houses of Congress in this action, and indeed both Houses actively oppose their suit .”).
+154 Cf. Ariz. State Legislature v. Ariz. Indep.  Redistricting Comm’n, 576 U.S. 787, 802−03 (2015) (in holding that the
+(continued...)
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   20 authorized the suit , the Court has reasoned, the institutional plaintiff may be able to establish
+standing by showing that the challenged action would nullify a vote  by the entire legislative
+body.155 Accordingly, as  Section 1250A prohibits the President from withdraw ing from the North
+Atlantic Treaty without approval by two -thirds of the Senate or an act of Congress, if Congress or
+one of its chambers authorized suit to be brought on its behalf , a court may conclude that an
+injury had been alleged sufficient to establ ish standing  because the alleged unlawful action
+nullified the chamber’s or Congress’s vote on whether the United States should withdraw from
+the treaty .
+An early version of 1250A that passed in the Senate would have created a process to authorize
+suit to  be brought on behalf of the Senate or House of Representatives  to enforce the law’s
+congressional approval requirements,156 but final Section 1250A language agreed to in conference
+did not contain this provision .157 While  the Supreme Court has not expressly held that
+authorization is necessary, the Court’s standing jurisprudence suggest s that such authorization
+increases the likelihood of establishing congressional standing in cases, such as a challenge by a
+congressional plaintiff to a Section 1250A violation, that courts may view  as alleging an
+institutional injury.
+Standing Under Other NATO -Related Statutes
+Outside the context of congressional standing, if a private plaintiff were to challenge unilateral
+withdrawal from the North Atlantic Treaty, legislation  other than Section 1250A  might affect a
+court’s  standing  analysis . Numerous laws reference or relate to NATO, the North Atlantic Treaty,
+or subsidiary international agreements concluded under the NATO rubric ,158 and th ese laws could
+be relevant to the standing analysis in a private plaintiff’s case .
+NATO -Related Legislation
+NATO -related legislation enacted in domestic law includes  the following :
+• appropriations for U.S. contributions to NATO’s common budget;159
+Arizona Legislature had standing to sue, explaining that the body “is an institutional plaintiff asserting an institutional
+injury, and it commenced the action after authorizing votes in both of its chambers”).
+155 Id. at 804 (quoting Raines , 521 U.S. at 823−24).
+156 Although the text was later removed, the version of Section 1250A that passed in the Senate contained a section
+providing  the following :
+By adoption of a resolution of the Senate or the House of Representatives, respectively, the Senate
+Legal Counsel or the General Counsel to the House of Representatives may be authorized to
+initiate, or intervene in, in the name of the Senate or the House of Representatives, as the case may
+be, independently, or jointly, any judicial proceedings in any Federal court of competent
+jurisdiction in order to oppose any action to suspend, terminate, denounce, or withdraw the United
+States from the North Atlantic Treaty in a manner inconsistent wit h this subtitle.
+S. 2226 , 118th Cong. § 1399DD(a) (2023).
+157 The House bill did not contain a parallel provision regarding withdrawal from the North Atlantic Treaty, and
+according to the Conference Report, the House “recede[d] with an amendment to remove t he authorization of legal
+counsel to represent Congress.” H.R. REP. NO. 118-301,  at 1227  (2023)  (Conf. Rep.).
+158 See, e.g., Agreement between the Parties to the North Atlantic Treaty regarding the Status of their Forces, June 19,
+1951, 4 U.S.T. 1792, 199 U. N.T.S. 67; Colonel Brian H. Brady, The North Atlantic Treaty Organization Legal Advisor:
+A Primer , ARMY LAW., Oct. 2013, at 7 -11 (examining international agreements concluded under the North Atlantic
+Treaty).
+159 22 U.S.C. § 1928(a).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   21 • requiremen t to appoint  a U.S. permanent representative to NATO;160
+• policy statements, congressional findings, and “sense of” provisions expressing Congress’s support for
+NATO;161
+• modified export control requirements for NATO member nations;162
+• simplified federal acquisition authorities concerning NATO member nations and NATO subsidiary
+organizations;163
+• provisions to facilitate and support enlargement  of NATO membership ;164
+• congressional reporting requirements related to NATO activities;165 and
+• immigration authorities providing for several categories of NATO visas.166
+Unilateral presidential  withdrawal from NATO would not automatically repeal NATO -related
+legislati on because the Supreme Court has recognized that the repealing of statutes generally
+must confo rm to the same bicameral process used to enact new legislation.167 At the same time,
+private individuals or entities might argue that U.S. withdrawal interfered with NATO -related
+rights and opportunities reflected in statute.168 For example, withdrawal from NATO could leave
+160 Id. § 1928(b).
+161 See, e.g., 22 U.S.C. § 8902(14); National Defense Authorization Act for Fiscal Year 2018, Pub. L. No. 115 -91, §
+1233(a)(5), 131 Stat. 886 (2017); Countering America’s Adversaries through Sanctions Act, Pub. L. No. 115 -44, §
+292(b)(3), 131 Stat. 886 (2017). The re are also several single -chamber resolutions containing similar provisions. See,
+e.g., H.R. Res. 256, 115th Cong. (2018) (enacted) (“[T]he House of Representatives . . . affirms the United States
+enduring commitment to and friendship with its NATO allies[.]”); H.R. Res. 397, 115th Cong. (2017) (enacted) (“[T]he
+House of Representatives . . . solemnly reaffirms the commitment of the United States to the North Atlantic Treaty
+Organization’s principle of collective defense as enumerated in Article 5 of  the North Atlantic Treaty[.]”).
+162 22 U.S.C. §§ 2796−2796d (permitting the Secretary of Defense to loan or lease defense -related equipment to NATO
+member nations for cooperative research and development purposes, subject to certain conditions and approvals ); 22
+U.S.C. § 2753(d)(2)(B) (providing a shortened, 15 -day congressional notification period for certain arms sales to
+NATO or NATO member countries); Consolidated Appropriations Act, 2000, Pub. L. No. 106 -113, § 1000(a)(7), 113
+Stat. 1501 (1999) (enactin g into law a resolution stating that the Secretary  of State  “shall  establish  a regulatory  regime
+for the licensing  for export  of commercial  satellites , satellite  technologies , their components , and systems which shall
+include expedited approval, as appropr iate, of the licensing for export by United States companies . . . to NATO allies).
+163 See North Atlantic Treaty Organization Mutual Support Act of 1979, Pub. L. No. 96 -323, 94 Stat. 1016 (1980)
+(codified as amended at 10 U.S.C. §§ 2341 -2350).
+164 See, e.g. , NATO Participation Act of 1994, Pub. L. No. 103 -447, 108 Stat. 4691, tit. II; NATO  Enlargement
+Facilitation Act of 1996, Pub. L. No. 104 -208, § 601, 110 Stat. 3009 (1996); European Security Act of 1998, Pub. L.
+No. 105 -277, §§ 2701 -2705, 112 Stat. 2681; Gerald B. Soloman Freedom Consolidation Act of 2002, Pub. L. No. 107 -
+187, § 4, 116 Stat. 590; NATO Freedom Consolidation Act of 2007, Pub. L. No. 110 -17, § 4, 121 Stat. 73.
+165 See, e.g., Fiscal Year 2001 National Defense Authorization Act, Pub. L. No. 106 -398, § 1221, 114 Stat. 1654 (2000)
+(requiring reporting when NATO undertakes a military operation); National Defense Authorization Act for Fiscal Year
+2013, Pub. L. No. 112 -239, § 230, 125 Stat. 1632 (requiring a report on contributions of NATO member natio ns to
+missile defense in Europe); National Defense Authorization Act for Fiscal Year 2004, Pub. L. No. 108 -136, § 1231,
+117 Stat. 1392 (2003) (requiring an annual report on the NATO member nations’ commitment to improving
+capabilities in specific areas).
+166 Immigration regulations allow for several types of “NATO visas” available to NATO representatives and their
+international staff and families. See 22 C.F.R. § 41.25 (2024). The seven categories of NATO visas are set forth in 22
+C.F.R. § 41.12 (2024).
+167 See Clinton v. City of New York, 524 U.S. 417, 438 (1998); INS v. Chadha, 462 U.S. 919, 954 (1983).
+168 Cf., e.g., Zivotofsky v. Clinton, 566 U.S. 189, 196 (2012)  (“The existence of a statutory right . . . is certainly relevant
+to the Judiciary’s power to decide [a plaintiff’s] claim.”); FEC v. Akins, 524 U.S. 11, 21 (1988) (concluding that
+plaintiffs suffered an injury in fact by being denied the ability to access  information that a statute required to be made
+public); Warth v. Seldin, 422 U.S. 490, 500 (1975)  (“The actual or threatened injury required by  Art. III  may exist
+solely by virtue of ‘statutes creating legal rights, the i nvasion of which creates standing . . . .’”) (quoting Linda  R.S. v.
+Richard  D., 410 U.S. 614, 617  n.3 (1973) ). For more expansive discussion of the relationship between statutory
+(continued...)
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   22 uncertain the status of federal acquisition and export control authorities that simplify certain
+commercial transactions involving NATO countries.169 NATO withdrawal might also call into
+question the status and future availability of NATO v isas for NATO officials, staff, and immediate
+family members.170 In seeking to establish standing, litigants might contend that withdrawal from
+the North Atlantic Treaty undermined their statutory rights or expectations  of rights under a
+particular NATO -related statute, which  led to  a concrete and particularized injury.171 The Supreme
+Court has recognized that “[t]he actual or threatened injury required [to establish standing] may
+exist sole ly by virtue of statutes creating legal rights, the invasion of which  creates standing.”172
+Constitutional  Analysis of Section 1250A
+As discussed, the Supreme Court has never heard a treaty withdrawal case on its merits , and  no
+court has addressed the constitutionality of a statute restricting the President’s ability to withdraw
+from a treaty . The analytical approaches that the Court has taken in s eparation  of powers cases
+involving other issues may inform any case involving a statute  that the executive  branch claims
+impermissibly  infringes on the President’s constitutional authority .
+The Supreme Court’s Youngstown Framework for Separation  of
+Powers Cases
+The Supreme Court has developed approaches to decide separation  of powers issues  in other
+cases  that courts might  draw upon in assessing  any potential  challenge s to a President’s
+withdrawal from a treaty in alleged violation of a statutory prohibition such as that in Section
+1250A. A court’s evaluation of  such a challenge would  likely  begin with the  framework that the
+Supreme Court has recognized as appropriate for determining the scope of presidential powers
+relative to those of Congress , including in cases involving foreign policy issues : Justice Robert
+Jackson’s concurrence in Young stown Sheet & Tube Co. v. Sawyer .173 Under the Youngstown
+framework, courts assess presidential claims of authority based on what Congress has —or has
+not—said about the matter. As Justice Jackson observed: “ Presidential powers are not fixed but
+fluctuate, d epending upon their disjunction or conjunction with those of Congress.”174 Justice
+Jackson accordingly formulated a tripartite framework  for analyzing  the scope of presidential
+power .
+violations and standing, see Cong. Rsch. Serv., Particularized Injury , Consti tution Annotated ,
+https://constitution.congress.gov/browse/essay/artIII -S2-C1-6-4-3/ALDE_00012998/  (last visited Feb. 9 , 202 6).
+169 See supra  notes  162‒163 and accompanying text .
+170 See supra note 166.
+171 Cf., e.g., Clinton v. City of New York, 524 U.S. 417, 429 –33 (1998) (holding that plaintiffs with a n economic
+interest in the continued application of federal statutes  had standing to challenge  the constitutionality of process for
+nullifying  those  statutes) ; Northeast Florida Chapter of Associated Gen. Contractors of Am. v. Jacksonville, 508 U.S.
+656, 668  (1993)  (unconstitutional denial of ability to bid on government contra ct held to create standing).
+172 Warth , 422 U.S. at 500; see also Zivotofsky  ex rel. Zivotofsky. v. Sec’y of State, 444 F.3d 614 , 619  (D.C. Cir. 2006)
+(reasoning that “ a concrete and particular injury for standing purposes can also consist of the violation o f an individual
+right conferred on a person by statute ,” and holding that Zivotofsky had alleged  an injury sufficient for standing
+purposes because “his allegation that Congress conferred on him a n individual right to have ‘Israel ’ listed as his place
+of birth on his passport and on his Consular Birth Report is at the least a colorable reading of the statute ”).
+173 343 U.S. 579, 637 (1952) (Jackson, J., concurring).
+174 Id. at 635.
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   23 The Tripartite Framework  in Justice Jackson’s Youngstown  Concurrence
+Presidential Maximum . Where Congress has expressly or implicitly authorized the President’s action,
+presidential power is at its “maximum” and “supported by the strongest of presumptions and the widest latitude
+of judicial interpretation.”175
+Zone of Twilight . Cases in which Congress has neither authorized nor prohibited executive branch action lie in
+an inscrutable “zone of twilight in which [the President] and Congress may have concurrent authority, or in which
+its distribution is uncertain,” and “any actual test of power is likely to depend on the imperatives of events and
+contemporary imponderables rather than on abstract theories of law.”176
+Lowest Ebb . Where Congress has expressly or impliedly prohibited executive action, presidential power “is at
+its lowest ebb,” as it is an assertion of executive authority “at once so conclusive and preclusive [that it] must be
+scrutinized with caution, for what is at stake is the equilibrium established by our constitutional system.”177
+In the 1981 case Dames  & Moore v. Regan ,178 the Supreme Court elaborated on the Youngstown
+framework by observing that “it is  doubtless the case that executive action in any particular
+instance falls, not neatly in one of three pigeonholes, but rather at so me point along a spectrum
+running from explicit congressional authorization to explicit congressional prohibition. ”179
+Additionally, i n analyzing  where the constitutional lines between the legislative and executive
+branches lie , the Court often  “put[s] significant weight upon historical practice ,”180 which the
+Court has stated may “be treated as a gloss” on the Constitution’s provisions.181 The Youngstown
+framework’s focus on congressional actions coupled with the constitutional significance that the
+Cour t often accords to historical  practice of the political branches means that the Court’s analysis
+of the distribution of  powers to a considerable extent depends on the ways in which it interprets
+any relevant statutes  and the interactions of Congress and th e President over time.182
+The Supreme Court has applied  the Youngstown framework in other  opinions that a court might
+find relevant  in evaluating a presidential claim of power to withdraw from the North Atlantic
+Treaty  in violation of Section 1250A , includ ing the two discussed in the following sections.
+Zivotofsky ex rel. Zivotofsky v. Kerry
+In a significant 2015 foreign  policy case —Zivotofsky ex rel. Zivotofsky v. Kerry  (Zivotofsky
+II)183—a majority of the Supreme Court applied the Youngstown framework to uphold, for what
+appears to be  the first time, a presidential action that the Court determined fell into category
+175 Id. at 637.
+176 Id.
+177 Id. at 637 –38.
+178 453 U.S. 654 .
+179 Id. at 669.  The Court further observed that “Justice Jackson himself recognized that his three categories represented
+‘a somewhat over -simplified grouping.’” Id. (quoting Youngstown , 343 U.S. at 635).
+180 Zivotofsky ex rel. Zivotofsky v. Kerry  576 U.S. 1, 23 (2015) (quoting NLRB v. Noel Canning 573 U.S. 513, 524
+(2014) ).
+181 Dames & Moore , 453 U.S. at 686  (quoting Youngstown , 343 U.S. at 610 –11 (Frankfurter, J., concurring)) ; see also
+Youngstown , 343 U.S. at  610 (Frankfurter, J., concurring)  (“Deeply embedded traditional ways of conducting
+government cannot supplant the Constitution or legislation, but they give meaning to the words of a text or supply
+them .”).
+182 For further discussion of how congressional actions and inactions factor into the Sup reme Court’s analytical
+approaches to questions regarding the scope of the President’s foreign policy authority  under Article II of the
+Constitution , see CRS Report R48524, Congress and the Scope of the Pre sident’s Article II Foreign Policy Authorities ,
+by Karen Sokol  (2025).
+183 576 U.S. 1 (2015).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   24 three.184 In this case, the Court held that the President has an “exclusive” and “conclusive”
+power185 that “disabl[es] the Congress from acting upon the subject” —specifically, the
+recognition of foreign states.186 As the Court explained, “[r] ecognition is a ‘formal
+acknowledgement ’ that a particular ‘entity possesses the qualifications for statehood ’ or ‘that a
+particular regim e is the effective government of a state. ’”187
+As discussed, the Court earlier held in Zivotofsky I that the case was justiciable because no
+political question was presented  by the plaintiff’s  challenge to the State Department’s refusal to
+comply with the statute requiring the State Department to record in a passport or a consular report
+of birth abroad the birthplace of U.S. citizens born in Jerusalem as “Israel .”188 On remand , the
+D.C. Circuit  held that the statute was unconstitutional .189 After holding that the President  had
+exclusive power  to recognize foreign states,190 the court determined that the  statutory requirement
+impermissibly infringed on that power  because it “ force [d] the State Department to deviate from
+its decades -long position of neutrality on what nation or government, if any, is sovereign over
+Jerusalem .”191
+The Supreme Court granted review for a second time in the litigation192 and upheld the D.C.
+Circuit’s decisi on.193 The Court began its analysis by observing that “[i]n  considering claims of
+Presidential power this Court refers to Justice Jackson ’s familiar tripartite framework
+from  Youngstown .”194 Because t he President’s action at issue —“refusal to implement” the
+passport statute —“falls into Justice Jackson’s third category ,” the Court stated, the President’s
+claim of authority “must be ‘scrutinized with caution,’ and he may rely solely on powers the
+Constitution grants to him alone. ”195 Acknowledging that the text of the Constitution does not
+expressly reference the recognition power,196 the Court nevertheless concluded that the
+Constitution implicitly grants the President such power based on  the President’s other express
+Article II powers and the Constitution’s stru cture .197
+184 See id.  at 31–32; cf. id. at 61 (Roberts, C.J., dissenting) (“ Today ’s decision is a first: Never before has this Court
+accepted a President ’s direct defiance of an Act of Congress in the field of foreign affairs .”). In Youngstown , the
+Supreme Court struck down President Truman’s order seizing many of the nation’s steel mills —which he justified
+based on the need to ensure the availability of sufficient materiel for fighting the Korean War —on the ground that the
+President did not have  either  congressional or constitutional authority to take such action.  See Youngstown , 343 U.S. at
+585–89; see also id.  at 640 (Jackson, J., concurring) (“[T] he current seizu re [can] be justified only by the severe tests
+under the third grouping, where it can be supported only by any remainder of executive power after subtraction of such
+powers as Congress may have over the subjec t.”).
+185 Zivotofsky II , 576 U.S. at 10.
+186 Id. at 29 –30 (alteration in original) (quoting Youngstown , 343 U.S. at 637 –38 (Jackson, J., concurring )).
+187 Id. (quoting RESTATEMENT (THIRD ) OF FOREIGN RELATIONS  LAW OF THE UNITED STATES  § 203 cmt. a (AM. L. INST.
+1987)).
+188 See Zivotofsky ex rel. Zivotofsky v. Clinton , 566 U.S. 189, 201−02 (2012); see also supra notes 118‒126 and
+accompanying text.
+189 Zivotofsky ex rel. Zivotofsky v. Sec’y of State, 725 F.3d 197, 214 (D.C. Cir. 2014).
+190 Id. at 220.
+191 Id.
+192 Zivotofsky ex rel. Zivotofsky v. Kerry, 572 U.S. 1059 (2014).
+193 Zivotofsky ex rel. Zivotofsky v. Kerry , 576 U.S . 1, 32 (2015) .
+194 Id. at 10.
+195 Id. (quoting Youngstown , 343 U.S. at 638 (Jackson, J., concurring)) .
+196 See id. at 11 (“Despite the importance of the recognition power in foreign relations, the Constitution does not use the
+term “recognition,” either in Article II or elsewhere. ”).
+197 See id. at 11–14.
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   25 According to the Court, the inference of a presidential power of recognition is supported by the
+President’s Article II powers to “receive Ambassadors and other public Ministers,”198 to “make
+Treaties, provided two thirds of the Senators present concur ,”199 and to “nominate, and by and
+with the Advice and Consent of the Senate, [to] appoint Ambassadors” and “other public
+Ministers and Consuls .”200 As a matter of constitutional structure , the Court reasoned, the
+President has the sole power  to receive am bassadors and other public ministers and to “negotiate
+treaties,” while “Congress . . . has no constitutional power that would enable it to initiate
+diplomatic relations with a foreign nat ion.”201 The Court thus concluded that the  Constitution’s
+“text and structure grant the President the power to recognize foreign nations and governments” ;
+however,  the Court  also observed these textual and structural factors  did not alone answer the
+questio n of “whether that power is exclusive.”202
+In addressing  exclusivity , the Court looked to functional considerations (e.g., the necessity that
+the United States “speak with one voice ”),203 judicial precedent,204 and the historical practice of
+the political br anches.205 These methods of constitutional interpretation led the Court to hold that
+the President not only has the power of recognition, but that that power resides solely  in the
+presidency.206 Further, because the Court determined that the passport statute required the
+Secretary of State to “directly contradict[]” the President’s recognition decision,207 the Court held
+198 U.S.  CONST . art. II, § 3.
+199 Id. art. II, § 2, cl. 2.
+200 Id.
+201 Zivotofsky II , 576 U.S. at 13 –14.
+202 Id. at 14.
+203 See id.  at 14 –15 (“ Put simply, the Nation must have a single policy regarding which governments are legitimate in
+the eyes of the United States and which are not. Foreign countries need to know, before entering into diplomatic
+relations or commerce with the United States, whether their ambassadors will be received; whether their officials  will
+be immune from suit in federal court; and whether they may initiate lawsuits here to vindicate their rights. These
+assurances cannot be equivocal. ”).
+204 See id.  at 14 –15. The Court explained that “[n]o single precedent resolves the question whether th e President has
+exclusive recognition authority ”:
+In part that is because, until today, the political branches have resolved their disputes over
+questions of recognition.  The relevant cases, though providing important instruction, address the
+division of recognition power between the Federal Government and the States —not between the
+President and Congress.
+Id. at 17. Although no case had directly addressed whether the recognition power was exclusive to the
+Presidency, the Court concluded that several case s in which the Court discussed the recognition power
+“illustrate [that] the Court has long considered recognition to be the exclusive prerogative of the Executive.”
+Id. at 19.
+205 See id.  at 23 –28 (“The weight of historical evidence indicates Congress has accepted that the power to recognize
+foreign states and governments and their territorial bounds is exclusive to the Presidency. ”).
+206 See id. at 28.  Justice Scalia, joined by Chief Justice Roberts and Justice Alito, questioned this holding, a rguing that,
+while “I a gree that the Constitution empowers  the President to extend recognition on behalf of the United States, but I
+find it a much harder question whether it makes that power exclusive .” Id. at 70 (Scalia, J., dissenting).
+207 The Court dete rmined without much elaboration that the decision not to recognize any state’s sovereignty over
+Jerusalem is part of the President’s exclusive recognition power and that the State Department’s recording of a U.S.
+citizen born in Jerusalem as “Israel” would  contradict that decision. See id.  at 5 (stating that the Court had two
+questions before it: “ whether the President has the exclusive power to grant formal recognition to a foreign sovereign ,”
+and, “ if he has that power , . . . whether Congress can command the President and his Secretary of State to issue a
+formal statement that contradicts the earlier recognition ”). Chief Justice Roberts and Justices Alito and Scalia disagreed
+with those conclusions. See id. at 64 , 66 (Roberts, C.J., dissenting) (“[T] he sta tute at issue  does not implicate
+recognition  . . . . Whatever recognition power the President may have, exclusive or otherwise, is not implicated by [the
+passport statute].”); id. at 76 –77 (Scalia, J., dissenting) (criticizing the majority for “c onclud [ing] that, in addition to the
+(continued...)
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   26 that the statute must be struck down because Congress had thereby “improper[l y]” “aggrandiz[ed]
+its power at the expense of another branch.”208
+Emphasizing that its decision  did “not question the substantial powers of Congress over foreign
+affairs in general or passports in particular,”209 the Court suggested that its holding was a narrow
+one that left ample room for Congress to “express its disagreement with the President[’s]
+recognition decision in myriad ways,” such as by “enact[ing] an embargo, declin[ing] to confirm
+an ambassador, or even declar[ing] war.”210 The Court further emphasized  that its exclusivity
+analysis was confined to the President’s recognition power and did not  subsume the executive
+branch’s broader claim that that power derives from the President’s “exclusive authority to
+conduct diplomatic relations” and possess ion of the “bulk of foreign -affairs powers.”211
+Trump v. United States
+The Supreme Court’s decision concerning presidential immunity from criminal prosecution in
+Trump v. United States might also be relevant in a separation of powers case concerning Section
+1250A. The Supreme Court in Trump relied on Youngstown to provide an extensive discussion of
+exclusive and preclusive presidential  powers.212 The Court explained  that separation of power s
+principles prohibit legislation —criminal or otherwise —that restrict s Presidents’ exercise of their
+“conclusive and exclusive powers ”213 (which the Court also referred to as the President’s “core
+constitutional powers” ).214 These  conclusive and exclusive powers, the Trump Court held,  include
+some  actions  not specifically mentioned in the Constitution’s text, such as removing executive
+officers whom the same President appointed , recognizing foreign states,215 and discussing
+potential investigations and prosecut ions with the Department  of Justice .216
+The following section analyzes how a court might apply the foregoing Supreme Court precedent
+to a presidential claim of exclusive power to withdraw from the North Atlantic Treaty in
+contravention of Section 1250A.
+exclusive power to make the ‘formal recognition determination, ’ the President holds an ancillary exclusive power ‘to
+control . . . formal statements by the Executive Branch acknowledging the legitimacy of a state or government an d its
+territorial bounds ’” (quoting id. at 31) ).
+208 Id. at 30 –32 (quoting Freytag v. Commissioner, 501 U.S. 868, 878 (1991) ).
+209 Id. at 32.
+210 Id. at 30.
+211 Id. at 20 (quoting Brief for the Respondent  at 16 –18, Zivotofsky II , 576 U.S. 1 (2015) (No. 13-628), 2014 WL
+4726506 , at *16–18).
+212 Trump v. United States,  603 U.S. 593, 606−10  (2024) . For additional background on the decision, see CRS Legal
+Sidebar LSB11194, Presidential Immunity from Criminal Prosecution in Trump v. United States , by Todd Garvey
+(2024) .
+213 Trump , 603 U.S. at 608−10 . The Court largely derived its holding that Presidents are “absolutely immune from
+criminal prosecution for conduct within [their] exclusive sphere of constitutional authority,” id. at 609, from
+Youngstown ’s category -three  principle that “ Congress cannot act on, and courts cannot examine, the President’s actions
+on subjects within h is ‘conclusive and preclusive ’ constitutional authority .” Id.
+214 Id. at 606.
+215 See id. at 607, 609  (citing Zivotofsky  II, 576 U.S. at 32).
+216 See id.  at 703−06 .
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   27 Possible Application of Supreme Court Jurisprudence to
+Section  1250A
+A court might frame its analysis in a case challenging a President’s violation of Section 1250A
+using the Youngstown framework , as the Supreme Court framed its analysis of the separation  of
+powers issue in Zivotofsky  II. Under that framework, if a court determines that the  presidential
+action contravenes  an express congressional prohibition and falls into category three, the action
+may be upheld only if the court determine s that the Consti tution grants the President exclusive
+power  such that Congress is prohibited “from taking action  upon the subject .”217 The Supreme
+Court has emphasized that presidential action contrary to the expressed will of Congress must be
+“scrutinized with caution ,” as it is in such situations that the President’s power is at its “lowest
+ebb.”218 In assessing a President’s claim of exclusive author ity to withdraw from treaties under
+that seemingly heighte ned level of scrutiny , a court would likely consider constitutional text and
+structure, relevant judicial precedent, and the historical practice of the political branches.
+Constitutional Text and S tructure
+As the Constitution is silent with respect to the treaty withdrawal power , both parties to a case
+challenging a Section 1250A violation would likely cite other constitutional provisions as well as
+constitutional  structure in support of their posi tions on treaty withdrawal authority . Those
+challenging a violation might emphasize that, although the Constitution does not explicitly
+reference treaty withdrawal, it does specify  a process for the branches to exercise shared powers
+to enter into treaties : The President “make[s]” treaties, but the United States may become a party
+to a treaty219 only if the Senate provides its advice and consent and two -thirds of the Senators
+concur. 220 Given that treaty entry and withdrawal both affect the content of U.S. i nternational
+legal obligations  as well as of federal law that may trump U.S. state laws under the Supremacy
+Clause ,221 one might reason that  the distribution of entry and withdrawal powers should be
+symmetrical and subject to the same checks and balances.
+Challengers might further contrast treaty withdrawal with the recognition power, which appears
+to be the only foreign policy authority to date that the Supreme Court has found  to be exclusive
+and beyond congressional regulation .222 In contrast to U.S. participation in treaties, the
+217 343 U.S. 579, 637−38 (1952)  (Jackson, J., concurring) .
+218 Zivotofsky II , 576 U.S. at 10  (quoting Youngstown , 343 U.S. at 638 (Jackson, J., concurring)). In contrast, a
+presidential action taken pursuant to congressional authorization is “ supported by the strongest of presumptions and the
+widest latitude of judicial interpretation, and the bur den of persuasion would rest heavily upon any who might attack
+it.” Youngstown , 343 U.S. at 637 (Jackson, J., concurring).
+219 In this context, “treaty” means a treaty as defined in the U.S. legal system —that is, an “Article II” treaty —and not
+as defined in the international legal system. See supra “Background and Legal Framework .”
+220 See U.S.  CONST . art. II, § 2, cl. 2 (granting the President the “ Power, by and with the Advice and Consent of the
+Senate, to make Treaties, provided two thirds of the Senators present con cur”).
+221 U.S.  CONST . art. VI, cl. 2 (“ This Constitution, and the Laws of the United States which shall be made in Pursuance
+thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme
+Law of the Land.”); see also  Am. Ins. Ass’n. v. Gar amendi, 539 U.S. 396, 416 (2003)  (“Generally . . . valid executive
+agreements are fit to preempt state law, just as treaties are.” ); Cong. Rsch. Serv., Overview of Supremacy Clause ,
+Constitution Annotated , https://constitution.congress.gov/browse/essay/artIII -S2-C1-9-1/ALDE_00001283/  (last visited
+Feb. 15, 2026).
+222 Cf. Trump v. United States,  603 U.S. 593, 608−09 (20 24) (explaining that the President’s powers the Court has
+found to be exclusive include the powers to pardon for federal offenses, to remove “executive officers of the United
+States whom he has appointed,” and “‘to control recognition determinations’ of fo reign countries”  (quoting Myers v.
+United States, 272 U.S. 52, 106 (1926) and Zivotofsky II , 576 U.S. at 32) ).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   28 Constitution does not speak directly to  U.S. recognition of foreign states . Some could argue that
+this difference suggests  that the Supreme Court ’s reasoning  in Zivotofs ky II for acknowledging
+the President’s exclusive  recognition power does not apply to the treaty withdrawal context .
+Given that claims of exclusive presidential authority must be “scrutinized with caution,”223 it
+might be contended that the existence of a c ongressional role in treaty entry weighs against  an
+interpretation  of the Constitution that excludes  Congress from participation in treaty withdrawal.
+The executive branch , for its part,  might contend  that the Constitution’s silence on treaty
+withdrawal is not determinative because the  Supreme Court has been willing to recognize  other
+exclusive presidential powers that are not expressly granted in the Constitution .224 These
+exclusive president ial powers include not only the recognition power , but also the power to
+remove executive officers whose appointment, like treaty entry, require s Senate approval .225 The
+executive branch might further argue, as it has in the past in support of the President’s unilateral
+autho rity in foreign affairs, that the President has inherent Article II power based on the
+“combined force” of several Article II provisions,226 including  the vesting  of “[t]he executive
+power” in the President,227 the Take Care Clause,228 the Commander in Chief Clause,229 the
+Reception Clause,230 and the Treaty Clause.231 The OLC  invoke d that line of  reasoning in its 2020
+opinion in support of its argument that the President has exclusive authority to withdraw from
+treaties: “Taken together, these provisions [of Article II] grant the President the authority and
+discretion to implement a treaty by noti fying foreign powers of the United States’ exercise of its
+right to withdraw from the treaty .”232
+Judicial Precedent
+As discussed , there is no directly controlling precedent  regarding the distribution of treaty -
+withdrawal authority .233 Both sides to a case r egarding a Section 1250A violation may emphasize
+aspects of potentially relevant cases that could  support  their respective position  and distinguish
+those aspects that might be understood as unfavorable  to them .
+223 See supra note 218 and accompanying text.
+224 See su pra notes 55‒56 and accompanying text.
+225 See supra notes 55‒56 and accompanying text.
+226 Brief for Petitioner at 6‒15, 92, Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952 ) (No. 745) (arguing
+that “Presidential power to act on a particu lar occasion may derive from . . . the combined force of . . . several
+provisions of Article II”); see also Youngstown , 343 U.S. at 587 (“[The government does]  not claim [] that express
+constitutional language grants this power to the President.  The content ion is that presidential power should be implied
+from the aggregate of his powers under the Constitution. Particular reliance is placed on provisions in Article II which
+say that ‘the executive Power shall be vested in a President  . . . ’; that ‘he shall t ake Care that the Laws be faithfully
+executed ’; and that he ‘shall be Commander in Chief of the Army and Navy of the United States. ’”).
+227 U.S.  CONST . art. II, § 1 (“t he executive power shall be vested in a President of the United States of America .”).
+228 U.S.  CONST . art. II, § 3 (“[The President] s hall take Care that the Laws be faithfully executed .”).
+229 Id. art. II, § 2, cl. 1 (“ The President shall be Commander in Chief of the Army and Navy of the United States, and of
+the Militia of the several States, w hen called into the actual Service of the United States .”).
+230 Id. art. II, § 3 (“[The President] shall receive Ambassadors and other public Ministers.”).
+231 Id. art. II, § 2, cl. 2 (“[The President]  shall have Power, by and with the Advice and Consent of th e Senate, to make
+Treaties, provided two thirds of the Senators present concur .”).
+232 Congressionally Mandated Notice Period for Withdrawing from the  Open  Skies  Treaty, 44 Op.  O.L.C. 184, 193‒95
+(2020) .
+233 See supra “Political Question Doctrine ”; “The Supreme Court’s Youngstown Framework for Separation  of Powers
+Cases .”
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   29 Those challenging a Section 1250A violation might highlight the Supreme Court ’s broad
+statements about  foreign affairs authorities , which  arguably support the idea that most foreign
+powers  are shared because the Constitution assigns those authorities to the national government
+as a whole .234 Challeng ers also might emphasize that many  Supreme Court precedent s that could
+be understood as characterizing presidential foreign affairs powers as broad did not involve
+questions  of exclusive authority , but rather questions of whether the President could act in the
+absence of express congressional authorization.235 Additionally, challengers might maintain that
+if, as the executive branch maintains, treaty withdrawal is an instance of executing treaties as the
+“law of the land,”236 Section 1250A must  also be understood as  the law of the land pursuant to
+Congress’s treaty -implementing power, which has long been recognized by the Supreme Court.237
+Challengers may also point  out that, even when the Supreme Court determined that the President
+has exclusive authority to recognize foreign states in Zivotofsky II, the Court emphasized the
+narrowness of this power238 and cautioned that “it is essential the congressional role in foreign
+affairs be understood and respecte d.”239 In addition , challengers  might emphasize that  the
+234 See, e.g. , Crosby v. Nat’l For. Trade Council, 530 U.S. 363, 381 (2000) (“ Congress ’s express command to the
+President to take the initiative for the United States among the international community invested him with the
+maximum authority of the National Government, in harmony with the President's own constitutional powers .” (internal
+citations omitted) ); United States v. Belmont , 301 U.S. 324, 331 (1937) (“[C]omplete power over international affairs
+is in the national government and is not and cannot be subject to any curtailment or interference on the part of the
+several states.”) ; cf. also  Fuld v. Palestine Liberation Org., 606 U.S. 1, 19 (2025) (“[W] hen the Executive and Congress
+have spoken with one voice in th [e foreign affairs]  sphere, their coordinate action is ‘supported by the strongest of
+presumptions and the widest latitude of judicial interpretation, and the burden of persuasion would rest heavily upon
+any who might attack it. ’” (quoting Youngstown Sheet & Tu be Co. v. Sawyer, 343 U.S. 579 , 637  (1952 ))).
+235 Compare, e.g. , Am. Ins. Ass ’n. v. Garamendi, 539 U.S. 396, 4 14 (2003)  (“Although the source of the President's
+power to act in foreign affairs does not enjoy any textual detail, the historical gloss on the ‘executive Power ’ vested in
+Article II of the Constitution has recognized the President ’s ‘vast share of responsibility for the conduct of our foreign
+relations ’” (quoting Youngstown , 343 U.S. at 610‒11 (Frankfurter, J. concurring))), with id.  at 427 (“There  is . . . no
+need to consider the possible significance  . . . of tension between an Act of Congress and Presidential foreign policy.”) ;
+cf. also, e.g. , The Brig  Amy Warwick, 67 U.S. (2 Black) 635 , 668  (1862 ) (5–4 decision ) (in upholding President
+Lincoln’s blockade of southern ports  without specific congressional authorization , relying on the President’s Article II
+duty “to take care that the laws be faithfully executed” and power as “Commander in Chief” as well as on vario us
+statutes authorizing the President “to called [sic] out the militia and use the military and naval forces of the United
+States in case of invasion by foreign nations, and to suppress insurrection against the government of a State or of the
+United States ”).
+Additionally, in holding that the President has independent authority inherent in Article II to settle foreign claims in the
+absence of explicit congressional authorization, the Court in Dames & Moore v. Regan , 453 U.S. 654 (1981) ,
+emphasized “the narr owness” of [its] decision,” highlighting that it had determined that historical practice indicated
+that Congress had “acquiesced” in such authority. Id. at 688; see also Learning Resources , Inc. v. Trump, No. 24 –1287,
+slip op. at 20, 607 U.S.  __, 2026 WL 4 77534, *13 (2026), https://www.supremecourt.gov/opinions/25pdf/24 -
+1287_4gcj.pdf  (characterizing Dames & Moore  as “exceedingly narrow”).
+236 See Congressionally Mandated Notice Period for Withdrawing from the  Open  Skies  Treaty , 44 Op. O.L.C. at 191,
+196, 200 (stating that “[a]s the Chief Executive, the President bears the constitutional responsibility to execute the law
+and treaties of the United States,” and reasoning that treat y withdrawal pursuant to a treaty’s terms is an instance of
+treaty execution pursuant to this authority); see also supra note 232 and accompanying text.
+237 See Miss ouri v. Holland, 252 U.S. 416, 432 (1920) (holding that “i f the treaty is valid there can be no dispute about
+the validity of the [implementing] statute under Article 1, Section 8, as a necessary and proper means to execute the
+powers of the Government ”); Neely v. Henkel, 108 U.S. 109, 121 (1901) (recognizing the Congress’s “power to enact
+legislation as is appropriate to give efficacy” to U.S. treaty obligations).
+238 See Zivotofsky ex rel. Zivotofsky v. Kerry , 576 U.S. 1, 30 (2015)  (“Here, the subject [of the President’s exclusive
+authority] is quite narrow: The Executive ’s exclusive power extends no further than his formal recognition
+determination .”); see also id.  at 28 (in examining historical practice of the branches, stating that, “in the narrow contex t
+of recognition,” Congress “on balance  has acknowledged the importance of speaking ‘with one voice’” (quoting
+Crosby , 530 U.S. at 381)).
+239 Id. at 20‒21.
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   30 Zivotofsky II  Court dismissed as dicta earlier, expansive  language about presidential foreign
+policy power in United States v. Curtiss -Wright  Export Corp .,240 a New Deal -era case that the
+executive branch relied on in support of broad claims of exclusive authority “to conduct
+diplomatic relations” and “the bulk of foreign affairs powers.”241 “[D]eclin[ing] to acknowledge
+this unbounded power,” the Court explained that “ [t]he Executive is not  free from the ordinary
+controls and checks of Congress merely because foreign affairs are at issu e.”242
+The executive branch might respond by contending that  the functional considerations  recognized
+by the Supreme Court —such as the institutional c apacity of the President to speak with “one
+voice” on behalf of the nation in international affairs243—have particular salience in the context of
+treaty withdrawal. In its 2020 opinion claiming that the President has exclusive treaty -withdrawal
+authority, the OLC c ited the Court’s reasoning in Zivotofsky II  based on such functional
+considerations in arguing that the case “reinforces the [OLC’s] conclusion that  the President’s
+authority to exercise the United States’ right to withdraw from a treaty is exclusive .”244 According
+to the OLC, “[n] o less than the power to recognize foreign sovereigns, the decision to withdraw
+from a treaty ‘is a topic on which the Nation must speak with one voice. ’”245
+The executive branch might also argue that Congress’s authority to impl ement treaties does not
+include restricting the President’s authority to withdraw from them. In its 2020 opinion, the OLC
+argued that the statutory notification and waiting period restrictions on the President’s withdrawal
+from the Open Skies Treaty are “ not an exercise of Congress’s authority to adopt laws to
+implement treaties as part of our domestic law .”246 According to the OLC, “[t]he power of
+Congress to implement a treaty does not itself imply a power to direct the President to engage in
+diplomacy or control the manner by which the President executes the rights of the United States
+under treaties. ”247
+Given the arguably inconclusive nature of constitutional text, structure, and jurisprudence
+regarding treaty -withdrawal authority —and particularly whethe r any of that authority is
+exclusive —courts might look to historical practice for “gloss” on constitutional meaning as they
+have done in other separation of powers cases.248 The parties accordingly would likely also
+advance arguments based on historical pra ctice in support of their positions .
+240 See id. at 20−21 (“ Th[e] description of the President ’s exclusive power was not necessary to the holding of  Curtiss –
+Wright —which, after all, dealt with congressionally authorized action, not a unilateral Presidential determination .”
+(citing United States v. Curtiss Wright Export Corp. 299 U.S. 304  (1936) )).
+241 See id.  at 19−2 1 (“In support of his submi ssion that the President has broad, undefined powers over foreign affairs,
+the Secretary quotes  United States v. Curtiss –Wright Export Corp. , which described the President as ‘the sole organ of
+the federal government in the field of international relations .’” (quoting Curtiss Wright , 299 U.S. at 320)).  The Court
+explained: “ This description of the President ’s exclusive power was not necessary to the holding of Curtiss –Wright —
+which, after all, dealt with congressionally authorized action, not a unilateral Presidential determination. ” Id. at 21.
+242 Id. at 21.
+243 Zivotofsky II , 576 U.S. at 14, 28, 29;  Crosby , 530 U.S. at 382; cf. also  Sale v. Haitian Ctrs. Council, Inc., 509 U.S.
+155, 188 (1993) (explaining that the President has “unique responsibili ty” for “foreign and military affairs”).
+244 Congressionally Mandated Notice Period for Withdrawing from the  Open  Skies  Treaty, 44 Op.  O.L.C. 184,  197
+(2020).
+245 Id. at 198 (quoting Zivotofsky II , 576 U.S. at 14).
+246 Id. at 198‒99.
+247 Id. at 199.
+248 Dames & Moore v. Regan, 453 U.S. 654 , 686  (1981)  (quoting Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S.
+579, 610 –11 (1952) (Frankfurter, J., concurring)); see also NLRB v. Noel Canning 573 U.S. 513, 524 (2014)  (“We
+[have] confirmed that ‘ [l]ong settled a nd established practice is a consideration of great weight in a proper
+interpretation of constitutional provisions ’ regulating the relationship between Congress and the President .” (quoting
+(continued...)
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   31 Historical Practice
+Those challenging a Section 1250A violation  might maintain that the pre-20th century practice  of
+regular  congressional involvement in treaty withdrawal discussed above249 demonstrates  that the
+President and Congress adopted the constitutional interpretation that treaty withdrawal is , like
+treaty entry,  a shared power . In light of that past practice, t hey migh t further argue that  the more
+recent  trend  of unilateral presidential withdrawal  at most demonstrates that Congress may at
+times have accepted the President has independent  authority —that is, in the absence of
+congressional restriction —to withdraw from treaties, but not an acceptance that the power is
+exclusive .250 After all,  challengers might point out,  it does not appear that the executive branch
+took the position that the treaty -withdrawal power was  exclusiv e to the President  until 202 0, and
+Congress responded with the enactment  of Section 1250A  soon after  the executive branch
+announced that view .
+Additionally, challengers might argue that the relevant historical practice extends to  other  types of
+congressional actions affecting U.S. pa rticipation in treaties,  such as treaty -implementing
+legislation and notification and reporting requirements.251 Looking to a broader set of practices ,
+one might argue that statutes such as the law requiring that the President provide Congress with a
+notice  period before withdrawing from the Open Skies Treaty252 evince  a congressional
+understanding that treaty -withdrawal authority is shared. Other potential ly relevant  examples
+include statutory restrictions on the President’s ability to unilaterally modify treaties253 or to alter
+U.S. international legal obligations unless through a Senate -approved treaty.254
+The executive branch , by contrast,  might maintain that Zivotof sky II calls for a more focused set
+of historical examples , and that  the relevant practice is limited to assertions of authority that relate
+to treaty withdrawal  directly . The executive branch might argue  that the Supreme Court’s
+approach in Zivotofsky II to interpreting past practice sets a high bar for Congress  to evince  an
+understanding that a given power is not exclusive to the presidency.  Although the Court  cited
+historical instances in which the President consulted with Congress about recognition deci sions
+and Congress enacted appropriations and other legislation related to those decisions, the
+The Pocket Veto Case, 279 U.S. 655, 689 (1929)));  Youngstown , 343 U.S. at  610 (Frankfurter, J., concurring) (“ Deeply
+embedded traditional ways of conducting government cannot supplant the Constitution or legislation, but they give
+meaning to the words of a text or supply them .”); supra “The Supreme Court’s Youngstown Framework for Separation
+of Powers Cases .”
+249 See supra “Historical Practice .”
+250 For further discussion of the distinction between the President’s exclusive and independent authorities under Article
+II of the Constitution, see CRS Report R48524, Congress and the Scope of the President’ s Article II Foreign Policy
+Authorities , by Karen Sokol  (2025).
+251 For background on congressional implementat ion statutes and  notification  and reporting requirements, see CRS
+Legal Sidebar LSB11049, International Agreements (Part II): Examining Tools for Congressional Influence Over
+International Instruments , by Steve P. Mulligan .
+252 See supra note 73 and accom panying text.
+253 See, e.g. , National Defense Authorization Act for Fiscal Year 2017, Pub. L. No. 114 -328, § 1035(3), 130 Stat. 2000,
+2391 (2016) (prohibiting the use of funds “ to implement a material modification to the Treaty Between the United
+States of America and Cuba signed at Washington, D.C. on May 29, 1934 that constructively closes United States
+Naval Station, Guantanamo Ba y”).
+254 See, e.g. , Consolidated Appropriations Act for Fiscal Year 2000, Pub. L. No. 106 -113, § 705(b), 113 Stat. 1501,
+1501A -461 (1999) (prohibiting the United States from “becom[ing] a party to the International Criminal Court except
+pursuant to a [Senate -approved] treaty”) (codified at 22 U.S.C. § 7401(b)); Arms Control and Disarmament Act, Pub.
+L. No. 87 -297, § 33, 75 Stat. 631, 634 (1961) (codified as amended at 22 U.S.C. § 2753(b)) (prohibiting actions “that
+would obligate the United States to reduce or limit the Arme d Forces or armaments of the United States in a militarily
+significant manner, except pursuant to the treaty -making power of the President set forth in Article II, Section 2, Clause
+2 of the Constitution or unless authorized by the enactment of further aff irmative legislatio n”).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   32 Zivotofsky II  Court did not interpret those examples as indicating an understanding that
+recognition is a shared  power .255 Instead , the Court  found that the examples  demonstrated “no
+more than that some Presidents have chosen to cooperate with Congress, not that Congress itself
+has exercised the recognition power .”256 The Court  arguably  suggested that only congressional
+action  directly contrary to the President’s exercise of a power will suffice as historical evidence of
+congressional assertion of that power . As t he Court observed : “‘[T]he most striking thing ’ about
+the history of recognition is what  ‘is absent from it: a situation like this one ,’ where Congress has
+enacted a statute contrary to the President ’s formal and considered statement concerning
+recognition. ”257
+Furthermore, the executive branch might contend that  the Zivotofsky II Court’s approach to the
+political branches’ historical practices was heavily  informed by functional considerations —most
+prominently the ability of the President to “speak . . . with one voice” on behalf of the nation in
+the international arena.258 According to the Court , the President is “better posi tioned to take the
+decisive, unequivocal action necessary to recognize other states at international law ,”259 which
+Congress “ on balance has acknowledged the importance of .”260 The executive branch might argue
+that the same clarity and decisiveness is necess ary in the United States’ treaty relations, and
+therefore functional considerations favor unliteral presidential decisionmaking  over treaty
+withdrawal .
+In sum, existing Supreme Court precedent may not provide a clear answer on the question that
+would be p resented by a President’s claim of exclusive authority to withdraw from the North
+Atlantic Treaty  in contravention of Section 1250A . Rather, if a court agreed to hear a case on the
+merits , both sides would likely present arguments based on constitutional t ext and structure,
+relevant judicial precedent , and historical practice of the political branches  in support of their
+respective positions .
+Consideration s for Congress
+As the foregoing discussion makes clear, t he question of whether the President possesses
+authority to withdraw from the North Atlantic Treaty  without congressional or senatorial approval
+implicates a long -standing and still -unresolved debate over the Constitution’s allocation of the
+power to withd raw from treaties. If a court were to conclude that  Section 1250A place s a
+President’s unilateral withdrawal from the North Atlantic Treaty  in Youngstown ’s category three,
+to defend such a violation, the executive branch would have to establish that the Pr esident has
+exclusive  authority to withdraw from treaties,261 an argument that the executive branch advanced
+in a 2020 OLC opinion.262 The Supreme Court was willing to find exclusive presidential powers
+255 See Zivotofsky ex rel. Zivotofsky v. Kerry , 576 U.S. 1, 23−28  (2015) .
+256 Id. at 23.
+257 Id. at 24 (quoting Zivotofsky ex rel.  Zivotofsky v. Secretary of State, 725 F.3d 197, 221 (D.C. Cir. 2013) (Tatel, J.,
+concurring)).
+258 Id. at 14 (quoting Am. Ins. Ass ’n. v. Garamendi, 539 U.S. 396, 4 24 (2003) .
+259 Id. at 15.
+260 Id. at 28. In his dissent, Justice Scalia argued that the majority’s analysis of the constitutional text and interbranch
+practices analysis was principally driven by functional considerations that improperly minimized congressional actions,
+stating , “In the e nd, the Court ’s decision does not rest on text or history or precedent. It instead comes down to
+‘functional considerations ’—principally the Court ’s perception that the Nation ‘must speak with one voice ’ about the
+status of Jerusalem. ” Id. at 80 (Scalia, J ., dissenting) (quoting Garamendi , 539 U.S. at 424 ).
+261 See supra “The Supreme Court’s Youngstown Framework for Separation  of Powers Cases .”
+262 See supra  “The Executive Branch’s  2020 Claim to Exclusive Treaty Withdrawal  Power .”
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   33 in both Zivotofsky II and Trump ,263 but it remains uncer tain how a court would rule if it were to
+agree to hear a case challenging a Section 1250A violation given the absence of controlling
+Supreme Court precedent on the treaty -withdrawal power.264
+Absent judicial enforcement, Congress may consider responding to what it believes to be a
+violation of Section 1250A by using its institutional tools to influence the executive branch,
+which include impeachment, oversight, exercising the power of the purse  to eliminate executive
+branch funding, and withholding approval for nominations.265
+Additionally, if a President were to withdraw the United States from the North Atlantic Treaty, all
+existing NATO -related legislation would appear to remain in effect, and it would be up to
+Congress to determine whether any statutes should be repealed or amended. Because many
+NATO -related provisions are not dependent on whether the United States is a party to the
+treaty,266 Congress may be able to achieve some NAT O-related policy objectives through new
+legislation. For example, in response to President Carter’s withdrawal from the United States’
+mutual defense agreement with Taiwan in 1979,267 Congress enacted the Taiwan Relations Act,268
+which provides that “the Uni ted States will make available to Taiwan such defense articles and
+defense services in such quantity as may be necessary to enable Taiwan to maintain a sufficient
+self-defense capability.”269
+Congress may also consider that , in addition to statutory prohibi tions of unilateral presidential
+treaty withdrawal such as in Section 1250A, other congressional actions that might be understood
+by courts or the pol itical branches as assertions of congressional treaty withdrawal authority
+include, for example, placing r estrictions on the President’s authority to withdraw from treaties in
+the Senate’s resolutions providing advice and consent to the President’s ratification of those
+treaties270 or in authorizing legislation .271
+Congress may also consider the potential ly complex state of affairs if a court were to enforce
+Section 1250A  and enjoin a President from unilaterally withdrawing from the North Atlantic
+Treaty. Even with an injunction in place, other questions may arise over whether the President
+263 See supra  “Zivotofsky ex rel.  Zivotofsky v. Kerry ” & “ Trump v. United States .”
+264 See supra  “Justiciability Issues in Enforcing Section 1250A  “Constitutional  Analysis of Section 1250A .”
+265 For deeper analysis of Congress’s institutional tools to influence the executive branch, see CRS Report R45442,
+Congress’s Authority to Influence and Control Executive Branch Agencies , by Todd Garvey and Sean Stiff .
+266 See supra notes  158‒166 and accompanying text (providing examples of NATO -related leg islation supported by
+Congress’s appropriation, foreign commerce, and immigration authorities). For further  discussion of such legislation,
+see CRS Legal Sidebar LSB11256, The North Atlantic Treaty: U.S. Legal Obligations and Congressional Authorities ,
+by Karen Sokol  (2025).
+267 The litigation challenging the President’s unilateral withdrawal  is discussed supra “Political Question Doctrine .”
+268 Pub. L. No. 96 -8, 93 Stat. 14 (1979).
+269 Id. at 15, § 3(a).
+270 In concluding that President Carter’s unilateral withdrawal from the United States’ mutual defense treaty with
+Taiwan was cons titutional in the Goldwater case, the D.C. Circuit emphasized that the case did not involve any such
+restriction in the Senate’s resolution of advice and consent . See Goldwater v. Carter, 617 F.2d 697, 709 (D.C. Cir.
+1979) (en banc) (per curiam),  vacated a nd remanded with instructions to dismiss, Goldwater v. Carter, 444 U.S. 996
+(1979) (plurality opinion)  (“The question of whether the Senate may be able to reserve to itself in particular treaties, at
+the time of their original submission, a specific role in their termination is not presented by the record in this appeal and
+we decide nothing with respect to it. ”).
+271 Cf., e.g. , 22 U.S.C. §§ 290, 290c (authorizing the President to join the World Health Organization (which is effected
+through ra tification of the Constitution of the World Health Organization, July 22, 1946, 14 U.N.T.S. 185) , and
+conditioning the right of the United States to withdraw from the treaty on the provision of one year’s notice and the
+meeting of “ the financial obligation s of the United States to the Organization . . . in full for the Organization ’s current
+fiscal year ”).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service   34 could be compelled to honor the United States ’ treaty commitments , such as the mutual defense
+obligations under Article 5 of the North Atlantic Treaty.272 Initially, any attempt to mount a
+judicial challenge to an alleged failure  to meet U.S. NATO obligations would  likely face
+justiciability hurdles such as the political question and standing doctrines discussed above.273
+Additionally, the executive branch might maintain that any judicial action could not interfere with
+the President’s “exclusive sphere of constituti onal authority,”274 which the executive branch might
+claim includes presidential powers like the Commander -in-Chief authority.275
+Finally, regardless of the outcome  of any case in which a court may agree to hear a challenge to a
+Section 1250A violation , there may remain ways the legislative and executive branches could
+affect the United States’ policy regarding NATO through the use of their respective constitutional
+authorities. Such authorities may include Congress’s powers related to foreign commerce, use of
+the armed forces, and spending, and the President’s powers as Commander in Chief and to
+receive ambassadors and other foreign government officials.276
+Congress may find it useful to consider th e legal context s outlined in this report  and the issues
+that could arise as it continues to exercise its legislative and oversight powers with regard to the
+North Atlantic Treaty , as well as other treaties  to which the United States is a party .
+272 North Atlantic Treaty, supra note 6, art 5 (“ The Parties agree that an armed attack against one or more of them in
+Europe or North America shall be considered an attack against them all and consequently they agree that, if such an
+armed attack occurs, each of them . . . will assist the Party or Parties so attack ed by taking forthwith, individually and
+in concert with the other Parties, such action as it deems necessary, including the use of armed force, to restore and
+maintain the security of the North Atlantic area. ”). For background on the complexities of Artic le 5, see CRS Legal
+Sidebar LSB11256, supra note 266, at 1 –2.
+273 See supra “Justiciability Issues in Enforcing Section 1250A .”
+274 Trump v. United States,  603 U.S. 593, 609 (2024) .
+275 Although the Supreme Court has referenced the President’s role as Commander  in Chief in discussing foreign
+affairs authorities generally, the Court generally has not specified the contours of that authority. See, e.g. , Chicago & S.
+Air Lines v. Waterman S . S. Corp. , 333 U.S. 103, 109  (1948)  (“The President also possesses in his own right certain
+powers conferred by the Constitution on him as Commander -in-Chief and as the Nation ’s organ in foreign affairs. ”). In
+a 19th century case, C hief Justice Salmon Cha se posited in a concurring opinion joined by three other Justices that the
+President has some independent —and possibly exclusive —power to direct military campaigns:
+Congress has the power not only to raise and support and govern armies but to declare war. It has,
+therefore, the power to provide by law for carrying on war. This power necessarily extends to all
+legislation essential to the prosecution of war with vigor and success , except such as interferes with
+the command of the forces and the conduct of ca mpaigns. That power and duty belong to the
+President as commander -in-chief .
+Ex parte Milligan , 71 U.S. (4 Wall.) 2 , 139 (1867 ) (Chase, C.J., concurring) (emphasis added).
+276 Cf. Zivotofsky ex rel. Zivotofsky v. Kerry , 576 U.S. 1, 16 (2015)  (“Although the President alone effects the formal
+act of recognition, Congress ’ powers, and its central role in making laws, give it substantial authority regarding many
+of the policy determinations that precede and follow the act of recognition itself. If C ongress disagrees with the
+President ’s recognition policy, there may be consequences. Formal recognition may seem a hollow act if it is not
+accompanied by the dispatch of an ambassador, the easing of trade restrictions, and the conclusion of treaties. And
+those decisions require action by the Senate or the whole Congress .”).
+Separation of Powers and NATO Withdrawal
+Congressional Research Service  R48868  · VERSION 3 · NEW  35
+Author Information
+Karen Sokol
+Legislative Attorney
+Acknowledgments
+Attorney -Adviser  Steve P. Mulligan  coauthored  this report.
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

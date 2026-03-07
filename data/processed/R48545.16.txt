@@ -1,0 +1,1129 @@
+Public Broadcasting:  Background Information
+and Issues for Congress
+Updated February 25, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R48545
+Congressional Research Service
+SUMMARY
+Public Broadcasting: Background Information
+and Issues for Congress
+Discussion of p ublic i nterest in educational or noncommercial programming da tes to the early
+days of broadcasting.  In 1938, the Federal Communications Commission (FCC) set aside a
+portion of available radio channels for noncommercial and educational broadcasting, periodically
+updating policy as technology evolved.
+In 1965, the Ca rnegie Corporation of New York  created the Carnegie Commission on
+Educational Television to make policy recommendations  on public broadcasting . It recommended that  Congress create a
+private, nonprofit corporation to support the development of local and nat ional programming for public television (and later
+radio) . This was enacted as part of the Public Broadcasting Act of 1967 (PBA; P.L. 90 -129). The Corporation for Public
+Broadcasting (CPB) was subsequently incorporated in 1967 as a private nonprofit corporation  governed by a board of
+directors appointed  by the President with the advice and consent of the Senate .
+The CPB served as primary custodian of federal investment in public broadcasting until it was defunded by Congress in July
+2025 . Congress rescinde d previously enacted  appropriations for FY2026 a nd FY2027 on July 24, 2025 , through the
+Rescissions Act of 2025 ( P.L. 119 -28). However, a ppropriations authority  remains under the jurisdiction of the Labor, Health
+and Huma n Services, Education, and Related Agencies Subcommittees of the House and Senate Appropriations Committees
+should Congress decide to reestablish the CPB in the future.  In addition to funds appropriated to it directly by Congress, the
+CPB was authorized to receive federal grant funds from other agencies  for educational programming, support of public
+broadcasting emergency alerting functions, and other purposes.
+The White House took several actions in 2025 to curtail the CPB’s role in the p ublic broadcasting enterprise, including
+directives to dismiss certain members of the CPB Board, to prohibit CPB funding of National Public Radio ( NPR ) and the
+Public Broadcasting System ( PBS), and to terminate or repurpose all other grant funding by feder al agencies. Several of these
+actions were being litigated in federal court when the CPB announced the planned cessation of its operations. (The CPB
+periodically received private donations , but these were not sufficient to sustain operations .) On August 1,  2025, the CPB
+announced  that it was beginning an orderly wind ing down of its operations in response to the rescission of congressional
+appropriations and Senate appropriators ’ decision not to include CPB funding in their FY2026 appropriations bill . On
+January 5, 2026 , the CPB announced its intention to completely dissolve the organization.
+The dissolution of the CPB reconfigured the landscape of public broadcasting. Historically, t he CPB distribute d appropriated
+funds to independent public broadcasting sta tions and content producers according to a statutory formula . In FY2024,
+approximately 10.6% of public television and 6.0% of public radio broadcasting revenue came  from the CPB’s Community
+Service Grants (television and radio station grants ). For some stations —particularly those in underserved or rural locations —
+the proportion of revenue was much higher. The CPB grants were  the largest single source of funding for public television
+and radio stations and for programming development and distribu tion.
+Some of the nearly 1,500 independently licensed member stations that previously received CPB funding have announced
+staffing and programming cuts or announced plans to cease operations altogether. Many —but not all —of these stations are
+members of PBS and NPR , which were  created by the CPB over 50 years ago  to facilitate production and distribution of
+programming content in partnership with their member stations . With few exceptions, b oth PBS and NPR have retained
+member station affiliations and contin ued operations after the dissolution of the CPB, albeit with cutbacks . Much of their
+programming remains widely available as of th e publication  date of this report .
+Prior to the defunding of the CPB, m uch of the debate over the future of public broadcasti ng center ed on the value of public
+broadcasting as a public good . Advocates for public broadcasting argue d that public broadcasters  provide d balanced and
+objective information, news, children’s education, and entertainment in an internet -dominated media environment . Critics
+contend ed that public broadcasting has become less essential  and that PBS - and NPR -branded public affairs comment s
+reflect ed political and cultural bias . Congress may consider actions to clarify executive branch legal authorities  vis-à-vis
+public broadcasting entities . Congress may also consider future annual appropriations to reestablish the  CPB —under either
+current or amend ed authorities —or provid e support to public broadcas ting stations or content producers  through other
+authorities and programs . Congress may also take no action.  R48545
+February 25, 2026
+Brian E. Humphreys
+Analyst in Science and
+Technology Policy
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   Contents
+Introduction  ................................ ................................ ................................ ................................ ..... 1
+Public Broadcasting Before 1967  ................................ ................................ ................................ .... 2
+The Public Broadcasti ng Act of 1967  ................................ ................................ ..............................  4
+Structure and Leadership of the CPB  ................................ ................................ ........................  5
+Appropriations for the CPB  ................................ ................................ ................................ ...... 7
+Other Sources of Federal Support for the CPB  ................................ ................................ .........  8
+Ready to Learn Grants  ................................ ................................ ................................ ........  8
+Public Broadcasting Support for Public Alerts and Warnings  ................................ ............  9
+Changes to the NGWS Grant Program for FY2025  ................................ ..........................  11
+CPB Support for Independent Broadcasters and Producers  ................................ ...........................  11
+The Public Broadcasting Service and National Public Radio  ................................ .......................  13
+FCC Chairman’s Request for Investigation of PBS and NPR  ................................ .................  14
+Other Public Media Organizations  ................................ ................................ ..........................  15
+The Future Federal Role in Public Broadcasting Afte r the Rescission of CPB
+Appropriations  ................................ ................................ ................................ ............................  16
+Options for Congress  ................................ ................................ ................................ .....................  19
+Reestablish and Fund the CPB Under Existing Authorities  ................................ ....................  19
+Reestablish and Fund the CPB or Successor Organization with Changes  ..............................  20
+Fund Public Broadcasting Through Other Existing Authorities  ................................ ..............  21
+Fund Public Broadcasting Activities Through Appropr iations to Federal Agencies  ...............  21
+Take No Further Action Regarding the CPB and Public Broadcasting  ................................ ... 22
+Figures
+Figure 1. Allocation of the CPB’s Federal Appropriation  ................................ .............................  12
+Contacts
+Author Information  ................................ ................................ ................................ ........................  23
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   1 Introduction
+The national public broadcasting enterprise includes nearly 3 60 television stations  and 1 ,200
+radio station s, which together can transmit communications to 99% of the U.S. population .1 Local
+stations are operated by a variety of different entities, includ ing public and private institutions of
+higher education , local school districts, state agencies, and nonprofit community organizations .2
+In its early decades, this enterprise largely developed without  regular federal funding . Beginning
+in the 1960s, broad -based support for alternatives to commercial broadcasting le d to the passage
+of legislation that aut horized regular federal funding for public broadcasting . Congressional
+appropriations were  distributed to public media  broadcasters and producers through a private
+nonprofit corporation incorporated in Washington, DC , which was  known as the Corporation for
+Public Broadcasting (CPB) .
+The CPB  was authorized  in the Public Broadcasting Act of 1967 (PBA; P.L. 90 -129), enacted  as
+an amendment to the Communications A ct of 1934 . The CPB did not own or operate any stations .
+On August 1, 2025, the CPB announced  that it would cease operations in January 2026 because of
+a lack of funding after Congress rescinded advance appropriations for FY2026 and FY2027 , and
+Senate appropriators elected not to include funding in  a version of a Departments of Labor,
+Health and Human Services, and Education, and Related Agencies  Appropria tions Act , 2026  (S.
+2587 ; see also S.Rept. 119 -55).3 House appropriators likewise declined to fund the CPB.4
+On January 5, 2026, the CPB announced that its board of directors voted to dissolve the
+organization.5 In a court filing the same day, the CPB further explained that it intended to file
+articles of dissolution with the DC Mayor’s Office on or about January 30, 2026,  but would be
+able to continue certain wind -down activities  after that date .6
+Throughout its existence,  the CPB  expanded the  U.S. public broadcasting enterprise through
+technology investments and grants to independent local stations and producers  in partnership with
+major philanthropies, educational institutions, state and local governments, and corporate and
+individual donors . This  expansion enabled production and distribution of programming for
+national audiences —capabilities that barely existed  in public broadcasting  before 1967. While
+these changes provided diverse programming to national audiences , they also exposed public
+broad casting to broader national scrutiny of its cultural content and balance.  The public
+broadcasting enterprise may witness changes following the closure of the CPB. Such changes
+could include closure of some broadcast stations and adaptation of others to fin d new sources of
+1 See Corporation for Public Broadcasting (CPB), “About CPB,” https://cpb.org/ aboutcpb .
+2 See CPB, “CPB FAQ : Who Operates Local Stations? ” https://cpb.org/ faq#2 -3.
+3 See CPB, “Corporation for Public Broadcasting Addresses Operations Following Loss of Federal Funding,” press
+release, August 1, 2025, https://cpb.org/ pressroom/ Corporation -Public -Broadcasting -Addresses -Operations -Following -
+Loss -Federal -Funding .
+4 See U.S. Congress, House Appropriations Committee, Departments of Labor, Health and Human Services, Education,
+and Related Agencies Subcommittee, Departments of Labor, Health and Human Services, and Education, and Related
+Agencies Appropriations Bill, 2026 , report to accompany H.R. 5304 , 119th Cong., 1st sess., H.Rept. 119 -271, September
+11, 2025 , p. 273. The House -passed Consolidated Appropriations Act, 2026  (H.R. 7148 ), contained no funding for the
+CPB. H.R. 7148  is pending in the Senate as of the date of this publ ication.
+5 CPB, “Corporation for Public Broadcasting Board Votes to Dissolve Organization in Act of Responsible Stewardship
+to Protect the Future of Public Media,” press release, January 5, 2026, https://cpb.org/ pressroom/ corporation -public -
+broadcasting -board -votes -dissolve -organization -act-responsible .
+6 Joint Status Report, CPB  v. Trump , No. 1:25 -cv-01305  (D.D.C.  2025),  https://assets.alm.com/ 74/46/
+444542bc4f8c888745ebf0ba3695/ gov-uscourts -dcd-279991 -46-0.pdf .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   2 revenue, as well as less centralized oversight and development of the public broadcasting
+enterprise.
+This report provides historical background on the national public broadcasting enterprise and the
+evolving role of  the federal government and public broadcasting entities in this enterprise as
+fundamental changes are enacted . In addition, this report  provides an overview of policy issues
+and legislative options  of potential interest  to Congress .
+Public Broadcasting B efore 1967
+Interest in educational or noncommercial programming dates to the early days of broadcasting.
+Beginning in the 1930s, some state universities and other educational institutions seeking to better
+serve  rural populations pioneered the use of broad cast radio for remote learning . In 1938, the
+Federal Communications Commission (FCC) set aside a portion of available radio channels for
+noncommercial and educational broadcasting , periodically updating policy as technology
+evolved .7 During this period, advocates viewed such broadcasting as a form of public education
+similar to that provided in public schools, which  they argued should be free from commercial
+pressures and influences.8
+In the early postwar era , the emergence and growth of television techn ology prompted efforts to
+develop noncommercial and educational broadcasting in the new medium. Federal support was
+largely limited to FCC set -asides of frequency spectrum for noncommercial and educational
+broadcasters —first radio, and then television —and limited grants made through federal agency
+appropriations .9 In the absence of regular federal funding of public broadcasting during this
+period, private philanthropies —and occasionally for -profit broadcasters —provided funding to
+support non commercial and educational broadcasting. The Ford Foundation and the Carnegie
+Corporation  of New York became major supporters of this enterprise.10
+Despite support from these and other sources,  efforts at expanding the reach of noncommercial
+and education al radio and television broadcasts often had an experimental and improvisational
+character —especially outside urban areas . In early 1960s , one initiative —sponsored in part by the
+Ford Foundation and led by Purdue University researchers —deployed  DC-6 airlin ers equipped
+7 See Federal Communications Commission  (FCC) , Fourth Annual Report: FY1938 , p. IV, https://docs.fcc.gov/ public/
+attachments/ DOC -308653A1.pdf .
+8 For example, see Ralph Steetle, “The Changing Status of Educational Television,” The Journal of Educational
+Sociology , vol. 32, no. 9 (May 1959), pp. 427 -433 (hereinafter “The Changing Status of Educational Television ”).
+9 For description of educational initiatives of this era, see  “The Chang ing Status of Educational Television .” The
+National Defense Education Act of 1958 (NDEA;  P.L. 85 -864) authorized  a total of $18 million in appropriations for
+research and de velopment of television, radio, and other media for educational purposes . For general information on
+frequency spectrum allocation, see CRS Video WVB00471, National Spectrum Policy: Concepts, Issues, and Options
+for Congress , by Jill C. Gallagher and Ling Zhu .
+10 Philanthropy Roundtable, “Ford and Carnegie Create Public Broadcasting,” https://www.philanthropyroundtable.org/
+almanac/ ford-and-carnegie -create -public -broadcasting/  (hereinafter Philanthropy Roundtable) . Ford  Foundation records
+show $5.45 million (nominal dollars) in donations for public radio and televis ion since 2006, focusing on content
+production, technology, and professional development, with the most recent grant made in 2020. See Ford Foundation ,
+Grants Database , https://www.fordfoundation.org/ work/ our-grants/ awarded -grants/ grants -database/ . Carnegie
+Corporation of New York records show $7.87 million (nominal  dollars) in donations for public radio and television
+since 2004, focusing on content production for education and public affairs programming, with the most recent grant
+made in 2024. See Carnegie Corporation of New York , Grants Database , https://www.carnegie.org/ grants/ grants -
+database/ .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   3 with television transmitter s to circle  above sparsely populated areas of the Midwest and broadcast
+educational television programs.11
+Advocates sought greater federal support for noncommercial and educational broadcasting  to
+provide more cons istent financing to improve transmission  technology and programming quality .
+Congress enacted the Educational Television Facilities Act of 1962 (ETFA;  P.L. 87 -447) to
+support construction and upgrades to educational television facilities  through a system of
+matching grants  administered by the then -extant Department of Health , Education, and Welfare .
+In signing the bill, President Kennedy framed educational television as a Cold War national
+security imperative.12 The law authorized $3 2 million in appropriations over five years —or $3 39
+million in April 2025 dollars .13
+Other advocates framed public broadcasting as a cultural alternative to the “vast wasteland” of
+commercial television, enrich ing civic discourse , public education, and community life.14 In
+1965, the Carnegie Corporation  of New York  created the Carnegie Com mission on Educational
+Television (the Carnegie Commission) to study the state of noncommercial and educational
+broadcasting in the United States and to study best practices from several other countries .
+President Lyndon B. Johnson publicly endorsed the ge neral objectives of the Carnegie
+Commission  that year .15 The Carnegie Commission released its report, titled “Public Television: A
+Program for Action,”  in January 1967 —an event that received national front -page news
+coverage .16
+The report introduced public broadcasting into the mainstream lexicon, drawing a distinction
+between programming to support classroom instruction (educational television) and broadcasting
+of noncommercial content for the broader viewing community (public television ). The Carnegie
+Commission ’s primary recommendation was  that Congress create  and fund a nonprofit
+corporation to support  production of  public television content for local and national audiences.
+Other recommendations included  (1) an excise tax on television sales to fund the new nonprofit
+public -broadcasting corporation —the Carnegie Commission argued that such a tax would provide
+a predictable source of funding not dependent on, or influenced by, the annual appropriations
+process —and (2) separate legislation for new authorities and appropriations, which would  allow
+the Department of Health, Education, and Welfare  to provide improved broadcasting facilities to
+11 Allison Perlman, “Flying Classrooms in the Midwest: The MPATI ’s Experiment in Regional Educational
+Television,” in media res , February 28, 2008, https://mediacommons.org/ imr/2008/ 02/28/flying -classrooms -in-the-
+midwest -the-mpatis -experiment -in-regional -educational -television#:~: text=
+Utilizing%20Stratovision%2C%20a%20broadcast%20distribution%20system%20developed,reached%20schools%20w
+ithin%20a%20200%20mile%20radius ; and Carson Benn, The Midwest Program on Airborne Television Instruction
+and the Ford Foundation , Rockefeller Archive  Center Research Reports, 2020, https://rockarch.issuelab.org/ resources/
+37719/ 37719.pdf .
+12 John F. Kennedy, “Statement by the President Upon Signing Bill Providing for Educational T elevision,” The
+American Presidency Project , May 1, 1962, https://www.presidency.ucsb.edu/ documents/ statement -the-president -
+upon -signing -bill-providing -for-educational -television .
+13 Calculated using U.S. Bureau of Labor Statistics Consumer Price Index ( CPI) Inflation Calculator,
+https://www.bls.gov/ data/ inflation_calculator.htm .
+14 See Newton N. Minow, “Television and the Public Interest,” American Rhetoric Online Speech Bank,
+https://www.americanrhetoric.com/ speeches/ newtonminow.h tm. Minow delivered the speech on May 9, 1961 , while
+serving as  FCC Chairman.
+15 Carnegie Commission on Educational Television, “Carnegie I: Members, Preface and Introductory Note, 1967,”
+Current , January 26, 1967 , https://current.org/ 1967/ 01/carnegie -i-members -preface -and-introductory -note-1967/ ?
+wallit_nosession= 1.
+16 Philanthropy Roundtable.
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   4 independent local stations  and support a national interconnection for program distribution and
+live broadcasts.17
+The Public Broadcasting Act of 1967
+The PBA, as amended,  incorporated  several  recommendations of the Carnegie Commissio n,
+modified or omitt ed others , and add ed several original provisions . The primary  recommendation
+of the Carnegie Commi ssion ’s report —that Congress create a private, nonprofit corporation to
+support development of local and national programming  for public television (and later radio) —
+was enacted as the law’s core provision . The CPB  was incorporated in 1967 as a private non profit
+corporation.
+As recommended by the Carnegie Commission, the law prohibited the CPB from operating or
+controlling independent local stations . However, the CPB became the primary conduit for federal
+support of local broadcasters  and producers and for the buildout of a national interconnection  for
+program distribution and live broadcasts .18 Congress elected to fund the CPB through the annual
+appropriations process, rather than using a federal excise tax  as recommended by the Carnegie
+Commission . Public broadcasting expanded rapidly in geographic reach and availability of
+programming for national distribution after enactment of the PBA. According to the CPB, the
+national public broadcasting system  reache d 99% of the U.S. population  as of August 2025 .19
+In the decades since the PBA’s passage, multiple Congresses and presidential Administrations
+sought to make changes to the act and to the public broadcasting enterprise writ large. Issues
+addressed by these actions  include
+• CPB  authorities for programming decisions and control over  public broadcasters’
+access to the interconnection for national program distribution ;20
+• balance and objectivity of programming;21
+• service to unserved and underserved audiences , especially children and
+minorities ;22
+17 The original report is not available online but is available in hard  copy format in Library of Congress collections. For
+online access to the report summary and recommendations, see “Text of Summary and Recommendations in Report by
+the Carnegie Commission,” New York Times , January 26, 1967, p. 27, https://timesmachine.nytimes.com/
+timesmachine/ 1967/ 01/26/82578013.html? pageNumber= 27.
+18 Congress continued to authorize appropriations for station support and improvements to the public broadcasting
+system through the Education Broadcasting Facilities Program , originally established under the Educational Television
+Facilities Act of 1962 ( ETFA ); its successor, the Public Telecommunications Facilities Program  (PTFP) , was
+authorized under the Public Telecommunications Financing Act of 1978, as amended, 47 U.S.C. §§390-393, 397 -399b ,
+and administered by the Department of Commerce until 201 7. The final appropriation  for the program was made in
+2010.
+19 CPB, “About Public Media,”  accessed August 20, 2025,  https://cpb.org/ aboutpb/ what -public -media#:~:text=
+Today%27s%20public%20media%20system%20began,wit h%20free%20programming%20and%20services .
+20 The CPB had more direct control over programming when it was originally incorporated in 1967. In 1973, the CPB
+agreed to increase grants to independently licensed and operated broadcast stations and give them more  discretion over
+programming content to address concerns over political bias of CPB -funded program ming. See Patricia M. Chuh, “The
+Fate of Public Broadcasting in the Face of Federal Funding Cuts ,” CommLaw Conspectus , vol.  3, no. 2 (1995) , p. 207,
+https://scholarship.law.edu/ cgi/viewcontent.cgi? article= 1048& context= commlaw  (hereinafter Chuh , “The Fate of
+Public Broadcasting ”).
+21 P.L. 95 -567.
+22 P.L. 102 -356.
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   5 • encouragement of creative risk in programming ;23
+• the size , composition , and terms of service  of the CPB Board;24
+• development of telecommunications technologies ;25
+• the formula for allocating CPB appropriations to public broadcasters and
+producers of programming content ;26 and
+• requirements for public broadcast station financial transparency and public
+meetings .27
+Structure and Leadership of the CPB
+The CPB Board of Directors was organized under Section 396(c) of the PBA  (47 U.S. C. §396(c)) ,
+as amended . The law provide s for a board of  nine directors appointed by the President with the
+advice and consent of the Senate. By law, directors  are to be U.S. citizens “who are eminent in
+such fields as education, cultural and civic affairs, or the arts, including radio and television.” In
+addition, the law requires that directors  are geographically representative of different regions,
+professionally diverse, and possess “various kinds of t alent and experience appropriate to the
+functions and responsibilities of the [CPB].”
+Directors  are allowed a  term of six years and may serve up to two terms consecutively. By law,
+one director  must represent public television stations, and one director  must represent public radio
+stations. No more than five directors  may be affiliated with  a single political party, but the law
+otherwise prohibits applying any “political test or qualification” for nominations  or appointments .
+According to statute, director s must forfeit their positions for absenteeism , defined as missing
+50% or more of meetings in a calendar year. The PBA  provides no other specific guidance on
+removal  of directors .
+Directors  have typically represented a variety of professional backgrounds i n diverse fields
+related to broadcasting, such as public policy, community organizing, entertainment law, and
+corporate leadership. The PBA provides the board with authority to name and appoint CPB
+corporate officers and to fix terms of compensation. In addition, it mandates several oversight and
+facilitation functions.  These include the following:
+• “facilitate  the full development of public telecommunicati ons in which programs
+of high quality, diversity, creativity, excellence, and innovation, which are
+obtained from diverse sources, will be made available to public
+telecommunications entities, with strict adherence to objectivity and balance in
+all program s or series of programs of a controversial nature” ;
+• assist in the development of physical infrastructure to facilitate the widespread
+dissemination of public broadcasting content and in the development of public
+broadcasting entities;
+• ensure freedom of  public broadcasters  from external interference in developing
+of programming content and related activities ; and
+23 P.L. 102 -356.
+24 P.L. 102 -356.
+25 P.L. 95 -567.
+26 P.L. 95 -567 and P.L. 100 -626.
+27 P.L. 95 -567.
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   6 • obtain and disseminate grant funding to public broadcasters for the production
+and acquisition of programming, as well as other expenses.28
+Thes e legislative authorities and mandates guide d board activities. Meetings include d a public
+session and a confidential executive session. Directors  also vote d to accept or approve financial
+statements, plans, and other documents . Through the end of FY2025,  the CPB exercise d oversight
+of local stations through the Office of the Inspector General, which typically focuse d on ensuring
+use of CPB grants within program rules. The CPB Board and its officers d id not manage
+program ing decisions  and other routine activities of local broadcast stations, which were
+independently licensed and operated .
+In April 2025, the White House moved to dismiss three directors  appointed or reappointed by
+President Biden .29 The CPB subsequently contested the action in court , claiming that President
+Trump did not have authority under the PBA to remove CPB  directors because , among other
+factors,  the CPB was a private nonprofit organization.30 Further, the CPB argued that the action
+was taken with the intent to prevent the board from meeting quorum requirements to conduc t
+CPB business.  The CPB Board had four vacancies at the time of the attempted dismissals, so the
+termination of three  members would have left it with two members —a number insufficient to
+meet the board’s quorum requirements.
+In opposition to the CPB’s request for a temporary restraining order, the defendants argued  that
+presidential appointees  to the board were removable at will .31 On June 8, 2025, the court denied
+the request for a temporary restr aining order.32 On July 15, 2025, the Trump Administration filed
+a lawsuit against the three board members who had refused to leave their posts, claiming that they
+had usurped certain presidential authority and were therefore serving unlawfully.  The lawsui t
+sought to oust them from office.33 Those board members eventually stepped down as litigation
+continued , according to media reports .34 The CPB and the United States  filed joint status report s
+in both cases  on January 5, 2026 , which  sought  to have the two lawsuit s dismissed without
+prejudice  because  controvers ies that prompted the suits were  mooted by the CPB  Board’s
+28 47 U.S.C. §396(g)(1).
+29 The directors were Laura G. Ross, Diane Kaplan, and Thomas E. Rothman. Laura G. Ross was originally appointed
+to the board of directors by President Trump and confirmed by the Senate in May 2018. She was later reappointed to
+the board by President Biden a nd confirmed again in February 2022.  Diane Kaplan was appointed by President Biden
+and confirmed in December 2022. Thomas E. Rothman was appointed by President Biden and confirmed in February
+2022.  Over the history of the CPB, presidents frequently nominat ed or renominated members who did not belong to
+their political party to comply with Public Broadcasting Act  requirements limiting the number of board members from
+a single political party.
+30 Complaint, CPB v. Trump . As the case was proceeding, on May 15, 2025, the CPB also amended its bylaws to
+expressly prohibit removals of directors by the President or other official without a two -thirds vote of other directors
+approving the action . See Austin Fuller, “Facing Trump Threat, CPB Amends Bylaws to Protect Di rectors from
+Removal,” Current , May 16, 2025; and CPB Board of Directors, By-Laws of the Corporation for Public Broadcasting :
+As Amended May 15, 2025 , May 15, 2025, p. 5, https://cpb.org/ sites/ default/ files/ CPB%20BY -
+LAWS%20AS%20AMENDED%20MAY%2015%202025%20_0.pdf .
+31 Defendants Opposition to Plaintiffs’ Motion for Temporary Restraining Order , CPB v. Trump .
+32 Memorandum Opinion and Order, CPB v. Trump .
+33 Complaint, United States v. Ross , No. 1:25 -cv-02261  (D.D.C.  2025) , https://storage.courtlisten er.com/ recap/
+gov.uscourts.dcd.282676/ gov.uscourts.dcd.282676.1.0_2.pdf .
+34 Sulaiman Abdur -Rahman, “Parties Seek Dismissal of Trump Firings Litigation as Public Broadcasting Plaintiffs
+Resign,” Law.Com , January 6, 2026, https://www.law.com/ nationallawjournal/ 2026/ 01/06/parties -seek-dismissal -of-
+trump -firings -litigation -as-public -broadcasting -plaintiffs -resign/ .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   7 decision to dissolve itself  and the resignation of the last remaining board member whose ouster
+was sought .35 The cases were dismissed on January 14, 202 6.36
+Appropriations for the CPB
+Until it was defunded by Congress, t he CPB was largely funded by federal appropriations but
+sometimes  receive d private donations as well.  In the first several years after creation of the CPB ,
+appropriations were made annually.  Beginning with the Public Broadcasting Financing Act of
+1975  (P.L. 94 -192), Congress provided two -year advance appropriations to the CPB in order to
+separate programming decisions from pressures of the appropriations process and to better allow
+for long -term planning of content development.37 For example, the FY2027 advance
+appropriation for the CPB of $535 million was made under the Full -Year Continuing
+Appropriations and Extensions Act, 2025 ( P.L. 119 -4).38 The Ford White House was also
+supportive  of advance appropriations to the CPB,  originally proposing a five-year advance
+appropriation. On the basis of  discussions between  congressional leadership and the White
+House, Congress shortened this period to two years . Subsequent Congresses continued th e
+practice of advance appropriations.39 However,  some Members in recent Congresses called  for an
+end to advance appropriations for the CPB .40
+Appropriations to the CPB were made  under the jurisdiction of the Labor, Health and Human
+Services, Education, and Related Agencies Subcommittees of the House and Senate
+Appropriations Committees.41 These subcommittees provide d appropriations under the
+Departments of Labor, Health and Human Services, Education, and Related Agencies
+Appropriations Act.  Congress periodically provided separate appropriations for support of the
+interconnection infrastructure that enables national distribution of content and live programming
+events. For FY202 5, the appropriation for interconnection support was $60 million.42 In addition,
+35 Joint Status Report, CPB v. Trump . In dismissing without prejudice, the court did not make a final judgment on the
+case that would prevent the plaintiff from refiling the same claims at a later date.
+36 For minute orders dismissing these cases, see CPB v. Trump , https://www.courtlistener.com/ docket/ 69966304/
+corporation -for-public -broadcasting -v-trump -in-his-official -capacity -as/#minute -entry -450372011 ; and United States v.
+Ross , https://www.courtlistener.com/ docket/ 70806414/ united -states -v-ross/ #minute -entry -450413920 .
+37 According to the CPB, the House Committee on Interstate and Foreign Commerce stated that advance funding
+“would go a long way toward eliminating both the risk o f and the appearance of undue interference with and control of
+public broadcasting … and will minimize the possibility of any government scrutiny of or influence on programming
+that might occur in the course of the usual annual budgetary, authorization, an d appropriation process. ” See CPB,
+“Purpose  of CPB’s Advance Appropriations, ” https://cpb.org/ appropriation/ purpose  (hereinafter CPB, “ Purpose of
+CPB’s Advance Appropriations ”).
+38 This appropriation was subsequently rescinded by the Re scissions Act of 2025 ( P.L. 119 -28), enacted on July 24,
+2025 .
+39 CPB , “Purpose of CPB’s Advance Appropriations .”
+40 For example, see U.S. Congress, House Appropriations Committee, Departments of Labor, Health and Human
+Services, Education, and Related Agencies Subcommittee, Departments of Labor, Health and Human Services, and
+Education, and Related Agencies Appropriation s Act, 2025 , report to accompany H.R. 9029 , 118th Cong., 2nd sess.,
+H.Rept. 118 -585, July 12, 202 4, p. 254, https://www.congress.gov/ congressional -report/ 118th -congress/ house -report/
+585/1?outputFormat= pdf& s=1&r=12.
+41 CPB appropriations were originally made under the Department of Health, Education , and Welfare’s Office of
+Education. See Chuh , “The Fate of Public Broadcasting ,” p. 210.
+42 Further Consolidated Appropriations Act, 2024 ( P.L. 118 -47). Interconnection support appropriations were not
+subject to the advance appropriations process.
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   8 Congress provided emergency appropriations to the CPB in response to economic and social
+disruptions of the COVID -19 pandemic.43
+Other Sources of Federal Support for the CPB
+In addition to direct appropriations from Congress , the CPB received  federal grant funds from
+other agencies.
+Ready to Learn Grants
+In recent decades , Ready to Learn (RTL) grants from the Department of Education  have
+support ed the development of education al television and digital media targeted at preschool and
+early elementary school children.44 RTL grants are awarded on a competitive bas is every five
+years. The CPB was awarded grants in previous years to partner with local stations and other
+public broad casting entities that produce content for national distribution .45 In the past, RTL
+grants helped fund a number of well -known children’s programs, such as Sesame Street, Clifford
+the Big Red Dog, and Molly of Denali.46
+In the 2020 -2025 grant cycle, the CPB was awarded a total of $112 million in order to develop
+“new content that helps young children build vital skills to help them succeed in school and life,
+including functional literacy, critical thinking and collaboration —and shows them career options
+in age -appropriate ways.”47
+On March 20, 2025, the President issued Executive Order (E.O .) 14242 , “Improving Education
+Outcomes by Empowering Parents, States, and Communities.” The E.O. directs the Secretary of
+Education  to “take all necessary ste ps to facilitate the closure of the Department of Education”
+while “ensuring the effective and uninterrupted delivery of services, programs, and benefits on
+which Americans rely.”48 On May 1, 2025 , the President issued  E.O. 14290, “Ending Taxpayer
+Subsidiz ation of Biased Media,” instructing federal agencies to end funding of certain public
+broadcasting activities (see “ The Future Federal Role in Public Broadcasting ” section).  On May
+2, 2025, the Department of Education terminated the previously awarded 2020 -2025 RTL grant
+and instructed grantees  to stop work  on funded programming activities , according to the CPB .49
+43 Congress provided $175 million in fiscal stabilization funds for public broadcasters under the A merican Rescue Plan
+Act of 2021  (P.L. 117 -2) and $75 million in fiscal stabilization funds  under the Coronavirus Aid, Relief, and Economic
+Security Act ( P.L. 116 -136).
+44 CPB , “CPB and PBS Receive Ready to Learn Grant from the U.S. Department of  Education,” press release,
+September 8, 2015, http://www.cpb.org/ pressroom/ release.php? pm=1235 .
+45 Anne Brachman, Governmental Affairs, CPB , personal communication with CRS, April 7, 2017.
+46 PBS, “CPB and PBS Awarded Ready To Learn Gran t from the U.S. Department of Education,” press release,
+September 7, 2020, https://www.pbs.org/ about/ about -pbs/blogs/ news/ cpb-and-pbs-awarded -ready -to-learn -grant -from -
+the-us-department -of-education/  (hereinafter CPB RTL press release ).
+47 CPB RTL press release ; see also  Julian Wyllie, “CPB Tells Stations to Stop Ready to Learn Grants,” Current , May 6,
+2025. RTL grants are awarded for the entire cycle but are disbursed in tranches annually based on appropriations.
+48 Executive Order 14242 of March 20, 2025 , “Improving Education Outcomes by Empowering Parents, States, and
+Communities ,” 90 Federal Register  13679 , March 20, 2025, https://www.federalregister.gov/ documents/ 2025/ 03/25/
+2025 -05213/ improving -education -outcomes -by-empowering -parents -states -and-communities .
+49 CPB, “CPB Statement on U.S. Department of Education Terminating Ready to Learn Grant,” pre ss release, May 6,
+2025,  https://cpb.org/ pressroom/ CPB -Statement -US-Department -Education -Terminating -Ready -Learn -Grant
+(hereinafter CPB, RTL sta tement) .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   9 As of th e date of  publication  of this report , the statutory authorities for the RTL grant program are
+intact  and the Department of Education still exists . The statute defines eligible entities as having
+all of the following :
+• “A capacity for the development and national dis tribution of educational and
+instructional television programming of high quality that is accessible by a large
+majority of disadvantaged preschool and elementary school  children.
+• “A capacity to contract with the producers of children’s television programm ing
+for the purpose of developing educational television programming of high
+quality.
+• “A capacity, consistent with the entity’s mission and nonprofit nature, to
+negotiate such contracts in a manner that returns to the entity an appropriate
+share of any anc illary income from sales of any program -related products.
+• “A capacity to localize programming and materials to meet specific State  and
+local needs and to provide educational outreach at the local level. ”50
+Although RTL grants were previously made to the CPB, other public broadcasting entities may be
+eligible for grants if Congress were to appropriate funds  to be administered by the Department of
+Education or designated successor agency . According to the RTL program website, funds were
+not appropriated beyon d FY2024.51
+Public Broadcasting Support for Public Alerts and  Warning s
+In addition to providing programming for local audiences, public broadcasting stations help
+provide public alerts and warnings  during emergencies . The CPB administer ed a competitive
+grant program for public television and radio stations to replace and upgrade their broadcast
+technologies  to expand alert and warning systems and to create a more resilient public alerting
+system. The grant program is funded by the Federal Emergency Management Agency (FEMA) as
+part of  the Next Generation Warning System (NGWS)  grant program .52 NGWS is part of an
+upgrade within the existing public safety warning system known as the Integrated Public Alert
+and Warning System.53 According to the  CPB, Congress made appropriations between FY2022
+and FY2025 totaling $136 million to implement  the NGWS Grant P rogram.54
+The program was established and funded through the annual appropriations process .
+Congressional appropriators set forth priorities for the program in appropriations committee
+reports . In the report accompanying a version of a Department of Homeland Security
+Appropriations Act, 2023 ( H.R. 8257 ), congressional appropriators stated  that
+[t]he first priority of the NGWS program is to help public media entities replace aging
+infrastructure that is essential to their role in civil defense and public safety missions. The
+50 See 20 U.S.C . §7293(3) .
+51 U.S. Department of Education , “Ready to Learn Programming, ” August 18, 2025,  https://www.ed.gov/ grants -and-
+programs/ grants -birth -grade -12/early -learning/ ready -learn -programming#funding -and-legislation .
+52 U.S. Congress, House Appropriations Committee, Department of Homeland Security Appropriations Act, 2022 ,
+report to accompany H.R. 4431 , 117th Cong., 1st sess., H.Rept. 117 -87, July 15, 2021, pp. 76 -77 (stating that the
+committee expects the Federal Emergency Management Agency [ FEMA ] to work with the CPB to implement the Next
+Generation Warning System [ NGWS ] program) .
+53 For more information on the Integrated Public Alert and Warning System, see CRS Report R48363, The Integrated
+Public Alert and Warning System (IPAWS): Primer and Issues for Congress , by Amanda H. Peskin ; and CRS In Focus
+IF12998, The Emergency Alert System: Status of Current Funding for Improvements , by Amanda H. Peskin .
+54 CPB, “Next Generation Warning System,” https://cpb.org/ NGWS .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   10 program also supports these investments by these entities in new technology  needed to
+enhance alert, warning, and other public safety communications systems to ensure
+resilience, service to underserved populations, and the ability to meet the evolving nature
+of public alerting challenges. The Committee expects FEMA to work with the Corporation
+for Public Broadcasting to implement this program for public broadcasting entities .55
+Appropriations reporting language is not usually legally binding , but federal agencies receiving
+the appropriation  may nevertheless follow such language . Under FEMA’s original
+implement ation of the program , the CPB was the only eligible applicant and sole recipient of
+grant funds  for the FY2022 -FY2024 grant cycles . Under the terms of the grant, the CPB awarded
+funds through sub -grants to public broadcast stations  for technology upgrades and for purchase
+and distribution of commercial receivers t o individual members of rural and underserved
+communities in order to assist them in accessing emergency information.56
+In compliance with President  Biden ’s E.O. 13985, “Advancing Racial Equity and Support for
+Underserved Communities Through the Federal G overnment ,” issued in January 2021 , FEMA
+prioritize d grant awards to  public broadcasting  stations serving minority and underserved
+communities .57 President Trump re voked this E.O. on January 20, 2025.58
+According to the CPB, “approximately $24.9 million [had] been awarded to 45 organizations in
+24 states” as of April 2025.59
+On February 18, 2025, FEMA put a hold on further disbursements of grant  awards funded under a
+$40 million  appropriation made by Congress in March 2022 .60 This hold temporarily halted work
+on NGWS upgrades . The CPB sued FEMA  to restore funding  but later secured the release of
+grant funds on April 24, 2025 , through a negotiated agreement with the agency.61 On August 18,
+2025, the CPB issued a press release s tating that —because it was defunded by Congress —it
+could no longer manage the NGWS Grant Program. It stated that “FEMA should assume
+responsibility for disbursing the funds as Congress intended .”62
+55 U.S. Congress, House Appropriations Committee, Department of Homeland Security Subcommittee, Department of
+Homeland Security Appropriations Bill, 2023 , report to acc ompany H.R. 8257 , 117th Cong., 2nd sess., H.Rept. 117 -396,
+July 1, 2022, p. 70 . FY2023 Department of Homeland Security  appropriations were enacted in  H.R. 2617 , which
+became  P.L. 117 -328.
+56 See FEMA, “Fiscal Year 2024 Next Generation Warning System Grant Program ,” Notice of Funding Opportunity
+(NOFO), p. 9, https://www.fema.gov/ sites/ default/files/ documents/ fema_ncp -fy24-ngwsgp -nofo.pdf  (hereinafter
+FEMA FY2024 NOFO).
+57 See Executive Order 13985  of January 20, 2021 , “Advancing Racial Equity and Support for Underserved
+Communities Through the Federal Government, ” 86 Federal Register  7009, January 2 5, 2021 ,
+https://www.federalregister.gov/ docume nts/2021/ 01/25/2021 -01753/ advancing -racial -equity -and-support -for-
+underserved -communities -through -the-federal -government ; and FEMA  FY2024 NOFO .
+58 Executive Order 14148 of January 20, 2025 , “Initial Re scissions of Harmful Executive Orders and Actions ,” 90
+Federal Register  8237 , January 2 8, 2025, https://www.whitehouse.gov/ presidential -actions/ 2025/ 01/initial -rescission s-
+of-harmful -executive -orders -and-actions/ .
+59 CPB, “ CPB Announces Five New Grants Totaling Up to $9.6 Million to Rural Public Broadcasters to Upgrade
+Emergency Alerting ,” press release, April 24, 2025, https://cpb.org/ pressroom/ CPB -Announces -Five-New -Grants -
+Totaling -96-Million -Rural -Public -Broadcasters -Upgrade  (hereinafter CPB Apr il 2025 press release ).
+60 P.L. 117 -103, Division F, Title III. See Julian Wyllie, “FEMA Lifts Hold on Next Generation Warning System
+Grants,” Current , April 25, 2025, https://current.org/ 2025/ 04/fema -lifts-hold-on-next-generation -warning -system -
+grants/ ?wallit_nosession= 1.
+61 CPB April 2025 press release.
+62 CPB, “ CPB Defunding Ends Next Generation Warning System Grant Program for Local Public Media Stations ,”
+press release, August 18, 2025, https://cpb.org/ pressroom/ CPB -Defunding -Ends -Next -Generation -Warning -System -
+Grant -Program -Local -Public -Media .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   11 Changes to the NGWS Grant Program for FY2025
+On August 6,  2025 , FEMA released  a new notice of funding opportunity (NOFO) for the NGWS
+Grant Program . The NOFO modifie d the previous purpose and funding structure of the program
+as implemented by the Biden Administratio n, which had centered the CPB and public
+broadcasting interests  in broad accordance with congressional appropriations committee reporting
+language (see the “Public Broadcasting Support for Public Alerts and  Warning s” section) .63 The
+2025 NOFO indicated that FEMA would fund a wider array of public and private sector
+stakeholders and activities in the emergency alerting field, placing less emphasis on the role of
+established broadcasters and upgra des of broadcast station technologies .64 The 2025 NOFO
+appears to indicate that FEMA may exclude  participation in the program by organizations that
+have diversity, equity, and inclusion practices  and by foreign nationals .65 In contrast with previous
+funding opportunity notices, the 2025 NOFO made no mention of public broadcasting stations or
+public broadcasting audiences as intended beneficiaries of the grant program.66
+The 2025 NOFO made $ 40 million available to fund improvements to emergency alerting
+systems  to inform the public during emergencies and protect critical infrastructure . It stated that
+FEMA w ould administer the program directly and make a total of five awards —expected to be $8
+million each —to state, tribal, or territorial emergency management agencies  (as opposed to the
+CPB ).67 According to the NOFO, g rant recipients may spend funds directly or make sub -awards
+to eligible subrecipients. The NOFO d id not provide a detailed definit ion of subrecipient
+eligibility .
+CPB Support for Independent Broadcasters  and
+Producers
+Congress created the CPB to provide federal support for consistent funding for content
+production and distribution that would support a  national public broadcasting enterprise  (see the
+“The Public Broadcasting Act of 1967 ” section) . As amended, the PBA provides a formula for
+CPB allocation of federal appropriations it receives from Congress. The formula allocates
+funding as follows:
+• CPB administrative costs  receive 5% of the total allocation .
+• System support activities , such as local journalism initiatives, professional
+development, interconnection operations, and royalty payments, among others ,
+receive 6% of the total allocation .68
+63 FEMA, “ Fiscal Year 2025 Next Generation Warning System Grant Program, ” NOFO DHS -25-IPAWS -138-00-99,
+August 6, 2025, https://www.fema.gov/ sites/ default/ files/ documents/ fema_gpd_ipaws_fy2025 -ngws -
+nofo_08062025.pdf  (hereinafter NGWS FY2025 NOFO) .
+64 NGWS FY2025 NOFO, pp. 6 -9. For example, the NOFO lists installation of IPAWS -compatible emergency sirens in
+rural and tribal areas as the top program performance criter ion; see pp. 9, 29.
+65 NGWS FY2025 NOFO, p. 29.
+66 For example, t he FEMA FY2024 NOFO defined eligible subrecipients narrowly as “public broadcast entities” as the
+term is defined in 47 U.S.C. §397(11), and identified “underserved public broadcasting audience s” as the intended
+beneficiaries of the program . See FEMA FY202 4 NOFO , pp. 6, 11.
+67 NGWS  FY2025 NOFO , pp. 6 -7.
+68 CPB , “CPB’s Federal Appropriation Request & Justification ,” https://cpb.org/ funding .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   12 • The remainder —89% of the total federal appropriation to the CPB —is used to
+provide grants to public broadcasting stations and program producers that meet
+specified eligibility criteria.
+• Of th at 89% remainder , 75% is allocated to television grants , and 25% is
+allocated to radio grants .
+• Funds for television grants are further divided into television station grants and
+programming grants —75% and 25% of total public television grant funding ,
+respectively.
+• For radio, 70% of total public radio funding is allocated to radio station grants.
+The remainder of the total is alloc ated between radio programming acquisition
+grants (23%) and radio programming grants (7%).
+Figure 1 provides a visual representation of the allocation formula .
+Figure 1. Allocation of  the CPB’s Federal Appropriation
+Source: CRS, adapted from  Corporation for Public Broadcasting  (CPB) , “Appendix C —Formula for Allocating
+CPB’s Federal Appropriation,” in Appropriation Request and Justification for FY2023 /FY2025 , March 28, 2022,
+https://cpb.org/ sites/default/ files/appropriation/ FY-2023-2025-CPB-Budget -Justification.pdf .
+CPB grants were  the largest single source of funding for public television and radio stations and
+for programming  development and distribution . Station grants for both radio a nd television were
+known as Community Service Grants. On average,  in FY2024 , 10.6% of a public television
+station’s revenue  and 6.0% of a public radio station’s revenue c ame from CPB television and
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   13 radio station grants .69 The percentages for rural stations serving smaller audiences over larger
+broadcasting regions were  often substantially higher because they generally had fewer alternative
+funding streams.70
+The CPB took several factors into account in determining grant funding for individual stations,
+includ ing rural geography , service to minority audiences , independent fundraising, and  status as
+sole media provider in a service area .71 Stations were required to  apply annually for grants  and
+meet  transparency requirements for financial reporting and public oversight , among other
+requirements . Eligibility rules  for Community Service Grants  strongly favor ed incumbent
+licensees that received awards during the previous grant cycle. The predictability of this funding
+facilitated stations’ long -term planning and outside fundraising efforts. Programming grants to
+stations and independent producers were generally disbursed as competitive awards for specific
+public programming activities.
+Independent publi c broadcasters could  also receive support from other federal agencies, state and
+local governments,  community organizations, educational institutions,  corporations  and other
+businesses , philanthropic organizations, and individual donations from viewers and  listeners.
+The Public Broadcasting Service  and National
+Public Radio
+The Public Broadcasting Service ( PBS) was created by the CPB in 1969 to operate and manage a
+nationwide program distribution system interconnecting public television stations and to provide
+a distribution channel for national programs to those stations. Although PBS does not produce
+programs for its members, it aggregates funding for the creation and acquisition of programs by
+and for the stations  and distributes programs through its satellite distribution system  to nearly 350
+local public television stations.
+National Public Radio (NPR)  was created  by the CPB  in 1970 as a news -gathering, production,
+and program -distribution company governed by its member public radio stations. NPR has over
+1,000 member and affiliate stations, according to the CPB. In contrast with PBS, NPR is
+authorized  to produce radio progra ms for its members . It also  provide s, acquire s, and distribute s
+radio programming through its satellite program distribution system. NPR Inc., located in
+Washington, DC, provides these administrative operations. NPR membership includes access to
+certain NP R-produced public affairs programs, but member stations retain control over
+programming decisions.72 Two-thirds of all  public radio stations in the United States are NPR
+members.73
+69 CPB , “CPB Financial Information, ” https://cpb.org/ aboutcpb/ financials .
+70 CPB , “CPB Support for Rural Stations, ” https://cpb.org/ aboutpb/ rural .
+71 CPB, “CPB Community Service Grants ,” October 28, 2020, https://cpb.org/ sites/ default/ files/
+CSG_Fact_Sheet_10.29.20_FINAL.pdf .
+72 National Public Radio ( NPR ), “Public Radio Finances,” https://www.npr.org/ about -npr/178660742/ public -radio -
+finances .
+73 Letter from Patricia de Stacy Harrison, President and CEO  of the CPB , to Sen. Ted Cruz, May 9, 2024 , p. 2,
+https://cpb.org/ sites/ default/ files/ CPB%20Response%20Letter%20to%20Sen%20Cruz%205 -09-2024.pdf  (hereinafter
+CPB Cruz letter) .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   14 According to the CPB, PBS is funded mainly by “member stations, distributi on revenue, and
+underwriting support.”74 Similarly, NPR is funded mainly “by member stations, distribution
+services, underwriting and institutional grants, and individual contributions. ”75 Public
+broadcasters were permitted to use  CPB grant funds to pay membership dues to PBS and NPR
+and to pay license fees for programming . Therefore, CPB station and programming grants
+awarded to independent local broadcasters could  fund PBS and NPR indirectly. Because  public
+broadcasting  stations  typically dr ew from multiple revenue sources to  pay membership dues and
+program acquisition fees , there are no authoritative estimates of  indirect federal funding levels  of
+the PBS and NPR  nonprofit organizations  through dues and fees .76
+Both PBS and NPR  receive d some direct federal funding from the CPB. In the case of PBS, the
+CPB provide d direct  grant support for certain national content, distribution infrastructure, and
+emergency alerting functions (see  the “Public Broadcasting Support for Public Alerts and
+Warning ” section). In the case of NPR, the CPB provided “ direct grant support to NPR for its
+international reporting bureaus and for the infrastr ucture that distributes content from NPR and
+other national public radio producers to every public radio station.”77 Such funding  typically
+made  up a small fraction of these organizations’ total revenue.
+According to media reports, NPR receive d about 1 % of its funding  for programming and related
+activities directly from the federal government each year , while PBS receive d about 16%.78 In a
+March 2025  public appearance, Katherine Maher, the president and CEO of NPR , said that direct
+federal funding was approximately $11 million annually, with $3 million going to support
+international news gathering , and the remainder going to support distribution and emergency
+warning infrastructure. NPR’s annual budget is approximate ly $300 million, according to
+Maher.79 The PBS budget for FY2025 was $373 million, according to media reports.80
+FCC Chairman’s Request for Investigation of PBS and NPR
+In January 2025, FCC Chairman Brendan Carr asked the FCC Enforcement Bureau to open an
+investigation of PBS and NPR  member stations  for potential violations of federal legal
+prohibitions against  commercial advertising by public broadcast stations.81 Member stations
+typically run underwriting announcements before programs to recognize sponso rs. These
+74 CPB , “FAQ : How Are CPB, PBS, NPR and Local Stations Related?” https://cpb.org/ faq (hereinafter CPB , “FAQ :
+How Are CPB, PBS, NPR and Local Stations Related? ”).
+75 CPB , “FAQ : How Are CPB, PBS, NPR and Local Stations Related?”
+76 See CPB Cruz letter, p. 5 .
+77 CPB , “FAQ : How A re CPB, PBS, NPR and Local Stations Related?”
+78 David Folkenflik, “Trump ’s FCC Chief Opens Investigation into NPR and PBS,” NPR , January 30, 2025 ,
+https://www.npr.org/ 2025/01/30/nx-s1-5281162/ fcc-npr-pbs-investigation .
+79 Marta Szpacenkopf , “End of Federal Funds Would Break Fabric of Public National Network, Says NPR ’s CEO,”
+Knight Center for Journalism in the Americas  (blog) , April 2, 2025 , https://knightcenter.utexas.edu/ end-of-federal -
+funds -would -break -fabric -of-public -national -network -says-nprs-ceo/.
+80 Julian Wyllie, “PBS Board Approves $373M Budget, Applauds Contract Extension for CEO Paula Kerger,” Current ,
+June 18, 2024, https://current.org/ 2024/ 06/pbs-board -approves -373m -budget -applauds -contract -extension -for-ceo-
+paula -kerger/ .
+81 Letter from Brendan Carr, FCC Chairman, to Katherine Maher, President and CEO of NPR , and Paula A. Kerger,
+President and CEO of  PBS, January 29, 2025,  https://www.capradio.org/ media/ 12276790/ chairman -carr-letter -to-npr-
+and-pbs.pdf  (hereinafter Carr letter).
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   15 announcements must adhere to strict criteria prohibiting promotion of goods and services, use of
+inducements, or calls to action.82 In a letter to NPR and PBS leadership, Carr wrote
+I believe this FCC investigation may prove relevant to an ongoi ng legislative debate. In
+particular, Congress is actively considering whether to stop requiring taxpayers to
+subsidize NPR and PBS programming. For my own part, I do not see a reason why
+Congress should continue sending taxpayer dollars to NPR and PBS giv en the changes in
+the media marketplace since the  passage of the Public Broadcasting Act of 1967. To the
+extent that these taxpayer dollars are being used to support a for -profit endeavor or an entity
+that is airing commercial advertisements, then that wou ld further undermine any case for
+continuing to fund NPR and PBS with taxpayer dollars.83
+FCC Commissioner Anna M. Gomez, an appointee of President Biden, released a statement
+criticizing the investigation request as “yet another Administration effort to w eaponize the power
+of the FCC .”84 Additionally, several Members wrote letters to the FCC or issued public statements
+criticizing the investigation request.85 PBS and NPR leaders made widely  reported statements that
+member stations comply with applicable legal requirements.86
+Other Public Media Organizations
+Although PBS and NPR have become nearly synonymous with public broadcasting in the United
+States, there are multiple other public  organizations that serve the needs of independent , local
+broadcasting stations.87 Examples include American Public Television  (APT), which  claims to be
+the “leading syndicator of high -quality, top -rated programming to the nation’s public television
+stations .”88 In radio, American Public Media  operates a network of 49 public radio statio ns in the
+Upper Midwest and California and distributes public radio programming content nationwide.89
+Public  broadcasters were permitted to  use CPB programming acquisition grants  to purchase
+programming from these and other similar organizations . Since the defunding  of the CPB, public
+media organizations have sought to adapt to the changed institutional and funding environment.
+82 FCC , “Commission Policy on the Noncommercial Nature of Educational Broadcasting, ” https://www.fcc.gov/ media/
+radio/ nature -of-educational -broadcasting .
+83 Carr letter.
+84 FCC News, “Commissioner Gomez Statement on FCC Investigation into NPR, PBS,” press release, January 30,
+2025 , https://docs.fcc.gov/ public/ attachments/ DOC -409227A1.pdf .
+85 For exampl e, letter from Sens. Edward J. Markey  et al. , to Brendan Carr, FCC Chairman, February 12, 2025,
+https://www.markey.senate.gov/ imo/media/ doc/letter_to_fcc_on_b roadcasters.pdf .
+86 For example, Todd Spangler, “PBS, NPR Say They Comply with U.S. Regulations After Trump -Appointed FCC
+Chairman Warns They May Be ‘Violating Federal Law’ by Airing Ads,” Variety , January 30, 2025,
+https://www.yahoo.com/ news/ pbs-npr-comply -u-regulations -202802382.html .
+87 For a list of major organizations, see CPB , “Public Media Organizations, ” https://cpb.org/ stations/ pborganizations .
+88 American Public Television , “About, ” https://aptonline.org/ about/ apt. On January 12, 2026, the CPB awarded
+American Public Television  a $2.9 million grant from residual funds to “provide finishing funds and editorial support
+for station -produced programs with strong potential for broader distribution.” See CPB, “Corporation for Public
+Broadcasting Awards $2.9 Million Grant to American P ublic Television to Expand National Distribution of Locally
+Produced Content,” press release, January 12, 2026, https://cpb. org/pressroom/ corporation -public -broadcasting -awards -
+29-million -grant -american -public -television -expand .
+89 Minnesota Public Radio  (MPR) , “Public Radio System Overview : How Are MPR and APM Different from NPR and
+PRX?” https://www.mpr.org/ about/ public -radio -system -overview#:~:text=
+how%20are%20mpr%20and%20apm%20different%20from%20npr%20and%20prx , and American  Public Media
+(APM) , “About Us ,” https://www.americanpublicmedia.org/ about .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   16 For example, in September 2025 , five public media organizations formed a new nonprofit
+coalition with fund ing from a $57.9 million grant that the CPB made from residual funds. The
+new nonprofit entity, named Public Media Infrastructure (PMI), announced that it would
+lead an urgent effort to innovate radio and digital distribution systems; create new tools
+and shared services for revenue generation, data analytics, and audience development; and
+build new content delivery services and products designed to enable local stations to remain
+vital sources of local news and programming for their communities.90
+PMI wo uld take over some national distribution functions for radio programming previously
+administered by NPR, which prompted NPR to file a lawsuit against the new organization. Both
+parties reached a settlement in November 2025 after the CPB agreed to provide $36 million in
+residual funds to NPR to administer its existing distribution infrastructure, according to media
+reports.91
+The Future Federal Role in Public Broadcasting
+After the  Rescission of CPB Appropriations
+On May 28, 2025, President Trump transmitte d a special message to Congress requesting
+rescission of $9.4 billion in enacted appropriations, including a total of $1.07 billion that it had
+previously appropriated to the CPB for FY2026 and FY2027.92 The President invoked Section
+1012(a) of the Congres sional Budget and Impoundment Control Act of 1974 (ICA; 2 U.S.C.
+§683(a)). The act grants the Comptroller General of the Government Accountability Office
+(GAO) responsibilities to monitor and enforce through litigation executive branch compliance
+with the ICA’s requirements.93
+On June 12, 2025, the House of Representatives passed the Rescissions Act of 2025 ( P.L. 119 -28)
+by a 214 -212 vote. The act  included all appropriations covered by the President’s special
+message. On July 17, 2025, the Senate passed the bill by a 51 -48 vote.
+Much of the debate over the future of public broadcasting before the rescission of appropriations
+involve d controversy ov er whether it should continue to be treated as a public good and,
+therefore, whether  federal support  should continue . Some s upporters of public broadcasting
+contend ed that public radio and public television provide d education and news to parts of the
+Ameri can population that were underserved by commercial broadcasters .94 They argue d that i n
+doing so, public broadcasting  fulfilled the intent of the PB A, as amended, which state d in its
+declaration of policy that  public media should address the “needs of unserved and underserved
+90 Public Media Infrastructure, “Five Leading Public Media Organizations Unite to Chart Next Era of Innovation and
+Infrast ructure For Public Radio,” press release, September 26, 2025, https://publicmedia.tech/ news/ five-leading -public -
+media -organizations -unite -to-chart -next-era-of-innovation -and-infrastructure -for-public -radio/ .
+91 Benjamin Mullin, “NPR’s C.E.O. Was a Right -Wing Target. Then the Real Trouble Started,” New York Times ,
+December 30, 2025, https://www.nytimes.com/ 2025/ 12/30/business /npr-katherine -maher.html .
+92 White House, “Message to Congress,” May 28, 2025, pp. 21 -22, https://www.whitehouse.gov/ wp-content/ uploads /
+2025/ 03/Proposed -Rescissions -of-Budgetary -Resources.pdf . The George W. Bush Administration requested rescissions
+of appropriated CPB funds through its budget requests for FY2006 to FY2010. The proposed rescissions were $10
+million from FY2006, $53.5 mi llion from FY2007, $50 million from FY2008, $200 million from FY2009, and $220
+million from FY2010.
+93 For more information on rescissions, see CRS Report R48432, The Impoundment Control Act of 1974: Backgro und
+and Congressional Consideration of Rescissions , by James V. Saturno .
+94 Protect My Public Media, “Corporation for Public Broadcasting,” https://protectmypublicmedia.org/ cpb/.
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   17 audiences, particularly children and minorities”  through educational and cultural programming.95
+Additionally, advocates in the emergency response community highlighted the role that public
+broadcasting play ed in the nati onal emergency alerting system —particularly in areas where
+commercial internet and cell service either are not univers ally available  or affordable  or have
+been taken offline by natural disasters .96
+Critics questioned whether these were  relevant and appropr iate roles for federally  assisted
+broadcasting.97 They contend ed that public broadcasting lost much of its early impact as available
+media choices expanded  over the last several decades and that , as a result,  the federal role in
+public broadcasting needed to be reevaluated. Many question ed the 1967 law that created the
+national public broadcasting system and whether the federal government should be in the
+“business” of providing general appropriations to the CPB.
+For example, i n the 118th Congress, a House report , Concurrent Resolution on the Budget —Fiscal
+Year 2025 , included a comment about d iscretionary spending  under the “Education, Training,
+Employment, and Social Services ” function that urged a cutoff of federal support for “cultural
+agencies.”  It said, in part,
+It should not be the responsibility of the Federal Government to provide subsidies for
+cultural agencies, such as the Corporation for Public Broadcasting, the National
+Endowment for the Arts, and the National Endowment for the Humanities. This budget
+resolution recommends such agencies generate financial support from private -sector
+patrons.98
+Some observers  contend ed that the size and scope of the federal government budget deficit
+require d significant cutbacks in many areas. They argue d that federal support for public
+broadcasting was no longer necessary, given the increasing predominance of internet -based
+technologie s and formats in broadcasting that are broadly accessible to both producers and
+consumers of educational media content at a reasonable cost.  Other observers noted that
+persistent gaps in internet coverage and affordability —particularly in low -income or rur al areas —
+may have limit ed some Americans’ access to these resources.99
+Many  critics of public broadcasting —particularly of PBS- and NPR -branded programming —
+voiced concerns that  federally  subsidized  public broadcasting was not objective, balanced, or free
+of ideological bias. For example, on March 26, 2025, the House Subcommittee on Delivering on
+Government Efficiency  held a hearing, Anti-American Airwaves: Holding the Heads of NPR and
+PBS Accountable , in which NPR and PBS leaders were called to testify and address allegations of
+liberal bias  in public broadcasting .100
+95 See 47 U.S.C . §396 (a)(6). For discussion of public broadcasting advocacy issues, see Adam Ragusea, Topple the
+Towers: Why Public Radio and Television Stations Should Radically Reorient Toward Digital -First Local News, and
+How They Could Do It, Knight Foundation, 2017, https://knightfoundation.org/ public -media -white -paper -2017 -
+ragusea .
+96 CPB, “Public Media’s Role in Emergency Services ,” August 10, 2020, https://cpb.org/ sites/ default/ files/Emergency -
+Alert -Fact-Sheet.pdf .
+97 For example, James T. Bennett, The History and Politics of Public Radio: A Comprehensive Analysis of Taxpayer -
+Financed U.S. Broadcasting  (Springer, 2021).
+98 U.S. Congress, House Committee  on the Budget , Concurrent Resolu tion on the Budget  on the Budget —Fiscal Year
+2025 , report to accompany  H.Con.Res. 117 , 118th Cong., 2nd sess., H.Rept. 118 -568, June 27, 2024, p. 40,
+https://www.congress.gov/ cong ressional -report/ 118th -congress/ house -report/ 568/1?s=1&r=13.
+99 CRS Report R47506, The Persistent Digital Divide: Selected Broadband Deployment Issues and Policy
+Considerations , by Colby Leigh Pechto l.
+100 House Committee on Oversight and Government Reform, “Hearing Wrap Up: DOGE Subcommittee Holds NPR
+(continued...)
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   18 Katherine Maher of NPR  defended the organization’s commitment to impartiality in its news and
+commentary programming, highlighting several organizational reforms .101 Paula Kerger of PBS
+said, “We  are constantly looking to making sure that we  are bringing forward a diversity of
+viewpoints and perspectives.”102 Additionally, p ublic broadcastin g advocates sa id that
+programming decisions —including whether to carry certain PBS - or NPR -branded content —
+were  made by independent local stations, which are subject to public transparency requirements
+and may tailor programming to the preferences and need s of local audiences.
+The Trump Administration  oppose d federal support of public broadcasting on grounds of political
+bias and waste. An April 14, 2025 , White House statement, “The NPR, PBS Grift Has Ripped Us
+Off for Too Long,” called for elimination of fundin g, claiming that the organizations  “spread
+radical, woke propaganda disguised as ‘news .’”103 During his first term in office, President Trump
+propos ed eliminating CPB funding (save for closeout costs) in each of his budget proposal s
+submitted to Congress.104 The White House budget for FY2026  propose d canceling $505 million
+out of $535 million previously appropriated to t he CPB  for FY2026, leaving $30 m illion for
+closeout costs , and would cancel the full advance appropriation of $535 million for FY2027 .105
+On May 1, 2025, President Trump issued E.O. 14290 , in which he directed the CPB and all
+federal agencies to cease funding for NPR and PBS.106 As justification, the E.O. cited a
+contemporary media landscape “filled with abundant, diverse, and innovative news options” and
+the alleged political bias of NPR - and PBS -branded current events programming.  The E.O.
+speci fied that the restriction applie d to direct funding to the NPR and PBS organizations, as well
+as to CPB grant funds that NPR and PBS may indirectly receive from member stations in the
+form of membership and programming fees.  It direct ed the CPB to change g rant rul es to prevent
+use of grant funds for these purposes.
+Patricia Harrison, President and CEO of the CPB, issued a statement challenging the legality of
+the E.O. :107
+and PBS Executives Accountable for Leftist Propaganda Funded by Taxpayer Dollars,” press release, March 26, 2025 ,
+https://oversight.house.gov/ release/ hearing -wrap -up-doge -subcommittee -holds -npr-and-pbs-executives -accountable -
+for-leftist -propaganda -funded -by-taxpayer -dollars/ .
+101 Cameron Coats, “Maher Defends NPR’s Editorial Independence in DOGE Showdown,” RadioInk , March 27, 2025,
+https://radioink.com/ 2025/ 03/27/maher -defends -nprs-editorial -independence -in-doge -showdown/ .
+102 Statement made during question -and-answer  period at the hearing.  U.S. Congress, House Committee on Oversight
+and Government Reform, Anti-American Airwaves: Holding the Heads of NPR and PBS Accountable , hearings, 119th
+Cong., 1st sess., March 26, 2025, H.Hrg. 119 -14, https://www.congress.g ov/event/ 119th -congress/ house -event/
+LC74287/ text? q=%7B%22search%22%3A%22Anti -
+American+Airwaves%3A+Holding+the+heads+of+NPR+and+PBS+Accountable%22%7D& s=2&r=1.
+103 White House, “The NPR, PBS Grift Has Ripped Us Off for Too Long,” press release, Apr il 14, 2025 ,
+https://www.whitehouse.gov/ articles/ 2025/ 04/the-npr-pbs-grift-has-ripped -us-off-for-too-long/ .
+104 See CPB , “CPB’s Past Appropriations,” https://cpb.org/ appropriation/ history . From FY2002 to FY2011, the Bush
+Administration declined to request two -year advance funding for the CPB.  In both the George W. Bush Administration
+and the first Trump Administration , Congress continued CPB appropriations in line with amounts previously
+appropriated.
+105 Office of Management and Budget, Technical Supplement to the 2026 Budget : Appendix , May 30, 2025, p. 1058,
+https://www.whitehouse.gov/ wp-content/ uploads /2025/ 05/appendix_fy2026.pdf .
+106 Executive Order 14290  of May 1, 2025 , “Ending Taxpayer Subsidization of Biased Media, ” 90 Federal Register
+19415, May 7, 2025.
+107 CPB, “Corporation for Public Broadcasting Statement Regarding Executive Order on Public Medi a,” press release,
+May 2, 2025, https://cpb.org/ pressroom/ Corporation -Public -Broadcasting -Statement -Regarding -Executive -Order -
+Publi c-Media .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   19 CPB is not a federal executive agency subject to the President’s authority. Congress
+directly authorized and funded CPB to be a private nonprofit corporation wholly
+independent of the federal government. In creating CPB, Congress expressly forbade ‘any
+department, agency, officer, or employee of the United States to exercise any direction,
+supervision, or control over educational television or radio broadcasting, or over [CPB] or
+any of its grantees or contractors .…’ 47 U.S.C. § 398(c).
+NPR and PBS  subsequently  filed separate lawsuits against the President and senior
+Administration officials . On May 27, 2025 , NPR a long with  three Colorado member stations filed
+suit in the U.S. District Court for the District of Columbia. In the filing, the plaintiffs argued , in
+part, that the E.O. violated their right to free speech and was  issued in retaliation for  news
+reporting that angered the President . The plaintiffs also argued that  President Trump did not have
+the authority to block duly enacted congress ional appropriatio ns to a corporation that Congress
+created as a private nonprofit to insulate it from political interference .108 On May 30, 2025,
+PBS—joined by a Minnesota member station —filed its own lawsuit, making arguments similar to
+those put forth in the NPR lawsuit.109
+Options for Congress
+For nearly 60 years, the institutional parameters of the public broadcasting enterprise were
+defined largely by the relationship between the CPB and the public media organizations it created
+(PBS and NPR) , on the one hand, and local public media broadcasters under a variety of
+ownership structures , on the other. The re scission of CPB appropriations —followed by cessation
+of operations in early 2026 —may substantially alter these parameters. Congress may influence
+the scope, character , and extent  of changes , depending on the policy options it chooses to pursue .
+Congress may consider four broad  orientations for policy action or —alternately —may choose not
+to act, maintain ing the current status  quo. Congress may (1) reest ablish the CPB and provide
+appropriations  and policy guidance to the new organization under existing  authorities , (2) provide
+appropriations to a reestablished CPB or successor organization under amended authorities , (3)
+provide appropriations for certain activities through other existing authorities, or (4) create new
+authorities to provide  funding through federal agencies  for support of certain public broadcasting
+activities, such as station and programming grants, e mergency alerting, and interconnection
+support .
+Reestablish and Fund the CPB Under Existing Authorities
+The Re scissions Act did not address the PBA , which remains law . If Congress were to appropriate
+funds through a future Departments of Labor , Health and  Human Services , Education , and
+Related Agencies  appropriations bill , the CPB could resume  operations. The CPB cited Senate
+appropriators’  decision not to provide  funding in FY2026 as influencing  its decision to cease
+operations and dissolve itself .
+108 Complaint for Declarative and Injunctive Relief, NPR  v. Trump , No. 1:25 -cv-01674  (D.D.C. 2025) ,
+https://media.npr.org/ documents/ about/ press/
+NPR%20Complaint%20for%20Declaratory%20and%20Injunctive%20Relief.pdf .
+109 David Baude r, “PBS Suing Trump Administration Over Defunding, Three Days After NPR Filed Similar Case,”
+PBS News , May 30, 2025, https://www.pbs.org/ newshour/ nation/ pbs-suing -trump -administration -over-defunding -three -
+days-after-npr-filed-similar -case. See Complaint for Declarative and Injunctive Relief, PBS v. Trump , No. 1:25 -cv-
+01722  (D.D.C.  2025) , https://www.courtlistener.com/ docket/ 70414813/ 1/public -broadcasting -service -v-donald -j-
+trump .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   20 Should Congress wish to reestablish  the CPB in future years,  it may appropriate funds to do so.
+However, given that the CPB will have  ceased operations, several considerations apply. Congress
+may need to  include instructions for reestablishing the CPB in a ppropriations reporting language
+or authorizing language expressing a “sense of the Senate” or “sense of the House .” Congress
+might wish to affirm that it intends for the CPB to operate in accordance with the PBA prior to
+enactment of rescissions in 2025.
+The PBA provides that members of CPB’s Board of Directors be appointed by the President, by
+and with the advice and consent of the Senate. The PBA states that the members of the original
+board of directors serve as incorporators  and that the organization must be incorporated as a
+nonprofit organization in the District of Columbia . To the extent that this process would apply to
+efforts to reestablish the CPB, the process could first require appointment of board members with
+Senate advi ce and consent.  Fully reestablishing the CPB could involve acquiring office space,
+hiring staff, and performing other start -up activities , meaning that the CPB potentially would not
+be able to perform statutory functions immediately upon reestablishment . Congress could
+therefore consider an initial appropriation to fund start -up costs before making a full
+appropriation to fund grants to public broadcasting entities through the CPB .
+The rescission of CPB  appropriations and subsequent dissolution of the CPB may disrupt e xisting
+federally supported public broadcasting activities, which involve long -term planning for
+programming, infrastructure investments, and station support activities . For those seeking to
+maintain public broadcasting as it existed in recent decades , reestablishing the CPB under
+existing authorities might have the advantage of mitigating such disruptions —especially if this is
+done relatively quickly while much of the public broadcasting enterprise the CPB formerly
+supported is still intact.  However, a CPB  reestablished under the existing authorities may face the
+same controversies related to  federal support of public broadcasting through a private nonprofit
+corporation , and the potential for future rescissions may complicate any effort to reestablish the
+CPB as it existed before being defunded  and subsequent ly dissol ved (see “ The Future Federal
+Role in Public Broadcasting  After the  Rescission of CPB Appropriations ” section).
+Congress may create an alternate funding mechanism separate from the  annual  appropriations
+process  to mitigate such potential complications —for example, b y creating  an excise tax on
+certain goods and services, as suggested by the Carnegie Commission (see the “ Public
+Broadcasting B efore 1967 ” section). Congress cou ld dedicate revenue from the tax to the CPB , if
+reestablished,  or other public broadcasting entities.  Alternately, it could use a mechanism similar
+to that used to fund C -SPAN, in which commercial cable and satellite television operators
+contribute operati ng funds through a designated fee.110 Such mechanisms might provide greater
+independence to the CPB and consistent funding to public broadcasting  but would likely reduce
+congressional oversight. Additionally, the variability of annual revenue might complicate CPB
+planning. Congress may repeal the PBA if it wishes to preclude reestablishment of the CPB under
+these or other conditions .
+Reestablish a nd Fund the CPB or Successor Organization with
+Changes
+Congress might consider amendments to the PBA to address  previous disputes over the
+independence, objectivity, and balance  of the CPB and the organization’s accountability to elected
+110 See “How is C -SPAN funded?” in C-SPAN , “FAQ s,” https://www.c -span.org/ about/ faq/. C-SPAN subsequently
+diversified its fundraising through limited advertisements and viewer donations. See C -SPAN , “Our History,”  2026,
+https://www.c -span.org/ about/ history .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   21 leadership.  Some might argue that decisions about programming related to  public affairs, early
+childhood education, national history, and other topic s are inherently  value  laden  and, therefore ,
+should  reflect the values of the ele ctorate  and the priorities of the nation’s elected leadership  if
+they receive  federal  funds .
+From this point of view, Congress might seek to make a reconstituted CPB operate more like a
+federal agency than a private nonprofit. Congress could grant the CPB  more centralized control
+over programming , akin to the authorities it held previously before these were transferred  to
+public broadcasting stations in 1973  as a result of perceptions of bias in news coverage  (see “ The
+Public Broadcasting Act of 1967 ” section) . Congress may also choose  to fund the CPB with
+regular , annual appropriations to ensure greater CPB accountability  to policy preferences  of
+congressional majorities  and the White House , rather than reinstituting advance appropriations.
+Alternately, Congress could structure the CPB or a successor organization within an existing
+federal department or as an independent  federal agency  with a d irector appointed by the President
+with the advice and consent of the Senate . The director  could pursue Administration policy
+priorities  in public broadcasting subject to statutory guidelines and congressional oversight  as
+would be done by any other agency  head . Some, however, m ight perceive such an arrangement to
+be inconsistent with  the original intent of the PBA to make federal public broadcasting a shared
+national endeavor  insulated from politics and the electoral  process .
+Fund Public Broadcasting Thro ugh Other Existing Authorities
+Congress may seek to create alternative structure s for support of public broadcasting  stations or
+use certain existing authorities . The Public Telecommunications Facilities Program  (PTFP) ,
+established under the Public Telecommunications Act of 1992 ( P.L. 102 -356) as the successor to
+ETFA, provided funds for facilities construction until  2010, when Congress made its final
+appropriation. T he National Telecommunications and Information Administration (NTIA)
+shuttered  the program in 2011 and repealed program regulations in  2017.111 Congress could fund
+the PTFP if it chose to make appropriations and provide appropriate guidance for reactivating  the
+program  as a vehicle for supporting construction of public broadcasting facilities with federal
+funds. Congress  may also wish to continu e funding  the RTL and NGWS programs , which were
+not addressed  by the rescissions bill.  In the latter case, the Trum p Administration disregarded
+legislative reporting language that directed it to use grant funds to support public broadcasting
+entities , reinterpreting  statutory language  to repurpose the funds  (see “ Changes to the NGWS
+Grant Program for FY2025 ” section).  Congress may provide guidance to federal agencies on
+administration of these programs , including  what portion of program funding —if any —should be
+directed to public broadcasting entities , or specify this  in statute . Additionally, it might create new
+grant programs to support PMI or other distributors of national programming not linked with the
+NPR or PBS organizations (see “Other Public Media  Organizations ” section).
+Fund Public Broadcasting Activities Through Appropriations to
+Federal Agencies
+Congress might assign new authorities  to federal agen cies, such as the Department of Education
+or the Department of Commerce , to carry out a public broadcasting enterprise . Congress might
+also direct an appropriate federal agency to use designated appropriations to fund broadcast
+stations and interconnection s in lieu of CPB support . Additionally, other agencies, such as the
+111 Department of Commerce, National Telecommunications and Information Administration, “Repeal of Regulations
+Governing the Public Telecommunications Facilities Progr am,” 82  Federal Register  43844, September 20, 2017.
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   22 U.S. Department of Agriculture, the Department of Energy, or the Bureau of Indian Affairs, might
+provide programming grants or other support relevant to their statutory missions .112
+This approach may allow Congress to directly and more narrowly target funding to support local
+public broadcasting stations and specific programming activities without an intermediary . The
+federal role in public broadcasting may be more  limited or siloed under such a scenario  in which
+federal support was realized through multiple issue -specific grant programs administered by
+multiple federal agencies. It may also raise concerns regarding the independence of the public
+broadcasting enterprise from political control. However, this approach  would retain some federal
+involvement in —and support of —public broadcasting .
+Take No Further Action  Regarding the CPB  and Public
+Broadcasting
+The public broadcasting enterprise  has continue d after the dissolution of CPB , although its long -
+term prospects are unknown as of th e publication  date of this report . Both NPR and PBS have
+released public statements indicating that they plan to continue operations after the CPB shuts
+down , albeit with cutbacks .113 At the same time, m any public broadcasting stations have reported
+record contributions from  individual viewers and listeners, as well as from corporate
+underwriters .114 Some states provide substantial funds to public broadcasting stations and may
+continue to do so for the for eseeable future.115 Nonetheless, m any observers have predicted that
+broadcast stations located in more remote areas or those that serve economically marginalized
+audiences may struggle to keep operating without station grants provided by the CPB.116
+In Augu st 2025, PBS announced a 21% cut to its annual budget in response to federal defunding
+of public television.117 The President and CEO of NPR said that 78 member stations face
+immediate risk to continuing operations  and that roughly half would “have to make significant
+adaptations” to stay on the air . However, she voiced optimism  that many of them will adapt to the
+changed policy environment and continue to operate.118 Several foundations have undertaken a
+112 Prior to 1967, some support for public broadcasting was made through NDEA  appropriations, and the ETFA was
+justified in part on defense grounds —see “ Public Broadcasting B efore 1967 ” section.  According to media reports, in
+2025 , the White House agreed to provide $9.4 million in grants to tribal public radio stations through the Bureau of
+Indian Affairs,  drawing on previously appropriated Department of the Interior funds as a condition for Sen. Mike
+Rounds’ support of the Re scission s Act. See Jennifer Shutt, “US Senate Republicans Advance Bill Stripping Funds
+from NPR, PBS, Foreign Aid,” News from the States , July 15, 2025, https://www.newsfromthestates.com/ article/ us-
+senate -republicans -advance -bill-stripping -funds -npr-pbs-foreign -aid.
+113 See NPR, “Statement from Katherine Maher, NPR President & CEO, on Closure of Corporation for Public
+Broadcasting,” press release, August 1, 2025, https://www.npr.org/ 2025/ 08/01/g-s1-80660/ statement -from -katherine -
+maher -npr-president -ceo-on-closure -of-corporation -for-public -broadcasting ; and PBS, “The CPB Is Closing. We Are
+Not,” https://www.pbs.org/ video/ the-cpb-is-closing -we-are-not-fjgeix/ .
+114 Scott Nover , “Can NPR Do Without Federal Funding? Its CEO Says She ’s Optimistic,” Washington Post , August 6,
+2025, https://www.washingtonpost.com/ business/ 2025/ 08/06/npr-katherine -maher -funding/  (hereinafter Nover , “Can
+NPR Do Without Federal Fun ding? ”).
+115 “How Much Do Public Broadcasters Receive in State Funding,” Current , 2025, https://current.org/ state-funding -
+guide/ .
+116 Benjamin Mullin, “The Race to Rescue PBS and NPR Stations,” New York Times , August 19, 2025,
+https://www.nytimes.com/ 2025/ 08/19/business/ the-race-to-rescue -pbs-and-npr-stations.html? searchResultPosition= 1
+(hereinafter Mullin , “The Race to Rescue PBS and NPR Stations” ).
+117 Benjamin Mullin, “PBS Slashes Budget by 21% After Federal Funding Cuts,” New York Times , August 14, 2025,
+https://www.nytimes.com/ 2025/ 08/14/business/ pbs-budget -cuts.html .
+118 Nover , “Can NPR Do Without Federal Funding? ”
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service   23 coordinated effort to fund vulnerable public broadcast ers, according to media reports.119 Stations
+in more heavily populated areas with larger and more affluent audiences may seek new ways to
+monetize aspects of their operations formerly performed as a public service while maintaining
+their FCC status as nonco mmercial , educational stations .
+The Rescission s Act of 2025  and subsequent  closure of the CPB will alter the relationship
+between Congress and  the national public broadcasting enterprise. The PBA contains numerous
+congressional mandates for CPB stewardship of the federal investment in public broadcasting ,
+which were institutionalized over many decades. In exercising its statutory authorities to confirm
+presidential nominations to the CPB Board and maintaining  oversight of it, Congress was able to
+secure a measure of influence  over public broadcasting writ large . Having defunded the CPB  and
+caused its subsequent closure, Congress will not have access to the institutional levers that
+provided this influence .
+Prior to being defunded, the CPB was required to submit an annual budget request  and
+justification to Congress.  The document typically cover ed a wide range of issues of potential
+concern to congressional appropriators on the use of federal  funds, such as the effectiveness of
+children’s programming in improving educational outcomes, adoption of new media technologies
+and formats, programming priorities, cybersecurity measures, and funding of local stations .120
+Since 1988, Congress has require d the CPB to maintain an independent inspector general for
+oversight of the CPB and CPB -funded entities, including audits of local stations. Public
+broadcasters were likewise required to submit annual financial reports to the CPB and conduct
+public busines s meetings, which provided a measure of transparency into their operations. Such
+transparency may be diminished after the CPB dissolves .
+The relationship between public broadcasting entities and the citizenry at  large may also change.
+Public broadcasting was supported by Congress as a public good available to every citizen at no
+cost. Some states provide funds to support public broadcasting stations under their jurisdiction,
+which may serve to perpetuate this miss ion in those states, albeit at perhaps a more modest scale
+than with previous federal support . Absent  federal or state  funding, p ublic broadcasters and
+content producers may prove less willing to serve  certain minority or underserved rural audiences
+if the  costs are deemed prohibitive or if more financially beneficial opportunities exist elsewhere.
+Author Information
+Brian E. Humphreys
+Analyst in Science and Technology Policy
+Acknowledgments
+Rachael D. Roan (Senior Research Librarian) contributed research to this report.
+119 Mullin , “The Race to Rescue PBS and NPR Stations .”
+120 For example, see CPB, Corporation for Public Broadcasting Appropriation Request and Justification F Y 2026/FY
+2028 , May 30, 2025, https://cpb.org/ sites/ default/ files/ Public -
+%20FY%202026%20and%20FY%202028%20Justification%20to%20Labor%2C%20Health%20and%20Human%20S
+ervices%2C%20Education%20R elated%20Agencies%20Subcommittee%20%281%29.pdf .
+Public Broadcasting: Background Information and Issues for Congress
+Congressional Research Service  R48545 · VERSION 16 · UPDATED  24
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

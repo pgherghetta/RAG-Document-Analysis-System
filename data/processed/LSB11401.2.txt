@@ -1,0 +1,209 @@
+CRS Legal Sidebar
+Prepared for Members and
+Committees of Congress
+Legal Sidebar i
+The United States’  Prosecution of Nicolás
+Maduro Moros: United States v. Maduro
+March 4, 2026
+Following the seizure  of Nicolás Maduro Moros (Maduro) by U.S. armed forces  in Caracas, Venezuela,
+on January 3, 2026, a superseding indictment  charging him and other defendants with narco -terrorism,
+narcotics, and weapons offenses was unsealed in the U.S. District  Court for the Southern District of New
+York ( SDNY ). The January 2026 indictment supersedes an indictment  filed against Maduro in the SDNY
+in March 2020. This Legal Sidebar describes the charges in the January 2026 indictment  and analy zes
+potentially relevant precedent  that may govern this case , including the judicial  opinions arising  out of the
+United States’ prosecution of Pana ma’s military leader Manuel Noriega for drug trafficking offenses in
+the 1990s.  This Sidebar then discusses some considerations for Congress.
+The Charges in the January 2026 Indictment
+The January 2026 indictment names  Maduro and five other defendants: Cilia Adela Flores de Maduro
+(Maduro’s wife), Diosdado Cabello Rondon and Ramon Rodriguez Chacin (current and former high -
+ranking Venezuelan gove rnment officials and politicians), Nicolás Ernesto Maduro Guerra (Maduro’s
+son), and Hector Rusthenford Guerrero Flores  (identified in the indictment as the alleged leader of Tren
+de Aragua (TdA), a Foreign Terrorist Organization (FTO)  as designated  by the State Department under 8
+U.S.C. § 1189  in February 2025 ). The indictment charges  Maduro, Rondon, and Chacin with narco -
+terrorism conspiracy in violation of 21 U.S.C. § 960a , and all five defendants are charged  with conspiracy
+to import cocaine into the United States and weapons possession offenses.
+The first count  alleges narco -terrorism conspiracy in violation of 21 U.S.C.  § 960a,  which  prohibits
+engaging in certain drug trafficking offenses , or attempting or conspiring to do so, “ knowing or intending
+to provide, directly or indirectly, anything of pecuniary value to any person or organizatio n that has
+engaged or engages in terrorist activity  ... or terrorism .” The indictment alleges  that Maduro and the two
+Venezuelan government officials named as defendants conspired to  distribute and possessed with intent to
+distribute cocaine to support TdA and other organizations designated as FTOs by the State Department
+under 8 U.S.C. §  1189 .
+The second count  is conspiracy to import cocaine into the United States in violat ion of 21 U.S.C.  §§
+952(a)  (importin g controlled substances in Schedule I or II or narcotic drugs in Schedule III, IV or V  of
+Congressional Research Service
+https://crsreports.congress.gov
+LSB11401
+Congressional Research Service  2
+the Controlled Substances Act ); 959(a)  (manufacture or distribution of a controlled substance for the
+purpose of unlawful importation) ; 959(c)  (possession, manufacture, or distribution of a controlled
+substance by a person on board an aircraft) ; 960(a)(1)  (knowing or intentional import or export of a
+controlled substance) ; 960(a)(3)  (manufacture, possession with intent to distribute , or distribut ion of  a
+controlled substance) ; 960(b)(1)(B)  (certain unlawful acts involving threshold amounts of cocaine ); and
+963 (conspiracy ). The specific acts that the indictment alleges the defendants took in furtherance of the
+narco -terrorism and drug trafficking conspiracies  include  providing drug traffickers with diplomatic
+passports , private planes under diplomatic cover , and armed military escorts .
+The third count  alleges that the defendants used and carried machineguns and destructi ve devices in
+furtherance of drug trafficking crimes that are prosecutable in a U.S. court , in violation of 18 U.S.C. §
+924(c)(1)(A)  and (c)(1)(B)(ii) .
+The fourth count  also alleges that the defendants conspired to possess machineguns and dest ructive
+devices in furtherance of and  in relation to the narcotics offenses alleged in counts one and two, in
+violation of 18 U.S.C. §  924(c)(1)(A) and (c)(1)(B)(ii).
+Relevant Historical  Precedent
+As this case progresses, there are a number of issues that may arise, including whether the indictment
+should be dismissed based on  issues regarding immunity from prosecution or regarding the seizure and
+transfer of Maduro and his wife to the United States. The case against f ormer military leader Manuel
+Noriega raised similar issues. The SDNY may consider  the judicial opinions that arose out  of Noriega’s
+case—which was heard in the U.S. District Court for the Southern District of Florida  and appeal ed to the
+U.S. Court of Appeals for the Eleventh Circuit  (Eleventh Circuit) —to be  persuasive, but those opinions
+typically are not considered  binding or controlling  in other federal circuits such as the U.S. Court of
+Appeals for the Second Circuit  (Second Circuit) , which has appellate jurisdiction over the SDNY .
+Head-of-state Immunity
+Head -of-state immunity is a status -based immunity doctrine  that prohibits c riminal and civil cases against
+current  heads of state in U.S. courts —that is, immunity applies only while the defendant is in office .
+Courts have  often deferred  to the executive branch  to determine  whether a defendant is a head of state, as
+the district and appellate  courts did in the Noriega case . The district court concluded  that Noriega had
+“never be en recognized  as Panama’s Head of State either under the Panamanian Constitution or by the
+United States, ” and rejected  Noriega’s claims that he was entitled to immunity as the de facto rule r of
+Panama.  The Eleventh Circuit affirmed,  conclud ing with deference to the executive branch that Noriega
+was not entitled to h ead-of-state immunity . The January 2026 indictment against Maduro states  that he
+“was previously the Presi dent of Venezuela, and is now, having remained in power despite losses in recent
+elections, the de facto but illegitimate ruler of the country .”
+Immunity for Official Acts
+In contrast to head -of-state immunity, immunity for official acts  is a conduct -based  doctrine rather than a
+status -based one —meaning it may protect defendants  from prosecution for past official acts  even  if they
+do not currently hold a  head -of-state or other governmental office . In determining whether defendants  are
+entitled to this type immunity, courts assess whether  the “claims arise [] out of their official acts while in
+office,” or instead out of “ private acts  where the officer purports to act as an individual and not as an
+official .” In determining  whether a current or former official is entitled to conduct -based immunity, courts
+may give some deference  to the executive branch’s position. Unlike status -based head -of-state immunity,
+which precludes courts’ exercise of jurisdiction over a defendant entirely, this c onduct -based immunity
+Congressional Research Service  3
+doctrine applies only  to those acts deemed to be “official,” and the case may proceed with respect to any
+acts that a court determines to have been undertaken in a private capacity.
+In rejecting  an argument  made by Noriega  based on a doctrine  similar to immunity for official acts , the
+district court explained  that “[t]he inquiry is not whether Noriega used his official position to engage in
+the challenged acts, but whether those acts were taken on behalf of Noriega instead of Panama. ”
+Additionally, courts have suggested  that some criminal acts, “such as drug possession or fraud ,” are not
+normally “attributable to the state” and therefore  will be  treated as private acts for which no immunity is
+available.
+Challenges Regarding  the Legality of the Seizure
+Noriega argued  that his seizure  and transfer to the United States as part of the U.S. military invasion of
+Panama merited dismissal  of the charges lodged against him  because these actions violated international
+law and his right to substantive due process under the Fifth Amendment to the U.S. Constitution.  With
+respect to international law , Noriega argued  that his seizure  violated various international treaties and
+principles of customary international law, including Article 2(4) of the United Nations (U.N.) Charter , a
+Senate -approved treaty that prohibits  the threat or use of force against  the sovereign territory of another
+country without its consent , except in the limited circumstances of self-defense against an armed attack or
+U.N. Security Council authorization . To dismiss the case, the  district  court required  Noriega to establish
+that the treaty in question was “self -executing in the sense that it confers individual rights upon citizens of
+the signatory nations” and that the terms of the treaty contain “a self -imposed limitation on the
+jurisdiction  of the United States and hence on its courts.”
+A few months before U.S. armed forces invaded Panama  and seized  Noriega in December 1989 , the
+Department of Justice’s Office of Legal Counsel (OLC) issued an opinion in June 1989 arguing  that the
+President has “inherent ” constitutional authority to undertake extraterritorial law enforcement activities
+without congressional authorization , even if those act ivities are contrary to the U.N. Charter  or customary
+international law . (Although OLC opinions are legal arguments and not binding  on courts or Congress,
+the executive branch has historically treated  them as internally controlling .) In reaching this conclusion,
+the OLC pointed out  that it did not interpret any statutes as prohibiting the President from conducting law
+enforcement activities in contravention of customary international law . Along similar lines , the OLC
+based  its conclusion that the President had unilateral constitutional authority to undertake law
+enforcement actions in violation  of the U.N. Charter  on the OLC’s determination t hat this treaty is not
+self-executin g, and accordingly Congress  “must execute [it] before it can become a rule” enforceable in
+U.S. court s.
+The district court in Noriega’s  case did not address the issue regarding the President’s inherent
+constitutional authority  and, instead, determined  that the treaties in question did not create, either
+expressly or impliedly, an enforceable private right of action  giving Noriega standing to challenge
+violations of such treaties. The court  further reasoned  that Noriega’s claim should be rejected because  the
+court concluded  that Supreme Court caselaw  has held that  “violations of international law alone do not
+deprive a court of jurisdiction over a defendant in the absence of specific treaty language to that effect.”
+As a result, the court explained  that it was unnecessary to “ reach the question of whether [international
+law] was  violated by the United States military ac tion in Panama .”
+In a memorandum  written on December 23, 2025 , assessing the legality of the United States’ then -
+proposed military operation in Venezuela, the OLC relied on its 1989 opinio n in arguing  that it was
+“unnecessary to address the issue” of whether the planned operation would compl y with international law
+because “ [i]nternational law  ... does not restr ict the President as a matter of domestic law. ” The OLC
+further  argued  that the President had inherent authority under Article II of the Constitution to conduct the
+military operation in the absence of congressional authorization  in order to seize Maduro. (For further
+Congressional Research Service  4
+discussion of the President’s inherent authority under  Article II of the Constitution  and its potential
+implications for congressional authority , see CRS Report R48524, Congress and the Scope of the
+President’ s Article II Foreign Policy Authorities , by Karen Sokol .)
+The district court also rejected  Noriega’s argument that his seizure by U.S. forces was so “shocking to the
+conscience” as to amount to a violation o f his Fifth Amendment right to substantive due process  and thus
+required dismissal , a ruling upheld  by the Eleventh Circuit on appeal.  In upholding the district’s court’s
+conclusion, the Eleventh Circuit explained  that under the Supreme Court’s Ker-Frisbie doctrine —which
+is named after two of the Court’s cases —the way in which a defendant was brought before a court does
+not impact the court’s jurisdic tion over the defendant.  In both cases, the Supreme Court held that “ the
+power of a court to try a person for crime is not impaired by the fact that he had been brought within the
+court ’s jurisdiction by reason of a forcible abduction. ”
+The Eleventh Circuit rejected Noriega’s argument that his seizure fell within an exception to the Ker-
+Frisbie doctrine  recognized by the Second Circuit  that permits  defendant s to defeat a court’s jurisdiction
+on grounds of a due process violation by  establishing that their seizure involved not merely a “simply
+illegal” abduction , but rather “cruel, inhuman and outrageous treatment .” Without deciding whether it also
+recognized such an  exception, the Eleventh Circuit determined  that Noriega’s seizure did not meet that
+standard because he “has not al leged that the government mistreated him personally ,” and “whatever
+harm Panamanian civilians suffered during the armed conflict that preceded Noriega ’s arrest cannot
+support a due process claim .”
+The Eleventh Circuit also relied on Supreme Court caselaw in rejecting Noriega’s claim that he should not
+have been tried because his seizure violated the extradition treaty between the United States and Panama.
+In United States v. Alvarez -Machain , the Supreme Court held that, because the United States’  extradition
+treaty with Mexico did not prohibit forcible abductions, the Ker-Frisbie doctrine governed , and the court
+had jurisdiction to try the defendant notwithstanding that he was forcibly abducted from Mexico by U. S.
+law enforcement officials . According to the Eleventh Circuit, Noriega similarly failed  to “demonstrate , by
+reference to the express language of a treaty and/or the established practice thereunder,  that the United
+States affirmatively agre ed not to seize foreign nationals from the territory of its treaty partners, ” and
+accordingly the district court’s exercise of jurisdiction over him was proper  under the Ker-Frisbie  rule.
+In its December 2025 opinion  on the prospective  Venezuela military o peration, the OLC  also relied on the
+Supreme Court ’s Ker-Frisbie doctrine in arguing  that, even if the operation “were to exceed  the
+President ’s constitutional authority to or der the use of force ,” Maduro would not succeed in challenging
+his prosecution  on those grounds . The federal district court in New York hearing Maduro’s case and, if
+there is an appeal, the Second Circuit, are not bound by the Eleventh Circuit’s reading of Supreme Court
+precedent  or its analysis of  Second Circuit case s regarding an exception to the Ker-Frisbie doctrine .
+Considerations for Congress
+The court proceedings and any judicial opinions in United States  v. Maduro  may have implications for
+Congress’s legislative and oversight authorities. Accordingly, as it examines developments in the case,
+Congress may consider a variety of actions.
+For example, immunity as a head of state or for official acts , which may be asserted  by current or former
+foreign government official s, is governed by federal common law —that is, judge-made —doctrines, under
+which courts often give some level of deference  to the executive branch on the question of whether the
+official is entitled to immunity. That was also the case with  the doctrine governing  foreign state  immunity
+in civil cases  until 197 6, when Congress enacted  the Foreign Sovereign Immunities Act (FSIA)  (codified
+at 28 U.S.C. §§ 1602‒11 ). The FSIA provides  courts with a statutorily -delineated set of legal standards  to
+apply in determini ng whether  a foreign  state is immune from the jurisdiction  of U.S. courts  in civil cases .
+Congressional Research Service  5
+LSB11401  · VERSION 2 · NEW   Congress may consider whether to permit courts to continue applying federal common law to claims of
+immunity by current or former foreign officials or whether to  codify legal standards for courts to apply in
+assessing such cla ims in civil or criminal case s.
+Additionally, Congress may engage in oversight and consider how the executive branch is conducting
+extraterritorial law enforcement activities that result in a seizure. As discussed  in its  December 2025
+opinion on the Venezuela military operation, the O LC maintained that  the President ha d unilateral
+inherent constitutional authority to conduct the Venezuela operation using armed forces  and to seize
+Maduro for law enforcement purposes , even if his seizure violate s international law  because
+“[i]nternational law  ... does not restrict the President as a matter of domestic la w ... when it comes to
+extraordinary rendition .” The OLC further argued  that, even if the ope ration exceeded the President’s
+constitutional authority to order the use of force , that would not impact the ability of the United States to
+prosecute Maduro because  the exercise of  jurisdiction  by U.S. courts  would nevertheless be proper under
+Supreme Co urt precedent . Congress may consider the implications these claims of authority  may have for
+Congress’s own authority,  and whether to seek further information from the executive branch regarding
+its position on the scope of the President’s Article II autho rity to conduct , without congressional
+authorization , military operations that it claims are in support of law enforcement.
+In addition to oversight measures , Congress may consider legislation  similar to what was introduced  in
+the 110 th Congress that would restrict the President’s authority  to seize individuals  abroa d. There are also
+some treaties  where  the Senate has specified  in its resolutions consenting to the President’s ratification
+that certain  treaty provisions are not self -executing , and Congress has enacted legislation  making  aspects
+of treaties  or customary international law  enforceable by U.S. courts. While any legislation impacting
+courts’ jurisdiction may change any common -law rules made by courts, it would have to be  consistent
+with any requirements  that courts determine  to be constitutionally based .
+Author Information
+Karen Sokol
+Legislative Attorney
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff
+to congressional committees and Members of Congress. It operates solely at the behest of and under the direction of
+Congress. Information in a CRS Report should n ot be relied upon for purposes other than public understanding of
+information that has been provided by CRS to Members of Congress in connection with CRS’s institutional role.
+CRS Reports, as a work of the United States Government, are not subject to copyr ight protection in the United
+States. Any CRS Report may be reproduced and distributed in its entirety without permission from CRS. However,
+as a CRS Report may include copyrighted images or material from a third party, you may need to obtain the
+permissio n of the copyright holder if you wish to copy or otherwise use copyrighted material.

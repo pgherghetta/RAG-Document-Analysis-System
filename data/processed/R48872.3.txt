@@ -1,0 +1,624 @@
+Nippon Steel’s Acquisition of U.S. Steel :
+Potential Implications for the Industry
+March 4, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R48872
+Congressional Research Service
+SUMMARY
+Nippon Steel’s Acquisition of U.S. Steel:
+Potential Implications for the Industry
+United States Steel Corporation  (USS)  is an iron and steel  manufacturer that  employ s about
+14,000 workers in the United States . It is one of two companies operat ing domestic facilities that
+produce  both iron and steel on -site (integrated iron and steel mill) . These domestic  facilities can
+produce  both new and high -quality grades of  steel, which c ertain m anufacturers  (e.g.,  automotive
+companies ) use in their products . Japanese firm Nippon Steel Corporation (Nippon Steel)
+finalized its  acqui sition of  USS in June 2025 , following approval  of the transaction  by President
+Trump . USS’s  management  under  this new ownership may carry implications for  domestic
+employment and the rate of innovation  adoption  in the industry .
+In recent years,  USS has taken some actions that coincided with  falling steel prices.  For example, the company reduc ed
+output and shutter ed some  of its legacy  facilities , which has  led to  layoffs of workers  in Michigan and Illinois . In addition,
+the company  made investments  in new facilities ( away from  legacy iron and  steelmaking facilities located in  the Great Lakes
+region ) that produce raw steel  using scrap  steel—a process  that is less labor -intensiv e than making new steel from iron .
+After USS publicly announced its acquisition by Nippon Steel  in December 2023 , the parties sought two regulatory approvals
+from the  U.S. government . First, t he Committee on Foreign Investment in the United States (CFIUS) began a  review of  the
+implications of Nippon Steel’s ownership of USS for U.S. national securit y. Second, t he Department of Justice conducted  a
+separate U.S. government inquiry on antitrust concerns.  Workers  employed by USS, a rival steelmaker  of USS , some steel
+buyers , and some Members of Congress , responded to USS’s  announcement by publicly  raising concerns  on how a
+successful  acquisition  or an alternative outcome may affect employment  and the performance of steel and steel -using
+industries .
+In response to some of these stakeholder concerns , Nippon Steel  made  commitments to  maintain  existing USS facilities and
+add iron and steelmaking capacity  in the United States . This plan may affect steel prices and operations at  legacy integrated
+iron and steel mills if domestic steel demand does not keep up with the anticipated supply increase. Public polic ies that look
+to increase the demand for  iron and steel in the domestic market carry  potential  costs  and limitations . For e xample , laws
+requir ing some public works projects  to use domestically manufactured steel may more directly  benefit scrap -based
+steelmakers  that produc e a dominant  share of steel used in construction  over operators of integrated iron and steel mills .
+Nippon Steel’s plans to maintain or restart assets  at existing USS integrated iron and steel mills  may affect t he company’s
+ability to adopt innovations at  these  legacy facilities. Public investments supporting research and development or deployment
+of infrastructure for innovative iron and steelmaking processes may influence considerations. Existing  production tax credit s
+for metallurgical coal subsidize  some legacy assets and  technologies  at integrated iron and steel mills .
+As a prerequisite to the ac quisition, Nippon Steel and USS entered into a national security agreement with the U.S.
+government . The agreement terms include a “golden share” arrangement under which the U.S. government  is to have certain
+rights with respect to USS, including  those  “relating to governance, domestic production and trade matters. ” According to a
+news release from Nippon Steel, the agreement permits the President  of the United States  or a presidential  designee  to
+intervene in the management of USS under certain circumstances. Nippon Steel’s  public statement  on this agreement  stated
+that the  President of the United States has consent rights with respect to certain  major decisions such as the transfer of jobs or
+production capacity outside of the Uni ted States or the closure of certain  existing USS facilities. Congress may have the
+ability to  engage in oversight of the executive branch’s enforcement of the national security agreement . The national security
+agreement  is not available to the public .
+R48872
+March 4, 2026
+Yong W. Kwon
+Analyst in Industrial
+Organization and Business
+Policy
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   Contents
+Introduction  ................................ ................................ ................................ ................................ ..... 1
+Overview of United States Steel Corporation  ................................ ................................ .................  2
+Issues Raised by Stakeholders During the Acquisition  ................................ ................................ ... 4
+Domestic Employment  ................................ ................................ ................................ ..............  4
+Domestic Steel Prices  ................................ ................................ ................................ ................  5
+National Security and Antitrust  Concerns  ................................ ................................ .................  6
+Potential Issues for Congress ................................ ................................ ................................ ...........  6
+Domestic Steel Demand  ................................ ................................ ................................ ............  7
+Public Procurement  ................................ ................................ ................................ .............  7
+Private Sector Demand  ................................ ................................ ................................ ....... 8
+Trade Measures  ................................ ................................ ................................ ...................  9
+Innovation Adoption  ................................ ................................ ................................ ................  10
+Tax Credits and Oversight  ................................ ................................ ................................ ........  11
+Contacts
+Author Information  ................................ ................................ ................................ ........................  12
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   1 Introduction
+On June 13, 2025, President Donald Trump approved the acquisition of United States Steel
+Corporation  (USS)  by Tokyo -headquartered Nippon Steel Corporatio n (Nippon Steel)  under the
+terms of a confidential national security agreement.1 The agreement terms include a “golden
+share” arrangement under which the U.S. government  is to have certain rights with respect to
+USS, including  those  “relating to governanc e, domestic production and trade matters. ”2
+According to a news release from Nippon Steel , the n ational security agreement permits the
+President of the United States to intervene in  the management of USS under some
+circumstances .3 For example, Nippon Steel states that the closure of certain domestic facilities
+operated by USS  require s U.S. government consent .4
+President Trump’s decision to approve the  acquisition  came after Presid ent Biden issued an order
+prohibit ing the acquisition  following a review and  referral to the President  from  the interagency
+Committee on Foreign Investment in the United States  (CFIUS) .5 President Trump had ordered a
+new CFIUS review prior to his decision  to approve the transaction. Section 721 of the Defense
+Production Act  authorize s both the CFIUS review and the  negotiation and imposition of terms to
+mitigate any national security risks  identified by the committee , such as  through  a national
+security  agreement .6
+Some s takeholders , such as  labor union s and steel-purchasing firms , publicly discussed  the
+implications of the  acquisition  after the deal was announced in December 2023 .7 Questions from
+labor unions centered on USS’s current role as the direct  employer of over 14,000 workers  in the
+United States . Some steel -purchasing firms focused on USS being one of two companies with
+domestic facilities that  produce both iron and steel on -site.8 This capa bility allows the company’s
+mills to produc e high-quality  grades of  steel, which  are important  inputs for certain industry
+actors , such as  automotive manufacturers .
+Given the use of steel in various components across  many  U.S. industries  and the company’s role
+as a major employer  in certain communities , the management of USS under Nippon Steel is of
+1 Executive  Order of June 13, 2025,  “Regarding the Proposed Acquisition of the United States Steel Corporation by
+Nippon Steel Corporation ,” 90 Federal Register  26185, June 20, 2025 , https://www.federalreg ister.gov/ documents/
+2025/ 06/20/2025 -11372/ regarding -the-proposed -acquisition -of-united -states -steel-corporation -by-nippon -steel-
+corporation .
+2 U.S. Securities and Exchange Commission ( SEC), United States Steel Corporation Form 8-K, June 18, 2025,
+https://www.sec.gov/ Archives/ edgar/ data/ 1163302/ 000110465925060674/ tm2517314d1_8k.htm .
+3 Nippon Steel Corporation  (Nippon Steel), “Nippon Steel Corpo ration and U.S. Steel Finalize Historic Partnership ,”
+news release , June 18, 2025 , https://www.nipponsteel.com/ en/news/ 20250618_100.html .
+4 Nippon Steel, “Nippon Steel Corporation and  U.S. Steel Finalize Historic Partnership .”
+5 Executive  Order of January 3, 2025,  “Regarding the Proposed Acquisition of United States Steel Corporation by
+Nippon Steel Corporation ,” 90 Federal Register  2065, January  13, 2025, https://www.federalregister.gov/ documents/
+2025/ 01/13/2025 -00621/ regarding -the-proposed -acquisition -of-united -states -steel-corporation -by-nippon -steel-
+corporation .
+6 50 U.S.C. §4565 (b) and §4565 (l)(3) . For additional discussion on the CFIUS review process, see  CRS In Focus
+IF10177, Committee on Foreign Investment in the United States (CFIUS) , by Cathleen D. Cimino -Isaacs and Karen M.
+Sutter .
+7 United Steelworkers (USW), “ Planned U.S. Steel Sale Meets Anger, Skepticism: USW Vows to F ight to Make Sure
+Company Lives Up to Obligations ,” February 13, 2024, https://usw.org/ news/ planned -u-s-steel-sale-meets -anger -
+skepticism -usw-vows -to-fight -to-make -sure-company -lives -up-to-obligations/ .
+8 Caitlin Oprysko, “ Automakers Try to Ward Off an Alternative Steel Merger ,” Politico , March 29, 2024,
+https://www.politico.com/ newsletters/ politico -influence/ 2024/ 03/29/automakers -try-to-ward -off-an-alternat ive-steel-
+merger -00149821 .
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   2 interest to some Members of Congress.9 USS’s management under Nippon Steel carries potential
+implications for local employment where USS operates facilities, such as All egheny County, PA;
+Gary, IN; and Osceola, AR. Some  Members have supported measures to  expand  domestic
+manufacturing employment and to host a greater share of the manufacturing  supply chain  in the
+United States .10
+Some Members of Congress emphasized the value of  $14.9 billion in investment from Japan to
+the United States  and criticized efforts to block Nippon Steel’s acquisition of USS .11 Similarly,
+some policy observers  raised concerns about rejecti ng foreign direct inve stment from a country
+that had a history of  building manufacturing facilities and creating jobs  in the United States .12
+Building on these discussions , the performance of USS under Nippon Steel and the U.S.
+government’s exercise of its golden share may be of interest to some M embers , as it may emerge
+in future  private sector assessments  on the U.S. investment climate .
+More broadly, Congress may develop legislat ion to affect the steel industry and industries in the
+supply chain , or it may choose to oversee the executive branch ’s use of  existing author ities to
+affect  relevant  industr ies.
+This repor t present s a brief profile of USS, selected  issues that stakeholders  raised during Nippon
+Steel’s bid to acquire the company, and  policy considerations that may affect  the long -term
+performance of  USS and  the domestic iron and steel industry  as a whole .
+Overview of U nited States Steel Corporation
+USS is a producer of primary steel and  one of  two companies with facilities in the Unite d States
+that can produce  both iron and steel on-site.13 As of November 2025, t he two integrated iron and
+steel mills operated by USS in Gary, IN, and Allegheny County, PA, represent ed around 28.5% of
+the domestic  ironmaking capacity.14 USS is also a producer of secondary  steel, with the company
+9 Rep. Chris Deluzio, “ Deluzio, Lee, Casey, Fetterman Demand Answers from Nippon Steel on Commitments to
+Pennsylvania ,” press release, December 19, 2023, https://deluzio.house.gov/ media/ press -releases/ deluzio -lee-casey -
+fetterman -demand -answers -nippon -steel-commitments ; and Rep. Nikki Budzinski, “ Budzinski Calls For
+Comprehensive Review of U.S. Stee l Acquisition ,” press release, January 3, 2024, https://budzinski.house.gov/ posts/
+budzinski -calls-for-comprehensive -review -of-u-s-steel-acquisition .
+10 For examples of issues of c ongressional interest , see CRS Insight IN12592, Shipbuilding to Improve Domestic
+Supply Chains: Opportunities and Challenges , by John Frittelli ; and CRS In Focus IF13001, Domestic Preference
+Statutes: The Berry Amendment and the Kissell Amendment , by Michael Alan Havlin and Alexandra G. Neenan .
+11 Office of Rep. Dan Meuser, “ Congressman Meuser Reacts  to Biden’s Blocking of U.S. Steel -Nippon Steel Deal ,”
+press release, January 3, 2025, https://meuser.house.gov/ media/ press -releases/ congressman -meuser -reacts -bidens -
+blocking -us-steel-nippon -steel-deal.
+12 Joel Griffith, “ Nippon Acquisition of U.S. Steel ,” The Heritage Foundation, April 22, 2024,
+https://www.heritage.org/ markets -and-finance/ commentary/ nippon -acquisition -us-steel.
+13 World Steel Association , 2024 World Steel in Figures , May 27, 2024,  https://worldsteel.org/ wp-content/ uploads/
+World -Steel -in-Figures -2024.pdf . Of the five companies with domestic capacity to produce iron, two companies
+operate integr ated iron and steel mills as of January  2026: Cleveland -Cliffs and U.S. Steel. Three  companies, Arcelor
+Mittal , Steel Dynamics,  and Nucor, operate direct reduced iron furnaces that can produce iron ; their ironmaking
+capacities are lower than those of Cleve land-Cliffs and USS.
+14 Tabulation by CRS  using  Global Energy Monitor , “Global Iron and Steel Tracker ,” accessed September 10, 2025,
+https://globalenergymoni tor.org/ projects/ global -iron-and-steel-tracker/ tracker -map/ . On December 4, 2025, U.S. Steel
+(USS)  announced plans to restart ironmaking at the previously idled blast furnace in Granite City, I L. This capacity is
+not added to the calculation. Hunter Bassler  and Laura Barczewski , “Granite City Works Restarts Blast Furnace After 2
+Years of Idling, US Steel Says,” WQAD News 8 Quad Cities , December 4, 2025,  https://www.wqad.com/ article/
+money/ business/ granite -city-restart -blast -furnace -us-steel/ 63-8aa1edfb -1a13 -493c -9266 -fa0a0c2d4a2d .
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   3 investing in growing production capacity at  its mini mill in Osceola, AR (see the text box for
+more information about primary and secondary steelmaking).
+T ypes of Steelmaking
+Steelmaking can be divided into two  broad  categories: primary and secondary. Primary steelmaking produces raw
+steel from new iron. Iron is produced  from iron pellets  either  at a blast furnace (which uses metallurgical coke) or
+at a direct reduced iron furnace (which uses methane gas or hydrogen). Industrial complexes that produce both
+iron and steel are known as integrated  iron and steel mills. Secondary steelm aking uses electric arc furnaces to
+predominantly recycle scrap steel into raw steel. Facilities  equipped only with an electric arc furnace  are referred
+to as mini mills .
+Domestically, primary steelmaking mainly serves users that require high -quality grade s of steel or steel with
+complex chemistries , such as automotive manufacturers and aerospace  manufacturers .15 Secondary steelmaking
+serves the construction sector and is used in a  growing share of other applications  as the quality of steel products
+from electric arc furnaces improves . For instance , mini mill operator Nucor  has introduced high -strength steel
+plate for offshore wind energy facilities ; in the past,  integrated iron and steel mills  have supplied  offshore wind
+energy installations .16
+The number of domestic primary steel producers and integrated iron and steel mills h as decreased over the past
+decades. In 1991, the share of raw steel made using electric arc furnaces was 38.4% ; in 2023, it was  72% of total
+domestic production.17
+Since the 1970s, domestic demand for  primary  steel has fluctuated , international steel output  has
+grown, and domestic mini mill capacity  has expanded . USS’s shipments to customers declined by
+nearly 30% between 1977 and 2019, falling from 17.9 million  metric  tons to approximately 13.6
+million metric  tons.18 More recently, the company’s  nominal net earnings  and losses have
+fluctuated from a loss of $630 million in 2019 to a profit of $4.174 billion in 202 1 (coinciding
+with a spike in prices created by a steel shortage in the immediate aftermath of the COVID -19
+pandemic ) to a profit of $384 million  in 2024.19 This fluctuation in earnings  coincided with  USS’s
+decision s to reduc e its workforce in the United States by around 16% between  2019 and 2024,
+from about 17,000 employees to 14,341  employees .20
+In response to these challenges , USS’s management reported to shareholders  in 2023  that the
+company  would diversify its product offerings .21 As a component of the diversification , the
+15 Xiaohua Hu and Zhili Feng, Advanced High -Strength Steel —Basics and Applicat ions in the Automotive Industry ,
+Oak Ridge National Laboratory, April 2021,  https://info.ornl.gov/ sites/ publications/ Files/ Pub158668.pdf  (hereinafter
+Hu and Feng, Advanced Hig h-Strength Steel ).
+16 Fastmarkets, “ Nucor Targets US East Coast Offshore Wind Energy Build-Out,” January 24, 2023,
+https://www.fastmarkets.com/ insights/ nucor -targets -us-east-coast -offshore -wind -energy -build -out/.
+17 U.S. Bureau of Mines, Mineral Commodity Summaries 1996 , January 1996, https://d9 -wret.s3.us -west-
+2.amazonaws.com/ assets/ palladium/ product ion/atoms/ files/ mcs-1996ocr.pdf ; and U.S. Department of the Interior
+(DOI) , Mineral Commodity Summaries 2025 , March 2025, https://pubs.usgs.gov/ periodicals/ mcs2025/ mcs2025.pdf .
+18 USS, Seventy -Sixth A nnual Report , 1977  (retrieved from ProQuest Annual Reports ), https://www.proquest.com/
+reports/ united -states -steel-corporation -annual -report/ docview/ 88204441/ se-2; and U.S. Securities and Exchange
+Commission  (SEC) , United States Steel Corporation  Form 10 -K for the fiscal year ended December 31, 2019 ,
+https://www.sec.gov/ Archives/ edgar/ data/ 1163302/ 000116330220000012/ form10k191231.htm .
+19 SEC, United States Steel Corporation Form 10 -K for the fiscal year ende d December 31, 20 24, https://www.sec.gov/
+ix?doc= /Archives/ edgar/ data/ 0001163302/ 000116330225000018/ x-20241231.htm ; SEC, United States Stee l
+Corporation Form 10 -K for the fiscal year ended December 31, 2021 , https://www.sec.gov/ ix?doc= /Archives/ edgar/
+data/ 0001163302/ 000116330222000021/ x-20211231.htm ; and Joshua Grimes , “The Impact of COVID on the  Price of
+Steel in Three Phases ,” Beyond the Numbers : Prices & Spending , U.S. Bureau of Labor Statistics  (BLS) , vol. 14, no.  4
+(May 2025 ), https://www.bls.gov/ opub/ btn/volume -14/the-impact -of-covid -on-the-price -of-steel-in-three -phases.htm .
+20 SEC, United States Steel Corporation Form 10 -K for the fiscal year ended December 31, 2024 .
+21 Seeking  Alpha, “United States Steel Corp (X) Q3 2023 Earnings Call Transcript ,” October  27, 2023 ,
+https://seekingalpha.com/ article/ 4644442 -united -states -steel-corp-x-q3-2023 -earnings -call-transcript .
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   4 company increased investments in  its mini mill  operation s. For example, USS installed an  electric
+arc furnac e at its steel mill  in Alabama  in 2020  and completed the acqui sition of  a mini mill in
+Arkansas  in 2021 . In 2024 , 72% of the company’s  capital spending went to its mini mill s.22
+As USS increase d investments in its mini mills, the company reduced production and investments
+at its integrated iron and steel mills . For example, the company stopped  ironmaking operations  at
+its integrated iron and steel mills in Michigan  in 2021 and in Illinois  in 2023 , laying off about
+4,000 workers. In addition, i n 2021, USS cancelled plans to  add capacity at its flagship integrated
+iron and steel mill in Allegheny County, PA.23 This facility  has also experienced several accidents
+in recent years . Investigations follow ing a fire in December 2018 revealed evidence of structural
+degradation of the on-site metallurgical coke batteries , which produce a key input for the
+ironmaking process.24 The Allegheny County Health Department recorded  167 cases of
+uncontrolled releases of air pollution from these coke batteries in 2024.25
+Issues Raised by Stakeholders  During the
+Acquisition
+After  Nippon Steel announced its plan to acquire USS  in December 2023 , supporters and critics
+raised potential benefits and harms to domestic employmen t, steel prices , and national security .
+Issues  raised during the acquisition  process  may be of interest to Congress in consider ing whether
+to extend federal  resources to USS, the steel industry  as a whole , or both .
+Domestic Employment
+Leadership at USS and Nippon Steel  stated  that Nippon Steel’s prospective capital investments in
+USS facilities would support continued  employment  of workers, particularly those at integrated
+iron and steel mills.26 The national leadership of United Steelworkers (USW), the trade union
+representing around 75% of the USS workers  in North America,  expressed concern  that Nippon
+Steel  would shift investment from  integrated iron and steel mills  to the mini mill operation in
+Arkansas .27 USW membership  among employees at the USS mini mill in Arkansas reportedly is
+lower than that at the company’s  integrated mills in Pennsylvania and Indiana.28
+22 SEC, United States Steel Corporation Form 10 -K for the fiscal year ended December 31, 2024 .
+23 Association for Iron & Steel Technology  (AIST) , “U.S. Steel Cancels Mon Valley Works Investment,” April 30,
+2021, https://www.aist.org/ u-s-steel-cancels -mon-valley -works -investment .
+24 Thomas D. Traubert , US Steel No. 2 —Control Room Deluge Piping Evaluation : Supplemental Report , Engineering
+Design & Testing Corp ., December 2, 2019, https://www.documentcloud.org/ documents/ 21113692 -edt-supp -report -
+ussp007787/ .
+25 Allegheny County Health Department Air Quality Program , Enfo rcement Order : United States Steel Corporation
+Clairton Plant , June 5, 2025, https: //www.alleghenycounty.us/ files/ assets/ county/ v/1/government/ health/ documents/
+air-quality/ enforcement/ actions/ 2025 -actions/ us-steel-2024 -pec-signed.pdf .
+26 Paul Van Osdol, “US Steel CEO Defends Sale to Nippon in Exclusive Interview with WTAE ,” WTAE , November
+22, 2024, https://www.wtae.com/ article/ us-steel-ceo-exclusive -interview/ 62990528 .
+27 USW , “Nippon Is Not the Future of U.S. Steel ,” March 21, 2025, https://usw.org/ bargaining -update/ nippon -is-not-
+the-future -of-u-s-steel/ ; USW, “Too Much at Stake in USS -Nippon Deal for USW to Stay on the Sidelines ,” December
+20, 2024, https://m.usw.org/ bargaining -update/ too-much -at-stake -in-uss-nippon -deal-for-usw-to-stay-on-the-sidelines/ ;
+and USW, “U.S. S teel ‘Partnership ’ Announcements: More Questions than Answers ,” May 28, 2025, https://usw.org/
+bargaining -update/ u-s-steel-partnership -annou ncements -more -questions -than-answers/ .
+28 Paul J. Gough, “ Here’s What We Know About the New US Steel -United Steelworkers Tentative Agreement ,” WPXI ,
+November 9, 2022,  https://www.wpxi.com/ news/ local/ heres -what -we-know -about -new-us-steel-united -steelworkers -
+tentative -agreement/ AXFQW4KXG5BQPDEW6BMNHTBONU/ .
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   5 Acknowledging tensions,  Nippon Steel pledge d to retain  operations and  employment at  legacy
+integrated iron and steel mills  owned by USS . In August 2024, Nippon Steel said it would  spend
+at least $1 billion on upgrading the USS -owned integrated iron and steel mill  in Pennsylvania .29
+The company also stated it would  invest approximately $300 mill ion to extend operations of  the
+blast furnaces at  the integrated mill in  Gary , IN. In June 2025 , USS submitted to the U.S.
+Securities and Exchange Commission an amendment to its certificate of incorporation that
+outlined a capital investment plan total ing $10.8 billion  between 2025 and 2028 .30
+Some l ocal USW  leaders and members differed with the national  USW leadership’s oppos ition to
+the acquisition  of USS  by Nippon Steel . Local  USW  leadership , and many local  members at the
+USS integrated iron and steel mills in  Pennsylvania and Indiana , reportedly supported  Nippon
+Steel’s acquisition and the investments promised by Nippon Steel .31 According to USW local
+leadership, 95% of the local USW members supported the acquisition.32
+Domestic Steel Prices
+Cleveland -Cliffs , a rival steelmaker of USS,  opposed Nippon Steel’s  acquisition  of the company
+and present ed a competing bid to acquire USS to form a “stronger domestic supplier” in the U.S.
+steel market .33 Cleveland -Cliff s previously had acqui red other  North American integrated iron
+and steel mills . These acquisitions include U.S. -based mills owned by AK Steel in 2019, U.S. -
+based mills owned by ArcelorMittal in 2020, and the Canadian ste elmaker Stelco in 2024. The
+company’s consolidation of North American  primary  steelmakers  might have  facilitated its
+ongoing  efforts to secure fixed -price contracts with customers and to create more certainty amid
+fluctuating  steel prices .34 Cleveland Clif fs’ acquisition of USS would have made the company the
+sole operator of all domestic integrated iron and steel mills.
+The Alliance for Automotive Innovation (A uto Innovators ), an automotive industry trade
+association, publicized  its members’ concern that Cleveland -Cliffs’  acquisition of USS would lead
+to higher  steel prices . In an October 2023 letter to Congress, A uto Innovators’  President John
+Bozzella asserted that the merger of Cleveland -Cliffs and USS would form a company that would
+control more than 90 % of high-quality  steel used by the domestic automotive industry.35 In this
+letter, h e stated that a consolidation  of the market wou ld “increase costs across th e industry for
+both materials and finished vehicles .” In March 2024, Bozzella wrote a letter to the Biden
+Administration  that reiterated the industry’s assessment that Cleveland -Cliffs’ acquisition of USS
+29 Nippon Steel, “ Nippon Steel Announces Transformative Investments at U.S. Steel’s Mon Valley Works and Gary
+Works ,” press release, August 29, 2024, https://www.nipponsteel.com/ en/news/ 20240829_100.html .
+30 SEC, “Exhibit 3.1: Fifth Amended and Restated Certificate of Incorporation of United States Steel Corporation, ”
+https://www.sec.gov/ Archives/ edgar/ data/ 1163302/ 000110465925060674/ tm2518197d1_ex3 -1.htm .
+31 Paul Van Osdol, “Local Steelworkers Voice Support for  US Steel -Nippon Deal amid Trump ’s Opposition ,” WTAE ,
+December 3, 2024 , https://www.wtae.com/ article/ us-steel-nippon -trump -steelworkers/ 63085379 .
+32 Van Osdol, “Loca l Steelworkers Voice Support for US Steel -Nippon Deal Amid Trump’s Opposition .”
+33 Cleveland -Cliffs, “ Cleveland -Cliffs Proposes to Acquire U.S. Steel ,” news release, August 13, 2023,
+https://www.clevelandcliffs.com/ news/ news -releases/ detail/ 600/cleveland -cliffs -proposes -to-acquire -u-s-steel.
+34 Cleveland -Cliffs, “ Cleveland -Cliffs Achieves Price Increases on Fixed -Price Contracts for 2023 ,” December 22,
+2022, https://www.clevelandcliffs.com/ investors/ news -events/ press -releases/ detail/ 566/cleveland -cliffs -achieves -price -
+increases -on-fixed -price .
+35 Letter from John Bozzella, president and CEO , Alliance for Automotive Innovation  (Auto Innovators ), to Senate
+Subcommittee on Competition Policy, Antitrust, and Consumer Rig hts and the House Subcommittee on the
+Administrative State, Regulatory Reform, and Antitrust , October 31, 2023, https://www.autosinnovate.org/ posts/ letters/
+Auto%20Innovators%20Letter%20to%20Congress%20on%20Cleveland -
+Cliffs%20U.S.%20Steel%20October%202023.pdf .
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   6 could lead to “anti -competitive pricing of material s used by steel -reliant manufacturers like the
+auto industry .”36
+National Security and Antitrust Concerns
+The Biden  and Trump Administrations  considered the national security, foreign policy, and
+antitrust implications of the Nippon  Steel  acquisition.37 Other than the presidential decisions
+related to the transaction, t he details of the CFIUS reviews  under the Biden and Trump
+Administrations are not public.38 While  the national security review s by the Administrations were
+taking place , foreign policy observers cited the status of the  Nippon Steel -USS deal as a topic of
+importance in U.S. -Japan relations, and several analysts argued that a rejection of the deal by the
+U.S. government could have negative impacts on bilateral relations  and pot entially undermine
+U.S. openness to foreign investment .39 During the Biden Administration, t he Department of
+Justice also pursued an antitrust investigation into Nippon Steel’s part ial ownership of a facility in
+Calvert, A L, that compete d directly with USS.40 Nippon Steel later sold its stake in the Calvert
+facility.41
+Potential Issues for Congress
+Nippon Steel ’s publicly announced  plans for USS may increase the supply  of domestically
+produced  steel, potentially affecting prices  if other market factors do not change . In addition, t he
+company will determine the pace of legacy USS iron and steel mills adoptin g new technologies .
+Congress has passed laws affecting  demand  for domestically  produced steel  and innovation
+adoption in the iron and steel industry . These includ e laws requiring  public procurement of
+domestically  made steel for some projects .42 In addition,  Section 232 of  the Trade Expansion Act
+36 Letter from John Bozzella, president and CEO , Auto Innovators , to Lael Brainard, director , National Economic
+Council, March 29, 2024,  https://www.autosinnovate.org/ associ ation -update/
+Alliance%20for%20Automotive%20Innovation%20Letter%20to%20NEC%20on%20U.S.%20Steel%20 -
+%20March%202024.pdf .
+37 CRS In Focus IF10177, Committee on Foreign Investment in the United States (CFIUS) , by Cathleen D. Cimino -
+Isaacs and Karen M. Sutter .
+38 The statute governing CFIUS provides that, unless an enumerated exception applies, information filed with the
+President or CFIUS as part of a national security review or investigation  may not be made public (see 50 U.S.C.
+§4565 (c)(1) ). At the same time, various media  outlets had  reported on  aspects of  CFIUS deliberations concerning the
+Nippon Steel -USS transaction ; for example, see Alexandra Alper, “Exclusive: US Fears Nippon Bid for U.S. Steel
+Could Hit Vital Steel Supplies,” Reuters, September 6, 2024 , https://www.reuters.com/ markets/ deals/ us-worries -abou t-
+steel-supply -infrastructure -after-nippon -us-steel-deal-2024 -09-05/.
+39 CRS In Focus IF10199, U.S.-Japan Relations , coordinated by Mark E. Manyin ; Nikkei, “ To Affirm U.S. Openness,
+Washington Should Approve U.S. Steel Sale,” February 7, 2024, https://asia.nikkei.com/ Opinion/ To-affirm -U.S.-
+openness -Washington -should-approve -U.S.-Steel -sale; and Sarah Bauerle Danzman , “The US Steel Deal Is a Test of
+Friendshoring —and the US Is Failing ,” New Atlanticist  (blog), Atlantic Council, January 8, 2024,
+https://www.atlanticcouncil.org/ blogs/ new-atlanticist/ the-us-steel-deal-is-a-test-of-friendshoring -and-the-us-is-failing/ .
+40 Josh Sisco, “ DOJ Opens Formal Investigation of US Steel Takeover ,” Politico , April 10, 2024,
+https://www.politico.com/ news/ 2024/ 04/10/doj-opens -formal -investigation -us-steel-takeover -00151615 ; and Reuters,
+“CORRECTED -DOJ Seeks More Details from US Steel, Nippon Steel on Proposed Merger ,” May 2, 2024,
+https://finance.yahoo.com/ news/ doj-seeks -more -details -u-212749545.html .
+41 ArcelorMittal, “ Arcelo rMittal Completes the Acquisition of Nippon Steel Corporation’s Interest in AM/NS Calvert ,”
+press release, June 18, 2025, https://corporate.arcelormittal.com/ media/ press -releases/ arcelormittal -completes -the-
+acquisition -of-nippon -steel-corporation -s-interest -in-am-ns-calvert .
+42 National Defense Authorization Act for Fiscal Year 2002 ( P.L. 107 -107); and National Defense Authorization  Act
+for Fi scal Year 2020  (P.L. 116 -92).
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   7 of 1962  as amended  extended authority to the execut ive branch  to impose  restrictions on imports
+that are found to “ threaten to impair ” U.S. national security , which Administrations have invoked
+to apply tariffs on  U.S. imports of steel .43 Public  funding has supported  research  in new iron and
+steelmaking  technologies .44 The 119th Congress extended production tax credit s for the
+production of raw materials that blast  furnaces  consume , subsidizing companies such as  USS that
+use this legacy technolog y.45
+If Congress considers whether to take further a ction to affect employment, production, and
+competitiveness of legacy iron and steelmaking locations , it might consider  sources of  domestic
+steel demand and  barriers to adopting innovations  in the domestic steel  industry, among other
+issues . Congress may also conduct oversight o f how market conditions affect  USS operations  and
+the steel industry .
+Domestic Steel Demand
+Nippon Steel plans to add ironmaking capacity at the USS mini mill in Arkansas and establish a
+new mill that operate s electric arc furnaces.46 Nippon Steel and other domestic s teelmakers’
+ability to maintain production capacity  and employment  might depend on the strength of demand
+for steel products.  It is unclear whether demand for steel will keep pace with projected increases
+in domestic steel making  capacity. For example, Hyundai Steel Company  announced its intention
+to establish  a new steel mill in Louisiana between 2026 and 2029 , including  plans t o add on-site
+ironmaking capacity .47 Such projects w ould increase the domestic supply of iron and steel and
+might place downward pressure on steel prices.48 Legacy mills operated by USS and Cleveland -
+Cliffs in Indiana, Michigan, Ohio, and Pennsylvania may face more competition and less
+profitable market conditions if demand  and capacity  do not increase commensurately .
+Public Procurement
+Existing policies  created to  incentiviz e demand for  the domestic steel industry include the Buy
+American Act of 1933 , which requires federal agencies to purchase domestic end products and
+43 19 U.S.C. §1862 . CRS Insight IN12519, Expanded Section 232 Tariffs on Steel and Aluminum , by Kyla H. Kitamura
+and Keigh E. Hammond ; and CRS In Focus IF13006, Section 232 of the Trade Expansion Act of 1962 , by Kyla H.
+Kitamura .
+44 U.S. Department of Energy, Advanced Research Projects Agency -Energy, “U.S. Department of Energy Announces
+$28 Million to Decarbonize Domestic Iron and Steel Production ,” Apri l 18, 2024, https://arpa -e.energy.gov/ news -and-
+events/ news -and-insights/ us-department -energy-announces -28-million -decarbonize -domestic -iron-and-steel-
+production .
+45 Timothy Gardner, “ Coal Used to Make Steel Gets Break in Trump ’s Tax Bill,” Reuters , June 30, 2025,
+https://www.reuters.com/ sustainability/ coal-used-make -steel-gets-break -trumps -tax-bill-2025 -06-30/.
+46 George Jared , “New Steel Mill Slated f or Big River Steel Works Campus ,” Talk Business & Politics , November 12,
+2025, https://talkbusiness.net/ 2025/ 11/new-steel-mill-slated -for-big-river -steel-works -campus/ ; and Yusuke Maekawa
+and Tsuyoshi Inajima , “Nippon Steel to Shortlist Two or Three States for New US Plant ,” Bloomberg , December 1,
+2025,  https://www.bloomberg.com/ news/ articles/ 2025 -12-01/nippon -steel-to-shortlist -two-or-three -states -for-new-us-
+plant .
+47 Emma S immons  and Allison Bruhl , “Hyundai to Build $5.8 Billion First North American Steel Plant in Louisiana,
+Creating 5,400 Jobs,” KTLA , March 25, 2025, https://ktla.com/ automotive/ hyundai -to-build -5-8-billion -first-north -
+american -steel-plant -in-louisiana -creating -5400 -jobs/ ; and Alexander C. Kaufman , “Hyundai to Make ‘Low-Carbon’
+Steel at $6B Plant in Louisiana ,” Canary Media , March 25, 2025, https://www.canarymedia.com/ articles/ green -steel/
+hyundai -low-carbon -steel-louisiana .
+48 Bob Tita and Andrew Mollica (graphics),  “The Boom in New Steel Mills Is Outpacing Demand ,” The Wall Street
+Journal , August 26, 2025, https://www.wsj.com/ finance/ commodities -futures/ steel-industry -factory -growth -demand -
+184410d1? msockid= 0796b52857c360103978a34d5657615 1.
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   8 domestic construction materials for public buildings or public works.49 In addition, a  set of
+statutes and regulations —collectively called  “Buy America Law ” in legislation —directs some
+public ly funded construct ion projects to acqui re iron and steel  from domestic producers .50 Buy
+America Law includes provisions that require  state and local governments to use  U.S.-made iron
+and steel when using certain federal funds to support certain types of projects (e.g.,  surface
+transportation or water infrastructure  projects) .51 The Association for Iron and Steel Technology
+estimated that every $20 billion in infrastructure spending leads to an increase in steel demand of
+1 million metric tons.52
+Public procurement  of steel  for construction  generally covers steel segments that mini mills
+serve.53 In the current market environment, l aws requiring public constru ction  projects  to use
+domestically manufactured steel  may more directly benefit scrap -based steelmakers over
+operators of integrated iron and steel mills . Greater public procurement of products that use high -
+quality grades of steel or steel with more compl ex chemistries may bolster demand for primary
+steel. These products may include offshore structural and aerospace applications.54 Such  policies
+(i.e., those  channel ing public procurement  resources to primary steel producers ) may increase
+government expenditures and introduce market distortions.
+Private Sector Demand
+The automotive industry accounted for approximately 15% of net steel domestic  shipment s in
+2024 , compared with 28%  by the construction industry  and 23% by  steel s ervice centers .55 Unlike
+steel for construction  and metal fabrication , which may come from mini mills,  the automotive
+industry relies  on integrated iron and steel mills  for key components ,56 which  reflects  automakers’
+need s for high -quality steel .57
+49 41 U.S.C. §§8301 -8305 ; and CRS Report R46748, The Buy American Act and Other Federal Procurement Domestic
+Content Restrictions , by David H. Carpenter and Brandon J. Murrill .
+50 The term Buy America La w is defined in §70916 of P.L. 117 -58 and includes statutory authorities codified at 23
+U.S.C. §313 , 49 U.S.C. §5323(j) , 49 U.S.C. §22905(a) , 49 U.S.C. §50101 , and others .
+51 U.S. Department of Transportation , “Buy America Provisions - Side-by-Side Comparison ,”
+https://www.transportation.gov/ buy-america -provisions -side-side-comparison .
+52 Ron Ashburn, “ North American Steel Update ,” presented at the  2024 AIST Leadership  Conference , San Antonio,
+TX, November 19, 2024 , https://www.aist.org/ getmedia/ b22b6f7d -3329 -405c -9ce6 -bfed1af39e6a/
+2024_NA_Steel_Update__RA -Public.pdf .
+53 American Institute of Steel Construction , More than Recycled Content: The Sustainable Characteristics of Structural
+Steel, May 2017, https://www.aisc.org/ media/ c00penl2/ more -than-recycled -content.pdf .
+54 David Quidort et al. “ Offshore 690 MPa Heavy -Gauge Steel Plates Required in Modern Wind Turbine Installation
+Vessels ,” paper presented at the  3rd International Symposium on the Recent Developments in Plate Steels, Vail, CO,
+June 2-5, 2024, https://www.aist.org/ AIST/ aist/AIST/ Conferences_Exhibitions/ Training_Seminars/
+Plate%20Proceedings/ 53.pdf ; and Biliyar Bhat, “Chapter 2: Aerospace Materials Characteristics ,” in Aerospace
+Materials and Applications , eds. Biliyar Bhat et al. ( American Institute of Aeronautics and Astronautics , 2018),
+https://ntrs.nasa.gov/ citations/ 20180001137 .
+55 DOI, Mineral Commodity Summaries 2025 .
+56 Marta Negri  and Georg Bieker, Closing the Loop: Improving Automotive Steel Recycling for a Circular Economy ,
+International Council on Clean Transportation , ICCT  policy brief, March 2025, https://theicct.org/ wp-content/ uploads/
+2025/ 03/ID-305-%E2%80%93 -Recycled -steel_brief_final.pdf .
+57 Hu and Feng, Advanced High -Strength Steel ; and Worthington Steel, “The Differences Between Integrated Steel Mill
+vs. Mini Mill ,” (blog), accessed January 6, 2026, https://www.worthingtonsteel.com/ flatrolledsteel/ steel-expertise/ blog/
+materials -suppo rt/integrated -vs.-mini-mills .
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   9 The share of USS steel shipment s from domestic facilities  to the automotive and transportation
+sector grew from 2 3% to 32% by weight between 2022 and 2024 .58 In absolute terms, t he
+company’s  shipments to the sector grew by around 29%  as total shipments to all customers fell by
+around 5% . The grow th in demand from the automotive  and transportation sector  was more
+pronounced for the company’s domestic integrated iron and steel mills  than for its mini mills. For
+USS’s domestic integrated mills, shipments to the sector  increased  from 31%  of total shipment  by
+weight  to 43%  between 2022 and 2024 . Given steel purchases by the automotive market, policies
+that promote the production of auto motive vehicles may increase sales for primary steelmakers .
+Other  major markets for USS integrated iron and steel mills  in 2024  included facilities engaged in
+converting the raw steel into special alloys  (21.8% ) and steel service centers  that process the steel
+into a form and quantity needed by end users  (13.2% ).
+Trade Measures
+Congress may exercise oversight of trade measures  to shape steel demand  and affect industries
+that rely on steel inputs . In February 2025, a presidential proclamation  reestablished  U.S. tariffs
+on steel imports  on national security grounds,  with the explicit goal of ensuring that at least 80%
+of domestic steel production capacity would be utilized.59 Additional tariffs on  some  products
+derived from steel went into effect in August 2025  and may increase demand for domestically
+produced steel .60
+Examinations of p ast U.S. tariffs suggest trade policies have  varied  effects on the steel and steel -
+using industr ies. Some s tudies of the U.S. tariffs on steel imposed in 2002 during the George W.
+Bush Administration have suggested that the trade measure  negatively affected the
+competitiveness and employment of domestic manufacturers  that use steel .61 By contra st, one
+study suggested that tariffs and anti -dumping  duties on imported steel tended to not increase costs
+for steel users  as long as import quantities were not restricted  through a quota .62 Another study
+suggested that foreign suppliers of steel lowered their prices in response to U.S. tariffs  on steel
+imports in 2018,  which  limit ed the impact of the policy on domestic production and employment
+in the sector.63
+Congress may choose to monitor the effects of current tariff  measures on the domestic steel
+industry and the broader economy  and asses s any potential need for further action .
+58 Calculated by CRS  by excluding output from USS European operations from both the totals and shipments to
+transportation and automotive markets. The figures can be found at SEC, United States Steel Corporation Form 10 -K
+for the fiscal year ended December 31, 2024 , p. 6.
+59 Proclamation 10896 of February 10, 2025, “Adjusting Imports of Steel Into the United States,” 90 Federal Register
+9817, February 18, 2025.
+60 U.S. Department of Commerce, Bureau of Industry and Security , “Adoption and Procedures of the Section 232 Steel
+and Aluminum Tariff Inclusions Process ,” 90 Federal Register  40326 , August 19, 2025,
+https://www.federalregister.gov/ documents/ 2025/ 08/19/2025 -15819/ adoption -and-procedu res-of-the-section -232-steel-
+and-aluminum -tariff -inclusions -process .
+61 James Lake  and Ding Liu, “ Local Labor Market Effects of the 2002 Bush Steel Tariffs ,” American Economic
+Journal , vol. 17 , no. 4 (November 2025 ), https://www.aeaweb.org/ articles? id=10.1257/ pol.20220472 ; and Lydia Cox,
+The Long -Term Impact of Steel Tariffs on U.S. Manufacturing , February 2025, https: //coxlydia.com/ papers/
+cox_steel_tariffs.pdf .
+62 Bruce A. Blonigen  et al. , Trade Policy and Market Power: The Case of the US Steel Industry , National Bureau of
+Economic Research  (NBER),  December 2007, https://www.nber.org/ system/ files/ working_papers/ w13671/
+w13671.pdf .
+63 Mary Amiti  et al. , “Who ’s Paying for the US Tariffs? A Longer -Term Perspective ,” NBER, January 2020 ,
+https://www.nber.org/ system/ files/ working_papers/ w26610/ w26610.pdf .
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   10 Innovation  Adoption
+Nippon Steel stated that it made  a commitment  to the U.S. government  to maintain  production at
+existing  USS locations .64 Invoking th is commitment and th e national security agreement  terms ,
+the White House intervened in September 2025 to stop the company from closing  the USS plant
+in Granite City, IL.65 In December 2025 , the company made a decision to restart the previously
+idled blast furnace at the  Granite City  facility .66 This investment , which had not been publicly
+considered  by Nippon Steel at the time of the acquisition,  and other  investments  to maintain
+existing assets  at other  USS locations  require capital . Maintenance of  existing assets may affect
+the company’s ability to consider new assets that utilize innovative technologies .
+Research in iron and steelmaking  has introduce d many  breakthroughs  in recent years . In
+particular, the production of direct reduced iron (DRI) using methane gas or hydrogen has gained
+traction globally. The process substitutes blast furnace -based ironmaking at traditional integrated
+iron and steel mills and can reduce the cost of raw steel production , according to some analysts.67
+Other emerging technologies include electrowinning and molten oxide electrolysi s that can
+produce iron without traditional feedstocks such as  metallurgical coke, methane gas, or
+hydrogen.68 On the one hand, legacy integrated iron and steel mills may bolster their
+competitiveness by adopting new technologies. On the other hand , steel mill operators might not
+invest in  innovati ve technologies  if they impose high near-term costs or if operators want to us e
+existing assets, among other factors .
+Some incumbent  steelmakers  and new entrants  into the industry  have demonstrated an  interest in
+adopting new technologies  to increase productivity  and reduce externalities , such as  pollution .
+For example, Cleveland -Cliffs established a demonstration DRI furnace  in Toledo, OH , to study
+the technology . In addition, Hyundai Steel Company and Nippon Steel announced plans to build
+facilities  that employ DRI furnace technology  in Louisiana and Arkansas  (at the site of  the
+existing USS mini mill) , respectively .69
+Companies  adopting such new technologies may  assume short -term loss es in profitability as the
+acquisition of new equipment and know -how impose s costs .70 Some innovations  that may offer
+longer-term returns and support competitiveness may  be in early stages of technological readiness
+64 Nippon Steel , “Nippon Steel Corporation and U.S. Steel Finalize Historic Partnership.”
+65 Marc Lev y, “The White House Says It Blocked US Steel’s Decision to Stop Processing Steel at Illinois Plant,” AP
+News , September 22, 2025 , https://apnews.com/ article/ us-steel-trump -nippon -steel-granite -city-
+7d9acc7f1a1b08b971b374c40574beec .
+66 Will Bauer , “U.S. Steel to Restart  Second Blast Furnace at Granite City Works ,” St. Louis Public Radio , December
+4, 2025, https://www.stlpr.org/ economy -business/ 2025-12-04/u-s-steel-restart -second -blast -furnace -granite -city-works .
+67 Daseul Kim and Esther Haerim Heo, Green Steel Economics : Comparing Economics of Green H2 -DRI and
+Traditional Steelmaking Around the World , Solutions for Our Climate, July 2024, https://forourclimate.org/ research/
+520.
+68 Business Wire , “Electra Launches Pilot Plant to Advance Commercialization of Sustainable Clean Iron Production ,”
+March 27, 2024, https://www.businesswire.com/ news/ home/ 20240327121089/ en/Electra -Launches -Pilot -Plant -to-
+Advance -Commercialization -of-Sustainable -Clean -Iron-Production ; and GlobeNewswire , “Boston Metal Commissions
+Industrial -Scale Cell in Crucial Green Steel Milestone ,” March 12, 2025, https://www.globenewswire.com/ news -
+release/ 2025/ 03/12/3041404/ 0/en/Boston -Metal -Commissions -Industrial -Scale -Cell-in-Crucial -Green -Steel -
+Milestone.htm l.
+69 Kaufman , “Hyundai to Make ‘Low-Carbon’ Steel at $6B Plant in Louisiana ”; and George Jared,  “New Steel Mill
+Slated for Big River Steel Works Campus ,” Talk Business & Politics , November 12, 2025, https://talkbusiness.net/
+2025/ 11/new-steel-mill-slated -for-big-river -steel-works -campus/ .
+70 Filipe Silva  and Anthony de Carvalho , Research and Devel opment, Innovation and Productivity Growth in the Steel
+Sector , Organisation for Economic Co -operation and Development, March 29, 2016,
+https://one.oecd.org/document/DSTI/SU/SC(20 15)5/FINAL/En/pdf .
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service   11 and may depend on companies commit ting upfront capital  to fund  further development.  Scarcities
+in other inputs  need ed for new iron and steelmaking processes , such as electricity, may stymie
+companies’ willingness to invest in  some  new technologies .71
+Capital  committed to  traditional assets , such as  coke batteries and blast furnaces , may limit the
+ability of  legacy producers to adopt  new technolog ies. For example, t he projected cost of the
+planned blast furnace renovation  at the USS-owned integrated iron  and steel mill in Gary, IN , is
+$300 million ; the renovation  would aim to extend this asset’s  lifespan by approximately 15-20
+years.72 During th e extended lifespan of the blast furnace , the adoption of a new technology that
+replace s this capital asset  would carry higher opportunity costs  if USS were to forgo expected
+returns on investment . The blast furnace renovation also  may involve USS invest ing in coke
+batteries at the  company’s Pennsylvania  operation , which  produce s input materials ( metallurgical
+coke) for the blast furnace s. This additional demand for capital  may compete with the company’s
+desire to invest in new pathways for iron  and steel making.
+Congress may encourag e the industry’s adoption of new innovations in iron and steel production
+by supporting the deployment  of infrastructure for the adoption of new processes  (electricity)  or
+offering resources for the production of inputs such as  hydrogen .73 In addition, g rants promoting
+research  and development  of new iron and steelmaking technologies may lower private firms’
+costs for adopt ing such innovations .74 These measures  may also  carry costs  that increase public
+spending .
+Tax Credits and Oversight
+Nippon Steel’s plans to maintain operations  of coke ovens  and blast furnaces  at USS integrated
+iron and steel mills  benefit from government subsidies . In July 2025, Congress extended
+production tax credits to metallurgical coal —a raw material used in the ironmaking process at
+legacy integrated iron and steel mil ls. Such tax credits  may help lower production  costs  at these
+sites.75 Increasing the competitiveness  of assets that process and use metallurgical coal at
+integrated iron and steel mills, such as coke ovens and blast furnaces, may encourage further
+capital investments in these assets and discourage Nippon Steel from  adopting alternative
+processes for making iron  at lega cy USS facilities .
+Congress may consider offering tax credits  for products  that use primary steel, such as
+automotive vehicles , with a domestic content requirement  for the steel in the product . In P.L. 117 -
+169, Congress offered tax credits to individuals who purchase qualifying vehicles that met the
+domestic content requirement for critical minerals and battery components used in the vehicle.76
+To encourage private sector a cquisition of domestically produced steel, s imilar considerations
+71 Vardah Gill , “Cleveland -Cliffs Cancels $500M Hydrogen Steel Plant Project in Ohio ,” Insider Monkey, June 5,
+2025, https://finance.yaho o.com/ news/ cleveland -cliffs -cancels -500m -hydrogen -220324084.html .
+72 Nippon Steel, “ Nippon Steel Announces Transformative Investments at U.S. Steel’s Mon Valley Works and Gary
+Works ”; Rebecca Thiele , “Steelmaker Nippon to Reline Gary Works Blast Furnace, Residents Worry About Decades
+of Pollution ,” WFYI , August 28, 2025,  https://w ww.wfyi.org/ news/ articles/ steelmaker -nippon -to-reline -gary-works -
+blast -furnace -residents -worry -about -decades -of-pollution .
+73 Steel Modernization Act of 2024  (H.R. 9334 , 118th Congress ).
+74 For examples of public funding of research on innovative iron and steelmaking technologies, see  U.S. Department of
+Energy, “ Funding Selections: Industrial Efficiency and Decarbonization FOA ,” accessed January 6, 2026,
+https://www.energy.gov/ eere/ ito/funding -selections -industrial -efficiency -and-decarbonization -foa.
+75 P.L. 119 -21.
+76 26 U .S.C. §30D.
+Nippon Steel’s Acquisition of U.S. Steel: Potential Implications for the Industry
+Congressional Research Service  R48872  · VERSION 3 · NEW  12 may be ta ken for products using primary steel . Such measures may carry implications for the
+budget.
+As discussed, a ccording to Nippon Steel, the national security agreement with the U.S.
+government gives the President of the United States or a presidential  designee consent rights with
+respect to certain  major decision s such as the transfer of jobs outside of the United States  or the
+closure of certain  existing U.S. m anufacturing facilities currently owned by USS.77 When the
+President or the President’s  designee exercises  these consent rights , Congress may have the
+ability to influence decisions at USS through its oversight of the executive branch .
+Author Information
+Yong W. Kwon
+Analyst in Industrial Organization and Business
+Policy
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.
+77 Nippon Steel , “Nippon Steel Corporation and U.S. Steel Finalize Historic Partnership.”

@@ -1,0 +1,1153 @@
+Overview of FY2026 Appropriations for
+Commerce, Justice, Science, and Related
+Agencies (CJS)
+Updated February 25, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R48643
+Congressional Research Service
+SUMMARY
+Overview of FY2026 Appropriations for
+Commerce, Justice, Science, and Related
+Agencies (CJS)
+This report describes actions to provide FY2026  appropriations for Commerce, Justice, Science,
+and Related Agencies (CJS) accounts. The annual CJS appropriations act provides funding for
+the Department of C ommerce, which includes bureaus and offices  such as the Census Bureau, the
+U.S. Patent and Trademark Office, the National Oceanic and Atmospheric Administration, and the National Institute of
+Standards and Technology; the Department of Justice (DOJ), which includes agencies such as the Federal Bureau of
+Investigation, the Bureau of Prisons, the U .S. Marsh als Service , the Drug Enforcement Administration, and the Offices of the
+U.S. Attorneys; the National Aeronautics and Space Administration; the National Science Foundation; and several related
+agencies such as the Legal Services Corporation and the Equal E mployment Opportunity Commission.
+The Full-Year Continuing Appropriations and Extensions Act, 2025  (FY2025 CR, P.L. 119 -4) provide d FY2025 funding for
+most CJS accounts at th e FY2024 enacted level. The CR reduced funding for several CJS accounts relative to the FY2024
+enacted appropriation. The reductions were the result of eliminating certain funding in CJS accounts that was for community
+funding projects (also known as earma rks) in FY2024. The CR also increased funding for two DOJ accounts and increased
+the obligation cap for the Crime Victims Fund.
+For FY2026, the Administration request ed a total of $67. 442 billion for the departments and agencies funded through CJS.
+This amount was $14.992 billion ( -18.2%) less than regular FY2025 enacted funding for CJS ($82. 435 billion). The
+Administration’s request include d $8.656  billion for the Department of Commerce , $35.359 billion for DOJ , $22.722 billion
+for the science agencies , and $705 million for the related agencies.
+The Senate Committee on Appropriations marked up and reported its FY2026 CJS appropriations bill ( S. 2354 ) on July 17,
+2025. The bill would have provide d a total of $82.953 billion for CJS departments and agencies. Th is amount was $519
+million (+0. 6%) more than the FY2025 regular appropriation for CJS and $15. 511 billion (+2 3.0%) more than the
+Administration’s FY2026 request. The committee -reported bill include d $10.874 billion for the Department of Commerce ,
+$36.920 billion for DOJ , $33.910 billion for the science agencies , and $1.249 billion for the related agencies.
+The House  Committee on Appropriations marked up and reported its FY2026 CJS appropriations bill ( H.R. 5342 ) on
+September 10, 2025. The bill would  have  provide d a total of $80.245 billion for CJS departments and agencies. The amount
+in the committee -reported bill was $2.190 billion ( -2.7%) less than the FY2025 regular appropriation for CJS and $12. 803
+billion (+1 9.0%) more than the Administration’s FY2026 request . The committee -reported bill include d $10.124 billion for
+the U.S. Department of Commerce; $37.309 billion for DOJ; $31.848 billion for the science agencies; and  $963 million for
+the related agencies.
+On January 23, 2026, the Commerce, Justice, Science; E nergy and Water Development; and Interior and Environment
+Appropriations Act, 2026 ( P.L. 119 -74) was signed into law by President Trump. The act provides a total of $82.619 billion
+for CJS departments and agencies, which is $185 million (+0.2%) more than the FY2025 regular appropriation for CJS and
+$15.177 billion (+22.5%) more than the Administration’s FY2026 request. The act includes $11.132 billion for the
+Department of Co mmerce; $37.079 billion for DOJ; $33.196 billion for the science agencies; and $1.212 billion for the
+related agencies.
+R48643
+February 25, 2026
+Nathan James
+Analyst in Crime Policy
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   Contents
+Overview of CJS  ................................ ................................ ................................ .............................  1
+Department of Commerce  ................................ ................................ ................................ .........  1
+Department of Justice  ................................ ................................ ................................ ................  2
+Science Offices and Agencies  ................................ ................................ ................................ ... 3
+Related Agencies  ................................ ................................ ................................ .......................  5
+FY2025 Enacted Appropriations  ................................ ................................ ................................ ..... 5
+FY2026 Administration’s  Request  ................................ ................................ ................................ .. 6
+Senate Committee -Reported Bill  ................................ ................................ ................................ ..... 8
+House Committee -Reported Bill  ................................ ................................ ................................ ..... 9
+FY2026 Enacted Appropriations  ................................ ................................ ................................ .... 11
+FY2025 Supplemental Appropriations  ................................ ................................ ..........................  18
+Advance Appropriations  ................................ ................................ ................................ ................  19
+Tables
+Table 1. Funding for Commerce, Justice, Science, and Related Agencies (CJS): FY2025
+Enacted Funding, the Administration’s FY2026 Requested Funding, the Senate and
+House Committee -Reported Amounts, and FY2026 Enacted Funding  ................................ ...... 12
+Table 2. FY2025 Supplemental Appropriations for CJS  ................................ ...............................  18
+Table 3. Advance Appropriations for CJS  ................................ ................................ .....................  19
+Table A -1. Nominal Funding for CJS Agencies, by Account: FY2016 -FY2025  ..........................  21
+Appendixes
+Appendix. Historical Funding for CJS  ................................ ................................ ..........................  21
+Contacts
+Author Information  ................................ ................................ ................................ ........................  26
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   1 his report describes actions to provide FY202 6 appropriations for Commerce, Justice,
+Science, and Related Agencies (CJS) accounts. This report also provides information on
+FY202 5 appropriations for CJS. (Enacted funding for CJS for FY20 16–FY2025  can be
+found in  Table A -1.) The dollar  amounts in this r eport  reflect only new appropriations made
+available for a fiscal year . Therefore, the amounts do not include any rescissions of unobligated or
+deoblig ated balances that may be counted as offsets to newly enacted appropriations, nor do they
+include any scorekeeping adjustments (e.g.,  the budgetary effects of provisions limiting the
+availability of the balance in  the Crime Victims Fu nd). In this  report, p ercentage changes are
+calculated using whole, not rounded, numbers , meaning that in some instances there may be small
+differences between the actual percentage change and the percentage change that would be
+calculated by using the rounded amounts discussed  in the report . In some instances, amounts in
+this report differ from amounts for the same account in previous editions of CRS CJS
+appropriations  report s because past reports did not reflect supplemental budget requests or
+because there were differences in  how legislative proposals are scored by the Office of
+Management and Budget and the Congressional Budget Office.
+Overview  of CJS
+The annual CJS appropriations act provides funding for  the Department of Commerce, the
+Department of  Justice  (DOJ) , select science agencies, and several related agencies.
+Appropriations for the Department of Comme rce include funding for bureaus and offices  such as
+the Census Bureau, the U.S. Patent and Trademark Office, the National Oceanic and Atmospheric
+Administratio n, and the National Institute of Standards and Technology. Appropriations for DOJ
+provide funding for agencies such as the Federal Bureau of Investigation; the Bureau of Prisons;
+the U.S. Marshals; the Drug Enforcement Administration; and the Bureau of Alc ohol, Tobacco,
+Firearms, and Explosives, along with funding for a variety of public safety -related grant programs
+for state, local, and tribal governments. The vast majority of funding for the science agencies goes
+to the National Aeronautics and Space Adm inistration and the National Science Foundation.1 The
+annual appropriation for the related agencies includes funding for agencies such as the Legal
+Services Corporation and the Equal Employment Opportunity Commission.
+Department of Commerce
+The mission of  the Department of Commerce is to  “create the conditions for economic growth
+and opportunity.”2 The department “ works to drive U.S. economic competitiveness, strengthen
+domestic industry, and spur the growth of quality jobs in all communities across the c ountry .”3 It
+has wide -ranging responsibilities including trade, economic development, technology,
+entrepreneurship and business development, monitoring the environment, forecasting weather,
+managing marine resources, and statistical research and anal ysis. The department  pursues and
+implements policies that affect  trade and economic development by working to open new markets
+for U.S. goods and services and promoting pro -growth business policies. It also invests in
+research and development to foster innovati on.
+1 The science agencies funded in the CJS bill are not the only fe deral science agencies.
+2 U.S. Department of Commerce , “About Commerce: Mission, ” https://www.commerce.gov/ page/ about -
+commerce#mission , (hereinafter, Department of Commerce, “About Commerce: Mission”) .
+3 Departm ent of Commerce, “About Commerce: Mission.”  T
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   2 The agencies within the Department of Commerce, and their responsibilities , include the
+following:
+• Bureau of Economic Analysis (BEA)  is a federal statistical agency that promotes a
+better understanding of the U.S. economy by providing timely, relevant,  and
+accurate economic accounts data in an objective and cost -effective manner ;
+• Bureau of Industry and Security (BIS) works to ensure  an effective export contro l
+and treaty compliance system and promote  continued U.S. leadership in strategic
+technologies b y maintaining and strengthening  adaptable, efficient, and effective
+export controls and treaty compliance systems, along with ac tive leadership and
+involvement in international export control regimes ;
+• Census Bureau  is a federal statistical agency that coll ects data  and disseminates
+information about the U.S.  economy, society, and institutions, which fosters
+economic growth, advances scientific understanding, and facilitates informed
+decisions ;
+• Economic Development Administration (EDA) promotes  innovation and
+competitiveness, preparing American regions for growth and success in the
+worldwide economy ;
+• International Trade Administration (ITA) seeks to strengthen  the international
+competitive ness of  U.S. industry, promote  trade and investment, and ensure  fair
+trade and compliance with trade laws and agreements ;
+• Minority Business Development Agency (MBDA)  promotes the growth and
+competitiveness of minority owned businesses through the mobilization and
+advancement of public and private sector programs, policy, and research ;
+• National Institute of Standards and Technology (NIST) promotes U.S. innovation
+and industrial competitiveness by advancing measurement science, standards,
+and technology in ways that  enhance economic security  and improve quality of
+life;
+• National Oceanic and Atmospheric Administration (NOAA)  provide s daily
+weather forecasts, severe storm warnings,  climate monitoring,  fisheries
+management, coastal restoration, and  support  of marine com merce ;
+• National Telecommunications and Information Administration (NTIA) advises the
+President on communications and information policy ; and
+• United States Patent and Trademark Office (USPTO) fosters innovation,
+competitiveness , and economic growth domestic ally and abroad by providing
+high-quality and timely examination of patent and trademark applications,
+guiding domestic and international intellectual property (IP) policy, and
+delivering IP information and education worldwide .
+Department of Justice
+DOJ’s mission is to “ uphold the rule of law, to keep our country safe, and to protect civil rights .”4
+DOJ also provides legal advice and opinions, upon request, to the President  and executive branch
+department heads.
+4 U.S. Department of Justice, “ About DOJ ,” https://www.justice.gov/ about .
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   3 The major  DOJ offices and agencies and their  functions are  as follows :
+• Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF)  enforces federal
+law related to the manufacture, importation, and distribution of alcohol, tobacco,
+firearms, and explosives;
+• Community  Oriented Policing Services (COPS) aims to advance  the practice of
+community policing by  the nation’s state, local,  and tribal law enforcement
+agencies through information and grant resources ;
+• Drug Enforcement Administration (DEA)  investigates federal drug law
+violations; coordinates its efforts with other federal, state, and local law
+enforcement agencies; develops and maintains drug intelligence systems;
+regulates the manufacture, distribution, and dispensing of legitimate contro lled
+substances; and conducts joint intelligence -gathering activities with foreign
+governments;
+• Federal Bureau of Investigation (FBI)  investigates violations of federal criminal
+law; helps protect the United States against terrorism and hostile intelligenc e
+efforts; provides assistance to other federal, state, and local law enforcement
+agencies; and shares jurisdiction with the Drug Enforcement Administration for
+the investigation of federal drug violations;
+• Federal Prison System  (Bureau of Prisons; BOP ) houses offenders sentenced to a
+term of incarceration for a federal crime and provides for  the operation and
+maintenance of the federal prison system;
+• Office of the United States Attorneys  (USAO)  prosecutes violations of federal
+criminal laws, represents the  federal government in civil actions, and initiates
+proceedings for the collection of fines, penalties, and forfeitures owed to the
+United States;
+• Office on Violence Against Women (OVW) provides federal leade rship in
+developing the nation’s  capacity to red uce violence against women and
+administer justice for and strengthen services to victims of domestic violence,
+dating violence, sexual assault, and stalking ;
+• Office of Justice Programs (OJP)  manages and coordinates the activities of the
+Bureau of Justice A ssistance; Bureau of Justice Statistics; National Institute of
+Justice; Office of Juvenile Justice and Delinquency Prevention; Office of Sex
+Offender Sentencing, Monitoring, Apprehending, Register ing, and Tracking; and
+Office for  Victims of Crime; and
+• United States Marshals Service (USMS)  provides security for the federal
+judiciary, protects witnesses, executes warrants and court orders, manages seized
+assets, detains and transports  alleged and convicted  offenders, and apprehends
+fugitives.
+Science Offices and Agencies
+The science offices and agencies support research and development and related activities across a
+wide variety of federal missions, including national competitiveness, space exploration, and
+fundamental discovery.
+• Office of Science and Technology Policy  (OSTP)  provide s the President and
+others within the Executive Office of the President with advice on the scientific,
+engineering, and technological aspects of issues that require the attention of the
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   4 federal government.5 The OSTP directo r also manages the National Science and
+Technology Council,6 which coordinates science and technology policy across
+the executive branch of the federal government, and co -chairs the President’s
+Council of Advisors on Science and Technology,7 a council of  external advisors
+that provides advice to the President on matters related to science and technology
+policy.
+• National Space Council , in the Executive Office of the President , is a
+coordinating body for U.S. space policy. Chaired by the Vice President , it
+consists of the Secretaries of State, Defense, Commerce, Transp ortation, and
+Homeland Security; the Administrator of NASA;  and other senior officials. The
+council was first established in 1988  through P.L. 100 -685.8 The council ceased
+operations in  1993 , and  was reestablished by the Trump Administration in June
+2017.9
+• National Science Foundation  (NSF)  supports basic research and education in the
+nonmedical sciences and eng ineering. The foundation  was established  as an
+independent federal agency “to promote the progress of science; to advance the
+national health, prosperity, and welfare; to secure the national defense; and for
+other purposes.”10 The NSF is a primary source o f federal support for U.S.
+university -based  research  in the nonmedical sciences and engineering . It is also
+responsible for significant shares of the federal science, technology, engineering,
+and mathematics (STEM) education program portfolio and federal STEM student
+aid and support.
+• National Aeronautics and Space Administration  (NASA)  was created to conduct
+civilian space and aeronautics activities.11 It has five mission directorates. The
+Space Operations Mission Directorate and the Exploration Sy stems Development
+Mission Directorate are responsible for human spaceflight activities,  including
+the International Space Station and development efforts for future crewed
+spacecraft. The Science Mission Directorate manages robotic science missions,
+such a s the Hubble Space Telescope, the Mars rover Curiosity, and satellites for
+Earth science research. The Space Technology Mission Directorate develops new
+technologies for use in future space missions, such as advanced propulsion and
+laser communications. Th e Aeronautics Research Mission Directorate conducts
+research and development on aircraft and aviation systems. In addition, NASA’s
+Office of STEM Engagement (formerly the Office of Education ) manages
+education programs for schoolchildren, college and unive rsity students, and the
+general public.
+5 National Science and Technology Policy, Organization, and Priorities Act of 1976 ( P.L. 94 -282).
+6 Executive Order 12881, issued November 23, 1993, established the National Science and Technology Council.
+7 Execut ive Order 13539, issued October 22, 2019, established the President’s Council of Advisors on Science and
+Technology.
+8 Title V of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1989  (P.L. 100 -685),
+which was signed into law by President George H.W. Bush on November 17, 1988, established the National Space
+Council in the Executive Office of the President, effective February 1, 1989. President  Bush established the council, its
+members, and its functions through Executive Order 12675, issued on April 20, 1989.
+9 Executive Order 13803, issued June 30, 2017.
+10 The National Science Foundation Act of 1950 (P.L. 81 -507).
+11 National Aeronautics and Sp ace Act of 1958 (P.L. 85 -568).
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   5 Related Agencies
+The annual CJS appropriations act includes funding for several related agencies:
+• Equal Employment Opportunity Commission  is responsible for enforcing federal
+laws that make it illegal to discriminat e against a job applicant or an  employee
+because of the person’ s race, color, religion, sex (including pregnancy, gender
+identity, and sexual orientation), national origin, age (40 or older), di sability, or
+genetic information;
+• International Trade Commiss ion investigates the effects of dumped and
+subsidized imports on domestic industries and conducts global safeguard
+investigations, adjudicates cases involving imports that allegedly infringe
+intellectual property rights , and  serves as a resource for trade data and other trade
+policy -related information ;
+• Legal Services Corporation  (LSC)  is a federally funded nonprofit corporation
+that provide s financial support for civil legal aid to low -income Americans ;
+• Marine Mammal Commission  works for the conservation  of marine mammals by
+providing science -based oversight of domestic and international policies and
+actions of federal agencies  with a mandate  to address human effects  on mari ne
+mammals and their ecosystems;
+• Office of the U.S. Trade Representative  (USTR)  is responsible for developing and
+coordinating U.S. international trade, commodity, and direct investment policy,
+and overseeing ne gotiations with other countries;
+• State Justice Institute  is a federally funded nonprofit corporation that award s
+grants to improve the qua lity of justice in state courts  and foster innovative,
+efficient solutions to common issues faced by all courts ; and
+• U.S. Commission on Civil Rights  inform s the development o f national civil rights
+policy and enhance s enforcement of federal civil rights laws .
+FY2025 Enacted Appropriations
+On March 15, 2025, President Trump signed into law the Full-Year Continuing Appropriations
+and Extensions Act, 2025  (CR, P.L. 119 -4), which provided FY2025 funding for most CJS
+accounts at the FY2024 enacted level (see Table 1). The CR reduced funding for the following:
+• NIST’s Scientific and Technical Research and Services  account by $223 million
+(-20.6%), which received a total of $1.080 billion in FY2024;
+• NIST’s Construction of Research Facilities account by $ 80 million ( -47.8%),
+which received a total of $168 million in FY2024;
+• NOAA’s Operations, Research, and Facilities account by $139 million ( -3.1%),
+which received a total of $5.548 billion in FY2024;
+• DOJ’s State and Local Law Enforcement Assistance account  by $475 million
+(-19.2%), which received a total of $2.475 billion in FY2024;
+• DOJ’s COPS account by $247 million ( -37.2%), which received a total of $665
+million in FY2024; and
+• NASA’s Safety, Security and Mission Service  account by $37 million ( -1.2%),
+which received a total of $3.129 billion in FY2024.
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   6 These reductions represent the FY2024 amount provided to these accounts for community
+funding projects/congressionally directed spending (also known as  earmarks ).12
+The CR increased funding for two CJS accounts: DOJ’s Justice Information Sharing Technology,
+from $30 million to $38 million, and USMS’s Federal Prisoner Detention account, from $2.100
+billion to $2.236 billion. The CR also increased the obligation cap on the Crime Victims Fund to
+$1.900 bill ion.
+In total , the CR provided $82. 435 billion in regular  appropriations for CJS. In addition to the
+amounts provided in the CR, $3.540 billion in supplemental appropriations were provided for
+CJS agencies in P.L. 118 -158 (see Table 2). There was also $1.400 billion in advance
+appropriations provided through the Infrastruc ture Investment and Jobs Act ( IIJA, P.L. 117 -58)
+and t he Bipartisan Safer Communities Act ( P.L. 117 -159) that were available to CJS agencies for
+FY2025 (see Table 3).
+Availability of Emergency Designated Funding for FY2025
+The FY2024 CJS Appropriations Act (Division C of P.L. 118 -42) provided $2.000 billion in appropriations
+designated by Congress and the President as being for an emergency requi rement under Section 251(b)(2)(A)(i) of
+the Balanced Budget and Emergency Deficit Control Act of 1985 (BBEDCA). Per Section 1110 of the CR, funds
+provided for FY2025 in the CR that were designated by Congress as an emergency requirement in covered
+appropri ations acts for FY2024 will retain such designations under the CR. Furthermore, Section 1110(b) of the
+CR establishes that “each amount” provided by the CR and designated by Congress as an emergency requirement
+will only become available for obligation if “the President subsequently so designates all such amounts and
+transmits such designations to the Congress.” The inclusion of such language, or similar language, in appropriations
+acts making the availability of all emergency -designated funds in the measur e contingent on the President
+subsequently designating all such amounts as an emergency requirement has been common in recent decades. On
+March 24, 2025, OMB submitted a memorandum to Congress designating as an emergency requirement only
+certain amounts pr ovided by the CR, including only $1.441 billion of the $2.000 billion in FY2025 funding for CJS
+accounts that Congress had designated as an emergency requirement. The FY2025 amounts for CJS in  Table 1
+include all emergency designated funding, regardless of whether the Administration concurred with the
+designation.
+FY2026 Administration’s Request
+For FY2026, the Administration request ed a total of $ 67.442 billion for the departments and
+agencies funded through CJS. This amount was $14.992 billion ( -18.2%) less than regular
+FY202 5 enacted funding for CJS ($8 2.435 billion). The Administration’s request include d the
+following:
+• $8.656  billio n for the U.S. Department of Commerce, which was $1.732 billion
+(-16.7%) less than the FY202 5 regular appropriation;
+• $35.359 billion for DOJ, which was $1.542 billion ( -4.2%) less than the FY202 5
+regular appropriation;
+• $22.722  billion for the science agencies, which was $11.186  billion ( -33.0%) less
+than the FY202 5 regular appropriation; and
+12 Section 1111 of the CR establishes that the act does not provide funding for the purposes of the FY2024 earmarks,
+unless specified otherwise. The reduction to DOJ’s State and Local Law Enforcement Assistance account also re flects
+the CR zeroing out $125 million in funding for reimbursing cities that hosted presidential nominating conventions for
+security -related expenses. In addition, funding for NASA’s Safety, Security and Mission Service  account under the CR
+is $20 million  higher than what it would be if funding for CFP/CDS was subtracted from the FY2024 enacted
+appropriation for the account.
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   7 • $705 m illion for the related agencies, which was $532 million ( -43.0%) less than
+the FY202 5 regular appropriation.
+There were some instan ces where the Administration request ed increase d funding for some CJS
+accounts:
+• NASA’s Exploration account (+$647 million, +8.4%);
+• BOP’s Salaries and Expenses account (+$357 million, +4.3%);
+• Census Bureau’s Periodic Censuses and Programs account (+$334 mil lion,
++31.7%);
+• USMS’s Federal Prisoner Detention (+$302 million, +13.5%) and Salaries and
+Expenses (+$31 million, +1.8%) accounts;
+• U.S. Attorneys (+$169 million, +6.5%);
+• BIS (+$112 million, +58.6%);
+• NSF’s Major Research Equipment and Facilities Constructio n account (+$17
+million, +7.3%);
+• USTR Salaries and Expenses (+$13 million, +22.0%) and Trade Enforcement
+Trust Fund (+$8 million, +53.3%);
+• DOJ’s Justice Information Sharing Technology account (+$12 million, +30.0%);
+and
+• International Trade Commission (+$12 million, +9.8%) .
+Even though the Administration request ed increased funding for several CJS accounts, proposed
+funding for the Commerce and Justice Departments, NASA, NSF, and the related agencies would
+have  been less than the FY2025 regul ar appropriation due to proposed reductions in other
+accounts in these departments and agencies.  The Administration propose d funding most CJS
+accounts at a level below the FY2025 regular appropriation. The Administration did not request
+funding for
+• EDA’s Economic Development Assistance Programs account,
+• NIST’s Manufacturing Extension  Partnership,
+• NOAA’s Pacific Costal Salmon  Recover y Fund,
+• DOJ’s Interagency Law Enforcement account,
+• NASA’s STEM Engagement account, and
+• NSF’s STEM Education account.
+Also, while the Administration request ed funding for EDA, MBDA, LSC,  DOJ’s Community
+Relations Service,  and the Marine Mammal Commi ssion, it propose d shuttering these agencies.
+Requested funding would  have  been to facilitate an orderly shutdown of each agency’s
+operations.
+The Administration’s FY2026 budget also propose d moving the Bureau of Labor Statistics  (BLS)
+from the U.S. Depart ment of Labor to the U.S. Department of Commerce and moving the High
+Intensity Drug Trafficking Areas  (HIDTA)  program from the Office of National Drug Control
+Policy to DOJ.
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   8 Senate Committee -Reported Bill
+The Senate Committee on Appropriations marked up an d reported its FY202 6 CJS appropriations
+bill ( S. 2354 ) on July 17, 202 5. The bill would  have  provide d a total of $8 2.953  billion for CJS
+departments and agencies. The amount in the c ommittee -reported bill was $519 million (+ 0.6%)
+more than the FY202 5 regular appropriation for CJS and $ 15.511 billion  (+23.0%) more  than the
+Administration’s FY202 6 request. The committee -reported bill include d the following:
+• $10.874  billion for the U.S. Department of Commerce, which was $486 million
+(+4.7%) more than the FY202 5 regular appropriation and $ 2.218  billion
+(+25.6%) more than the Administration’s request;
+• $36.920  billion for DOJ, which was $19 million ( +0.1%) more  than the  FY202 5
+regular appropriation and $1. 561 billion (+ 4.4%) more  than the Administration’s
+request;
+• $33.910  billion for the science agencies, which was $1 million ( <+0.1%) more
+than the FY202 5 regular  appropriation and $ 11.187 b illion ( +49.2 %) more  than
+the Administration’s request; and
+• $1.249 billion for the related agencies, which was $12 million (+ 1.0%) more than
+the FY202 5 regular  appropriation and $544 million (+77.1%) more than  the
+Administration’s request.
+The Senate committee -reported bill w ould have  generally fund ed Department of Commerce
+accounts at a level equal to or above the FY2025 regular appropriation. However, the bill would
+have  reduce d funding for the ITA ( -$18 million, -2.9%) ; EDA’s Salaries and Expenses ( -$2
+million, -2.9%) and E conomic Development Assistance Programs ( -$40 million, -10.0%)
+accounts ; MBDA ( -$13 million, -19.4%) ; BEA ( -$3 million, -2.4%) ; NTIA’s Salaries and
+Expenses ( -$2 million, -3.5%) ; and NOAA’s Procurement, Acquisition, and Construction account
+(-$110 million,  -6.4%). The committee -reported bill would  have  funded most Commerce accounts
+at a level above the Administration’s request, with the exception of the Census Bureau’s Periodic
+Censuses and Programs account ( -$196 million, -14.1%). The Senate Committee on
+Appropriations did not adopt the Administration’s proposal to shutter EDA and MBDA, and it
+provided funding for NIST’s Manufacturing Assistance Partnership and NOAA’s Pacific Co astal
+Salmon Recover y Fund. The committee did not adopt the Administration’s pro posal to move BLS
+to the Department of Commerce.
+The Senate committee -reported bill would  have  funded most DOJ accounts at a level equal to or
+below the FY2025 regular appropriation. The bill would  have  increase d funding for Justice
+Information Sharing Tec hnology (+$1 2 million, +30.0%), Fees and Expenses of Witnesses (+$50
+million, +18.5%), USMS’s Salaries and Expenses (+$20 million, +1.2%) , OVW (+$7 million,
++1.0%), and COPS (+$83 million, +19.9%).  The committee -reported bill would  have  generally
+funded most DOJ accounts at a level equal to or greater than  the Administration’s request, though
+funding for the Executive Office for Immigration Review ( -$40 million, -4.8%), USAO ( -$169
+million, -6.1%), USMS’s Salaries and Expenses ( -$11 million, -0.6%) and Fede ral Prisoner
+Detention ($ -302 million, -11.9%) accounts , the FBI’s Construction account ( -$5
+million, -25.0%), and BOP’s Salaries and Expenses account ( -$357 million, -4.1%) would  have
+been funded at a level below the Administration’s request. The committee did not adopt the
+Administration’s proposal to close the Community Relations Service and the bill include d
+funding for the Interagency Law Enforcement account. The bill d id not provide fu nding for
+HIDTA under DOJ.
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   9 The Senate committee -reported bill would  have  funded most of NASA’s accounts at a level above
+the FY2025 regular appropriation, though the committee proposed reductions for the Science
+(-$34 million, -0.5%), Space Technology ( -$125 million, -11.4%), and Construction and
+Environmental Compliance and Restoration ( -$25 million, -8.3%) accounts. The bill would  have
+funded all of NASA’s accounts at a level above the Administration’s request, with the exception
+of the Exploration accoun t (-$530 million, -6.4%). The committee did not adopt the
+Administration’s proposal to zero out funding for the STEM Engagement account.
+The Senate committee -reported bill would  have  reduce d funding for NSF overall by $60 million
+(-0.7%) relative to the FY 2025 regular appropriation. The bill proposed increasing funding for the
+Major Research Equipment  and Facilities Construction account (+ 116 million, +49.6%), but this
+was offset by proposed reductions to the STEM Education ( -$172 million, -14.7%) and Agenc y
+Operations and Award Management ( -$4 million, -0.9%) accounts. The bill would  have  funded all
+NSF accounts at a level above the Administration’s request.
+The Senate committee -reported bill would  have  funded the related agencies at a level equal to or
+greater than the FY2025 regular appropriation. Most of the related agencies would  have  been
+funded at a level greater than the Administration’s request under the committee’s bill, though the
+committee  did not provide the requested increase for the Internation al Trade Commission and the
+Office of the U.S. Trade Representative. The committee did not adopt the Administration’s
+proposal to shutter LSC and the Marine Mammal Commission.
+House Committee -Reported Bill
+The House Committee on Appropriations marked up and reported its FY2026 CJS appropriations
+bill ( H.R. 5342 ) on September 1 2, 2025. The bill would  have  provide d a total of $80.245 billion
+for CJS departments and agencies. The amount in the committee -reported bill was $2.190 billion
+(-2.7%) less than the FY2025 regular appropriation for CJS and $12. 803 billion (+1 9.0%) more
+than the Administration’s FY2026 request . The committee -reported bill include d the following:
+• $10.124 billion for the U.S. Department of Commerce, which was $264 million
+(-2.5%) less than the FY2025 regular appropriation and $1. 468 billion (+1 7.0%)
+more than the Administration’s request;
+• $37.309  billion for DOJ, which was $408 million ( +1.1%) more  than the FY2025
+regular appropriation and $ 1.950  billion (+ 5.5%) more than the Administration’s
+request;
+• $31.848  billion for the science agencies, which was $2.060  billion ( -6.1%) less
+than the FY2025 r egular appropriation and $ 9.126  billion (+4 0.2%) more than
+the Administration’s request; and
+• $963 m illion for the related agencies, which was $274 million ( -22.2%) less than
+the FY2025 regular appropriation and $ 258 million (+ 36.6%) more than the
+Administration’s request.
+For the Department of Commerce agencies, the  House  committee -reported bill would  have
+reduce d funding for ITA ( -$191 million, -31.3%), EDA ( -$144 million, -30.7%), MBDA ( -$52
+million, -76.2%), NTIA ( -$12 million, -20.3%), and NOAA  (-$387 million, -6.3%) relative to the
+FY2025 regular appropriation. The bill would  have  increase d funding for the Census Bureau
+(+$294 million, +21.3%) , BIS (+$112 million, +58.6%),  and NIST (+$123 million, +10.6%)
+relative to the FY2025 regular appropri ation. While overall funding for the Census Bureau would
+have  increase d under the House committee -reported bill, the Census Bureau’s Current Surveys
+and Programs account would  have  decrease d by $40 million ( -12.2%). The House committee -
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   10 reported bill would  have  funded many Commerce accounts at the level requested by the
+Administration. However, proposed funding for NIST (+$44 8 million, +53. 8%) and NOAA
+(+$1.295 billion , +28.8%) was above the Administration’s request. The House committee -
+reported bill would h ave also provide d funding for the continued operations of EDA and MBDA ,
+even though the Administration proposed winding down the operations of the two agencies . The
+House Committee on Appropriations did not adopt the Administration’s proposal to move BLS t o
+the Department of Commerce.
+For the Department of Justice agencies, t he House  committee -reported bill would  have  increase d
+funding for USMS (+$326 million, +8.3%), the U.S. Attorneys (+$169 million, +6.5%), DEA
+(+$247 million, +9.6%), and BOP (+$513 mill ion, +6.0%), but it would have decrease d funding
+for FBI ( -$543 million, -5.1%) and ATF ( -$418 million, -25.7%) relative to the FY2025 regular
+appropriation.  The committee -reported bill would have decrease d funding for the OVW ( -$73
+million, -10.2%)13 and the Juvenile Justice Programs ( -$48 million, -12.8%) accounts, but it
+would have increase d funding for the State and Local Law Enforcement Assistance (+$246
+million, +12.3%) and the COPS (+$237 million, +56.8%) accounts.  The House Committee on
+Appropr iations recommend ed FY2026 funding for many DOJ accounts at the level requested by
+the Administration. However, the committee -reported bill would  have  increase d funding for
+construction projects at the FBI (+$10 million, +50.0%) , BOP ’s Buildings and Facili ties account
+(+$189 million, +161.0%) , and the DEA (+$ 359 million, +14.6%). The committee -reported bill
+would  have  also provide d more funding than that requested by the Administration for DOJ’s four
+grant accounts: OVW ( +$135 million, +26.7%), State and Lo cal Law Enforcement Assistance
+(+$732 million, +48.3%), Juvenile Justice Programs (+$27 million, +8,8%), and COPS (+$310
+million, +89.9%). The committee did not adopt the Administration’s proposal to close the
+Community Relations Service and the bill inclu des funding for the Interagency Law Enforcement
+account. The bill d id not provide funding for HIDTA under DOJ.
+For the science agencies, t he House  committee -reported bill would  have  funded all but one
+account —NASA’s Exploration  account  (+$2.050 billion, +2 6.7%) —at a level below the FY2025
+regular appropriation.  The increase in the Exploration account would  have  offset decreases in
+NASA’s other accounts so that total NASA funding in the bill was at the same level as the
+FY2025 regular appropriation.  The comm ittee-reported bill would  have  zeroed out funding for
+NASA’s STEM Engagement  account, consistent with the Administration’s proposal. However, the
+committee -reported bill would  have  funded most of NASA’s other accounts at a level above the
+Administration’s request. NASA’s Office of the Inspector General would  have  been funded at the
+level requested by the Administration.
+The House  committee -reported bill would  have  reduce d funding for NSF overall by $ 2.060
+billion ( -22.7% ) relative to the FY2025 regular appropriation. The committee -reported bill would
+have eliminate d funding for NSF’s STEM Education account, consistent with the
+Administration’s proposal, and fund ed most other NSF accounts at a level below the FY2025
+regula r appropriation. The committee -reported bill would  have  increase d funding for the Major
+Research Equipment and Facilities Construction account by $17 million (+7.3%). The House
+Committee on Appropriations recommended funding for most NSF accounts at the le vel
+requested by the Administration, with the exception of the Research and Related Activities
+account, which would  have receive d $3.097 billion (+94.5%) more than the Administration’s
+request.
+13 The FY2025 appropriation for OVW included $633 million in a direct appropriation along with a $80 million
+transfer from the Crime Victims Fund, for a total of $713 million in available funding. The House committee -reported
+bill would provide a $641 millio n direct appropriation with no transfer from the Crime Victims Fund.
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   11 The House  committee -reported bill would  have  funded most of th e related agencies at a level
+below the FY2025 regular appropriation and consistent with the Administration’s request. The
+House Committee on Appropriation s propose d increasing funding for the International Trade
+Commission by $12 million (+9.8%) and the T rade Enforcement Fund by $8 million (+53.3%)
+relative to the FY2025 regular appropriation. The committee did not adopt the Administration’s
+proposal to shutter LSC.  The committee’s recommended funding for the Marine Mammal
+Commission was the same as the Ad ministration’s request, but neither the text of the committee -
+reported bill nor the report to accompany the bill indicate d whether the committee recommended
+shuttering the commission.
+FY2026 Enacted Appropriations
+On January 23, 2026, the Commerce, Justice , Science; Energy and Water Development; and
+Interior and Environment Appropriations Act, 2026 ( P.L. 119 -74) was signed into law by
+President Trump. The act provides a total of $82.619 billion for CJS departments and agencies,
+which is $185 million (+0.2%) more than the FY2025 regular appropriation for CJS and $15.177
+billion (+ 22.5%) more than the Administration’s FY2026 request. The act includes  the following:
+• $11.132  billion for the U.S. Department of Commerce, which is $744 million
+(+7.2%) more  than the FY2025 regular appropriation and $ 2.476  billion
+(+28.6%) more than the Administration’s request;
+• $37.079 billion for DOJ, which is $178 million (+ 0.5%) more than the F Y2025
+regular appropriation and $1. 720 billion (+ 4.9%) more than the Administration’s
+request;
+• $33.196  billion for the science agencies, which is $712 m illion ( -2.1%) less than
+the FY2025 regular appropriation and $ 10.474  billion (+4 6.1%) more than the
+Adm inistration’s request; and
+• $1.212 b illion for the related agencies, which is $26 million ( -2.1%) less than the
+FY2025 regular appropriation and $ 506 million (+ 71.8%) more than the
+Administration’s request.
+Overall funding for the Commerce Department is hig her for FY2026 compared to the FY2025
+regular appropriation.  Several Commerce accounts received increased funding for FY2026: BIS
+(+$44 million, +23.0%); the Census Bureau’s Periodic Censuses and Programs account (+$118
+million, +11.2%); NIST’s Scientific and Technical Research and Services account (+$392 million,
++45.7%); NIST’s Construction of Research Facilities account (+$298 million, +339.7%); and
+NOAA’s Operations, Research, and Facilities account (+$131 million, +3.0%). Other accounts for
+the Commerc e Department were funded at or below the FY2025 regular appropriation, including
+ITA ( -$49 million, -8.0%) ; MBDA ( -$18 million, -26.7%) ; the Census Bureau’s Current Surveys
+and Programs account ( -$10 million, -3.0%); and NOAA’s Procurement, Acquisition, an d
+Construction account ( -$143 million, -8.3%).  Most Commerce accounts for FY2026 are funded at
+a level above the Administration’s request , with the exception of BIS ( -$68 million, -22.4%) and
+the Census Bureau’s Periodic Censuses and Programs account ( -$216 million, -15.6%). The act
+does not provide funding for the Bureau of Labor Statistics under the Commerce Department.
+There is an increase in overall funding for DOJ for FY2026 compared to FY2025. Funding for
+several DOJ accounts increased for FY2026, inc luding USMS’s Salaries and Expenses account
+(+$40 million, +2.4%), the DEA (+$13 million, +0.5%), BOP’s Building and Facilities account
+(+$100 million, +55.6%), the COPS account (+$383 million, +91.8%), and the State and Local
+Law Enforcement Assistance ac count (+$400 million, + 20.0%). Several DOJ accounts will
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   12 receive less funding for FY2026 compared to FY2025, including the Executive Office of
+Immigration Review ( -$50 million, -6.0%), the General Legal Activities account ( -$190
+million, -17.4%), the National Security Division ( -$11 million, -8.4%), the Interagency Law
+Enforcement account ( -$247 million, -45.2%), FBI’s Salaries and Expenses ( -$34 million, -0.3%),
+ATF ( -$40 million, -2.5%), and BOP’s Salaries and Expenses account ( -$293 million, -3.5%).
+FY2026 appropriations for many DOJ accounts are  funded  at a level above the Administration’s
+request.  The FY2026 CJS Appropriations Act  also funds  several DOJ accounts below the
+Administration’s request, including  for the Executive Office of Immigration Review ( -$44
+million, -5.3%), USM S’s Federal Prisoner Detention account ( -$302 million, -11.9%), and BOP’s
+Salaries and Expenses account ( -$650 mill ion, -7.4%).
+FY2026 appropriations for NASA are $400 million ( -1.6%) less than FY2025 regular
+appropriations. The enacted FY2026 appropriation for most NASA accounts are at or below the
+FY2025 level, with the exception of the Exploration account, which re ceived a $117 million
+(+1.5%) increase compared to FY2025. The FY2026 appropriation for NASA is $5.629 billion
+(+29.9%) greater than the Administration’s request. Nearly all of NASA accounts were funded
+above the Administration’s request, with the exceptio n of the Exploration account, which received
+$530 million ( -6.4%) less than what the Administration requested.
+NSF received $310 million ( -3.4%) less for FY2026 relative to the FY2025 regular appropriation.
+All of NSF’s accounts were funded at or below the  FY2025 level, with the exception of the Major
+Research Equipment and Facilities Construction account, which received a $17 million (+7.3%)
+increase.  The FY2026 appropriation for NSF is $4.847 billion (+124.2%) more than the
+Administration’s request. All o f NSF’s accounts were funded at or above the Administration’s
+requested level.
+The FY2026 CJS Appropriations Act does not include funding for the National Space Council.
+The council had been funded under CJS since FY2018.
+The related agencies received $26 million ( -2.1%) less for FY2026 relative to the FY2025 regular
+appropriation.  While most of the related agencies were funded at or below the FY2025 -enacted
+level, there was increased funding for the U.S. Trade Representative (+$6 million, +10.2%) and
+the T rade Enforcement Fund (+$8 million, +53.3%). The FY2026 appropriation for the related
+agencies is $506 million (+71.8%) more than the Administration’s request. While most of the
+related agencies were funded at or above the Administration’s request, the FY2 026 appropriation
+for the International Trade Commission ( -$12 million, -9.0%) and the U.S. Trade Representative
+(-$7 million, -9.7%)  was below what the Administration requested.
+T able 1. Funding for Commerce, Justice, Science, an d Related Agencies (CJS):
+FY2025 Enacted Funding, the Administration’s FY2026  Request ed Funding, the
+Senate  and House  Committee -Reported Amounts , and FY2026 Enacted Funding
+(appropriations in millions of dollars)
+Departments and
+Related  Agencies  FY2025
+Enacteda FY2026
+Administration’s
+Request  FY2026
+Senate
+Committee -
+Reported Bill  FY2026
+House
+Committee -
+Reported Bill  FY2026
+Enacteda
+Department of Commerce
+International Trade
+Administration  $623.0b $440.0  $605.0  $440.0  $582.0
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   13 Departments and
+Related  Agencies  FY2025
+Enacteda FY2026
+Administration’s
+Request  FY2026
+Senate
+Committee -
+Reported Bill  FY2026
+House
+Committee -
+Reported Bill  FY2026
+Enacteda
+Offsetting Fee Collections
+(International Trade
+Administration)  -12.0 -20.0 -12.0 -20.0 -20.0
+Bureau of Industry and Security  191.0c 303.0  211.0  303.0  235.0
+Economic Development
+Administration  468.0  30.0 426.0  324.5  466.0
+Salaries and Expenses  (68.0)  (30.0)  (66.0)  (68.0)  (66.0)
+Economic Development
+Assistance Programs  (400.0d) — (360.0)  (256.5)  (400.0)
+Minority Business Development
+Agency  68.3 7.3 55.0 16.3 50.0
+Economic and Statistical  Analysis  125.0  116.0  122.0  116.0  118.0
+Census Bureau  1,382.5  1,676.5  1,520.3  1,676.5  1,490.3
+Current Surveys and
+Programs  (328.5)  (288.5)  (328.5)  (288.5)  (318.5)
+Periodic Censuses and
+Programs  (1,054.0)  (1,388.0)  (1,191.8)  (1,388.0)  (1,171.8)
+National Telecommunications
+and Information Administration  59.0 47.0 57.0 47.0 51.0
+Salaries and Expenses  (57.0)  (46.0)  (55.0)  (46.0)  (50.0)
+Facilities Management and
+Construction  (2.0) (1.0) (2.0) (1.0) (1.0)
+U.S. Patent and Trademark Office
+(USPTO)e  4,554.9  4,993.7  4,996.1  4,993.7  4,956.0
+Offsetting Fee Receipts (USPTO)  -4,554.9  -4,993.7 -4,996.1  -4,993.7  -4,956.0
+National Institute of Standards
+and Technology  1,156.9  831.9 1,604.5  1,279.8  1,847.1
+Scientific and Technical
+Research and Services  (857.2)  (707.2) (1,006.6)  (980.0)  (1,249.2)
+Industrial Technology
+Services  (212.0)  (37.0)  (212.0)  (212.0)  (212.0)
+Manufacturing Extension
+Partnership  (175.0)  — (175.0)  (175.0)  (175.0)
+Manufacturing USA
+Programf (37.0)  (37.0)  (37.0)  (37.0)  (37.0)
+Construction of Research
+Facilities, new appropriation  (87.8)  (87.8)  (386.0)  (87.8)  (385.9)
+National Oceanic and
+Atmospheric Administration  6,182.5  4,500.4  6,141.3  5,795.0  6,170.9
+Operations, Research, and
+Facilitiesg (4,409.0)  (3,057.6 ) (4,477.6)  (4,151.8)  (4,450.4)
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   14 Departments and
+Related  Agencies  FY2025
+Enacteda FY2026
+Administration’s
+Request  FY2026
+Senate
+Committee -
+Reported Bill  FY2026
+House
+Committee -
+Reported Bill  FY2026
+Enacteda
+Procurement, Acquisition,
+and Construction  (1,719.9h) (1,454.6)  (1,610.0)  (1,589.9)  (1,576.9)
+Pacific Coastal Salmon
+Recovery Fund  (65.0)  — (65.0)  (65.0)  (65.0)
+Fishermen’s Contingency
+Fund (0.3) (0.3) (0.3) (0.3) (0.3)
+Fisheries Finance Program
+Account  (-12.0) (-12.3) (-12.0) (-12.3) (-12.0)
+Fisheries Disaster Assistance
+Fund (0.3) (0.3) (0.3) (0.3) (0.3)
+Bureau of Labor Statistics  — 580.0  — — —
+Departmental Managementi 95.6 95.6 95.6 95.6 93.6
+Office of the Inspector General  48.0 48.0 48.0 50.5 48.0
+Subtotal: Department of
+Commerce  10,387.8  8,655.7  10,873.8  10,124.2  11,132.1
+Department of Justice
+General Administration  1,159.5  1,123.0  1,125.0  1,123.0  1,170.5
+Justice Operations,
+Management, and
+Accountabilityj (142.0)  (142.0)  (142.0)  (142.0)  (140.0)
+Justice Information Sharing
+Technology  (38.5)  (50.0)  (50.0)  (50.0)  (38.5)
+Executive Office of
+Immigration Review  (840.0)  (834.0)  (794.0)  (834.0)  (790.0)
+Office of the Inspector
+General  (139.0)  (97.0)  (139.0)  (97.0)  (139.0)
+U.S. Parole Commission  14.0 12.5 13.5 12.5 13.0
+Legal Activities  3,969.7  4,034.1  4,041.7  3,988.1  3,906.7
+General Legal Activities  (1,090.0)  (896.9)  (1,028.0)  (896.9)  (900.0)
+U.S. Attorneys  (2,611.0)  (2,780.4)  (2,611.0)  (2,780.4)  (2,621.0)
+Antitrust Division  (233.0)  (310.0) (310.0)  (310.0)  (310.0)
+Offsetting Fee Collections
+(Antitrust Division)  (-304.0)  (-310.0) (-310.0)  (-310.0)  (-310.0)
+Prior Year Offsetting Fee
+Collections (Antitrust
+Division)  — (54.0)  — — —
+U.S. Trustee Program  (245.0)  (201.0)  (220.0)  (205.0)  (205.0)
+Offsetting Fee Collections
+(U.S. Trustee Program)  (-245.0)  (-201.0) (-205.0)  (-205.0)  (-205.0)
+Foreign Claims Settlement
+Commission  (2.5) (2.5) (2.5) (2.5) (2.5)
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   15 Departments and
+Related  Agencies  FY2025
+Enacteda FY2026
+Administration’s
+Request  FY2026
+Senate
+Committee -
+Reported Bill  FY2026
+House
+Committee -
+Reported Bill  FY2026
+Enacteda
+Fees and Expenses of
+Witnesses  (270.0)  (256.0) (320.0)  (256.0)  (320.0)
+Community Relations
+Service  (24.0)  (1.0) (22.0)  — (20.0)
+Assets Forfeiture Fundk (20.5)  (20.5)  (20.5)  (20.5)  (20.5)
+Vaccine Injury
+Compensation Trust Fund  (22.7)  (22.7)  (22.7)  (31.7)  (22.7)
+United States Marshals Service  3,943.0  4,268.6  3,960.0  4,268.6  3,976.0
+Salaries and Expenses  (1,692.0l) (1,722.6)  (1,712.0)  (1,722.6)  (1,732.0m)
+Construction  (15.0)  (8.0) (12.0)  (8.0) (8.0)
+Federal Prisoner Detention  (2,236.0n) (2,538.0)  (2,236.0)  (2,538.0)  (2,236.0)
+National Security Division  128.0  117.2  122.0  117.2  117.2
+Interagency Law Enforcement  547.0  — 537.0  400.0  300.0
+Federal Bureau of Investigation  10,673.7  10,118.6  10,658.7  10,130.4  10,624.5
+Salaries and Expenses  (10,643.7)  (10,098.6)  (10,643.7)  (10,100.4)  (10,609.5)
+Construction  (30.0)  (20.0)  (15.0)  (30.0)  (15.0)
+Drug Enforcement
+Administration  2,567.0o 2,455.2  2,567.0  2,813.9  2,580.3
+Bureau of Alcohol, Tobacco,
+Firearms and Explosives  1,625.0  1,207.4  1,625.0  1,207.4  1,585.0
+Federal Prison System  8,575.1  8,869.5  8,575.1  9,088.0  8,382.5
+Salaries and Expenses  (8,392.6)  (8,749.8)  (8,392.6)  (8,779.8)  (8,100.0)
+Building and Facilities  (179.8)  (117.0)  (179.8)  (305.5)  (279.8)
+Limitation on Administrative
+Expenses, Federal Prison
+Industries  (2.7) (2.7) (2.7) (2.7) (2.7)
+Office on Violence Against
+Women  633.0p 505.5  640.0p 640.5  620.0q
+Office of Justice Programs  2,648.8 2,303.1 2,554.9  2,865.3  3,066.8
+Research, Evaluation, and
+Statistics  (65.0)  (55.0)  (60.0)  (55.0)  (55.0)
+State and Local Law
+Enforcement Assistance  (2,000.0r) (1,514.8)  (1,878.1)  (2,246.5)  (2,400.0)
+Juvenile Justice Programs  (375.0)  (300.5)  (380.0)  (327.0)  (375.0)
+High Intensity Drug
+Trafficking Areas  — (196.0)  — — —
+Public Safety Officers
+Benefits  (208.8) (236.8) (236.8)  (236.8)  (236.8)
+Community Oriented Policing
+Services  417.2  344.4  500.2  654.1  800.0
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   16 Departments and
+Related  Agencies  FY2025
+Enacteda FY2026
+Administration’s
+Request  FY2026
+Senate
+Committee -
+Reported Bill  FY2026
+House
+Committee -
+Reported Bill  FY2026
+Enacteda
+Obligation Cap on the Crime
+Victims Fund  1,900.0  1,900.0  1,900.0  1,900.0  1,950.0
+Offsetting Receipts  -1,900.0  -1,900.0  -1,900.0  -1,900.0  -1,950.0
+Subtotal: Department of
+Justice  36,900.9 35,359.0  36,920.1  37,309.0  37,079.4
+Science Agencies
+Office of Science and Technology
+Policy  8.0 8.0 8.0 8.0 8.0
+National Space Council  2.0 2.0 2.0 2.0 —
+National Aeronautics and Space
+Administration  24,838.3  18,809.1  24,899.7  24,838.3  24,438.3
+Science  (7,334.2)  (3,907.6)  (7,300.0)  (6,000.0)  (7,250.0)
+Aeronautics  (935.0)  (588.7)  (950.0)  (775.0)  (935.0)
+Space Technology  (1,100.0)  (568.9)  (975.0)  (912.8)  (920.5)
+Exploration  (7,666.2s) (8,312.9)  (7,783.0)  (9,715.0)  (7,783.0)
+Space Operations  (4,220.0)  (3,131.9)  (4,314.0)  (4,150.0)  (4,175.0)
+Science, Technology,
+Engineering, and
+Mathematics (STEM)
+Engagement  (143.0)  — (148.0)  — (143.0)
+Safety, Security, and Mission
+Services  (3,092.3)  (2,118.3)  (3,107.1)  (3,044.0)  (3,000.0)
+Construction and
+Environmental Compliance
+and Restoration  (300.0n) (140.1)  (275.0)  (200.0)  (185.3)
+Inspector General  (47.6)  (40.7)  (47.6)  (40.7)  (46.5)
+National Science Foundation  9,060.0  3,903.2  9,000.0  7,000.0  8,750.0
+Research and Related
+Activities  (7,176.5)  (3,276.2)  (7,176.5)  (6,373.0)  (7,176.5)
+STEM Education  (1,172.0)  — (1,000.0)  — (938.3)
+Major Research Equipment
+and Facilities Construction  (234.0t) (251.0)  (350.0)  (251.0)  (251.0)
+Agency Operations and
+Award Management  (448.0)  (355.0)  (444.0)  (355.0)  (355.0)
+National Science Board  (5.1) (3.0) (5.1) (3.0) (5.1)
+Office of the Inspector
+General  (24.4)  (18.0)  (24.4)  (18.0)  (24.2)
+Subtotal: Science Agencies  33,908.3  22,722.2  33,909.6  31,848.3  33,196.3
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   17 Departments and
+Related  Agencies  FY2025
+Enacteda FY2026
+Administration’s
+Request  FY2026
+Senate
+Committee -
+Reported Bill  FY2026
+House
+Committee -
+Reported Bill  FY2026
+Enacteda
+Related Agencies
+U.S. Commission on Civil Rights  14.4 13.0 14.4 13.0 14.4
+Equal Employment Opportunity
+Commission  455.0  435.4  455.0  435.4  435.4
+International Trade Commission  122.0  134.0  122.0  134.0  122.0
+Legal Services Corporation  560.0  21.0 566.0  300.0  540.0
+Marine Mammal Commission  4.5 1.0 4.5 1.0 4.3
+Office of the U.S. Trade
+Representative, Salaries and
+Expenses  59.0 72.0 65.0 51.0 65.0
+Trade Enforcement Trust Fund  15.0 23.0 15.0 23.0 23.0
+State Justice Institute  7.6 6.0 7.6 6.0 7.6
+Subtotal: Related Agencies  1,237.5  705.4  1,249.5  963.4  1,211.6
+CJS Total  82,434.5 67,442.2 82,953.0  80,244.8  82,619.5
+Rescission of Unobligated
+Balances  -10,300.0  -2,651.7 -305.0  -697.3  -709.2
+Sources: FY2025 enacted and the Administration’s requested amounts were taken from the explanatory
+statement to accompany the FY2026 CJS Appropriations Act (Division A of P.L. 119 -74). The amounts for the
+Senate committee -reported bill were taken from  S.Rept. 119 -44. The amounts for the House committee -
+reported bill were taken from  H.Rept. 119 -272. FY2026 enacted amounts were taken from the explanatory
+statement to accompany the FY2026 CJS Appropriations Act.
+Notes:  The accounts presented in  are consistent with those used by the Congressional Budget Office (CBO) to
+score the CJS appropriation s bill. Amounts in parentheses are subaccounts and not offsets.  The FY2025 amounts
+for CJS in Table 1 include all emergency designated funding, regardl ess of whether the Administration
+concurred with the designation (see text box “Availability of Emergency Designated Funding for FY2025” for
+more information).
+a. Enacted amounts do not include any appropriations from the Infrastructure Investment and Jobs Ac t (IIJA,
+P.L. 117 -58) or the Bipartisan Safer Communities Act (BSCA, P.L. 117 -159).
+b. This amount includes $50 million in emergency -designated funding.
+c. This amount includes $20 million in emergency -designated funding.
+d. This amount includes $30 million in emergency -designated funding.
+e. Funding for the U.S. Patent and Trademark Office (USPTO) is  fully derived from user fees .
+f. The Manufacturing USA Program was formerly known as the National Network for Manufacturing
+Innovation.
+g. The amount for the Operations, Research, and Facilities account includes a transfer from the Promote and
+Develop Fishery Products and Research Pertaining to American Fisheries Fund.
+h. This amount includes $100 million in emergency -designated funding.
+i. This amount includes Salaries and Expenses for the management of the Department of Commerce and
+funding for the renovation and modernization of the Herbert C. Hoover Building.
+j. This account was formerly called the “General Administration, Salaries and Expenses”  account. The account
+name was changed in P.L. 118 -42.
+k. As a part of the annual CJS appropriations act, Congress traditionally sets a limit on the amount of expenses
+that ca n be paid for the purposes authorized under subparagraphs (B), (F), and (G) of Section 524(c)(1) of
+Title 28 of the United States Code .
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   18 l. This amount includes $163 million in emergency -designated funding.
+m. This amount includes $30 million appropriated for the U.S. Marshals Service’s Salaries and Expenses account
+under Section 122(b) of the Continuing Appropriations Act, 2026 ( P.L. 119 -37).
+n. This amount includes $250 million in emergency -designated funding.
+o. This amount includes $328 million in emergency -designated funding.
+p. This amount does not include an $80 million transfer from the Crime Victims Fund to the Office on
+Violence  Against Women.
+q. This amount does not include an $ 100 million transfer from the Crime Victims Fund to the Office on
+Violence Against Women .
+r. The amount designated as emergency funding in the State and Local Law Enforcement Assistance account in
+FY2024 did not carry over to FY2025 under the CR.
+s. This amount includes $450 million in emergency -designated funding.
+t. This amount includes $234 million in emergency -designated funding.
+FY2025 Supplemental Appropriations
+The Further Continuing Appropriations Act, 20 25 (Division A of  P.L. 118 -158) provided $17
+million in supplemental funding for the FBI for FY2025. The Disaster Relief Supplemental
+Appropriations Act, 2025 (Division B o f P.L. 118 -158) provided $3.370 billion in supplemental
+appropriations for certain CJS agencies for FY2025. A breakdown of funding provided under
+Division B of P.L. 118 -158 is provided in  Table 2.
+T able 2. FY2025 Supplemental Appropriations for CJS
+(appropriations in millions of dollars)
+Division A of
+P.L. 118 -158  Division B of
+P.L. 118 -158
+Department of Commerce
+Economic Development Administration  — $1,510.0
+Economic Development Assistance Programs  — (1,510.0 )
+National Oceanic and Atmospheric Administration  — 1,043.0
+Operations, Research, and Facilities  — (244.0 )
+Procurement, Acquisition, and Construction  — (499.0)
+Fisheries Disaster Assistance  — (300.0)
+Department of Justice
+United States Marshals Service  — 12.0
+Salaries and Expenses  — (12.0)
+Federal Bureau of Investigation  $16.7  —
+Salaries and Expenses  (16.7)  —
+Federal Prison System  — 64.8
+Buildings and Facilities  — (64.8)
+Science Agencies
+National Aeronautics and Space Administration  — 740.2
+Construction and Environmental Compliance and Restoration  — (740.2)
+Total  16.7 3,370.0
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   19 Source: Text of P.L. 118 -158.
+Notes: The accounts presented in Table 2 are consistent with those used by CBO to score the CJS
+appropriations bill. Amounts in parenthese s are subaccounts  and not offsets .
+In addition to the amounts presented in Table 2, P.L. 119 -21, the FY2025 reconciliation law ,
+provided $3.330 bil lion for DOJ, which is available for obligation through the end of FY2029 ,
+for, among other things ,
+• increasing staffing at the Executive Office for Immigration Review,
+• combatting drug trafficking,
+• prosecuting immigration cases,
+• increasing funding for the E dward Byrne Memorial Justice Assistance Grant
+(JAG) or COPS programs to support efforts to address violent crime and support
+immigration enforcement,  and
+• compensating states that incarcerate certain criminal alien offenders.14
+The act also provides $5.000 billion to BOP, which is available for obligation through the end of
+FY2029. Of the total, $3.000 billion is for hiring new and retaining current staff and $2.000
+billion is for maintenance and repairs of federal prisons.
+Advance Appropriations
+As shown in Table 3, the Infrastructure Investment and Jobs Act ( IIJA, P.L. 117 -58) provided
+advance appropriations for FY2025 and  FY2026 for one NTIA program and two NOAA
+accounts.15 The Bipartisan Safer Communities Act ( P.L. 117 -159) also provided advance
+appropriations for FY202 5 and  FY2026 for DOJ grant programs under the State and Local Law
+Enforcement Assistance and Community Oriented Policing Services accounts.
+T able 3. Advance Appropriations for CJS
+(appropriations in millions of dollars)
+FY2025  FY2026
+Department of Commerce
+National Telecommunications and Information
+Administration  $550.0  $550.0
+Digital Equity  (550.0)  (550.0)
+National Oceanic and Atmospheric Administration  550.0  541.4
+Operations, Research, and Facilities  (515.6)  (507.0)
+Pacific Coastal Salmon Recovery  (34.4)  (34.4)
+14 Per Section 100054(7)(B) of P.L. 119 -21, funds can only be awarded to state and local governments that  incarcerate
+criminal alien offenders who have been convicted of a felony or two or more misdemeanors  and entered the United
+States without inspection or at any time or place other than as designated by the Secretary of Homeland Security ; were
+the subject of removal proceedings at the time they were taken into custody ; or were admitted as a nonimmigrant and,
+at the time they were taken into custody, had failed to maintain the nonimmigrant status in which they were admitted or
+to which it was changed, or to comply with the conditions of any such status.
+15 For more information on advance appropriations, see CRS Report R43482, Advance Appropriations, Forward
+Funding, and Advance Funding: Concepts, Practice, and Budget Process Considerations .
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   20  FY2025  FY2026
+Department of Justice
+State and Local Law Enforcement Assistance  280.0  280.0
+Community Oriented Policing Services  20.0 20.0
+Total  1,400.0  1,391.4
+Source:  Text of P.L. 117 -58 and P.L. 117 -159.
+Notes:  The accounts presented in Table 3 are consistent with those used by CBO to score the CJS
+appropriations bill. Amounts in parenthese s are subaccounts  and not offsets .
+CRS -21 Appendix.  Historical Funding for CJS
+T able A -1. Nominal Funding  for CJS Agencies, by Account: FY201 6-FY20 25
+(appropriations  in millions of dollars )
+Bureau or Agency  FY2016  FY2017  FY2018  FY2019  FY2020  FY2021  FY2022  FY2023  FY2024  FY2025
+Department of Commerce
+International Trade
+Administration  $483.0  $483.0  $482.0  $484.0  $510.3  $530.0  $559.0  $613.0  $611.0  $611.0
+Bureau of Industry and
+Security  112.5  112.5  113.5  118.1  127.7  133.0  163.1  191.0  191.0  191.0
+Economic Development
+Administration  261.0  276.0  901.5  904.0 1,833.0  3,346.0  373.5  1,616.0  468.0  1,978 .0
+Minority Business
+Development Agency  32.0 34.0 39.0 40.0 52.0 73.0 55.0 70.0 68.3 68.3
+Economic and Statistical
+Analysis  109.0  107.3  99.0 101.0  108.0  111.9  116.0  130.0  125.0  125.0
+Census Bureau  1,370.0  1,470.0  2,814.0  3,821.4  7,558.3  1,106.6  1,354.0  1,485.0  1,382.5  1,382.5
+National
+Telecommunications and
+Information Administration  39.5 32.0 39.5 39.5 40.4 45.5 46,050.0  612.0  609.0  609.0
+U.S. Patent and Trademark
+Office (USPTO)  3,272.0  3,230.0  3,500.0  3,370.0  3,450.7  3,695.3  4,058.4  4,253.4  4,195.8  4,554.9
+Offsetting Fee Receipts
+(USPTO)  -3,272.0  -3,230.0  -3,500.0  -3,370.0  -3.450.7  -3,695.3  -4,058.4  -4,253.4  -4,195.8  -4,554.9
+National Institute of
+Standards and Technology  964.0  952.0  1,198.5  985.5  1,100.0  1,034.5  1,252.1  1,694.3  1,460.0  1,156.9
+National Oceanic and
+Atmospheric Administration  5,765.6  5,675.4  6,309.5  5,720.3  5,688.2  5,730.6  10,304.0  7,578.8  6,869.0  7,775.5
+Departmental Managementa 109.1  94.7 140.9  95.7 115.0  128.1  146.9  179.1  143.6  143.6
+CRS -22 Bureau or Agency  FY2016  FY2017  FY2018  FY2019  FY2020  FY2021  FY2022  FY2023  FY2024  FY2025
+Commerce Subtotal  9,245.6  9,237.0  12,137.4  12,309.5  17,132.8  12,239.2  60,373.6  14,169.2  11,927.4  14,040.8
+Department of Justice
+General Administration  659.0  676.7  746.8  870.4 926.6  998.6  1,106.8  1,278.0  1,151.0  1,159.5
+Justice Operations,
+Management, and
+Accountabilityb (142.5)  (145.1)  (149.0)  (145.0)  (152.6)  (158.0)c (232.8)  (283.0)  (172.0) (180.5)
+Administrative Review
+& Appeals  (422.8)  — — — — — — — — —
+Executive Office for
+Immigration Review  — (436.0)  (500.5)  (624.4 ) (669.0)  (730.0)  (756.0)  (856.0)  (840.0)  (840.0)
+Office of the Inspector
+General  (93.7)  (95.6)  (97.3)  (101.0)  (105.0)  (110.6)  (118.0)  (139.0)  (139.0)  (139.0)
+U.S. Parole Commission  13.3 13.3 13.3 13.0 13.3 13.5 14.2 14.6 14.0 14.0
+Legal Activities  3,314.6  3,353.8  3,386.6  3,329.4  3,443.4  3,578.9  3,648.3  4,140.8  4,010.7  3,969.7
+General legal activities  (893.0)  (897.5)  (897.5)  (904.0)  (920.0)  (960.0)  (1,009.7)  (1,138.0)  (1,090.0)  (1,090.0)
+U.S. Attorneys  (2,000.0)  (2,035.0)  (2,136.8)  (2,212.0)  (2,257.5)  (2,342.2)  (2,424.9)  (2,632.0)  (2,611.0)  (2,611.0)
+Otherd (421.6)  (421.3)  (352.3)  (213.4)  (265.8)  (276.8)  (213.7)  (370.8)  (309.7)  (268.7)
+U.S. Marshals Service  2,700.0  2,713.5  2,903.4  3,081.7  3,327.5  3,682.6  3,728.3  3,852.8  3,807.0  3,955.0
+National Security Division  95.0 96.0 101.0  101.4  110.0  117.5  121.8  133.5  128.0  128.0
+Interagency Law
+Enforcement  512.0  517.0  542.9  560.0  550.5  550.5  550.5  550.5  547.0  547.0
+Federal Bureau of
+Investigation  8,798.8  9,006.4  9,421.4  9,577.1  9,972.9  10,493.8  10,961.9  11,343.2  10,673.7  10,690.4
+Drug Enforcement
+Administration  2,080.0  2,103.0  2,201.8  2,267.0  2,294.2  2,386.3  2,421.5  2,563.1  2,567.0  2,567.0
+Bureau of Alcohol, Tobacco,
+Firearms & Explosives  1,240.0  1,258.6  1,293.8  1,316.7  1,400.0  1,483.9  1,531.1  1,747.0  1,625.0  1,625.0
+Federal Prison System  7,481.2  7,141.5  7,328.3  7,545.1  7,880.7  8,138.1  8,102.7  8,685.3  8,575.1  8,639.8
+CRS -23 Bureau or Agency  FY2016  FY2017  FY2018  FY2019  FY2020  FY2021  FY2022  FY2023  FY2024  FY2025
+Office of Violence Against
+Women (OVW)  101.0e 155.5f —g —h 67.5i 78.5i —j 700.0  633.0k 633.0l
+Office of Justice Programs
+(OJP)  1,883.0  1,705.8  2,169.3  2,218.8  3,282.8  2,485.8  3,075.0  3,341.6  3,403.9  2,928.8
+Research, Evaluation,
+and Statistics  (116.0)  (89.0)  (90.0)  (80.0)  (79.0)  (82.0)  (70.0)  (77.0)  (65.0)  (65.0)
+State and Local Law
+Enforcement Assistance  (1,408.5)  (1,280.5)  (1,680.0)  (1,723.0)  (2,742.0)  (1,914.0)  (2,493.0)  (2,696.8)  (2,755.1)  (2,280.0 )
+Juvenile Justice
+Programs  (270.2)  (247.0)  (282.5)  (287.0)  (320.0)  (346.0)  (360.0)  (400.0)  (375.0)  (375.0)
+Public Safety Officers
+Benefits  (88.3)  (89.3)  (116.8)  (128.8)  (141.8)  (143.8)  (152.0)  (167.8)  (208.8)  (208.8)
+Community Oriented
+Policing Services (COPS)  212.0  221.5  275.5  303.5  343.0  386.0  531.7  682.9  684.5  437.2
+DOJ Subtotal  29,089.8  28,962.5  30,384.0  31,184.1  33,612.2  34,393.9  35,793.8  39,033.2  37,819.9  37,294.4
+Science Agencies
+Office of Science and
+Technology Policy  5.6 5.6 5.5 5.5 5.5 5.5 6.6 8.0 8.0 8.0
+National Space Council  — — 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0
+National Aeronautics and
+Space Administration  19,285.0  19,762.3  20,817.4  21,500.0  22,689.0  23,271.3  24,362.7  25,573.1  24,875.0  25,578.5
+National Science Foundation  7,463.5  7,472.2  7,783.7  8,075.0  8,354.3  8,486.8  8,863.0  9,876.4  9,060.0  9,060.0
+Science Agencies
+Subtotal  26,754.0  27,240.1  28,608.6  29,582.5  31,050.8  31,765.5  33,234.3  35,459.5  33,944.9  34,648.5
+Related Agencies
+U.S. Commission on Civil
+Rights  9.2 9.2 9.7 10.1 10.5 12.5 13.0 14.4 14.4 14.4
+Equal Employment
+Opportunity Commission  364.5  364.5  379.5  379.5  389.5  404.5  420.0  455.0  455.0  455.0
+CRS -24 Bureau or Agency  FY2016  FY2017  FY2018  FY2019  FY2020  FY2021  FY2022  FY2023  FY2024  FY2025
+International Trade
+Commission  88.5 91.5 93.7 95.0 99.4 103.0  110.0  122.4  122.0  122.0
+Legal Services Corporation  385.0  385.0  425.0  430.0 490.0  465.0  529.0  580.0  560.0  560.0
+Marine Mammal
+Commission  3.4 3.4 3.4 3.5 3.6 3.8 4.2 4.5 4.5 4.5
+U.S. Trade Representative  54.5 47.0 57.6 53.0 104.0  55.0 56.0 61.0 59.0 59.0
+Trade Enforcement Trust
+Fund — 15.0 15.0 15.0 55.0 15.0 15.0 15.0 15.0 15.0
+State Justice Institute  5.1 5.1 5.1 6.0 6.6 7.0 7.2 7.6 7.6 7.6
+Commission on the State of
+the U.S. Olympics and
+Paralympics  — — — — — — 2.0 — — —
+Related Agencies
+Subtotal  910.3  920.8  989.1  992.1 1,158.6  1,065.8  1,156.4  1,259.9  1,237.5  1,237.5
+Total Appropriation  65,999.7  66,360.3  72,119.0  74,068.1  82,954.5  79,464.4  130,558.1  89,921.8  84,929.7  87,221.2
+Rescission of
+Unobligated Balances  -878.7  -1,142.3  -661.1  -1,060.8  -364.0  -425.0  -516.8  -1,370.8  -13,663.3  -10,300.0
+Sources:  FY2016 enacted amounts were taken from the joint explanatory statement to accompany  P.L. 114 -113, printed in the December 17, 2015, Congressional Record
+(pp. H9732 -H9759); FY2017 enacted amounts were taken from the joint explanatory statement to accompany  P.L. 115 -31, printed in the May 3, 2017, Congressional
+Record  (pp. H3365 -H3390); FY2018 enacted amounts were taken from the joint explanatory statement to accompany P.L. 115 -141, printed in the March 22, 2018,
+Congressional Record  (pp. H2084 -H2115), and P.L. 115 -123; FY2019 enacted amounts were taken from H.Rept. 116 -9; FY2020 enacted amounts were taken from the
+explanatory statement to accompany  P.L. 116 -93, published in the December 17, 2019 Congressional Record  (pp. H10961 -H10989)  and the text of P.L. 116 -113 and P.L.
+116-136; FY2021 enacted amounts were taken from the joint explanatory statement to accompany  P.L. 116 -260, printed in the December 21, 20 20, Congressional Record
+(pp. H7951 -H7966 ) and the text of P.L. 116 -260 and P.L. 117 -2; FY2022 enacted amounts were taken from the text of  P.L. 117 -103, the text of the joint explanatory
+statement, printed in the March 9, 2022 , Congressional Record  (pp. H1 772-H1865) , and the text of P.L. 117 -169; FY2023 enacted amounts were taken from the joint
+explanatory statement to accompany  P.L. 117 -328, printed in the December 20, 2022, Congressional Record  (pp. S7898 -S8029)  and the text of P.L. 117 -58, P.L. 117-159,
+P.L. 117 -180, and P.L. 117 -328; FY2024 enacted amounts were taken from the joint explanatory statement to accompany P.L. 118 -42, printed in the March 5, 2024,
+Congressional Record  (pp. S1398 -S1416), and the text of P.L. 117 -58 and P.L. 117 -159. FY2025 enacted amounts were taken from the report to accompany the Senate
+committee -reported FY2026 CJS appropriations bill ( S. 2354 ) and the text of P.L. 117 -58, P.L. 117 -159, and P.L. 118 -158.
+Notes:  Amounts may not add to totals due to rounding. Amounts include all supplemental appropriations. Amounts also include all resc ission of current -year budget
+authority, but they do not include rescissions of a prior year’s unoblig ated b alances. Amounts in pa renthese s are subaccounts  and not offsets .
+a. This amount includes both the amount for the Commerce Department’s departmental management and the Office of the Inspector Ge neral.
+CRS -25 b. Prior to FY2024, this account was called the “Genera l Administration, Salaries and Expenses” account .
+c. Includes $5 million in funding provided through a general provision for a use of force database as required by Executive Orde r 13929.
+d.  “Other” includes subaccounts for the Antitrust Division, Vaccine Inju ry Compensation Trust Fund, U.S. Trustee System Fund, Foreign Claims Settlement
+Commission, Fees and Expenses of Witnesses, Community Relations Service, and the Asset Forfeiture Fund.
+e. This amount does not include a $379 million transfer from the Crime Vict ims Fund to OVW per  P.L. 114 -113.
+f. This amount does not include a $326 million transfer from the Crime Victims Fund to OVW per  P.L. 115 -31.
+g. Per P.L. 115 -141, $492 million was transferred from the Crime Victims Fund OV W.
+h. Per P.L. 116 -6, $498 million was transferred from the Crime Victims Fund to OVW.
+i. This amount does not include a $435 million transfer from the Crime Victims Fund to OVW p er P.L. 116 -93.
+j. Per P.L. 117 -103, $575 million was transferred from the Crime Victims Fun d to OVW.
+k. Per P.L. 118 -47, $80 million was transferred from the Crime Victims Fund to OVW.
+l. Per P.L. 119 -4, $80 million was transferred from the Crime Victims Fund to OVW.
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service   26
+Author Information
+Nathan James
+Analyst in Crime Policy
+Key Policy Staff
+Area of Expertise  Name
+OJP, COPS, BOP, FBI, U.S. Marshals,  Nathan James
+Juvenile Justice, OVW, Crime Victims
+Fund Nathan Kemper
+DEA  Lisa N. Sacco
+U.S. Attorneys, ATF  Jordan B. Cohen
+Trade -related agencies: ITA, ITC,
+USTR  M. Angeles Villarreal
+BIS Christopher Casey
+EDA, MBDA  Julie Lawhorn
+Census Bureau, ESA  Taylor R. Knoedl
+NIST, U.S. Patent and Trademark
+Office  Emily G. Blevins
+NOAA  Eva Lipiec
+NASA, National Space Council  Rachel Lindbergh
+NSF Laurie Harris
+NTIA  Ling Zhu
+Legal Services Corporation  Libby Perl
+Overview of FY2026 Appropriations for CJS
+Congressional Research Service  R48643  · VERSION 5 · UPDATED  27
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

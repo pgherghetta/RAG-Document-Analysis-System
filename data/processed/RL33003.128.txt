@@ -1,0 +1,661 @@
+Egypt: Background and U.S. Relations
+Updated February 25, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+RL33003
+Congressional Research Service
+SUMMARY
+Egypt: Background and U.S. Relations
+Historically, Egypt has been an important country for U.S. national security interests based on its
+geography, demography, and diplomatic posture.  Egypt controls the Suez Canal, which opened in
+1869 and is one of the world’s most  critical maritime chokepoints, linking the Mediterranean a nd
+Red Seas. Its population of more than 108 million people makes Egypt  by far the most populous
+Arabic -speaking country. Its majority Sunni Muslim population and institutions have
+transnational influence, and its large Coptic Christian minority is the Mid dle East region’s largest
+Christian population.
+Egypt’s 1979 peace treaty with Israel stands as one of the most significant diplomatic achievements for the promotion of
+Arab -Israeli peace.  During the war in Gaza, Egypt worked with U.S. officials to serve as a mediator between Israel and
+Hamas. Egypt was one of several nations which played a key role in mediating the October 2025 ceasefire between Israel and
+Hamas. In October 2025, Egypt hosted the Sharm el Sheikh Peace Summit, where President Trump, Presid ent Sisi, and other
+world leaders jointly signed a declaration endorsing the ceasefire .
+In 2026, Egypt is experiencing a period of relative economic growth and revived regional relevancy as the Trump
+Administration looks to Egypt (and others) to help stabi lize Gaza. After several years of economic disruption and a balance
+of payments crisis caused by both domestic policies and international events, Egypt’s debt crisis has eased due to outside
+economic support from international financial institutions and Ar ab Gulf states. The Egyptian economy, according to the
+International Monetary Fund (IMF), is now “showing signs of robust growth”
+In addition to Gaza, the Egyptian government is facing other  foreign policy challenges. Egypt has had to contend with a
+politically divided Libya on its western border and a civil war in Sudan on its southern border. Conflict in Sudan and tensions
+with Ethiopia implicate the Nile River, a core Egyptian national security interest. In addition to insecurity on Egypt’s land
+borders, earlier Houthi attacks in the Red Sea  and against Israel  from Yemen redirected commercial shipping away from the
+Suez Canal, depriving Egypt of hard currency revenues  for several years.
+Since 1946, the Un ited States has provided Egypt with over $90 billion in bilateral foreign aid (calculated in historical
+dollars —not adjusted for inflation), with military and economic assistance increasing significantly after 1979. Annual
+appropriations legislation includ es several conditions governing the release of these funds. Successive U.S. Administrations
+have justified aid to Egypt as an investment in regional stability, built primarily on long -running cooperation with the
+Egyptian military and on sustaining the 197 9 Egyptian -Israeli peace treaty. All U.S. military aid to Egypt finances the
+procurement of weapons systems and services from U.S. defense contractors.
+P.L. 119 -75, the Con solidated Appropriations Act, 2026, provides $1.5 billion in total aid for Egypt, of which $1.375 billion
+is for Foreign Military Financing grant aid, an amount $75 million above what Egypt had been receiving as an FMF baseline
+for decades. The act  also wo uld withhold $320 million in FMF from obligation unless the Secretary of State can make several
+human rights -related determinations, which are no longer delineated in the law’s text, but are now found in the Joint
+Explanatory Statement accompanying  P.L. 119 -75. The Secretary of State may waive the withholding provision if the
+Secretary determines that “such funds are necessary for counterterrorism, border security, or nonprol iferation programs or
+that it is otherwise important to the national security interest of the United States to do so, including a detailed justific ation
+for the use of such waiver and the reasons why any of the requirements cannot be met.” For FY2020 -FY202 3, the Biden
+Administration and Congress reprogrammed or withheld a total of $750 million in FMF originally designated for Egypt
+based on relevant provisions in appropriations law .
+RL33003
+February 25, 2026
+Jeremy M. Sharp
+Specialist in Middle
+Eastern Affairs
+Egypt: Background and U.S. Relations
+Congressional Research Service  Contents
+Overview  ................................ ................................ ................................ ................................ .........  1
+Historical Background  ................................ ................................ ................................ .....................  2
+Issues for Congress  ................................ ................................ ................................ ..........................  3
+Iran ................................ ................................ ................................ ................................ ............  3
+Israel and Gaza  ................................ ................................ ................................ ..........................  4
+The Nile River, Ethiopia and the War in Sudan  ................................ ................................ ........  6
+Democracy, Human Rights, and Religious Freedom  ................................ ................................  7
+Coptic Christians  ................................ ................................ ................................ .......................  8
+Terrorism in the Sinai, the Muslim Brotherhood, and U.S. -Egyptian Counter -
+Terrorism Cooperation  ................................ ................................ ................................ ...........  9
+Egypt and China  ................................ ................................ ................................ .......................  11
+U.S.-Egyptian Relations  ................................ ................................ ................................ .................  11
+U.S. Foreign Aid to Egypt  ................................ ................................ ................................ ....... 12
+U.S.-Egyptian Trade & Investment  ................................ ................................ .........................  13
+Figures
+Figure 1. Map of Egypt  ................................ ................................ ................................ ...................  2
+Figure 2. Suez Canal Transits by Year  ................................ ................................ .............................  3
+Figure 3. President Trump at the Peace Summit in Egypt  ................................ ...............................  4
+Figure 4. European Monitors at the Rafah Crossing  ................................ ................................ ....... 6
+Figure 5. The Nile River  ................................ ................................ ................................ ..................  7
+Figure 6. U.S. -Egyptian Bilateral Trade: 2016 -2025  ................................ ................................ ..... 14
+Tables
+Table 1. Democracy, Human Rights, and Development Indicators  ................................ .................  8
+Table 2. Recent Major Foreign Military Sales to Egypt Since O ctober 7, 2023  ...........................  13
+Contacts
+Author Information  ................................ ................................ ................................ ........................  14
+Egypt: Background and U.S. Relations
+Congressional Research Service   1 Overview
+In 2026, Egypt is experiencing a period of relative economic growth  and revived regional
+relevancy as the Trump Administration looks to Egypt (and others) to help stabilize  Gaza. A fter
+several years of economic disrupti on and a balance of payments crisis  caused by both domestic
+policies and international events, Egypt’s debt crisis has eased  due to outside economic support
+from international financial institutions and Arab Gulf stat es. The Egypt ian economy , according
+to the International Monetary Fund (IMF), is now “showing signs of robust growth ”1 with Gross
+Domestic Product (GDP) expected to grow 4.7% in 2026.  Although today its government may
+play a smaller political or military role in the Arab world than it has in the past, Egypt may retain
+some “soft power” by virtue of its demographic weight, history, media, and culture. Cairo hosts
+both the 22 -member Arab League and Al Azhar University, which claims to b e the oldest
+continuously operating university in the world and has symbolic importance as a leading source
+of Islamic scholarship.
+Regionally, Egypt is still surrounded by neighboring states/territories beset by internal strife , with
+the civil war in Sud an a particular cause of concern for Egyptian authorities . Some conflict along
+its land and sea borders has abated , but conditions in Libya and the Red Sea region remain
+tenuous. President Donald Trump’s September 2025 20 -point plan regarding Gaza’s future  and
+the ensuing October 2025 ceasefire between Israel and Hamas has presented the Egyptian
+government with an opportunity to play a key role in aiding new Gazan governance and security
+entities, such as the National Committee for the Administration of Gaz a (NCAG) , the Gazan
+Police Force, and the International Security Force  (ISF) . In the Red Sea, attacks by the Houthis in
+Yemen against commercial shipping have currently ceased and, while maritime traffic through the
+Suez Canal (a key source of revenue for the Egyptian government ) has not returned to pre -
+October 2023 levels, it is slowly rebounding.2
+Despite these trends, Egypt faces a number of internal and external challenges which will most
+likely keep it relegated to playing a more limited role in international  affairs. At home, o ver the
+past five years, inflation, multiple currency depreciations, and spiraling budget deficits have all
+eroded the purchasing power of the average Egyptian consumer.  As a result, the government will
+continue to grapple with how to expend scarce public resources while maintaining an economic
+system which depresses private sector investment in favor of military -owned industries.3
+Egyptian President Abdel Fattah al Sisi , who is serving his third and constitutionally  proscribed
+final term (ends in 2030), originally hails from the military, which, since 1952, has largely served
+as the bedrock of the country’s ruling elite. Egypt’s military has long taken an active role in the
+nation’s economy, competing with private sector compani es in an array of sectors, such as food
+production, construction, mining , and manufacturing.4
+Without being able to generate surplus revenue domestically, Egypt will continue to rely on the
+largesse of Arab Gulf monarchies, Israel (for natural gas), European institutions, and increasingly,
+new partners such as Turkey  (Türkiye)  and the People’s Repu blic of China , for aid, investment,
+and hard currency . In return, outside actors  may expect Egypt to side with their  foreign policy
+1 IMF, “ IMF Staff Reaches Staff Level Agreement on Egypt’s Fifth and Sixth Review Under the Extended Fund
+Facility and First Review Under the Resilience and Sustainability Fund , December 22, 2025.
+2 Claire Parker and Heba Farouk Mahfouz , “How Egypt is reviving the Suez Canal after maritime attacks sank traffic,”
+Washington Post , January 21, 2 026.
+3 Ahmed Aboudouh , “Egypt’s foreign policy will remain too little, too late in 2026,” Chatham House, December 19,
+2025.
+4 Yezid Sayigh, “ Owners of the Republic: An Anatomy of Egypt’s Military Economy ,” Carnegie Endowment for
+International Peace, November 18, 2019.
+Egypt: Background and U.S. Relations
+Congressional Research Service   2 priorities, as regional states continue to vie with each other for influence in the Middle East and
+the Horn of Africa. Even  with its limited resource s, Egypt will likely continue to prioritize its
+longstanding goal of seeking binding , international ly supervised  limits on Ethiopia’s use of its
+own Grand Renaissance Dam to restrict flows of the Nile River, which Egypt is depende nt on for
+almost all of its freshwater. In sum, Egypt has limited foreign policy maneuverability due to its
+extreme dependence on others .
+Figure 1. Map of Egypt
+Source:  CRS, using ESRI and State Department data and the CIA World Fact book.
+Historical Background
+Since 1952, when a cabal of Egyptian Army officers known as the Free Officers Movement
+ousted the British -backed king,  Egypt’s military has produced four Presidents : Gam al Abdel
+Nasser (1954 -1970), Anwar Sadat (1970 -1981), Hosni Mubarak  (1981 -2011), and Abdel Fattah a l
+Sisi (2013 -present). These four men have ruled Egypt with strong backing from the country’s
+security establishment almost continually.
+The one departure f rom Egypt’s decades of military rule took place between 2011 and 2013 .
+Popular demonstrations dubbed the “Arab Spring,” which had started in neighboring Tunisia,
+spurred  the military to force the resignation of former President Hosni Mubarak in February 20 11.
+During this period, Egypt experienced tremendous political tumult, culminating in the one-year
+presidency  of M ohamm ed Morsi, who was affiliated with the Egyptian Muslim Brotherhood . In
+general, the Muslim Brotherhood has been the most significant and a biding opposition during the
+decades of military -backed rule.
+When Morsi took office on June 30, 2012, after winning Egypt’s first truly competitive
+presidential election, his ascension to the presidency was expected  to mark the end of a rocky 16 -
+Egypt: Background and U.S. Relations
+Congressional Research Service   3 month tra nsition period .5 Proposed timelines for elections, the constitutional drafting process, and
+the military’s relinquishing of power to a civilian government had been  repeatedly  changed,
+contested, and sometimes even overruled by the courts.  Instead of consolidating democratic or
+civilian rule, Morsi’s rule exposed the deep divisions in Egyptian politics, pitting a broad cross -
+section of Egypt’s public and private sectors, the Coptic Church, and the military against the
+Brotherhood and its Is lamist supporters.
+The atmosphere of mutual distrust, political gridlock, and public dissatisfaction that permeated
+Morsi’s presidency provided Egypt’s military, led by then -Defense Minister Sisi, with an
+opportunity to reassert political control. On July  3, 2013, following several days of mass public
+demonstrations against Morsi’s rule, the military unilaterally dissolved Morsi’s government,
+suspended the constitution that had been passed dur ing his rule, and installed an interim president.
+The Muslim Bro therhood and its supporters declared the military’s actions a coup d’etat and
+protested in the streets. Weeks later, Egypt’s military and national police launched a violent
+crackdown against the Muslim Brotherhood, resulting in police and army soldiers fir ing live
+ammunition against demonstrators encamped in several public squares and the killing of at least
+1,150 demonstrators. The Egyptian military justified these actions by decrying the encampments
+as a threat to national security.6
+Since 2013, the powe r of President Abdel Fattah al Sisi  has gone mostly unchallenged  amidst a
+continuing crackdown  and repression of Islamist and non -Islamist opposition figures.  President
+Sisi assumed office formally in June 2014 after winning a May 2014 election with 96% of  the
+vote. In 2018, he was reelected for a second term, receiving 97% of all valid votes cast.  In 2023,
+Sisi was reelected for a third term, receiving 89.6% of the vote, though critics decried the election
+as a foregone conclusion.7
+Issues for Congress
+Iran
+While Egypt does not play a major role in
+U.S. Iran policy writ large, granting U.S.
+Navy vessels expedited passage through the
+Suez Canal is a significant benefit to United
+States when it seeks to rapidly deploy military
+assets to the Persian Gulf area an d wider
+Indian Ocean basin . In early 2026, as
+President Trump has sought to deploy
+additional naval vessels to the Persian Gulf in
+the event of the use of military force against
+Iran, several U.S. navy vessels reportedly
+passed through the Suez Canal .
+Although expedited passage is a benefit to U.S. forces, conflict involving Iran and its proxies
+(e.g., the Houthis in Yemen), particularly in the Red Sea, has depress ed Suze Canal maritime
+traffic and thereby deprive s the Egyptian government of hard currency f rom Canal transit fees
+5 David Kirkpatrick, “ Named Egypt’s Winner, Islamist Makes History ,” New York Times , June 24, 2012.
+6 “Egyptian Cabinet Vows to Disperse Pro -Morsi Protest C amps ,” The Guardian  (UK), July 31, 2013.
+7 “Egypt ’s Sisi sweeps to third term as president with 89.6% of vote ,” Reuters, December 18, 2023.  Figure 2. Suez Canal Transits by Year
+Source: Suez Canal Authority .
+Egypt: Background and U.S. Relations
+Congressional Research Service   4 (see Figure 2). The Egyptian government, in conjunction with other Arab states, has been
+advocating for de -escalation and diploma cy.
+Israel and Gaza
+During the war in Gaza, Egypt work ed with
+U.S. officials to serve as a mediator between
+Israel and Hamas . Egypt was one of several
+nations which played a key role in mediating
+the October 2025 ceasefire between Israel and
+Hamas. In October 2025, Egypt hosted the
+Sharm el Sheikh  Peace Summit , where
+President Trump, President Sisi, and other
+world leaders jointly signed a declaration
+endorsing the ceasefire  (see Figure 3).
+Between October 2025 and January 2026
+(“phase one ” of President Trump’s 20 -point
+plan to end the Gaza conflict), Egypt ian
+officials, most notably Egypt ’s General
+Intelligence chief Hassan Rashad , met with
+Israeli leaders, Hamas figures, Palestinian
+Authority officials, and other foreign leaders
+to resolve various issues, such as the future Palestinian composition of the NCAG, the reopening
+of the Rafah border crossing, and the disarming of Hamas.8 Since the January 2026 move to
+“phase 2” and the formation of the 15 -member NCAG , Palestinian NCAG officials have been
+convening meetings in Cairo . According to one unnamed dip lomat, NCAG officials will not enter
+Gaza until they have the “necessary tools to govern the enclave.”9 On January 21, 2026, Egypt
+formally accepted President Trump’s invitation to join the Board of Peace .
+One of Egypt’s primary roles in assisting Gaza’s transition from Hamas rule to civilian
+governance is to train a Gaza police force that can restore law and order in the Strip and oversee
+Hamas’ disarmament. The Egyptian government, and other nations, sought international
+authorization for such an underta king, which was ultimately codified in United Nations Security
+Council Resolution  (UNSCR)  2803 (adopted November 17, 2025). UNSCR 2803 states the
+following regarding the ISF:
+The ISF shall work with Israel and Egypt, without prejudice to their existing agreements,
+along with the newly trained and vetted Palestinian police force, to help secure border
+areas; stabilize the security environment in Gaza by ensuring the process of d emilitarizing
+the Gaza Strip, including the destruction and prevention of rebuilding of the military, terror,
+and offensive infrastructure, as well as the permanent decommissioning of weapons from
+non-state armed groups; protect civilians, including humani tarian operations; train and
+provide support to the vetted Palestinian police forces; coordinate with relevant States to
+8 “Netanyahu, Egyptian intel chief meeting transforms dialogue into strategic cooperation, expert says ,” Jerusalem
+Post, October 24, 2025 and “ Mediators said to meet in Cairo to discuss Gaza truce’ s second phase ,” Times of Israel ,
+November 25, 2025.
+9 “Gaza technocratic panel unlikely to enter Gaza this week, with no date set for start of operations ,” Times of Israel ,
+February 10, 2025.  Figure 3. President Trump at the Peace
+Summit in Egypt
+October 2025
+Source: The White House .
+Egypt: Background and U.S. Relations
+Congressional Research Service   5 secure humanitarian corridors; and undertake such additional tasks as may be necessary in
+support of the Comprehensive Plan.10
+Reported ly, some Palestinians from Gaza, including a number who have remained on the PA’s
+payroll since Hamas seized control of Gaza in 2007, have received police training from Egypt and
+Jordan to prepare them to assume roles in preserving law and order in Gaza un der the transitional
+government referenced in the U.S. 20 -point plan. Some 7,500 -10,000 vetted Palestinians may
+receive police training from Egypt, Jordan, and the European Union.11
+As “phase 2” requires the disarmament of Hamas, Egypt and other nations12 may be advocating
+for a plan that initially entails Hamas voluntarily relinquishing some of its arms. According to
+unnamed officials cited in the media, one draft plan suggests that the Trump Administration is
+calling for Hamas to surrender all of its rockets and missiles capable  of striking Israel, but will
+allow the group to keep some small arms .13
+The Rafah Crossing between Gaza and Egypt
+Rafah is a border area historically split between Gaza and Egypt. During the Israel -Hamas war in spring 202 4,
+Israel, in order to pressure Hamas and cut off its only non -Israeli border crossing, seized control over the Gazan
+side of Rafah, shut down the crossing to passengers , and cut off humanitarian aid deliveries via the Gaza -Egypt
+border . For almost two yea rs, the crossing remained closed, and the Rafah crossing’s status became a source of
+consternation between the Israeli and Egyptian governments. Israel accused Egypt of turning a blind eye to Hamas ’
+underground smuggling tunnels in Rafah , while Egypt accus ed Israel of violating the 1979 Israel -Egypt peace treaty
+by stationing military forces along Egypt’s border unilaterally . Israel also accused Egypt of violating the treaty for
+deploying additional forces to the Sinai.14
+Between 2007 and 2023, when Hamas controlled the Gazan side of Rafah, Egypt used the crossing both as a
+source of leverage against Hamas and revenue for military -connected officials, all -the-while taking some steps to
+curb smuggling. According to one report, both Hamas and Egypt used to ta x imported goods moving into Gaza
+through the Rafah gate, once earning Hamas tens of millions of dollars per year in revenue.15 In addition,
+intermediaries with ties to Egyptian intelligence reportedly had sold exit access through Rafah to Palestinians wit h
+means for exorbitant prices.16 In the 2007 -2023 time frame, the Egyptian military  took a number of steps to stop
+smuggling -tunnel construction beneath the Egyptian -Gaza border. It created a “buffer zone ” along the Gaza border
+by demolishing parts of Rafah city  (on the Egyptian side)  and flood ed trenches in the area with seawater from the
+Mediterranean. The military also erected concrete walls and barbed -wire fencing along the buffer zone to protect
+agains t terrorist attacks emanating from the Sinai .
+President Trump’s 20 -point plan mentioned the reopening of the Rafah crossing, and Israel, Egypt, and others
+negotiated for several months over the conditions of its reopening. Israel refused to reopen the cro ssing until
+Hamas had returned the remains of Israel’s last hostage in Gaza, Ran Gvili (which it did on January 26). In
+10 It is unclear whether Resolution 2803 provides a broad mandate for the ISF to use force against Hamas or other
+“non -state armed groups” in Gaza under Chapter VII of the United Nations Charter. See, Samiksha Mukherjee and
+Sanmay Moitra, “ An Analysis of Resolutio n 2803 and the International Stabilization Force: A Militarized Enforcement
+Mission with Precarious Legal and Strategic Implications ,” Just Security, December 10, 2025.
+11 Rina Bassist, “ As phase 2 looms, Netanyahu insists no Turkish or Qatari troops in Gaz a,” Al-Monitor , January 27,
+2026; Nava Freiberg, “Egypt and EU stepping up preparations to dispatch Palestinian police force to Gaza,” Times of
+Israel , December 2, 2025; Dov Lieber and Summer Said, “ U.S. Pushes a Hamas -Free ‘Green Zone ,’” Wall Street
+Journ al, November 21, 2025.
+12 Barak Ravid, “ U.S. thinks Hamas is ready to demilitarize as Gaza deal moves to “phase two ,”” Axios.com, January
+14, 2026.
+13 Adam Rasgon , Natan Odenheimer , and Abu Bakr Bashir , “Hamas Would Keep Some Arms Initially in Draft Gaza
+Plan, Officials Say ,” New York Times , February 10, 2026.
+14 Khaled Hassan, “Egypt is revising its peace agreement with Israel,” Jewish Chronicle , January 7, 2026.
+15 “New Gaza Crossing Raises Questions about Blockade Policies,” PolicyWatch #3205 , The Washington Institute for
+Near East Policy, October 23, 2019.
+16 “Network linked to Egyptian intelligence sells entry permits to Sinai at exorbitant rates,” Le Monde, Janua ry 26,
+2024.
+Egypt: Background and U.S. Relations
+Congressional Research Service   6 negotiating over Rafah, Egypt has long feared being inundated with Palestinian refugees; Egypt had rejected
+President Trump’s earlier ca lls to relocate Gazans outside the Strip.17 Egypt constructed areas on its side of the
+border to contain any uncoordinated mass movements of Palestinians.
+Figure 4. European Monitors at the Rafah Crossing
+Source:  EUBAM .
+On February 2, 2026, the Rafah crossing reopened for a limited number of persons seeking medical care in Egypt
+and for those Palestinians who left Gaza during the war to return. Under the terms of the reopening, Palestinian
+and European officials operate the crossing, but both Israel and Egypt vet the names of Gazans moving through
+Rafah . Israel also has a separate screening system it operates on Gazan territory it controls. Currently, restrictions
+in place permit 50 people to return to Gaza each day and 50 me dical patients —with two companions for each —
+are allowed to leave . An estimated 20,000 Gazans are seeking medical care outside the Strip.18
+The Nile River, Ethiopia and the War in Sudan
+Egypt relies on the Nile River (see Figure 5) for hydroelectricity, agriculture, and most of its
+domestic water needs, and thus treats restrictions to the flow of the Nile from upstream countries
+as an existential issue. The government has been at odds wit h Nile Basin countries to Egypt ’s
+south that seek to revisit colonial -era treaties governing the allocation of Nile waters. Tensions are
+particularly strong with Ethiopia, which operates the $4.2 billion Grand Ethiopian Renaissance
+Dam (GERD), a major hydr oelectric project on the Blue Nile, which starts in Ethiopia. Egypt
+argues that the dam will limit the flow of the Nile below Egypt’s share, as agreed upon in a 1959
+Egyptian deal with Sudan ( to which Ethiopia was not a party). Ethiopia claims that the dam ,
+which would double its electricity generating capacity, is critical to its efforts to eradicate poverty.
+After years of failed talks, Egypt, Ethiopia, and Sudan continue to disagree over how much water
+should be released from the GERD on an annual basis,  particularly during prolonged droughts.
+Reportedly, in order to pressure Ethiopia, Egypt may be militarily supporting the Fano, an
+Ethiopian rebel movement.19
+17 Sherif Tarek, “Egypt Pushes Against Gaza Displacement Call with Rebuilding Plan,” Bloomberg , February 5, 2025.
+18 “Gaza’s Rafah crossing opens after 2 -day closure as Palestinians claim delays and mistreatment ,” Associated Press,
+February 8, 2 026.
+19 “The promise and peril of Ethiopia’s new mega -dam, ” The Economist , September 9, 2025.
+Egypt: Background and U.S. Relations
+Congressional Research Service   7 Since the conflict in Sudan began in 2023,
+Egypt has diplomatically  and militarily20
+supported the Sudan Armed Forces (SAF, the
+military) in its battle against the  paramilitary
+Rapid Support Forces (RSF), which has been
+backed militarily by one of Egypt’s main
+benef actors, the UAE.21 Egypt also is a
+member of the “Quad,” a U.S. -led multilateral
+mediation effort to end the conflict also
+consisting of Saudi Arabia and the UAE . As
+the war in Sudan has led to the world ’s largest
+humanitarian crisis, the United Nations
+estimates that over 3 million Sudanese have
+fled to Egypt with 1 million Sudanese hav ing
+registered as refugees  in Egypt with the
+United Nations High Commissioner for
+Refugees  (UNHCR). Sudan’s influence over
+the Nile River’s flow into Egypt makes it vital
+to Egyptian security.
+In January 2026, President Trump wrote a
+letter to President Sisi, saying , as quoted in
+press accounts,  that “ I am ready to restart
+U.S. mediation between Egypt and Ethiopia
+to responsi bly resolve the question of ‘The
+Nile Water Sharing ’ once and for all .”22 During the first Trump Administration, a  U.S.-led
+mediation effort stalled in 2020 after Ethiopia rejected a draft agreement put forth by then -
+Treasury Secretary Steven Mnuchin and a ccused the United States of bias toward Egypt.
+Democracy, Human Rights, and Religious Freedom
+U.S. officials and some Members of Congress have frequently criticized Egypt’s record on human
+rights and democratization. The Egyptian government rejects foreign  criticism of its human rights
+practices as illegitimate interference in Egypt’s domestic affairs.23 It also claims that it is taking
+tangible steps to improve its human rights record and broaden political participation by launching
+a national human rights  strategy,24 forming a Presidential Pardon Commission to release political
+prisoners,25 and launching a National Dialogue to allow some open discussion of political issues
+by a range of various actors26 (excluding the Muslim Brotherhood which the Egyptian
+20 Declan Walsh , Malachy Browne , Eric Schmitt, and Nick Cumming -Bruce , “The Secret Egyptian Air Base Behind
+Sudan’s Drone Wa r,” New York Times , February 1, 2026.
+21 CRS In Focus IF12816, The War and Humanitarian Crisis in Sudan , by Lauren Ploch Blanchard .
+22 “Trump offers to mediate Egypt -Ethiopia dispute on Nile River waters,” Reuters, January 16, 2026.
+23 “Egypt calls on US not to interfere in its affairs,” The Middle East Monitor , March 15, 2019.
+24 Government of Egypt, State Information Service, Egypt and Human Rights, February 3, 2022.
+25 Heba Saleh, “ Critics of Egypt’s regime given rare platform ahead of elections ,” Financial Times  (UK),” June 27,
+2023.
+26 Vivian Yee, “ Facing Crisis, Egypt’s Leader  Tries New Tack: Talking to Opponents ,” New York Times , June 13,
+2023.  Figure 5. The Nile River
+Source:  CRS Graphics.
+Egypt: Background and U.S. Relations
+Congressional Research Service   8 government designated as a terrorist group in 2013).27 Certain practices of President Sisi’s
+government, the parliament, and the security apparatus have been the subjects of U.S. criticism,
+including Egypt’s detention and treatment of U.S. citizens. Accord ing to the U.S. State
+Department’ s report on human rig hts conditions in Egypt in 202 4
+Significant human rights issues included credible reports of: torture or cruel, inhuman, or
+degrading treatment or punishment; arbitrary arrest and detention; instances of
+transnational repression against individuals in another country; serious restrictions on
+freedom of expression and media freedom, including unjustified arrests or prosecutions of
+journalists and censorship; significant restrictions on workers’  freedom of association; and
+significant presence of some of the worst forms of child labor .28
+Select international human rights, democracy, and development monitoring organizations provide
+the following global rankings for Egypt  (see Table 1).
+T able 1. Democracy, Human Rights , and Development Indicators
+Issue  Index  Ranking
+Democracy  Freedom House, Freedom in the World 202 5 “Not Free”
+Press Freedom  Reporters Without Borders , World Press
+Freedom Index 202 5 170/180 Countries
+Corruption  Transparency International, C orruption
+Perceptions Index 202 5 130/180 Countries
+Human
+Development  United Nations Human Development
+Program me, Human Development Index 202 3 100/193 Countries
+Source s: Freedom House, Reporters Without Borders, Transparency International , and United Nations Human
+Development Programme.
+Coptic Christians
+Most Egyptians are Sunni Muslims  (perhaps 90% ).29 A relatively small  percentage  are Coptic
+Christians, and this minority has faced discrimination and persecution, from the government as
+well as from other citizens and terrorist groups.
+For years, the Coptic Christian community in Egypt has called for  equal treatment under the law ,
+and members of the community have won several court cases, beginning in 2019 .30 Since taking
+office, President Sisi has publicly called for greater Muslim -Christian coexistence and national
+unity. In January 20 19, he inaugurated Egypt’s Coptic Cathedral of Nativity  in the New
+Administrative C apital east of Cairo saying, “ This is an important moment in our history .... We
+are one and we will remain one.”31
+Despite these public calls for improved interfaith relations in Egypt, the Coptic Christian
+community continues to face professional and social discrimination, along with  occasional
+27 “Egypt’s National Political Dialogue agrees on social issues to discuss, voices appreciation for pardons ,” Al Ahram ,
+July 30, 2022.
+28 U.S. Department of State , 2024 Country Reports on  Human Rights Practices : Egyp t.
+29 The World Factbook, last updated August  23, 202 4.
+30 See George Sadek, “Egypt: Court Grants Christian Woman Share of Father’s Estate Equal to Share of Her Two
+Brothers,” Global Legal Monitor , The Law Library, Library of Congress, January 9, 2020. See also, “Egypt court gives
+Coptic woman inheritance equival ent to the man,” Egypt Independent , April 11, 2023.
+31 “Egypt’s Sisi Opens Mega -Mosque and Middle East’s Largest Cathedral in New Capital,” Reuters , January 6, 2019.
+Egypt: Background and U.S. Relations
+Congressional Research Service   9 sectarian attacks.  According to the 2025 U.S. Commission on International Religious Freedom
+report, “While Egyptian security services sometimes moved expeditiously to quell violent
+incidents against churches, observers criticized authorities’ slow response in other instances,
+resulting in property damage ”; the report also noted that “Egypt’s government maintained some
+initiatives to recognize and encourage religious inclusivity.”32
+Terrorism  in the Sinai, the Muslim Brotherhood, and U.S. -Egyptian
+Counter-Terrorism Cooperation
+Terrorism in the Sinai . From roughly 2011 until 2023, several terrorist groups based in the Sinai
+Peninsula (the Sinai) waged an insurgency against the Egyptian government and committed
+terrorist acts against the civilian population there. Of these groups, the Islamic State’s Sinai
+Province affiliate (IS -SP), established in 2014, was the most lethal. IS -SP attacked the Egyptian
+military repeatedly, targeted Coptic Christian individuals and places of worship, and occasionally
+fired rockets into Israel. In October 2015, IS -SP targeted Russian tourists departing the Sinai by
+planting a bomb aboard Metrojet Flight 9268, which exploded midair, killing all 224 passengers
+and crew aboard. Two years later, in November 2017, IS -SP gunmen launched an attack against
+the Al Rawdah mosque in the town of Bir al Abed in north ern Sinai. That attack killed at least 305
+people, making it the deadliest terrorist attack in Egypt’s modern history.33 The State Department
+designated IS -SP as a Foreign Terrorist Organization (FTO) in 2014.
+For several years, there have been no mass civilian casualty terrorist incidents reported in the
+Sinai. Egyptian counterterrorism efforts there appear to have been effective, most notably the
+Egyptian Army’s decision to enlist local Sinai tribes to form a local security force called the Sinai
+Tribe s Union.34 The Egyptian government also has used non -military means, such as increased
+economic development in the Sinai, in an effort to win support among the local population. In
+2021, the government inaugurated in northern Sinai the world’s largest agri cultural wastewater
+treatment plant, as part of a national initiative to develop the area and optimize the use of water
+resources.35
+The Muslim Brotherhood in Egypt.  Since its founding in 1928, the Muslim Brotherhood (MB)
+has been one of Egypt’s strongest political movements. Its stated purpose is to turn Egypt toward
+government based on sharia  (religious) law and Islamic principles. In its nearly century -long
+history, the MB has at times used violence against the Egyptian state, and several Egyptian
+terror ist organizations have splintered from the main movement.36 Over the years, the Egyptian
+government has alternated between tolerating and suppressing the Brotherhood.
+Since the military’s 2013 ouster of then -President Mohammed Morsi, the group has been
+outlawed in Egypt and its members banned from participation in politics. In late 2013, Egyptian
+authorities declared the MB a terrorist organization, effectively criminalizing membership in the
+group. Some MB members were already imprisoned, while others fle d the country, primarily to
+Turkey, the United Kingdom, and Qatar. In Turkey, MB members established media outlets
+critical of President al Sisi; as Egyptian -Turkish relations have improved (beginning around
+32 Annual Report of the U.S. Commission on International Religious Freedom, March 2025.
+33 See archived  CRS Insight IN10827, Egypt: Terrorist Attack in the Sinai Peninsula .
+34 Mada Masr , “Meet the newly remade Union of Sinai Tribes, the force taking over the fight in Sinai,” May 24, 2022.
+35 Arab  News , “El-Sisi inaugurates world’s largest wastewater treatment plant,” September 28, 2021.
+36 Associated Press (AP), “What to know about the Muslim Brotherhood after the US terrorist designation,” January 13,
+2025.
+Egypt: Background and U.S. Relations
+Congressional Research Service   10 2022 -2023), Egypt has sought Turkish cooperation  in shutting down MB broadcast media in
+Turkey.37
+U.S. Muslim Brotherhood Terrorist Designation.  For over a decade, some U.S. lawmakers
+have sought, through legislation and other means, to sanction the Brotherhood and its supporters,
+and some have pressed the executive branch to designate the group as an FTO.38 During the first
+Trump Administration, reports suggested that U.S. officials considered doing so.39 In January
+2026, several months after President Trump issued an Executive Order ( E.O.) focused on the
+Muslim Brotherhood, the Department of the Treasury designated the Egyptian Muslim
+Brotherhood (alongside other groups) as a Specially Designated Global Terrorist (SDGT) under
+E.O. 13224 (2001), citing ties to Hamas, a U.S. -designated FTO an d SDGT.40 The Egyptian
+government praised the designation, asserting that it “validates” Egypt’s approach to the
+Brotherhood.41 Some U.S. state governments also have declared the MB a terrorist organization
+under state laws.42 Some h uman rights groups have  asserted in the past that a State Department
+designation of the MB as an FTO would “wrongly equate it with violent extremist groups” and
+would “threaten the rights to association of Muslim groups in the United States.”43
+U.S. Security Cooperation. As disc ussed below , Egypt is a long -standing U.S. regional partner
+and one of the largest recipients of annual U.S. military assistance. For decades, military aid
+grants have supported Egypt’s purchases of large -scale conventional military equipment from
+U.S. sup pliers. Beyond conventional warfighting capabilities, experts have long noted how in
+order to effectively combat terrorism, Egypt also needed to invest in “rapid reaction forces
+equipped with sophisticated infantry weapons, optics and communication gear .. . backed by
+enhanced intelligence, surveillance and reconnaissance platforms.”44 The last U.S. Department of
+State Country Reports on Terrorism (2023) notes that the United States has provided Egypt with
+“counter -IED training, mobile sensor towers, and min e-resistant and ambush -protected vehicles,
+as well as training programs on special operations CT, air -to-ground integration, and border
+security.”45 The Texas National Guard has a State Partnership Program with Egypt’s military.
+Egyptian military units hav e also trained with U.S. Special Forces.46
+37 Sinan Ciddi and Mariam Wahba, “A Marri age of Convenience —the Limits of a Turkish Rapprochement With
+Egypt,” Foundation for the Defense of Democracies, September 24, 2024.
+38 See, e.g., 113th Congress, H.R. 5194 , the Musl im Brotherhood Terrorist Designation Act of 2014.
+39 Reuters , “Trump Weighs Labeling Muslim Brotherhood a Terrorist Group,” April 30, 2019.
+40 Department of the Treasury, “Treasury and State Departments Designate Muslim Brotherhood Branches as Terrorist
+Organizations,” January 13, 2026.
+41 Egypt State Information Service, “Egypt welcomes U.S. designation of Muslim Brotherhood as terrorist group,”
+January 13, 2026.
+42 See, e.g., Office of the Texas Attorney General, “Attorney General Ken Paxton Takes Legal Action in Lawsuit
+Involving the Terrorist Organization CAIR,” December 23, 2025.
+43 See, e.g., Human Rights Watch, “US: Don’t Target Muslim Brothe rhood,” February 8, 2017.
+44 Stratfor , “Egypt’s Conventional Military Thinking,” June 12, 2015.
+45 Department of State, “Country Reports on Terrorism 2023: Egypt.”
+46 Egyptian Armed Forces, “The conclusion of the activities of the joint Egyptian -American tra ining of special forces
+elements in the field of counter -terrorism Training (SOF03) for Paratroopers and Training (SOF06) for Commandos
+Forces with US Special Forces,” February 9, 2021.
+Egypt: Background and U.S. Relations
+Congressional Research Service   11 Egypt and China
+Egyptian -Chinese bilateral relations continue to expand. Commercially, China is Egypt’s largest
+trading partner with bilateral trade of $17 billion in 2024.47 In early 2025, Huawei, one of China’s
+leading telecommunications companies, signed an agreement with Egypt Telecom to equip
+Egypt’s cellular network in anticipation of launch ing 5G services in Egypt .
+Egypt and China Conduct Joint Military Exercises
+In 2024 and 2025, several reports have indicated the Egyptian government’s interest in purchasing PRC J-10 or J -
+35 fighter jets.48 Egypt’s current inventory of fighter aircraft is a mix of American F -16s, Russian Mig -29s, and
+French Rafales. In May 2025, Egypt and China conducted “Eagles of Civilization 2025,”49 an 18 -day military exercise
+in Egypt featuring PRC refueling tankers, ra dar aircraft, and fighter jets.50 During the first Trump Administration,
+Egypt attempted to purchase Su -35 aircraft from Russia, but backed away from the deal after U.S. officials
+threatened to levy sanctions using authorities in the Countering America’s A dversaries Through Sanction Act
+(CAATSA).51
+U.S.-Egyptian Relations
+As the most populous Arab state (108 million as of August 2025), Egypt is important to U.S.
+policymakers both because of its size and its position astride the Suez Canal. Through mediatio n
+by President Jimmy Carter in 1979, Egypt was the first Arab country to reach a peace agreement
+with Israel, and though tensions exist, the peace treaty remains intact. Since 1981, U.S.
+diplomatic leadership and participation in the Multinational Force an d Observers (MFO) mission
+in the Sinai Peninsula has played a key role in facilitating Israeli -Egyptian military coordination.
+U.S. troops have served in the Sinai as part of the observation mission, and Congress has annually
+appropriated Peacekeeping Oper ations (PKO) funds to support MFO operations since it was
+established.
+As a key defense partner of U.S. Central Command (CENTCOM) forces, U.S. officials have
+praised U.S. -Egyptian defense cooperation while seeking a greater Egyptian role in regional
+securi ty. In testimony before the House Armed Services Committee  in June 2025 , Katherine
+Thompson, the acting  Assistant Defense Secretary for International Security Affairs , testified that
+Egypt plays an integral role in advancing U.S. movement in the theater, e xpediting U.S.
+forces through the Suez Canal. As part of our efforts to increase burden -sharing with our
+regional partners, the Department of Defense is encouraging Egypt to be more active in
+addressing instability in its near abroad, particularly Gaza and  the Red Sea. Jordan also
+remains a vital partner in promoting security in the Middle East.52
+47 Joyce Karam and Rosaleen Carroll, “As Sisi avoids Washington visit, Egypt courts China ’s tech giant Huawei, Al
+Monitor, July 3, 2025.
+48 Amira El Fekki, “ U.S. Ally Looks to Buy Chinese J -35 Stealth Jets ,” Newsweek , May 29, 2025.
+49 “Chinese fighter jets soa r over Egypt in first joint exercises,” Reuters, May 6, 2025.
+50 Howard Altman, “China Deploys J -10 Fighters to Egypt,” The War Zone , April 21, 2025.
+51 Ali Dizboni, Karim El -Baz, “Understanding the Egyptian Military’s Perspective on the Su -35 Deal,” Fikra F orum ,
+The Washington Institute for Near East Policy, July 15, 2021.
+52 House Armed Services Committee, “Greater Middle East/Africa Military Posture,” testimony of Katherine
+Thompson, performing the duties of the assistant Defense  secretary for international  security affairs , CQ Committee
+Testimony, June 10, 2025.
+Egypt: Background and U.S. Relations
+Congressional Research Service   12 In 2025, the United States and Egypt conducted the 19th iteration of Operation Bright Star in
+Egypt, a multinational military exercise in which 1,500 U.S. soldie rs participated  with military
+forces from 40 other nations.53
+U.S. Foreign Aid to Egypt
+Since 1946, the United States has provided Egypt with over $90 billion in bilateral foreign aid
+(calculated in historical dollars —not adjusted for inflation), with military and economic
+assistance increasing significantly after the U.S. -brokered 1979 Egyptian -Israeli peace treaty. This
+assistance made Egypt one o f the largest recipients of U.S. aid in the world. Annual
+appropriations measures have included several conditions governing the release of these funds.
+Successive U.S. Administrations have justified aid to Egypt as an investment in regional stability,
+built primarily on long -running cooperation with the Egyptian military and on sustaining the 1979
+treaty. All U.S. military aid to Egypt finances the procurement of weapons systems and services
+from U.S. defense contractors.
+P.L. 119 -75, the Consolidated Appropriations Act, 2026 , provides  $1.5 billion in total aid for
+Egypt , of which $1.375 billion is for Foreign Military Financing grant aid, an a mount $75 million
+above what Egypt had been receiving as an FMF baseline for decades. The act  also would
+withhold $320 million in FMF from obligation unless the Secretary of State can make several
+human rights -related determinations, which are no longer de lineated in the law’s text, but are now
+found in the Joint Explanatory Statement accompanying  P.L. 119 -75. The Secretary of State may
+waive the withholding provision if the Secretary determines that “such funds are necessary for
+counterterrorism, border security, or nonproliferation programs or that it is otherwise important to
+the national security interest of the United States to do so, including a detailed justification fo r the
+use of such waiver and the reasons why any of the requirements cannot be met.” For FY2020 -
+FY2023 , the Biden Administration and Congress reprogrammed or withheld a total of $750
+million in FMF  originally designated for Egypt based on relevant provisio ns in appropriations
+law.
+Egypt also may receive smaller amounts of security assistance from accounts managed by the
+Department of Defense (FMF is managed by the State Department). For example, Section 1225
+of P.L. 119 -60, the National Defense Authoriza tion Act for Fiscal Year 2026 , authorizes defense
+assistance (from Section 1226 of the FY2016 NDAA) “along the border of Egypt with Sudan.”
+President Trump and Congress have exempted aid to Egypt from several executive actions/laws
+designed to pause or res cind foreign assistance. For example
+• When President Trump ordered a 90 -day pause and review of foreign aid globally
+in 2025 , he exempted FMF to Israel and Egypt ;54
+• On July 18, 2025, Congress passed  P.L. 119 -28, the Rescissions Act of 2025.
+That act  exempted from rescission the unobligated FY2025 Economic Support
+Fund (ESF) balances for assistance to Egypt;
+53 U.S. Department of Defense, CENTCOM, “U.S. and Egypt Host Exercise Bright Star 25,” Press Release, August 29,
+2025.
+54 Edward Wong, “ Sweeping Halt to Foreign Aid Does Not Apply to Arms for Israel a nd Egypt ,” New York Times ,
+January 25, 2025.
+Egypt: Background and U.S. Relations
+Congressional Research Service   13 • On August 29, 2025, President  Trump, citing authority under the Impoundment
+Control Act , rescinded certain  funds for foreign assistance and international
+organizations, but exempted peacekeeping funds to the MFO.55
+Since the Hamas -led attacks of October 7, 2023 and the subsequent Israel -Hamas war in Gaza,
+both the Biden and Trump Administrations have noticeabl y accelerated U.S. arms sales to Egypt.
+During that time, the State Department has notified Congress of a total of $12 billion in Foreign
+Military Sales cases for Egypt (see Table 1 ), which would require over nine years ’ worth of FMF
+appropriations at prev ailing annual rates. It is possible that, during the Biden Administration, U.S.
+officials reinstated Egypt’s access to cash flow financing, a special benefit for select FMF
+recipients, which allows countries to incrementally pay for arms sales over multipl e years.
+T able 2. Recent Major Foreign Military Sales to Egypt Since October 7, 2023
+Date Notified to
+Congress  Major U.S. Defense System  Amount  Principal Contractor
+July 24, 2025  National Advanced Surface -to-Air
+Missile System  $4.67 billion  RTX Corporation
+February 4, 2025  AN/TPS -78 Long Range Radar  $304 million  Northrop Grumman Corporation
+February 4, 2025  Fast Missile Craft Modernization  $625 million  Lockheed Martin and L3Harris
+December 20, 2024  Hellfire AGM -114R Missiles  $630 million  Lockheed Martin
+December 20, 2024  Advanced Precision Kill Weapon
+System (APKWS)  $30 million  BAE Systems
+December 20, 2024  Abrams Tank Refurbishment  $4.69 billion  General Dynamics Land Systems
+September 24, 2024  Stinger Missiles  $740 million  RTX Corporation
+January 10, 2024  28-Meter Patrol Craft Kits  $129 million  Swiftships
+January 10, 2024  Light Tactical Vehicle Chassis and
+Fleet Build  $200 million  AM General, LLC
+Totals  $12.018 billion
+Source: Defense Security Cooperation Agency.
+U.S.-Egyptian Trade  & Investment
+Egypt is the top export market for U.S. goods and services in Africa . In 2025, the total volume of
+bilateral trade stood at $11.2 billion , a noticeable leap from previous years (see Figure 6).
+Leading U.S. exports to Egypt include agricultural goods, oil and gas, transportation equipment,
+chemicals, machinery, and computer and electronic products.56 According to the U.S. Department
+of Agriculture, in 2024, Egypt was the 21st largest market for  U.S. food and agricultural product
+exports, led by soybeans.57
+55 The White House, “ Historic Pocket Rescission Package Eliminates Woke, Weaponized, and Wasteful Spending ,”
+August 29, 2025.
+56 U.S. Department of Commerce, International Trade Administration, Country Commercial Guide, Egypt, November
+11, 2025.
+57 U.S. Department of Agriculture, Foreign Agricultural Service, Egypt: Exporter Guide Annual , December 31, 2025.
+Egypt: Background and U.S. Relations
+Congressional Research Service   14 Figure 6. U.S.-Egyptian Bilateral Trade: 2016 -2025
+$s in millions
+Source: U.S. Census Bureau
+Since 2004, Egypt has participated in the Qualified Industrial Zone (QI Z) program, a trade
+arrangement that provides duty -free access to the U.S. market for goods produced with certain
+levels of Israeli and Jordanian; Israeli and Egyptian; or Palestinian content. Under the U.S. -Egypt
+QIZ program, the United States waives duti es on Egyptian imports if the value of the imports
+includes  at least 10.5% Israel i content and 11.7% Egypt ian content.58
+The United States  is the third largest foreign investor in Egypt (behind the UK and Belgium) with
+most investments concentrated in the oil and gas sector.  In November 2025, the U.S. Export -
+Import Bank approved a  $4 billion credit -insurance guarantee for Egypt to secure gas deliveries
+from U.S. -based Hartree Partners.
+Author Information
+Jeremy M. Sharp
+Specialist in Middle Eastern Affairs
+58 See https://www.trade.gov/ qiz-egypt .
+Egypt: Background and U.S. Relations
+Congressional Research Service  RL33003  · VERSION 128 · UPDATED  15
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

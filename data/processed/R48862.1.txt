@@ -1,0 +1,1758 @@
+Spectrum Provisions in P.L. 119 -21, the
+FY2025  Reconciliation  Law
+February 25, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R48862
+Congressional Research Service
+SUMMARY
+Spectrum Provisions in P.L. 119 -21, the
+FY2025  Reconciliation  Law
+The FY2025 reconciliation law (P.L. 119 -21; commonly known as “ the One Big Beautiful Bill
+Act”) was signed into law on July 4, 2025. The act was established pursuant to H.Con.Res. 14 , a
+budget resolution, which set budgetary goals for certain House and Senate committees. The
+House Committee on Energy and Commerce and Senate Committee on Commerce, Science, and
+Transportation each developed proposals to meet budgetary tar gets, which included provisions to
+auction radio spectrum, and to use the proceeds to meet budgetary goals. The spectrum auctions
+are expected to generate over $85 billion from FY2025 to FY2034, according to the
+Congressional Budget Office.
+P.L. 119 -21 directs the National Telecommunications and Information Administration (NTIA), an agency in the Department
+of Commerce (DOC) responsible for managing federal spectrum use, and  the Federal Communications Commission (FCC),
+which is responsible for managing nonfederal spectrum use (i.e., commercial, state, and local spectrum use), to make 800
+megahertz of spectrum available for commercial mobile services while also excluding certa in bands from auction. Title IV,
+Section 40002, of the act  contains  the following  provisions :
+• The FCC’s general auction authority (which had expired on March 9, 2023) is reinstated through
+September 30, 2034, excluding the 3.1 -3.45 gigahertz (GHz) and 7.4 -8.4 GHz bands from auction.
+• The FCC is required to grant licenses through competitive bidding (i.e., auctions) for 300 megahertz of
+spectrum, including not less than 100 megahertz in the 3.98 -4.2 GHz band within two years of enactment.
+• The Assistant Secret ary of Commerce for Communications and Information (i.e., head of NTIA), with the
+FCC, is directed to identify 500 megahertz of spectrum in the 1.3 -10.5 GHz range (excluding the 3.1 -3.45
+GHz and 7.4 -8.4 GHz bands) for reallocation from federal use to (1) nonfederal use, (2) shared federal and
+nonfederal use, or (3) a combination thereof for full -power commercial licensed use. It directs the FCC to
+complete, within four years of enactment, one or more auctions for no less than 200 megahertz of this
+spectrum and, no later than eight years after enactment, one or more auctions for the remaining spectrum.
+• DOC is provided $50 million to assist the head of NTIA with analysis of three bands (2.7 -2.9 GHz, 4.4 -4.9
+GHz, and 7.25 -7.4 GHz) and to publish a biennial rep ort on the value of federally held spectrum.
+In the past, Congress has taken a similar approach when renewing the FCC’s spectrum auction authority. With past renewals,
+Congress often required the FCC and NTIA to make additional spectrum available for comm ercial use through auctions. In
+some cases, Congress has named specific bands for auction; in other cases, Congress directed the FCC and NTIA to identify
+and reallocate bands for auction. In P.L. 119 -21, Congress does both and also excludes certain bands from auction.
+With the growth in wireless communications, demand for spectrum is increasing. Making spectrum available for commercial
+use can spur innovation, improve servic es, yield economic gains, and bolster U.S. leadership in the global
+telecommunications market. However, much of the spectrum in the mid -band range (1 -6 GHz) —where P.L. 119 -21 is
+targeting spectrum for reallocation —is already in use. Identifying spectrum for reallocation is complex and often requires
+technical studies and time to determine the feasibility and costs and benefits of sharing or reallocating spectrum, including
+costs to reconfigure or relocate communication systems. The FCC and NTIA may face challenges in identifying and
+reallocating 800 megahertz of spectrum for full -power commercial licensed use in the spectrum range and timelines specified
+in the act, some of wh ich were expedited in a December 19, 2025, presidential memorandum. A challenge for the FCC and
+NTIA is balancing spectrum needs of incumbent users, including federal agencies performing critical functions, and
+commercial use rs, which can spur economic gro wth.
+Configuration of spectrum and terms of use can affect auction proceeds. As Congress is relying on proceeds from spectrum
+auctions to fund provisions in P.L. 119 -21, it may seek to monitor (1) agencies’ progress in identifying spectrum for
+reallocation; (2) bands selected for reallocation; (3) the impact of reallocation on incumbent users, including federal agenc y
+users; (4) auction proceeds and timelines to ensure budge tary targets are met; and (5) costs of reallocations that can diminish
+auction proceeds. An area of debate may be balancing spectrum use between users (e.g., federal and nonfederal) and among
+technologies (e.g., mobile, satellite, Wi -Fi). Other areas of in terest for Congress may be enhancing interagency coordination
+on domestic and international spectrum decisions, and supporting research and development of new spectrum -sharing
+approaches.  R48862
+February 25, 2026
+Jill C. Gallagher
+Specialist in
+Telecommunications
+Policy
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   Contents
+Introduction  ................................ ................................ ................................ ................................ ..... 1
+Spectrum Provisions in P.L. 119 -21 ................................ ................................ ................................  1
+Issues for Congress  ................................ ................................ ................................ ..........................  2
+Reinstatement of FCC Auction Authority  ................................ ................................ .................  2
+Amendments to FCC Auction Authority  ................................ ................................ .............  3
+Differences in Di rectives to NTIA and the FCC  ................................ ................................ ....... 3
+Directive to NTIA to Identify Spectrum for Reallocation  ................................ ..................  3
+Directive to the FCC to Identify and Auction Spectrum for Reallocation  ..........................  4
+Bands Excluded from Auction  ................................ ................................ ................................ .. 5
+3.1-3.45 GHz (Lower 3 GHz Band)  ................................ ................................ ....................  6
+7.4-8.4 GHz Band  ................................ ................................ ................................ ...............  9
+Bands Identified for Auction  ................................ ................................ ................................ ... 10
+Upper C -band (3.98 -4.2 GHz)  ................................ ................................ ..........................  10
+Bands Identified for Future Study  ................................ ................................ ...........................  15
+2.7-2.9 GHz  ................................ ................................ ................................ .......................  15
+4.4-4.9 GHz  ................................ ................................ ................................ .......................  16
+7.125 -7.4 GHz  ................................ ................................ ................................ ...................  18
+Other Bands Under Consideration for Reallocation and Auction  ................................ ...........  19
+1.3-1.35 GHz  ................................ ................................ ................................ .....................  19
+1.78-1.85 GHz  ................................ ................................ ................................ ...................  21
+3.55-3.7 GHz  ................................ ................................ ................................ .....................  23
+5.925 -7.125 G Hz ................................ ................................ ................................ ...............  24
+Auction Proceeds  ................................ ................................ ................................ ....................  25
+CBO Estimates of Auction Proceeds  ................................ ................................ ................  26
+Treatment of Proceeds  ................................ ................................ ................................ ...... 26
+Timelines  ................................ ................................ ................................ ................................ . 27
+Valuation Report  ................................ ................................ ................................ ......................  28
+Presidential Powers on Spectrum  ................................ ................................ ............................  29
+Concluding Observations  ................................ ................................ ................................ ..............  30
+Figures
+Figure A -1. Radio Spectrum  ................................ ................................ ................................ ..........  33
+Tables
+Table 1. Spectrum Directives in P.L. 119 -21 ................................ ................................ ...................  5
+Table B -1. Allocated Spectrum Suitable and Available for Mobile Service  ................................ .. 35
+Spectrum Provisions in P.L. 119 -21, the FY2025 Reconciliation  Law
+Congressional Research Service  Appendixes
+Appendix A. Background on Spectrum  ................................ ................................ .........................  32
+Appendix B. Spectrum Previously Allocated to Commercial Licensed Use  ................................ . 35
+Contacts
+Author Information  ................................ ................................ ................................ ........................  37
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   1 Introduction
+The FY2025 reconciliation law (P.L. 119 -21; commonly  known as “the One Big Beautiful Bill
+Act”) was signed into law on July 4, 2025. The act included several spectrum provisions.
+Specifically, Title IV, Section 40002, reinstates the Federal Communication s Commission’s
+(FCC’s) spectrum auction authority1 and directs the reallocation and auction of 800 megahertz of
+spectrum for commercial wireless use to meet budgetary goals agreed to in the Concurrent
+Resolution on the Budget for Fiscal Year 2025 ( H.Con.Res. 14 ).2 The auctions specified in P.L.
+119-21 are expected to generate over $85 billion in offsetting receipts from FY2025 to FY2034,
+accordin g to the Congressional Budget Office (CBO).3
+This report discusses the spectrum provisions in the act, including bands targeted for reallocation
+and auction, bands excluded from reallocation and auction, and other bands and services,
+including federal spe ctrum use, that may be affected by such reallocations.
+Spectrum Provisions in P.L. 119-21
+Section 40002 in Title IV of P.L. 119 -21 contains the following  provisions :
+• The FCC’s general auction authority, which expired on March 9, 2023, is
+reinstated and extend ed through September 30, 2034, excluding the 3.1 -3.45 GHz
+and the 7.4 -8.4 GHz bands from auction.
+• The FCC is required to grant licenses through competitive bidding (i.e., auctions)
+for 300 megahertz of spectrum including at least 100 megahertz in the 3.98 -4.2
+GHz band within two years of enactment.
+• The Assistant Secretary of Commerce for Communications and Information —the
+head of the National Telecommunications and I nformation Administration
+(NTIA) —is directed to identify and reallocate 500 megahertz of federal spectrum
+for commercial licensed use; specifically, the act directs the following:
+• The head of NTIA, in consultation with the FCC, is directed to identify 500
+megahertz of spectrum in the 1.3 -10.5 GHz range (excluding the 3.1 -3.45
+GHz band and 7.4 -8.4 GHz band) for reallocation from federal use to (1)
+nonfederal use, (2) shared federal and nonfederal use, or (3) a combination
+thereof for full -power commercial l icensed use.4 To identify bands for
+1 Since 1993, the Federal Communications Commission (FCC) has had authority to auction licenses, granting entities
+rights to use specific radio frequencies for a set time so the y may provide wireless services. See FCC, “About
+Auctions,” https://www.fcc.gov/ about -auctions .
+2 In this context, “commercial wireless” refers mainly to commercial cellular service (e.g., 5G, 6G). The te rm
+“megahertz” refers to bandwidth or size of the band. The abbreviation “MHz” (megahertz) or “GHz” (gigahertz) is
+used to indicate a specific frequency or range of frequencies in the band. For example, the spectrum band containing
+frequencies in the  3450 -3550 MHz range has a bandwidth of 100 megahertz. For an overview of spectrum, see
+Appendix A . For more information on H.Con.Res. 14 , see CRS Report R48532, H.Con.Res. 14: The Budget
+Resolution for FY2025 , by Drew C. Aherne and Megan S. Lynch .
+3 Congressional Budget Office ( CBO ), “Table 4. Estimated Budgetary Effects of  Public Law 119 -21, to Provide for
+Reconciliation Pursuant to Title II of  H. Con. Res. 14 , Relative to the Budget Enforcement Baseline for Consideration
+in the Senate, Title IV, Committee on Commerce, Science, and Transportation, As Enacted on July 4, 2025,” July 21,
+2025, https://www.cbo.g ov/publication/ 61570 . (See “Title IV” tab in attached spreadsheet.)
+4 P.L. 119 -21, Title IV , §40002(a)(4) defines “full-power  commercial licensed use cases”  as “flexible use wireless
+broadband services with base station power levels sufficient for high -power, high -density, and wide -area commercial
+(continued...)
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   2 reallocation, NTIA is to conduct analysis —assess revenue potential,
+relocation or sharing costs, and feasibility of reallocation.
+• The FCC, within two years of enactment, is required to complete one or more
+auctions for no less than 100 megahertz of spectrum in the 3.98 -4.2 GHz
+range and, no later than eight years after enactment, one or more auctions for
+the remaining spectrum.
+• The Department of Commerce (DOC)  is provided $50 million  to assist NTIA
+with spectrum analysi s of (1) 2.7 -2.9 GHz, (2) 4.4 -4.9 GHz, and (3) 7.25 -7.4
+GHz bands and to publish a biennial report on the value of federal spectrum.
+The growth in wireless communications devices and use has led to increased demand for
+spectrum.5 Much of the spectrum in the 1.3-10.5 GHz range is already allocated for certain uses
+(e.g., satellite, mobile, maritime, space research), including to federal agencies performing critical
+functions. Given incumbent use, and given that Congress has exempted two large bands from
+auction and several other bands for study, NTIA and the FCC may face challenges in identifying
+and reallocating 800 megahertz of spectrum for full -power commercial licensed use within the
+range and timelines mandated in P.L. 119 -21.
+Issues for Congress
+This section provides background on the spectrum provisions in P.L. 119 -21 and selected issues
+that may arise during implementation that may be of interest to Congress.6
+Reinstatement of FCC Auction Authority
+The FCC’s general auction authority (i.e., authority to auction any band) lapsed on March 9,
+2023, for the first time in its 30 -year history.7 For nearly two years, the FCC could not auction
+spectrum. Entities could acquire spectrum on the secondary market (e.g., acquisitions, mergers),
+but the FCC could not make spectrum available through auction.8 P.L. 119 -21 reinstated the
+FCC’s general auction authority for nine years, through September 30, 2034.9
+mobile services, consistent with the service rules under [47 C.F.R. P art 27 ], or any successor regulations, for wireless
+broadband deployments throughout the covered band.”  Full-power use enables sufficient radio propagation (e.g.,
+coverage) and enhanced signal strength to deliver voice and data across a wider area. See Keith Mallinson, “Full -
+Power, Mid -Band Spectrum  Licensing  Is Vital to Accommodate Cellular Data Traffic Growth,” RCR Wireless ,
+December 2, 2024, https://www.rcrwireless.com/ 20241202/ analyst -angle/ full-power -mid-band -spectrum -licensing -is-
+vital-to-accommodate -cellular -data-traffic -growth -analyst -angle .
+5 Aspen Group, Implementing the National Spectrum Strategy , 2024, pp. 6 -10, 16 -17, https://www.aspendigital.org/ wp-
+content/ uploads/ 2024/ 10/Aspen -Digital_Implementing -the-National -Spectrum -Strategy_October -2024.pdf .
+6 Congress uses the term “commercial wireless servi ces” and “mobile broadband use” interchangeably. There are many
+commercial wireless services such as mobile broadband (e.g., cellular networks and devices), Wi -Fi, satellite, air traffic
+control systems, broadcast television and radio. Mobile broadband is one type of commercial wireless use.
+7 CRS Report R47578, The Federal Communications Commission’s Spectrum Auction Authority: History and Options
+for Reinstatement , by Patricia Moloney Figliola and Jill C. Gallagher .
+8 For example, see U.S. Cellular Corporation, “UScellular Announces Sale of Spectrum Assets for $1.0 Billion,” press
+release, October 18, 2024, https://investors.uscellular.com/ news/ news -details/ 2024/ UScellular -announces -sale-of-
+select -spectrum -assets -for-1.0-billion/ default.aspx .
+9 P.L. 119 -21, Title IV, §40002(b)(1).
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   3 Amendments to FCC Auction Authority
+When the FCC’s auction authority expired on March 9, 2023, the FCC asserted that the auction
+authorities defined in Title 47, Section 309(j)(11), of the U.S. Code  applied that statutory
+expiration date to both its auction authority  and its authority to grant licenses  after an auction.10
+At the time, t he FCC had completed an auction of the 2.5 GHz band but had not awarded all
+licenses before its auction authority expired. Congress passed the 5G Spectrum Authority
+Licensing Enforcement Act (5G SALE Act; P.L. 118 -27), authorizing the FCC to grant licenses
+won in the 2.5 GHz auction. The act did not apply to licensees facing the  same scenario in the
+future. P.L. 119 -21 amended Section 309(j)(11), striking language that applied the expiration date
+to both the FCC’s auction authority  and its authority to grant licenses  after an auction, which
+would enable the FCC to award license s after an auction even if its auction authority has expired.
+Differences in Directives to NTIA and the FCC
+P.L. 119 -21 requires NTIA and the FCC to make 800 megahertz of spectrum available for
+commercial wireless use over nine years. The directives to NTIA and the FCC in P.L. 119 -21 to
+identify and reallocate spe ctrum are slightly different, as discussed below and shown in Table 1.
+Directive to NTIA to Identify Spectrum for Reallocation
+Section 40002(c) of P.L. 119 -21 requires NTIA, in consultation with the FCC, to identify 500
+megahertz of federal spectrum in the range of 1.3 -10.5 GHz for reallocation from federal to (1)
+nonfede ral use, (2) shared federal and nonfederal use, or (3) a combination thereof for full -power
+commercial licensed use. Congress did not name specific bands for reallocation but directed
+NTIA to select federal bands for reallocation and auction.
+The range specified in the act (1.3 -10.5 GHz) includes mid -band spectrum (1 -6 GHz) and
+segments above the mid -band (sometimes called the Upper mid -band).11 The mid -band (1 -6 GHz)
+is considered the “sweet spot” for commercial mobile services (e.g., cellular com munications), as
+frequencies in the mid -band range can travel long distances, carry voice and data, and offer wide
+coverage, capacity, and speed. Because of its favorable propagation characteristics, mid -band
+spectrum is preferred and heavily used by feder al and nonfederal users for a variety of services;
+thus, finding unused spectrum in the mid -band segment can be challenging.12
+The Upper mid -band frequencies (7.125 -24 GHz) are under study in the United States and
+internationally for next generation wirel ess communications (e.g., 6G). Globally, the band of
+frequencies in the  7.125 -8.4 GHz range (sometimes called the “7/8 GHz band ”) is emerging as a
+10 U.S. Congress, House Committee on Energy and Commerce, Subcommittee on Communications and Technology,
+Oversight of the Federal Communications Commission , 118th Cong., 1st sess., May 21, 2023,
+https://energycommerce.house.gov/ events/ communications -and-technology -subcommittee -hearing -oversig ht-of-the-
+federal -communications -commission . (See statements of FCC Chairwoman Jessica Rosenworcel on video at 1:56:34.)
+11 Names and ranges of spectrum bands can vary. Generally, low -band are frequencies below 1 GHz , mid-band are
+frequencies between 1  and 6 GHz , and high -band are frequencies above 6 GHz. High -band use has been focused on
+millimeter wave frequencies, frequencies from 24  to 300 GHz. Some researchers are calling the bands above the mid -
+band segment “Upper mid -band.” See Gary Xu et al., “Upper  Mid-Band Spectrum for 6G: Opportunities and Key
+Enablers ,” Samsung Research , August 12, 2024, https://research.samsung.com/ blog/ Upper -Mid-Band -Spectrum -for-
+6G-Opportunities -and-Key-Enablers . See also Appendix A .
+12 FCC Technical Advisory Council (TAC), Advanced Spectrum Sharing Working Grou p, A Preliminary View of
+Spectrum Bands in the 7.125 -24 GHz Range; and a Summary of Spectrum Sharing Frameworks , August 17, 2023, p. 3,
+https://www.fcc. gov/sites/ default/ files/ SpectrumSharingReportforTAC%20%28updated%29.pdf . (The council states,
+“Given the current federal and non -federal allocation s in the United States, it is impossible to find a large amount of
+spectrum below 7.125 GHz that is not a lready utilized .”)
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   4 potential global band for 6G mobile services.13 In the United States, NTIA’s 2023 National
+Spectrum Strategy  (NSS) —a plan that identified over 2,700 megahertz of spectrum for study and
+potential reallocation —targeted the 7/8 GHz band for study for commercial use.14
+While P.L. 119 -21 creates a wide range of spectrum from which NTIA could identify 500
+megahertz of spectrum for commercial use (1.3 -10.5 GHz), this segment is heavily used by
+federal and nonfederal entities, and several segments in this range have already been reallocated
+from federal to commercial mobile use.15 In addition, bands identified in the NSS and globally for
+future study and potential reallocation to commercial use —the 3.3 -3.4 GHz and 7.4 -8.4 GHz
+bands16—have been excluded from reallocation in P.L. 119 -21 because of  congressional concerns
+about mission -critical U.S. government systems operating in those bands.17
+Directive to the FCC to Identify and Auction Spectrum for Reallocation
+Section 40002(b)(2) of P.L. 119 -21 directs the FCC to identify 300 megahertz of spectrum for
+reallocation :
+• P.L. 119 -21 requires that at least 100 megahertz of this spectrum be within the
+range of 3.98 -4.2 GHz (also called the Upper C -band) and that the FCC complete
+an auction of the Upper C -band within two years of enactment.
+• P.L. 119 -21 does not prescribe a range for the remaining (up to 200 megahertz)
+spectrum; it requires the FCC to identify spectrum for reallocation, hold spectrum
+auctions, and grant license s before its general auction authority expires (2034).
+The FCC is planning an auction of the Upper C -band by July 2027 and  is considering the quantity
+of spectrum to auction in the C -band (from 100 to 180 megahertz).18 For the remainder of the
+spectrum, t he range is not specified; thus, the FCC could identify low -band (below 1 GHz), mid -
+band (1 -6 GHz), or high -band (above 6 GHz) spectrum.19 Typically, the FCC seeks to reallocate
+spectrum to align with international allocations for new services.20 However, some of the bands
+identified for 5G and 6G services (3.3 -3.4 GHz and 7.4 -8.4 GHz) have been excluded from
+reallocation in P.L. 119 -21, which limits the FCC’s options.
+13 Viet Nguyen, 5G Americas, “Unlocking the Power of the 7 -8 GHz Spectrum: A ‘Golden Band’ of 6G Innovation -
+5G Americas ,” October 7, 2024, https://www.5gamericas.org/ unlocking -the-power -of-the-7-8-ghz-spectrum -a-golden -
+band -of-6g-innovation/ .
+14 National Telecommunications and Information Administration (NTIA), National Spectrum Strategy , November
+2023, p. 6, https://www.ntia.gov/ sites/ default/ files/ publications/ national_spectrum_strategy_final.pdf .
+15 See Appendix B  for a list of bands allocated for commercial wireless use by the FCC.
+16 NTIA, National Spectrum  Strategy , November 2023, pp. 15 -16.
+17 For example, see Sen. Mike Rounds, “Protection of Spectrum by Congress Also Protects Trump’s Iron Dome from
+Shortsighted 5G Policy” (op -ed), Defense Scoop , February 26, 2025, https://defensescoop.com/ 2025/ 02/26/spectrum -
+5g-policy -congress -trump -dod-iron-dome -senator -mike -rounds/ ; and U.S. Congress, Senate Committee on Commerce,
+Science, and Tr ansportation, America Offline? How Spectrum Auction Delays Give China the Edge and Cost Us Jobs ,
+hearing, 119th Cong., 1st sess., February 19, 2025. (See opening statement from Sen. Maria Cantwell and statements
+from Sens. Deb Fischer and Jacky Rosen.)
+18 FCC, In the Matter of Upper  C-Band (3.98 -4.2 GHz) , notice of proposed rulemaking  (NPRM) , FCC 25 -78,
+November 20, 2025, https://docs.fcc.gov/ public/ attachments/ FCC -25-78A1.pdf .
+19 See Appendix A  for spectrum background, which includes descriptions o f band designations and characteristics.
+20 FCC, “Best Practices for National Spectrum Management,” https://www.fcc. gov/general/ best-practices -national -
+spectrum -management .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   5 T able 1. Spectrum Directives in P .L. 119 -21
+Comparing NTIA and FCC Spectrum Directives
+Directives to NTIA  Directives to the FCC
+Quantity of spectrum
+for reallocation  500 megahertz  300 megahertz
+Spectrum range 1.3-10.5 GHz  At least 100 megahertz must be within 3.98 -
+4.2 GHz (Upper C -band) .
+Directives to the FCC n/a Identify and auction 300 megahertz . Of the 300
+megahertz , the FCC is directed to auction at
+least 100 megahertz in the Upper C -band
+(3.98-4.2 GHz) within two years of the
+statute’s enactment ( by July 2027).
+The FCC is to auction and grant licenses for
+remaining spectrum it was tasked with
+identifying (for a total of 300 megahertz)
+before the FCC’s auction authority expires
+(September 2034).
+Directives to NTIA and
+the FCC Identify 500 megahertz in the 1.3-
+10.5 GHz  range . Of the 500
+megahertz, NTIA is to identify at
+least 200 megahertz in  the 1.3-10.5
+GHz range within two years of the
+statute’s enactment ( by July 2027).  The FCC is to complete an auction within four
+years of the statute’s enactment ( by July 2029)
+of the 2 00 megahertz in the 1.3 -10.5 GHz
+range that NTIA was directed to identify.
+NTIA is to identify remaining
+spectrum (for a total of 500
+megahertz) in the  1.3-10.5 GHz
+range no later than four years from
+the statute’s enactment ( by July
+2029).  The FCC is to complete an auction of the
+remaining spectrum (for a total of 500
+megahertz) identified by NTIA  within eight
+years of the statute’s enactment ( by July 2033) .
+Bands excluded from
+auction  3.1-3.45 GHz
+7.4-8.4 GHz  3.1-3.45 GHz
+7.4-8.4 GHz
+Bands for future study  2.7-2.9 GHz
+4.4-4.9 GHz
+7.25-7.4 GHz  n/a
+Report  NTIA to receive $50 million for
+spectrum studies and for a biennial
+report on federal spectrum valuation.  n/a
+Source: P.L. 119 -21, Title IV, Section 40002.
+Notes: NTIA = N ational Telecommunications and Information Administration; FCC = Federal Communications
+Commission ; n/a = not applicable . The term “megahertz” refers to bandwidth or size of the band. The
+abbreviation “MHz” (megahertz) or “GHz” (gigahertz) is used to indic ate a specific frequency or range of
+frequencies in a band.
+Bands Excluded from Auction
+P.L. 119 -21 states that the FCC ’s auction authority does not apply to two bands: the 3.1 -3.45 GHz
+and 7.4 -8.4 GHz bands. In effect, this clause excludes these two ban ds from auction. Some
+Members expressed concerns that reallocation of these two bands would affect U.S. government
+functions, including radar and defense satellite systems operated by the Department of Defense
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   6 (DOD) ,21 radar and air traffic control systems  operated by the Federal Aviation Administration
+(FAA) , defense satellite systems operated by various federal agencies, and others.22 Additional
+information on the bands is provided below.
+3.1-3.45 GHz (Lower 3 GHz Band)
+The 3.1 -3.45 GHz band (also calle d the Lower 3 GHz band) is heavily used by DOD for military
+radar and other defense systems.23 The exclusion of the Lower 3 GHz band from auction
+preserves the band for federal agency use, which many Members support.24 For several years,
+commercial mobile service providers have pressed the U.S. government to reallocate all or a
+portion of the Lower 3 GHz band from federal to commercial licensed use.25 They argue that the
+band is valuable mid -band spectrum, conducive to mobile communications.26 They assert that a
+portion of the band (i.e., 3.3 -3.4 GHz) has already been identified globally for mobile 5G use;
+that in some countries, the band accommodates both military and 5G services; and that the United
+States should align  with global allocations and reallocate a segment of the band for 5G use.27
+DOD officials assert that sharing the band may be possible but vacating the band would disrupt
+DOD radar systems and operations essential to national security, would take decades to complete ,
+and would cost billions of dollars.28 Some Members of Congress have urged protection of DOD
+radar systems in the Lower 3 GHz band.29 Using funding from Section 90008 of the Infrastructure
+Investment and Jobs Act (IIJA; P.L. 117 -58, Division I), DOD undertook a study to determine the
+feasibility of making frequencies in the 3.1 -3.45 GHz band available for shared federal and
+nonfederal use. The Emerging Mid -Band Radar Spectrum Sharing (EMBRSS) Feasibility Study
+was completed in Septembe r 2023. It found that sharing in the Lower 3 GHz band is not feasible
+unless certain regulatory, technological, and resourcing conditions are met.30 Specifically, it
+21 The Department of Defense (DOD) is “using a secondary Department of War designation ” under Executive Order
+14347  of September 5, 2025 , “Restoring the United States Department of War ,” 90  Federal  Register  43893 , September
+10, 2025 , https://www.federalregister.gov/ documents/ 2025/ 09/10/2025 -17508/ restoring -the-united -states -department -
+of-war.
+22 FCC TAC, Adva nced Spectrum Sharing Working Group, A Preliminary View of Spectrum Bands in the 7.125 -24
+GHz Range; and a Summary of Spectrum Sharing Frameworks , August 17, 2023, p. 3, https://www.fcc.gov/ sites/
+default/ files/ SpectrumSharingReportforTAC%20%28updated%29.pdf .
+23 NTIA, “3100 -3300 MHz,”  in Federal Government Spectrum Use Reports 225 MHz -7.125 GHz , December 2015,
+https://www.ntia.gov/ files/ ntia/publications/ compendium/ 3100.00 -3300.00_01DEC15.pdf .
+24 Kelly Hill, “House Committee Takes Lower 3 GHz, 6 GHz Off the Auction Table in Reconciliation Markup,” RCR
+Wireless , May 12, 2025, https://www.rcrwireless.com/ 20250512/ spectrum/ house -committee -takes -lower -3-ghz-6-ghz-
+off-the-auction -table -in-reconciliation -mark -up.
+25 Doug Brake, “ Action  Required  on Commercial  Spectrum  to Avoid  Isolating  the United  States ,” CTIA (blog),
+February 15, 2024, https://www.ctia.org/ news/ action -required -on-commercial -spectrum -to-avoid -isolating -the-united -
+states .
+26 For more information on spectrum  traits and characteristics, see Appendix A .
+27 CTIA, Successful Military Radar and 5G Coexistence in the Lower  3 GHz Band: Evidence from Around the W orld,
+2023, https://api.ctia.org/ wp-content/ uploads/ 2023/ 08/Lower -3-GHz -Report.pdf .
+28 C. Todd Lopez, “Spectrum Sharing Is Way Ahead to Maintain Economic Dominance, Defense Official Says,” U.S.
+Department of Defense News , September 21, 2022, https://www.defe nse.gov/ News/ News -Stories/ Article/ Article/
+3165774/ spectrum -sharing -is-way-ahead -to-maintain -economic -dominance -defense -official -s/.
+29 Alexander Bolton, “Trump Hails Deal Between Senators on Government -Owned Spectrum,” The Hill , June 6, 2025,
+https://thehill.com/ homenews/ senate/ 5337195 -trump -spectrum -auction -deal/ . (Discussing deal with Sens. Mike Rounds
+and Deb Fischer to protect Lowe r 3 GHz band from reallocation and auction in P.L. 119 -21.)
+30 DOD, Emerging Mid -Band Radar Spectrum Sharing (EMBRSS) Feasibility Assessment Report  (unclassified),
+September 2023, pp. ii -iii, https://dodcio.defense.gov/ Portals/ 0/Documents/ Library/ DoD -EMBRSS -
+FeasabilityAssessmentRedacted.pdf .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   7 identified a need for a more advanced spectrum -sharing system —similar to that used in the 3.55-
+3.7 GHz band (also called Citizens Broadband Radio Service, or CBRS).31
+The EMBRSS report found that the sharing approach used in the CBRS band (see text box )
+presents a potential model for sharing in the Lower 3 GHz band. However, it also noted that the
+current spectrum -sharing technologies and coordination framework would need to be improved
+and evolved into a large -scale, dynamic spectrum sharing (DSS) mechanism operated within and
+by DOD, to allow for near -real-time spectrum monitoring and interfer ence mitigation; it would
+also require extensive testing.
+Citizens Broadband Radio Service ( CBRS ) Sharing Model
+In the CBRS band, the Federal Communications Commission (FCC) created a three -tiered prioritization model
+with U.S. government users (Navy) as a  Tier I operator, with priority access and protections from interference.
+Mobile service providers, as Tier II operators, hold licenses to use spectrum in certain geographic areas, agree not
+to interfere with Tier I use, and are protected from interference  from Tier III users. Tier III users, limited to low -
+power uses, have general authorized access, which gives them open access to spectrum with conditions that
+prevent interference with Tier I and Tier II users. Access is coordinated by a spectrum access sy stem (SAS)
+managed by third -party vendors. The SAS may incorporate information from an Environmental Sensing Capability,
+a sensor network that detects transmissions from Department of Defense radar systems and transmits that
+information to the SAS to coord inate spectrum access and use. The model is seen as an innovative approach to
+spectrum sharing, has spurred new deployments and devices,32 and has generated over $4.5 billion in auction
+proceeds from Tier II licensees.33 However, the model is not favored b y some commercial mobile service
+providers because it may place some limitations on their operations .34
+The 2023 NSS called for a national testbed to test and develop an advanced DSS system.35 In
+December 2024, DOD’s Office of the Chief Information Office r (OCIO) solicited proposals for
+the Advanced Dynamic Spectrum Sharing Demonstration. In April 2025, media reports indicated
+that the DOD was evaluating spectrum -sharing proposals and expected to hold demonstrations in
+November 2025.36 In October 2025, media sources reported that the DOD OCIO, partnering with
+the National Spectrum Consortium, awarded contracts to five industry and academia teams to
+conduct large -scale demonstrations of new spectrum -sharing capabilities and that experime nts
+were scheduled to begin in November 2025.37
+The NSS Implementation Plan , released by NTIA on March 12, 2024, provides a timeline for
+studies of five bands, including further studies of the Lower 3 GHz  band , after the DSS
+31 FCC, “3.5 GHz Band Overview,” https://www.fcc.gov/ wireless/ bureau -divisions/ mobility -division/ 35-ghz-band/ 35-
+ghz-band -overview .
+32 Douglas M. Boulware and Anthony W. Romaniello, An Analysis of Aggregate CBRS SAS Data from April 2021 t o
+July 2024 , NTIA Report 25 -575, November 2024, https://www.ntia.gov/ sites/ default/ files/ reports/ an-analysis -of-
+aggregate -cbrs-sas-data-from -april-2021 -to-july-2024.pdf .
+33 FCC, “Auction 105: 3.5 GHz Band,” https://www.fcc.gov/ auction/ 105.
+34 CTIA, CBRS: An Unproven Spectrum Sharing Framework , November 2022, https://www.ctia.org/ news/ cbrs-an-
+unproven -spectrum -sharing -framework .
+35 NTIA, National Spectrum Strategy , November 2023, pp. 15 -16, https://www.ntia.gov/ report/ 2023/ national -spectrum -
+strategy -pdf. The National Spectrum Strategy provides a strategic plan, goals, and a high-level roadmap for managing
+U.S. spectrum access and making spectrum available for new users. It identifies several bands for study, including the
+3.1-3.45 GHz and 7.125 -8.4 GHz bands for mobile service and three bands for other uses (e.g., satellite, drone).
+36 Mikayla Easley, “DOD Preparing for F irst Large -Scale Demonstration of Spectrum -Sharing Tech in 2025,” Defense
+Scoop , April 23, 2025, https://defensescoop.com/ 2025/ 04/23/dod-large -scale -demonstration -spectrum -sharing -tech-
+2025 -rondeau/ .
+37 Mikayla Easley, “ Pentagon CIO Greenlights 5 Large-Scale Spectrum Sharing Tech Demonstrations ,” Defense Scoop ,
+October 2, 2025, https://defensescoop.com/ 2025/ 10/02/defense -department -electromagnetic -spectrum -sharing -asc-
+demonstrations/ . This report will be updated as more information on the projects become s available.
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   8 demonstration is complete. The studies are to examine (1) coexistence (sharing) and moving
+systems out of the band or to alternate locations (relocating systems); (2) compressing the
+frequency usage within the band to free up segments of the band for commercial use; (3) en abling
+additional access below 3.1 GHz; and (4) any other mechanisms and possibilities with the
+potential to allow for expanded or more efficient uses of the spectrum. The studies and final
+report on the Lower 3 GHz band are set to be completed in October 2026, after the DSS
+demonstration is complete.38
+Some Members have raised concerns about risks associated with reallocating all or a portion of
+the Lower 3 GHz  band  for commercial use, noting that it could jeopardize existing and future
+military systems an d capabilities and cost billions of dollars.39 Some Members supported
+protection for the Lower 3 GHz band until the planned studies of interference and testing of DSS
+mechanisms were complete and conclusive.40 Other Members have raised issues with the cost  of
+relocating federal radar systems from the Lower 3 GHz band,41 which could exceed or diminish
+spectrum proceeds. By law, auction proceeds must cover 110% of federal relocation or sharing
+costs, and the FCC cannot conclude —and must cancel —the auction if the auction proceeds are
+less than 110%.42
+P.L. 119 -21 excludes the Lower 3 GHz band from reallocation and auction for the duration of the
+auction authority (through Septem ber 30, 2034). This provides the U.S. government time to
+assess optimal use in the band and potential for spectrum sharing; it also preserves DOD use and
+protects U.S. government radar systems, which many Members support.43 However, the
+protection timefram e in P.L. 119 -21 (nine years) may run counter to the timeline and goals in the
+NSS Implementation Plan  to allow for expanded or more efficient uses of the Lower 3 GHz band.
+Further, as the U.S. government assesses sharing potential in the Lower 3 GHz band, a portion of
+the band (3.3 -3.4 GHz) has been recognized and harmonized globally for 5G use by the
+International Telecommunications Union (ITU), an agency of the United Nat ions, established to
+promote global communications.44 Countries in Europe, the Middle East, Africa, the Americas,
+and Asia (including China) are using portions of the band for commercial mobile services,
+developing new equipment for use in the band that ca n be marketed and sold globally, and
+38 NTIA, National Spectrum Strategy Implementation Plan , March 2024, pp. A -6, A-7, https://www.ntia.gov/ sites/
+default/ files/publications/ national -spectrum -strategy -implementation -plan.pdf .
+39 U.S. Congress, Senate Committee on Commerce, Science, and Transportation, “Hegseth Dereliction in Defending
+DoD Spectrum from Land Grab Threatens National Security, Cantwell Warns,” pres s release, May 6, 2025,
+https://www.commerce.senate.gov/ 2025/ 5/hegseth -dereliction -in-defendin g-dod-spectrum -from -land-grab-threatens -
+national -security -cantwell -warns ; Sen. Mike Rounds, “ Protection of Spectrum by Congress Also Protects Trump’s Iron
+Dome from Shortsighted 5G Policy ” (op -ed), Defense Scoop , February 26, 2025, https://defensescoop.com/ 2025/ 02/26/
+spectrum -5g-policy -congress -trump -dod-iron-dome -senator -mike -rounds/ .
+40 U.S. Congress, Senate  Committee on Commerce, Science, and Transportation, America Offline? How Spectrum
+Auction Delays Give China the Edge and Cost Us Jobs , hearing, 119th Cong., 1st sess., February 19, 2025.  (For
+example, see opening statement from Sen. Maria Cantwell and sta tements from Sens. Deb Fischer and Jacky Rosen.)
+41 U.S. Congress, Senate Committee on Commerce, Science, and Transportation, America Offline? How Spectrum
+Auction Delays Give China the Edge and Cost Us Jobs , hearing, 119th Cong., 1st sess., February 19, 20 25. (See
+statements from Sen. Deb Fischer on risks and costs of relocating federal agency users.)
+42 47 U.S.C. §309(j)(16).
+43 Kelly Hill, “House Committee Takes Lower 3 GHz, 6 GHz Off the Auction Table in Reconciliation Markup,” RCR
+Wireless , May 12, 2025, https://www.rcrwireless.com/ 20250512/ spectrum/ house -committee -takes -Lower -3-ghz-6-ghz-
+off-the-auction -table-in-reconciliation -mark -up.
+44 International Telecommunications Union (ITU), “World Radiocommunication Conference 2023 (WRC -23): Final
+Acts,” August 19, 2024, p. 447, https://www.itu.int/ en/publications/ ITU-R/pages/ publications.aspx? parent= R-ACT -
+WRC.16 -2024& media= electronic .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   9 potentially realizing economic gains by opening the band to new uses.45 Wireless industry groups
+have urged Congress to consider designating a portion of the band (e.g., 3.3 -3.45 GHz) for
+commercial use, in alignment wi th global allocations made at the World Radiocommunication
+Conference (WRC) in 2023 (i.e., WRC -23).46 Some DOD officials have warned that such
+decisions could threaten U.S. national defense. For instance, a May 2025 Department of the Navy
+blog asserts that  “in international forums, adversaries are advocating for the repurposing of this
+spectrum to impact critical DOD capabilities, claiming it can be shared, while they continue to
+use it for defense purposes.”47 In the months before P.L. 119 -21 was enacted, DOD proposed
+alternative bands for reallocation in lieu of the Lower 3 GHz band.48
+As studies on the Lower 3 GHz band are under way and new findings emerge, industry and
+agencies working together may discover new approaches for sharing the band. In such cases,
+Congress could revisit the Lower 3 GHz band in future legislation.
+7.4-8.4 GHz Band
+The band of frequencies in the  7.4-8.4 GHz range is heavily used by federal agenci es, including
+• the FAA, for microwave communications links used to connect remote long -
+range aeronautical radionavigation radars to air traffic control centers;
+• the U.S. Space Force, for the Defense Satellite Communications System that
+supports U.S. milit ary communications globally;
+• the U.S. Space Force, for its Wideband Global SATCOM Satellite, which is the
+backbone of the U.S. military’s satellite communications, providing worldwide,
+flexible, high -capacity communications for U.S. agencies, including DO D, and
+North Atlantic Treaty Organization (NATO) partners;49
+• the National Aeronautics and Space Administration (NASA) and National
+Oceanic and Atmospheric Administration (NOAA), for passive sensing of the
+Earth from space on the Geostationary Operational Environmental Satellite
+system; and
+• NASA, for its Deep Space Network.
+Both the FCC and NTIA were examining segments of the 7/8 GHz band for future use prior to
+enactment of P.L. 119 -21. In 2023, the FCC Technological Advisory Council  prepared an initial
+45 Alan Weissberger, “ WRC -23 Concludes with Decisions on Low-Band/Mid-Band Spectrum and 6G (?) ,” IEEE
+ComSoc , December 16, 2023,  https://techblog.comsoc.org/ 2023/ 12/16/wrc-23-concludes -with-decisions -on-low-band -
+mid-band -spectrum -and-6g/. See Global System for Mo bile Communications Association  (GSMA), “Lower 3.4 GHz in
+the U.S.: Expanding Spectrum for Industry, Jobs, and Growth,” July 2023, p. 2, https://www.gsma.com/ connectivity -
+for-good/ spectrum/ wp-content/ uploads/ 2023/ 07/Lower -3.5-GHz -in-US.pdf ; and GSMA, “ China Issues 5G Spectrum
+Licenses for Indoor Coverage ,” February 18, 2020, https://www.gsma.com/ solutions -and-impact/ technologies/
+networks/ 5g/china -issues -5g-spectrum -licences -for-indoor -coverage/ .
+46 Kelly Hill, “CTIA Report Suggests Segmenting  Spectrum Below 3.3 GHz,” RCR Wireless , August 16, 2023,
+https://www.rcrwireless.com/ 20230816/ featured/ ctia-report -suggests -segmenting -spectrum -below -3-3-ghz.
+47 Arthur DeLeon, “Spectrum: Myth vs.  Reality,” Department of the Navy Chief Information Officer  (blog), May 29,
+2025, https://www.doncio.navy.mil/ ContentView.aspx? id=19288 .
+48 See “DOD Spectrum Proposal,” March 25, 2025,  which can be accessed via Jimm Phillips and Howard Buskirk,
+“DOD Floats Vacating 420 MHz of Spectrum for Auction but Retaining Lower  3 GHz Band,” Communications Daily ,
+April 7, 2025, https://communicationsdaily.com/ search/ view? search_id= 42437  (link requires paid subscription).
+49 U.S. Space Force, “Wideband Global SATCOM Satellite,” February 2023, https://www.spaceforce.mil/ about -us/
+fact-sheets/ article/ 2197740/ wideband -global -satcom -satellite/ .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   10 assessment of use and recommendations for sharing in the 7.125 -24 GHz range.50 In the NSS,
+NTIA identified five bands for study, including frequencies in the range of 7.125 -8.4 GHz.51 In its
+NSS Implementation Plan , NTIA reported that it would set technical parameters for study of the
+7.125 -8.4 GHz band. Agencies with equities in th e band would co -lead the stud y using funds
+provided through the Spectrum Relocation Fund (SRF).52 The study is to examine the potential
+for (1) shared use; (2) reconfigured use of the band (e.g., compressing federal operations into a
+smaller segment of the  band, freeing spectrum for commercial use); and (3) any other
+mechanisms to enable expanded use in the band.53 The final report is expected in October 2026.
+As with the Lower 3 GHz band, P.L. 119 -21 excludes the 7.4 -8.4 GHz band from auction for the
+duration of the auction authority (through September 30, 2034). This provides the U.S.
+government time to assess optimal use in the band and potential for spectrum sharing, and  it
+preserves federal use in the band. However, the timeframe in P.L. 119 -21 (nine years) may run
+counter to the timeline and goals in the NSS Implementation Plan , which aim to allow for
+expanded or more efficient uses in the band.
+Bands Identified for Auction
+P.L. 119 -21 names one specific band for auction: the Upper C -band (3.98 -4.2 GHz). It directs the
+FCC to reallocate and auction at least 100 megahertz in the Upper C -band within two years of
+enactment ( by July 2027). Auction of the Lower C -band (3.7 -3.98 GHz) in 2021 generated over
+$81 billion, spurring interest in future auctions in the band. However, reallocation and auction of
+the Lower C -band for commercial mobile services raised concerns among aviation stakeholders
+related to potential interference from high -power mobile (5G) services to aircraft altimeters
+operating in the 4.2 -4.4 GHz band, which led to FAA directives restricting some aircraft landings
+at certain airports, requirements to replace or retrofit filters on aircraft altimeters, and delays in
+5G deployment.54 Proposals to auction the Upper C -band have raised similar concerns among
+aviation stakeholders and in Congress.
+Upper C -band (3.98-4.2 GHz)55
+In February 2025, the FCC issued a notice of inquiry (NOI) seeking comment on opening the
+Upper C -band segment (3.98 -4.2 GHz) for new wireless services (e.g., terrestrial or satellite
+50 FCC TAC , Advanced Spectrum Sharing Working Group, A Preliminary View of Spectrum Bands in the 7.125 -24
+GHz Range ; and a Summary of Spectrum Sharing Frameworks , August 17, 2023, pp. 5 -7, https://www.fcc.gov/ sites/
+default/ files/ SpectrumSharingReportforTAC%20%28upd ated%29.pdf .
+51 NTIA, National Spectrum Strategy , November 2023, p . 6.
+52 The Spectrum Relocation Fund (SRF) was established in 2004 to reimburse federal agencies for costs of relocating
+systems from one band to another when a band was repurposed for commercial use; the SRF was expanded in 2015 to
+allow agencies to use funds fo r research and development and analyses to help identify repurposing opportunities. For
+more information, see 47 U.S.C. §928 and NTIA, Annex O: Procedures and Guidance Related to the Spectrum
+Relocation Fund and Transition Activities in Support of Relocati on or Sharing by Federal Government Stations ,
+January 2021, https://www.ntia.gov/ files/ ntia/publications/ o_21_1.pdf .
+53 NTIA, National Spectrum Strategy Implementation Plan , March 2 024, pp. A -9, A-10, https://www.ntia.gov/ sites/
+default/ files/ publications/ national -spectrum -strategy -implementation -plan.pdf .
+54 See CRS In Focus IF12028, Aviation Concerns Regarding the Rollout of 5G Wireless Telecommunications Networks ,
+by Bart Elias . See also Peter Elkind, “Inside the Government Fiasco That Nearly Closed the U.S . Air System,”
+ProPublica , March 26, 2022, https://www.propublica.org/ article/ fcc-faa-5g-planes -trump -biden ; and Federal Aviation
+Administration ( FAA ), “Requirements for Int erference -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,
+91 Federal Register  463, January 7, 2026.
+55 In the United States, the FCC calls the frequencies in the 3.7-4.2 GHz range the “C-band. ” Prior to 2020, the C -band
+(continued...)
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   11 services).56 The FCC sought comment on several issues, including (1) the amount of spectrum
+that may be suitable for reallocation, (2) allowable uses for the Upper C -band segment, (3)
+treatment of incumbent services, and (4) avoiding interference with altimeters operating in the
+4.2-4.4 GHz band.57
+P.L. 119 -21 requires the FCC to auction at least 100 megahertz of spectrum in the Upper C -band
+(3.98 -4.2 GHz) within two years of enactment ( by July 2027).58
+In November 2025, the FCC released a notice of proposed rulemaking (NPRM) seeking input on
+the Upper C -band (3.98 -4.2 GHz band).59 Pursuant to P.L. 119 -21, the FCC is seeking to make at
+least 100 megahertz (3.9 8-4.08 GHz) , and potentially up to 180 megahertz (3.98 -4.16 GHz),
+available for commercial terrestrial high -powered 5G use.60 The FCC proposed a 20 -megahertz
+guard band between the 5G and satellite services operating in the Upper C -band to protect
+incumben t satellite operations from potential harmful interference from 5G operations.61
+Concerns about interference from 5G deployments operating in the Lower C -band to aircraft
+radio altimeters operating in the 4.2 -4.4 GHz segment delayed and affected the activ ation of 5G
+services after the FCC auctioned the Lower C -band in 2021.62 The FAA and aviation stakeholders
+asserted that high -power 5G deployments in the Lower C -band could cause harmful interference
+to aircraft radio altimeters, which could degrade altime ter performance and result in misleading
+data.63 The FAA recommended short -term mitigation measures, such as assessing and approving
+altimeters that do not experience interference from 5G deployments, retrofitting existing radio
+altimeters with filters, an d restricting certain operations (e.g., low -visibility landings) at select
+airports.64 In addition, the FAA recommended longer -term solutions, such as developing standards
+was used primarily by satellite service providers for downlink (space -to-earth) delivery of television and radio
+programming and other services, including  public safety communications. In March 2018, Congress , in the Making
+Opportunities for Broadband Investment and Limiting  Excessive and Needless Obstacles to Wireless Act  (MOBILE
+NOW Act ; P.L. 115 -141, Title VI, §605(b) ), directed the FCC to evaluate the feasibility of allowing commercial
+wireless use (e.g., 5G) in the C -band . In March 2020, the FCC adopted final rules for  the C -band. The FCC relocated
+the incumbent satellite operators to the Upper  200-megahertz segment of  this 500 -megahertz  band (4.0 -4.2 GHz),
+freeing up the Lower  C-band (3.7 -3.98 GHz) to auction for 5G use. The FCC preserved a segment between the Lower
+and Upper  C-band (3.98 -4.0 GHz) to serve as a guard band, to prevent  mobile services in the Lower  C-band from
+interfering with satellite service s in the Upper  C-band . For additional information on the C -band, see FCC, “In the
+Matter of the Upper C -Band (3.98 -4.2 GHz) ,” 90  Federal Register  56076, December 5, 2025. (See “Background”
+section.)
+56 FCC, In the Matter of Upper C -Band (3.98 -4.2 GHz) , notice of inquiry, February 27, 2025, https://docs.fcc.gov/
+public/ attachments/ FCC -25-13A1.pdf .
+57 Altimeters are devices on aircraft that measure the aircraft’s height above terrain and other obstacles using low -
+power sig nals to detect reflections from the ground. Pilots use the se data for navigat ing low-visibility approaches and
+for terrain awareness and warning, wind shear alerts, and traffic collision avoidance.
+58 P.L. 119 -21 specifies that the FCC must complete an au ction of at least 100 megahertz but does not specify a
+particular use.
+59 FCC, In the Matter of Upper  C-Band (3.98 -4.2 GHz) , NPRM, FCC 25 -78, November 20, 2025, https://docs.fcc.gov/
+public/ attachments/ FCC -25-78A1.pdf . See also FCC, “In the Matter of the Upper C -Band,” 90  Federal Register  56076,
+December 5, 2025.
+60 FCC, “In the Matter of the Upper C -Band,” 90  Federal Register  56076, December 5, 2025.
+61 FCC, “In the Matter of the Uppe r C-Band,” 90  Federal Register  56078, December 5, 2025.
+62 FAA, “5G and Aviation,” https://www.faa.gov/ 5g (see “5G Timeline”) ; and  FAA, “Re quirements for Interference -
+Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal Register  459, January 7, 2026  (see
+“Background”) .
+63 FAA, “Requirements for Interference -Tolerant Radio Altimeter Systems,” NPRM, FAA -2025 -5666, 91 Federal
+Register  459, January 7, 2026  (see “Statement of the Problem”) .
+64 FAA, “Re quirements for Interference -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  459, January 7, 2026 .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   12 for new altimeters that were less susceptible to interference from 5G signals.65 The FAA also
+requested some constraints for mobile service providers. Providers voluntarily agreed to delay 5G
+deployments and then to limit and coordinate power levels around select airports to allay
+concerns about interference from 5G stations to radio alti meters; that agreement ends January 1,
+2028.66 The FAA aims to complete new altimeter standards by 2027 and make more resilient
+altimeters available for integration into aircraft starting in 2028. This could allow providers to
+operate at the power levels a nd under the technical parameters granted in the Lower C -band
+licenses they won at auction and to inform the FCC on parameters of the Upper C -band
+operations.67
+On January 7, 2026, the FAA issued an NPRM proposing new regulations that would require all
+radio altimeters to meet specific performance requirements so they can withstand interference
+from wireless signals in neighboring spectrum bands and still provide accurate altitude readings.
+The regulations would require certain aircraft to comply with the requirements by the date that
+the FCC authorizes wireless service providers to begin service in the Upper C -band;68 all others
+would be required to comply within two years.69 The standard is scheduled for publication in
+early 2027, but the FAA has requested that it be published by June 2026, if possible.70 The FAA
+proposed to have the retrofit deadline coincide with the FCC date initiating new 5G service in the
+Upper C -band, w hich it expects to be sometime between 2029 and 2032.71
+There are several issues that may be of interest to Congress, including the amount of spectrum
+auctioned, potential interference with altimeters, timing of 5G deployments , and relocation costs .
+Amount of Spectrum Auctioned
+Congress may be interested in the terms set for the Upper C -band auction —including the amount
+of spectrum the FCC chooses to auction —as the terms may affect spectrum auction proceeds.
+Auctions of mid -band spectrum (which includes th e C-band) have generated the highest levels of
+proceeds.72 Within this range, the Lower C -band auction yielded the highest proceeds to date ($81
+65 FAA, “Radar Altimeter and Compatibility with 5G,” July 2021, p. 20, https://verticalavi.org/ wp-content/ uploads/
+2021/ 08/FAA -Presentation -RA-5G-Industry -Forum -July-2021.pdf .
+66 Letter from Henry G. Hultquist, Vice President -Federal Regulatory, AT&T Services, Inc. , et al.  to Marlene H.
+Dortch, FCC Secretary, March 31, 2023, https://www.fcc.gov/ ecfs/ document/ 1033142661477/ 1.
+67 FCC, “In the Matter of the Upper C -Band (3.98 -4.2 GHz) ,” 90  Federal Re gister  56094, December 5, 2025.
+68 In its NPRM , the FAA notes that “these regulations would require all aircraft equipped with radio altimeters
+operating under Part 121 [ generally large, U.S. -based airlines, regional air carriers, and all cargo operators ] and those
+aircraft with radio altimeters operating under part 129 [foreign air carriers] with 30 or more passenger seats or a
+payload capacity of more than 7,500 pounds to comply with the minimum performance requirements by the date the
+Federal Communicat ions Commission authorizes wireless services in the Upper C -band. All other aircraft equipped
+with radio altimeters would be required to comply with the same minimum performance requirements two years later.”
+FAA, “Requirements for Interference -Tolerant Ra dio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  459, January 7, 2026 .
+69 FAA, “Requirements for Interference -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  459, January 7, 2026.
+70 FAA, “Requirements for Interfe rence -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  464, January 7, 2026.
+71 FAA, “Requirements for Interference -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  467, January 7, 2026.
+72 In 2015, the AWS -3 auction generated nearly $42 billion; FCC, “Auction 97,” https://www.fcc.gov/ auction/ 97. In
+2021, the C -band auction (3.7 -3.98 GHz) generated $81 billion; FCC, “Auction 107,” https://www.fcc.gov/ auction/ 107.
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   13 billion). Experts have found that creating large, contiguous bands and allowing full -power use
+were among the f actors that drove spectrum price and proceeds in the Lower C -band.73
+Per P.L. 119 -21, the FCC identified 100 megahertz within the band (3.98 -4.08 GHz) and is
+considering auctioning up to 180 megahertz (3.98 -4.16 GHz). Auctioning 180 megahertz in the
+Upper C-band would provide more spectrum for commercial mobile use, could increase auction
+proceeds and spur economic gains, and would bring the FCC closer to its mandate in P.L. 119 -21
+to auction 300 megahertz of spectrum for commercial wireless use. Howev er, auctioning 180
+megahertz of the Upper C -band could affect incumbent users, including satellite service providers
+that were recently (2023) relocated from the Lower C -band to the Upper C -band.74 5G providers
+paid over $9.7 billion in relocation costs an d additional payments to accelerate the clearing of the
+Lower C -band; some satellite firms say they spent billions on new launches intended to operate in
+the Upper C -band, which could now be affected by new high -power 5G services in that band.75
+Broadcasters that rely on program distribution by satellite have urged the FCC to consider
+spectrum needs of all service providers, potential relocation costs, and impact on broadcast
+services, including in Alaska, Hawaii, and other regions.76
+Potential Interference with Altimeters
+In its January 2026 NPRM, the FAA raises issues with deployment of high -power 5G services in
+the Upper C -band (3.98 -4.2 GHz), noting that the Upper C -band is even closer to the radio
+altimeter band (4.2 -4.4 GHz) than the Lower C-band and “poses a risk of increased interference
+with [radio altimeters] and critical aviation systems dependent on the [radio altimeter] for
+accurate altitude data.”77
+The FAA described its efforts to assess and mitigate interference from 5G deployments  in the
+Lower C -band to radio altimeters operating in the 4.2 -4.4 GHz band. The FAA determines
+whether a radio altimeter is interference tolerant based on terms established in voluntary
+agreements it holds with wireless providers —these terms  reduce emissio ns at certain 5G sites and
+are set to expire on January 2028.78 The FAA notes that its current directives and agreements do
+not provide a long -term resolution that would ensure safety in the presence of Lower C -band
+wireless services operating at full powe r, nor do they contemplate wireless services in the Upper
+C-band.79 Some Members have raised concerns about impacts of 5G services on critical aviation
+73 Roger Entner, “Lessons from Spectrum Auctions: Entner,” Fierce Network , February 11, 2021,  https://w ww.fierce -
+network.com/ regulatory/ lessons -from -spectrum -auctions -entner .
+74 Randy J. Stine, “The C -Band Is Back in the Crosshairs,” Radio World , September 5, 2025,
+https://www.radioworld.com/ news -and-business/ business -and-law/the-c-band -is-back -in-the-crosshairs .
+75 Randy J. Stine, “The C -Band Is Back in the Crosshairs,” Radio World , September 5, 2025,
+https://www.radioworld.com/ news -and-business/ business -and-law/the-c-band -is-back -in-the-crosshairs .
+76 Letter from Alison Martin, Vice Presid ent, Innovation and Strategy, National Association of Broadcasters, to
+Marlene H. Dortch, FCC Secretary, November 12, 2025, https://www.fcc.gov/ ecfs/ document/ 1112349125995/ 1?ref=
+broadbandbreakfast.com .
+77 FAA, “Requirements for Interference -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  464, January 7, 2026.
+78 FAA, “Requirements for Interference -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  464, January 7, 2026. Emissions  refer to the electromagnetic energy from a device; interference can occur
+when electronic devices, which can intentionally and unintentionally emit electromagnetic energy, disrupt radio  signals
+from or to another device.
+79 FAA, “Requirements for Interference -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  464, January 7, 2026.
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   14 systems and have urged careful consideration and coordination on rules and technical parameters
+that cou ld affect aviation systems and safety.80
+Congress has directed the FAA Administrator, in consultation with NTIA, to conduct research on
+the use and management of spectrum in the civil aviation domain. P.L. 118 -63, Section 1026 ,
+requires that the agency report on  several things , including  (1) how reallocation or repurposing of
+spectrum adjacent to spectrum allocated for communication, navigation, and surveillance may
+affect c ivil aviation; (2) the effectiveness of measures to protect and mitigate against spectrum
+interference in bands used in civil aviation operations for public safety; and (3) identification of
+emerging civil aviation systems and their anticipated spectrum re quirements. This report is to be
+completed and submitted to Congress by May 2026. While this report could offer insight into
+current issues and future needs, it may not be released in time to affect decisions and technical
+parameters for the Upper C -band, given the mandate to complete the auction by July 2027.
+Timing of 5G Deployments
+An area of interest for Congress may be the timing set by the FCC for terrestrial 5G deployments
+in the Upper C -band. In its November 2025 NPRM, the FCC discussed the urgenc y of the
+proceeding, given the mandate in P.L. 119 -21 to complete the auction within two years of the
+statute’s enactment ( by July 2027) . Despite this deadline , no mandatory date has been set for
+activation of 5G services. The FAA requires that certain aircraft be equipped with new altimeters
+by the date the FCC sets for deployment; however, that date is currently unknown, standards for
+such altimeter s are still under development, and equipment is not yet available. In its January
+2026 NPRM, the FAA reports that the standard to define the maximum tolerable radio frequency
+interference levels is scheduled for publication in early 2027 and that it has asked for the standard
+to be released in 2026.81 Aviation and wireless industry stakeholders report  that while there are
+areas of consensus among wireless and aviation stakeholders, other issues remain under
+discussion, including appropriate out -of-band emission limits to avoid interference between the
+wireless and aviation services.82
+The FAA Reauthor ization Act of 2024 ( P.L. 118 -63, §318, enacted May 16, 2024) required the
+DOT Office of Inspector General (OIG) to audit the FAA’s coordination with NTIA to
+communicat e the views of aviation stakeholders regarding spectrum reallocations and auctions;
+DOT OIG has initiated the audit, which is due two years from the statute’s enactment ( by May
+2026).83 The audit could lead to findings and recommendations that could enhance interagency
+coordination on spectrum decisions but may not be completed in time to a ffect Upper C -band
+decisions, given the July 2027 auction date.
+80 U.S. Congress, House Committee on Transportation and Infrastructure, Subcommittee  on Aviation, Finding the
+Right Frequency: 5G Deployment and Aviation Safety , 117th Cong., 2nd sess., February 3, 2022 ( e.g., see statements
+from House Transportation Committee Chairman Peter DeFazio ). See also letter from Sen. Maria Cantwell, Ranking
+Memb er, Senate Committee on Commerce, Science, and Transportation, to Sean Duffy, Secretary, Department of
+Transportation  (DOT) , May 12, 2025, https://www.comme rce.senate.gov/ services/ files/ 17240991 -C943 -48C7 -A51B -
+7B836736A5A1 .
+81 FAA, “Requirements for Interference -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  461, January 7, 2026.
+82 Letter from Dorothy B. Reimold, Vice President, Aerospace Industries Association (AIA)  et al.  to Marlene H.
+Dortch, October 2, 2025, https://api.ctia.org/ wp-content/ uploads/ 2025/ 10/251002 -Joint -Association -Upper -C-Band -Ex-
+Parte -Filing.pdf .
+83 Memorandum from Nelda Smith, Assistant Inspector General for Aviation Audits , DOT,  to Director, Audit and
+Evaluation, August 1, 2025, https://www.oig.dot.gov/ sites/ default/ files/ library -items/ Audit%20Announcement%20 -
+%20FAA%27s%20Communication%20of%20Spectrum%20Concerns.pdf .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   15 Congress could consider options to encourage or mandate coordination between the FCC and the
+FAA and their stakeholders, given congressional concerns over previous coordination efforts .
+Congr ess could also consider options  to ensure that activation dates for 5G deployments align
+with installment of new altimeters to safeguard air safety and facilitate 5G deployments.
+Relocation Costs
+Aviation stakeholders have raised issues of costs to retrofit the existing aircraft fleet with new
+interference -tolerant radio altimeters, which the FAA has estimated would cost $4.5 billion.84
+While the FCC has a framework for facilitating and incentivizi ng the clearing of spectrum for
+emerging technologies (e.g., providing relocation costs or payments to clear bands quickly), its
+framework has not previously been used to address adjacent band equities.85 In its November
+2025 NPRM, the FCC sought comment on ways radio altimeter retrofits could be incentivized or
+accelerated. Options for Congress could include directing the FCC to consider or adopt rules
+related to relocation costs and/or acceleration payments for systems affect ed by spectrum
+reallocations in an adjacent band, including altimeters, or restricting the FCC from doing so to
+avoid increasing spectrum and relocation costs for service providers seeking to launch new and
+emerging technologies.
+Bands Identified for Futu re Study
+P.L. 119 -21 identified three bands for future study : 2.7-2.9 GHz, 4.4 -4.9 GHz, and 7.125 -7.4 GHz
+bands. The bands align closely to bands identified by the ITU for future study: 4.4 -4.8 GHz and
+7.125 -8.4 GHz bands.86 At the WRC in 2027 ( WRC -27), participants will be expected to consider
+studies on sharing in these bands and to develop technical conditions for mobile use in each of the
+bands, while also taking into account incumbent and adjacent systems and services.
+Although P.L. 119 -21 did not set specific timelines for study, a December 19, 2025, presidential
+memorandum directed agencies to immediately commence studies of the bands named in P.L.
+119-21 and set timelines and tasks for agencies to carry out these directives.87 This section
+discusses the three bands identified for study in P.L. 119 -21 and the directives in the recent
+presidential memorandum.
+2.7-2.9 GHz
+P.L. 119 -21 directs NTIA to conduct a spec trum analysis of the 2.7 -2.9 GHz band. Both
+nationally and internationally, the 2.7 -2.9 GHz band —valuable mid -band spectrum —has been
+considered for mobile use.88 In the United States, the band is used by the FAA and DOD for
+hundreds of high -power radar sys tems operating across the United States for air traffic control
+84 FAA, “Requirements for Interference -Tolerant Radio Altimeter Systems,”  NPRM, FAA -2025 -5666,  91 Federal
+Register  479, January 7, 2026.
+85 FCC, In the Matter of Upper C -Band (3.98 -4.2 GHz) , NPRM , FCC 25 -78, November 20, 2025, pp. 46 -47,
+https://docs.fcc.gov/ public/ attachments/ FCC -25-78A1.pdf .
+86 ITU, “ITU Preparatory Studies for WRC -27,” https://www.itu.int/ en/ITU-R/study -groups/ rcpm/ Pages/ wrc-27-
+studies.aspx  (see Agenda Item 1.7) .
+87 White House, “Winning the 6G Race,” presidential memorandum, December 19, 2025, https://www.whitehouse.gov/
+presidential -actions/ 2025/ 12/national -security -presidential -memorandum -nspm -8-0bda/ .
+88 GSMA, “The Suitability of an IMT Identification in the 2.7 -2.9 GHz Band at WRC -15,” January 2015,
+https://www.gsma.com/ connectivity -for-good/ spectrum/ wp-content/ uploads/ 2015/ 02/2.7-2.9-Information -Paper.pdf .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   16 systems and weather monitoring.89 The National Weather Service (NWS), the FAA, and DOD
+operate a network of Next Generation Weather Radar (NEXRAD) systems in this band, which,
+according to NTI A, are operating nearly 100% of the time, limiting opportunities for time sharing
+in the band.90 These federal systems avoid interference with each other through design of radar
+receivers, deliberate frequency selection, and NTIA regulations.
+Use of the 2. 7-2.9 GHz band is under consideration by industry and government stakeholders.
+The band sits above the 2.5 GHz band (2.496 -2.690 GHz) that was reallocated for mobile 5G use
+and auctioned in 2022. Opening the 2.7 -2.9 GHz band for mobile use could provide a broader
+contiguous band of mid -band spectrum to help providers meet future demands for spectrum and
+services that are projected by industry.91 The 2.7 -2.9 GHz band sits below the Lower 3 GHz band
+(3.1-3.45 GHz) —a band used predominantly by DOD.92 The band could also be used to create a
+broader federal segment, to accommodate federal systems relocated from other bands. A 2017
+spectrum report commissioned by CTIA, a trade association representing the U.S. wireless
+communications industry, states that the 2.7 -3.1 GHz band may be a possible band to relocate
+federal surveillance systems currently operating in the 1.3 -1.35 GHz band, which could free up to
+50 megahertz of spectrum for mobile broadband services.93
+P.L. 119 -21 provided $50 million to DOC to enable  the head of NTIA to conduct timely analysis
+of several bands, including the 2.7 -2.9 GHz band. The December 2025  presidential memorandum
+expedite d this study.94 The memorandum directed NTIA to immediately commence studies of the
+2.69-2.9 GHz band to determine whether po rtions of those bands can feasibl y be reallocated for
+full-power commercial licensed use. Congress may seek to monitor NTIA’s progress on this
+analysis to understand potential and optimal use in the band and to determine whether NTIA has
+the resources it needs to carry out these directives and congressional priorities in P.L. 119 -21,
+which include identification of spectrum for auctions.
+4.4-4.9 GHz
+P.L. 119 -21 directs NTIA to conduct an analysis on the 4.4 -4.9 GHz band. The band is curr ently
+under study globally to determine feasibility of mobile services in the band.95 WRC -27
+participants will be invited to consider a global identification of the 4.4 -4.8 GHz band for
+advanced 5G and 6G services in ITU Region 1 and 3; Region 2 (the Ameri cas) was not included
+in this provision.96 A U.S. advisory body to the FCC issued preliminary views on Agenda Item
+89 NTIA, “Quantitative Assessments of Spectrum Usage,” November 2016, p. 61, https://www.ntia.gov/ files/ ntia/
+publications/ ntia_quant_assessment_report -no_appendices.pdf .
+90 Time sharing  refers to mechanisms that allow different users access to the same frequency band at different times.
+Instead of assigning bands to single users, it allows multiple users access to the band, on a coordinated basis.
+91 GSMA, “6G Mobile Networks Will Need Up to Three Times Today’s Spectrum to Meet Surging Data Demands,
+New GSMA Report Shows,” November 20, 2025, https://www.gsma.com/ newsroom/ press -release/ 6g-mobile -
+networks -will-need -up-to-three -times -todays -spectrum -to-meet -surging -data-demands -new-gsma -report -shows/ .
+92 For background, see CRS In Focus IF12350, Repurposing 3.1 -3.55 GHz Spectrum: Issues for Congress , by Jill C.
+Gallagher .
+93 Coleman Bazelon, “The Next Wave of Spectrum Reallocation: The Value of Additional Mid -Band Spectrum
+Reallocations ,” Brattle Group , November 14 , 2017, p. 4, https://docs.house.gov/ meetings/ IF/IF16/ 20171116/ 106636/
+HHRG -115-IF16 -20171116 -SD005 -U5.pdf .
+94 White House, “Winning the 6G Rac e,” presidential memorandum, December 19, 2025, https://www.whitehouse.gov/
+presidential -actions/ 2025/ 12/national -security -presidential -memorandum -nspm -8-0bda/ .
+95 ITU, “U.S. Contributions Sent to CITEL PCC.II (for WRC -27),” https://www.fcc.gov/ us-contributions -sent-citel-
+pccii -wrc-27-0 (see Agenda Item 1.7) .
+96 Region 1 covers Africa, Europe, Russia, and other territories. Region 2 covers the Americas, Greenland, and some
+(continued...)
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   17 1.7, supporting sharing and compatibility studies in the band to determine whether the band could
+be designated globally for mobile (e.g., 6G ) use, with the view that incumbent systems and
+services operating in and adjacent to the band are protected.97
+According to NTIA, the 4.4 -4.9 GHz band is used by many federal agencies, including NASA
+and the Departments of Defense, Energy, Homeland Secur ity, Justice, and the Interior. It supports
+military use and training, specifically fixed line of sight (LOS) systems, drone vehicle control and
+telemetry, and mobile communications for law enforcement, drug interdiction, and nuclear
+emergency response act ivities.98 A 2016 NTIA report projected that use in the band would
+increase due to expanded unmanned aerial systems (UAS), or drone, operations.99 Since then,
+drone registrations, as well as market growth and government spending  related to drones ,100 has
+increased in the United States, which could drive demand for spectrum.
+Experts testifying before the Senate Committee on Commerce, Science, and Transportation in a
+February 2025 hearing stated that allies and adversaries are buil ding and using advanced drone
+capabilities (e.g., sensors on drones, videos on drones) and jamming technologies that rely on
+spectrum. Some reports indicate that the United States is falling behind in the manufacturing and
+testing of drones.101 Experts asse rt that the U.S. military requires access to spectrum across
+multiple bands for development, training, and operations of new technologies, including drones;
+they advocate for shared use of spectrum to open multiple bands for drone use.102
+Some Members have  raised questions about the impact of proposed reallocations on federal
+capabilities. Senator Cantwell, in a May 6, 2025, letter to Secretary of Defense Pete Hegseth,103
+discussed “the urgency to accelerate American investments in [drone] technologies and t he need
+to rapidly deploy this technology to compete with China’s military transformation to UAS,” and
+expressed concern about auctioning the band for commercial use; she asked Secretary Hegseth
+whether DOD could afford to lose access to the 4.4 GHz band.104
+Pacific Islands. Region 3 covers parts of Asia (Iran, China, India, and other nations), Australia, and Oceania. See FCC
+ITU Region s Map available at https://www.itu.int/ en/ITU-R/information/ Pages/ emergency -bands.aspx .
+97 ITU, “U.S. Contributions Sent to CITEL PCC.II (for WRC -27),” https://www.fcc.gov/ us-contributions -sent-citel-
+pccii -wrc-27-0 (see Agenda Item 1.7) .
+98 NTIA , Federal Spectrum Compendium , “4400 -4500 MHz, ” December 2015, https://www.ntia.gov/ files/ ntia/
+publications/ compendium/ 4400.00 -4500.00_01DEC15.pdf .
+99 NTIA, “Quantitative Assessments of Spectrum Usage,” November 2016 , p. 61, https://www.ntia.gov/ files/ ntia/
+publications/ ntia_quant_assessment_report -no_appendices.pdf .
+100 FAA, Compendium to FAA Aerospace Foreca st FY 2025 -2045 Emerging Aviation Entrants: Unmanned Aircraft
+System and Advanced Air Mobility , 2025, pp. 5 -6 (registration data), https://www .faa.gov/ data_research/ aviation/
+aerospace_forecasts/ 2025 -uas-and-aam-full-document.pdf ; and National Law Review, “U.S. Government’s Spending
+on Defense Contracts for Drones Leading to a Projected $47 Billion Market by 2032 (Market News Update),” press
+release, October 16, 2025, https://natlawreview.com/ press -releases/ us-governments -spending -defense -contracts -drones -
+leading -projected -47.
+101 William Lawson, “The United States Is Falling Behind in Drone Technology,” National Interest , July 22, 2025,
+https://nationalinter est.org/ blog/ buzz/ the-united -states -is-falling -behind -in-drone -technology -wl.
+102 Testimony of Bryan Clark, Senior Fellow, Hudson Institute, in U.S. Congress, Senate Committee on Commerce,
+Science, and Transportation, America Offline? How Spectrum Auction  Delays Give China the Edge and Cost Us Jobs ,
+hearing, 119th Cong., 1st sess., February 19, 2025, https://www.commerce.senate.gov/ services/ files/ E3003F22 -F4CE -
+439E -8B51 -B7F11B6D0432 .
+103 Letter from Sen. Maria Cantwell to Pete Hegseth, Secretary of Defense, May 6, 2025,
+https://www.commerce.senate.gov/ servic es/files/ 2B29105E -75BF -4D7B -B6B2 -7AEC58053698 . The Secretary of
+Defense is using “Secretary of War” as a “secondary title” under Executive Order 14347 of September 5, 2025 .
+104 U.S. Congress, Senate Committee on Commerce, Science, & Transportation, “Hegseth Dereliction in Defending
+DoD Spectrum from Land Grab Threatens National Security, Cantwell Warns,” press release, May 6, 2025,
+(continued...)
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   18 The December  2025 presidential memorandum directed the head of NTIA to immediately
+commence studies of the 4.4 -4.94 GHz band to determine whether portions of th at band could
+feasibly be reallocated for full -power commercial licensed use. Congress may be interested in
+NTIA’s progress on this analysis and whether NTIA has the resources needed to carry out the
+directives in P.L. 119 -21 and in the December 2025 presidential memorandum in the  mandated
+timelines.
+7.125-7.4 GHz
+P.L. 119 -21 calls for future study of the 7.125 -7.4 GHz band and preservation of the 7.4 -8.4 GHz
+band. Internationally, the broader 7/8 GHz band (7.125 -8.4 GHz) is emerging as a potential global
+band for 6G mobile servi ces.105 The ITU has called for studies of several bands, including the
+broader 7.125 -8.4 GHz band, for consideration at WRC -27. In the United States, NTIA has
+identified five bands for in -depth study in its NSS, including frequencies in the range of 7.125 -8.4
+GHz.106 NTIA is to lead the studies (e.g., set technical parameters and assumptions); agencies
+with equities in the band would co -lead the studies, using funds provided from the SRF. In its
+NSS Implementation Plan, NTIA provided a timeline for the 7.125 -8.4 GHz band study. This
+study is to examine the potential for (1) shared use, (2) reconfigured use of the band (e.g.,
+compressing federal operations into a smaller segment of the band), and (3) any other
+mechanisms to enable expanded use in the band.107 The final report is expected in October 2026.
+Some industry stakeholders, including some network equipment manufacturers, advocate for the
+7.125 -7.4 GHz and 7.4-8.4 GHz band s to be combined  to enable a large, contiguous band of
+spectrum for future 6G mobile  use.108 Others argue that the 7.125 -7.4 GHz band could be paired
+with the adjacent 6 GHz band —a band that was recently allocated for unlicensed use, which
+supports Wi -Fi and millions of connected devices —to expand Wi -Fi and other unlicensed uses.109
+There a re a variety of mission -critical federal operations in the 7.125 -7.4 GHz band, which
+presents challenges to repurposing it.110 In addition, there are federal operations in adjacent bands
+that rely exclusively on specific frequencies to collect atmospheric a nd oceanic data, which NTIA
+and agencies protect from interference. NTIA urges agencies to consider passive readings when
+contemplating future plans for the band.111
+https://www.commerce.senate.gov/ 2025/ 5/hegseth -dereliction -in-defending -dod-spectrum -from -land-grab-threatens -
+national -security -cantwell -warn s.
+105 Viet Nguyen, 5G Americas, “Unlocking the Power of the 7 -8 GHz Spectrum: A ‘Golden Band’ of 6G Innovation -
+5G Americas ,” October 7, 2024, https://www.5gamericas.org/ unlocking -the-power -of-the-7-8-ghz-spectrum -a-golden -
+band -of-6g-innovation/ .
+106 NTIA, National Spectrum Strategy , November 2023, p . 6.
+107 NTIA, National Spectrum Strategy Implementation Plan , March 2024, pp. A -9, A-10.
+108 Eliane Semaan et al. , “6G Spectrum —Enabling the Future Mobile Life Beyond 2030,” Ericsson, May 2024, p. 19,
+https://www.ericsson.com/ 49ac9c/ assets/local/ reports -papers/ white -papers/ 2024/ 6g-spectrum.pdf .
+109 Generally, unlicensed use pertains to radio frequencies (typically a band of frequencies) that are open to all users
+and all technologies provided the devices meet certain technical rules  established by the FCC, primarily to enable
+access to spectrum and avoid interference between users. Technologies such as Wi -Fi and Bluetooth use unlicensed
+spectrum; connected devices (e.g., smart home devices) may also rely on unlicensed spectrum to ope rate.
+110 FCC TAC, Advanced Spectrum Sharing Working Group, A Preliminary View of Spectrum Bands in the 7.125 -24
+GHz Range; and a Summary of Spectrum Sharing Frameworks , August 17, 2023, pp. 5 -7. See also NTIA, National
+Spectrum Strategy , November 2023, p. 6 .
+111 NTIA, “5925 -7125 MHz,” in Federal Spectrum Compendium , August 9, 2017, p. 2, https://www.ntia.gov/ files/ ntia/
+publications/ compendium/ 5925.00 -7125.0_mhz_aug_9_2017_final.pdf  (noting “in the band 7025 -7250 MHz, passive
+microwave sensor measurements are carried out. Administrations should bear in mind the needs of the Earth
+(continued...)
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   19 The December  2025 presidential memorandum directs the head of NTIA  and White House staff,
+including the Assistant to the President for Economic Policy and the Assistant to the President for
+Science and Technology, to immediately commence studies in consultation with federal
+incumbent users with operations in the  7.125 -7.4 GH z range to determine how to relocate their
+affected systems to other frequencies, including 7.4 -8.4 GHz. The memorandum directs the head
+of NTIA, no later than December 2026, to submit to the President, through the Assistant to the
+President for Economic P olicy, the Assistant to the President for Science and Technology, and the
+Assistant to the President for National Security Affairs, results of the studies of the 7.125 -7.4
+GHz band, including estimated transition costs and timelines. The memorandum require s that the
+results demonstrate how such relocation of systems “will not materially impair the national
+security missions or electric grid operations that occur in the 7.125 -7.4 GHz band, as identified by
+the Secretary of War and the Director of National In telligence.”112
+The specific directives and increased involvement of the White House may prioritize and focus
+NTIA efforts on the 7.125 -7.4 GHz band and position the United States to lead in developing this
+band for 6G. On the other hand, technical analysis  of spectrum bands is complex and requires
+interagency coordination, careful planning, thorough testing across multiple agencies, and time.
+The expedited timelines and increased involvement of the White House and DOD may add
+complexity and time to this ana lysis. Congress may be interested in NTIA capabilities to expedite
+these spectrum studies, identify and reallocate 500 megahertz of spectrum as directed in P.L. 119 -
+21, prepare for WRC -27, implement the NSS, and complete the spectrum valuation report. A
+question may be whether NTIA and federal agencies have the resources needed to immediately
+undertake and complete these studies by the statutory deadlines in P.L. 119 -21.
+Other Bands Under Consideration for Reallocation and Auction
+To meet requirements in P.L. 119 -21, the FCC and NTIA may consider other bands for
+reallocation and auction. Some bands have been named in previous legislation. Other bands have
+been under study by agencies or industry for potential for reallocation. Some bands have been
+identified in the NSS. Others are under consideration globally for future mobile use. Below is a
+selection of bands under consideration by other entities, which the FCC and NTIA may consider
+as they strive to meet reallocation mandates in P.L. 119 -21.
+1.3-1.35 GHz
+In a Ma rch 2025 proposal, DOD suggested that it could vacate its systems from the 1.3 -1.35 GHz
+band to provide 50 megahertz of spectrum for mobile services.113 Congress had been considering
+reallocation and auction of the Lower 3 GHz band; DOD offered alternative proposals, which
+included reallocation and auction of several other bands, including the 1.3 -1.35 GHz band.
+The band has been under study for several years, pursuant to the Spectrum Pipeline Act of 2015
+(P.L. 114 -74, Title X ), which directed the Secretary of Commerce to identify, by January 1, 2022,
+exploration -satellite (passive) and space research (passive) services in their future planning of the bands 6425 -7025
+MHz and 7025 -7250 MHz.”)
+112 White House, “Winning the 6G Race,” presidential memorandum, December 19, 2025,
+https://www.whitehouse.gov/ presidential -actions/ 2025/ 12/national -security -presidential -memorandum -nspm -8-0bda/ .
+The Secretary of Defense is using a secondary “Secret ary of War” designation under Executive Order 14347  of
+September 5, 2025 .
+113 See “DOD Spectrum Proposal,” March 25, 2025, which can be acces sed via Jimm Phillips and Howard Buskirk,
+“DOD Floats Vacating 420 MHz of Spectrum for Auction but Retaining Lower  3 GHz Band,” Communications Daily ,
+April 7, 2025, https://communi cationsdaily.com/ search/ view? search_id= 42437  (link requires paid subscription).
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   20 30 megahertz of spectrum below 3 GHz for reallocation from federal to (1) nonfederal use , (2)
+shared fe deral and nonfederal use , or (3) a combination thereof.114 The act directs the President to
+clear the band (i.e., withdraw or modify the federal frequency assignments) no later than January
+1, 2022, and for the FCC to begin, by July 1, 2024, an auction of t he 30 megahertz below 3
+GHz.115
+Several bands were targeted for study by NTIA and federal agencies, including the 1.3 -1.35 GHz
+band. The band is used by the FAA, DOD, and the Department of Homeland Security  for long -
+range radar systems for air surveillance to conduct air traffic control, border surveillance, early
+warning missile detection, and more.116 In 2017, the agencies jointly proposed studies to
+determine the feasibility of developing a joint national aircraft, weather, and homeland security
+surveillan ce system, potentially vacating these long -range air surveillance systems from the 1.3 -
+1.35 GHz band.117
+The agencies received funding from the SRF to study the feasibility of reallocating or sharing
+spectrum in 1.3 -1.35 GHz band and to recover costs assoc iated with sharing or relocating
+systems.118 Separately, DOD received funding from the SRF to assess the potential for sharing
+with commercial users, as some of their systems were expected to remain in the band.119 Per
+NTIA, the studies were expected to be c ompleted by 2021, in time for a repurposing decision by
+January 2022 and an auction by July 2024.120 However, in its 2023 Annual Report on the Status of
+Spectrum Repurposing  and Other Initiatives , NTIA stated that, after such studies, agencies had
+significant concerns about the impact of repurposing the band on radar systems operating in the
+1.3-1.35 GHz band.121 NTIA no ted that it would continue to work with federal stakeholders to
+identify 30 megahertz for commercial use, as mandated in P.L. 114 -74.
+Globally, the band is used for the same purpose —long-range radar systems to monitor
+commercial aircraft. In 2019, the 1.3 -1.35 GHz band was proposed for future studies to determine
+whether it could accommodate mobile use.122 In 2023, several entities, i ncluding the International
+Civil Aviation Organization —a specialized agency of the United Nations that promotes safety,
+regularity, and efficiency in global air transit —opposed future studies in the band. It stated that
+114 P.L. 114 -74, Title X. (The act excludes the 1 ,675-1,695 MHz band from auction.)
+115 P.L. 114 -74, Title X, §1007. The act extended the FCC’s auction authority for this 30-megahertz segment through
+September 30, 2025 . For more information, see CRS Report R47258, FCC Spectrum Auction Authority: Background
+and Proposals for Extension , by Jill C. Gallagher and Patricia Moloney Figliola .
+116 NTIA, Annual Report on the Status of Spectrum Repurposing and Other Initiatives , March 2023, p. 14,
+https://www.ntia.gov/ sites/ default/ files/ publications/ annual_spectrum_repurposing_initiatives_report_final.pdf .
+117 DOT Office of Inspector General, FAA Has Taken Steps to Advance the SENSR Program, but Opportunities and
+Risks Remain , April 23, 2019,  p. 4, https://www.oig.dot.gov/ sites/ default/ files/
+FAA%20SENSR%20Program%20Final%20Report%5E04 -23-19.pdf ; and  NTIA, Second Annual Report o n the Status
+of Spectrum Repurposing , December 2020, p. 14, https://www.ntia.gov/ files/ ntia/publications/
+second_annual_ntia_spectrum_repurpo sing_report.pdf .
+118 NTIA, Annual Report on the Status of Spectrum Repurposing , August 2019, p. 13, https://www.ntia.gov/ files/ ntia/
+publication s/second_annual_ntia_spectrum_repurposing_report.pdf . The SRF is codified at 47 U.S.C. §928.
+119 NTIA, Annual Report on the Status of Spectrum Repurposing and Other Initiatives , March 2023, p. 21.
+120 NTIA, Annual Report on the Status of Spectrum Repurposing , August 2019, pp. 13 -14.
+121 NTIA, Annual Report on the Status of Spectrum Repurposing and Other Initiatives , March 2023, p. 21.
+122 Resolution 250 of WRC -19 called for global studies of 1.3 -1.35 GHz. See ITU, “ITU -R Preliminary Studies for
+WRC -27 (Agenda It em 2.9),” https://www.itu.int/ en/ITU-R/study -groups/ rcpm/ Pages/ wrc-27-preliminary -studies.aspx .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   21 past studies have not shown the pote ntial for compatibility of mobile services in the band, nor are
+alternative radio frequencies available to support these radar systems.123
+In March 2025, as Congress contemplated the reallocation and auction of the Lower 3 GHz band,
+DOD proposed vacating i ts radar systems from the 1.3 -1.35 GHz band.124 Vacating the band
+could make up to 50 megahertz of spectrum available for commercial use; however, some have
+raised concerns about the impact mobile services may have on other systems and agencies
+operating in  the band. In a May 12, 2025, letter to Secretary of Transportation Sean Duffy,
+Senator Maria Cantwell, Ranking Member of the Senate Committee on Commerce, Science, and
+Transportation, noted that DOD had proposed spectrum for mobile use where FAA radars op erate .
+She also  asked about the impact of such reallocation on FAA systems and safety, and whether
+DOD had coordinated with the FAA on this proposal.125
+If the 1.3 -1.35 GHz band is identified for reallocation and auction, Congress may seek
+information on p otential impacts to federal systems operating in the band and adjacent bands.126
+1.78-1.85 GHz
+In May 2025, DOD suggested that it could vacate its systems from the 1.78 -1.85 GHz band. This
+could make 50 megahertz of spectrum available for mobile services; however, there are other
+agencies operating in the band —some of which were relocated from the 1.755 -1.780 GHz band
+prior to its auction in 2015.
+Prior to 2015, the broader band —1.755 -1.850 GHz —was used by more than 20 federal agencies,
+including DOD, the National Park Service, the U.S. Geological Survey, Bonneville Power
+Administration, and NASA, for a variety of uses.127 Starting in 2010, the band was identified for
+123 International Civil Aviation Organization  (ICAO) , “Updated ICAO Position for the ITU WRC -23,” July 19, 2023,
+https://www.icao.int/ sites/ default/ files/ FSMP/ SL.2023.60.english.pdf . (ICAO urged its members to participate in their
+nations spectrum discussions and delegations to international meetings to ensure their positions reflect aviation needs,
+including on the 1.3 -1.35 band , where proposals to use the band for mobile services could cause harmful  interference to
+incumbent radar systems.)  European Conference of Postal and Telecommunications Administration (CEPT), “CEPT
+Electronic Communications Committee, Status of CEPT Preparation for WRC -23,” September 22, 2023, p. 74,
+https://www.itu.int/ en/ITU-R/conferences/ wrc/2023/ Documents/ 2023 -09-
+22%20Status%20of%20CEPT%20prep aration%20for%20WRC -
+23%20%2822%20September%202023%29rev%201.pdf . (CEPT coordinates spectrum use in Europe and did not
+support study of the 1.3 -1.35 GHz band in 2023.)
+124 See “DOD Spectrum Proposal,” March 25, 2025, which can be accessed via Jimm Phillips an d Howard Buskirk,
+“DOD Floats Vacating 420 MHz of Spectrum for Auction but Retaining Lower  3 GHz Band,” Communications Daily ,
+April 7, 2025, https://communicationsdaily.com/ search /view? search_id= 42437  (link requires paid subscription).
+125 Letter from Sen. Maria Cantwell to Sean Duffy, Secretary of Transportation, May 12, 2025,
+https://www.commerce.senate.gov/ services/ files/ 17240991 -C943 -48C7 -A51B -7B836736A5A1 .
+126 NTIA, Annual Report on the Status of Spectrum Repurposing and Other Initiatives , March 2023,
+https://www.ntia.gov/ sites/ default/ files/ publications/ annual_spectrum_repurposing_initiatives_report_final.pdf . In this
+report , NTIA notes concerns about reallocation of the band from the National Scie nce Foundation and the impact of
+mobile services on radio astronomy services operating in the band and on passive remote sensing (reading of natural
+radio signals for earth observations) in the nearby 1,400 -1,427 MHz band.
+127 NTIA, Commercial Spectrum Enhancement Act : Annual Progress Report for 2023 , September 2024, p. 13,
+https://www.ntia.gov/ sites/ default/ files/ 2024 -10/2023 -csea-report.pdf ; and 5G Ameri cas, Mid-Band Spectrum Update ,
+March 2023, p. 6, https://www.5gamericas.org/ wp-content/ uploads/ 2023/ 03/Mid-Band -Spectrum -Update -2023 -Id.pdf .
+(Uses include fixed point -to-point microwave, military tactical radio, air combat training systems, precision -guided
+munitions, law enforcement mobile video surveillance, telemetry training for federal space systems, air -to-ground
+telemetry, unmanned aerial s ystems , and more .)
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   22 potential reallocation to mobile use by the FCC and NTIA.128 In 2015, the Lower segment (1.7 55-
+1.780 GHz) was reallocated for advanced wireless services (e.g., mobile services) and
+auctioned.129 Certain federal systems were to remain in the band with the spectrum shared
+between federal and nonfederal users; other systems were relocated to other ba nds or
+reconfigured to operate only in the upper segment of the band (1.780 -1.850 GHz).130 The total
+sharing and relocation costs, which were covered by the auction, were over $4.5 billion,131 and
+the transition took about 10 years to complete.132
+In 2017, a report prepared for CTIA —the wireless industry association —discussed potential
+reallocation of the 1.78 -1.85 GHz band for shared  commercial and federal use, with coordination
+zones to protect federal operations from any interference from 5G oper ations.133 Most recently,
+DOD proposed vacating  its systems from several spectrum bands, including 1.78 -1.85 GHz, to
+make 50 megahertz available for commercial wireless use.134
+Reallocating and auctioning the band could fulfill spectrum mandates in P.L. 119 -21, and
+proceeds could help to meet budgetary goals. However, some Members of Congress have raised
+concerns about reallocating the 1.78 -1.85 GHz band for commercial use. In particular, Senator
+Cantwell, in a May 6, 2025, letter to Secretary of Defense Pe te Hegseth, expressed concern
+regarding DOD’s proposal to reallocate and auction certain bands where other agencies also have
+systems operating in the band. Senator Cantwell stated the need to “understand the full
+consequences” to all agencies before spect rum is reallocated and auctioned.135 In addition, in a
+May 12, 2025, letter to Secretary of Transportation Sean Duffy, Senator Cantwell asked whether
+DOT had evaluated the potential interference to aviation telemetry and whether DOT was
+consulted before DOD  identified the 1.78 -1.85 GHz band for reallocation.136 If the band is
+selected for reallocation, Congress may seek to assess the costs, benefits, and timelines for
+reallocation and any impacts reallocation may have on federal systems operating in the band.
+128 FCC, Connecting America: The National Broadband Plan , March 17, 2010, pp. 86 -87, 96 -97,
+https://transition.fcc.gov/ national -broadband -plan/national -broadband -plan.pdf ; and NTIA, Plan and Timetable to
+Make Available 500 Megahertz of Spectrum for Wireless Broadband , October 2010, p. 7, https://www.ntia.gov/ files/
+ntia/publications/ tenyearplan_11152010.pdf .
+129 FCC, “Auction 97: Advanced Wireless Services (AWS -3),” https://www.fcc.gov/ auction/ 97.
+130 NTIA, “1755 -1850 MHz,” December 1, 2015, https://www.ntia.gov/ files/ ntia/publications/ compendium/ 1755.00 -
+1850.00_01DEC15.pdf . For affected agencies, see FCC, “The Federal Communications Commission and the National
+Telecommunications and Information Administration: Coordination Procedures in the 1695 -1710 MHz and 1755 -1780
+MHz Bands (GN -Docket No. 13 -185),” public notice, July 18,  2014, pp. 3 -4, https://docs.fcc.gov/ public/ attachments/
+DA-14-1023A1.pdf .
+131 FCC, “Auction of Advanced Wireless Services (AWS -3) Licenses Scheduled for November 13, 2014,” public
+notice, July 23, 2014, p. 16 (paras. 39 -41), https://docs.fcc.gov/ public/ attachments/ DA-14-1018A1.pdf . Sharing and
+relocation costs were funded through AWS -3 spectrum auction proceed s, which yielded over $42 billion.
+132 NTIA, Commercial Spectrum Enhancement Act : Annual Progress Report for 2023 , September 2024, p. 13.
+133 Coleman Bazelon, “The Next Wave of Spectrum Reallocation: The Value of Additional Mid -Band Spectrum
+Reallocations ,” Brattle Group  (prepared for CTIA), November 14, 2017, p. 5, https://docs.house.gov/ meetings/ IF/IF16/
+20171116/ 106636/ HHRG -115-IF16 -20171116 -SD005 -U5.pdf .
+134 See “DOD Spectrum Proposal,” March 25, 2025, which can be accessed via Jimm Phillips and Howard Buskirk,
+“DOD Floats Vacating  420 MHz of Spectrum for Auction but Retaining Lower  3 GHz Band,” Communications Daily ,
+April 7, 2025, https://communicationsdaily.com/ search/ view? search_id= 42437  (link require s paid subscription).
+135 Letter from Sen. Maria Cantwell to Pete Hegseth, Secretary of Defense, May 6, 2025,
+https://www.commerce.senate.gov/ services/ files/2B29105E -75BF -4D7B -B6B2 -7AEC58053698 .
+136 Letter from Sen. Maria Cantwell to Sean Duffy, Secretary of Transportation, May 12, 2025,
+https://www.commerce.s enate.gov/ services/ files/ 17240991 -C943 -48C7 -A51B -7B836736A5A1 .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   23 3.55-3.7 GHz
+The 3.55 -3.7 GHz band (CBRS) is allocat ed for shared federal and nonfederal use. For this band,
+the FCC created a three -tiered access and authorization framework to allow federal users priority
+access and protection from interference, while also allowing some licensed and unlicensed
+commercial use, coordinated through a third -party -managed spectrum access system (SAS).
+Licenses were auctioned in August 2020, yielding about $4.5 billion. Views on usage of this band
+vary. CTIA asserted in 2023 that the band is underutilized.137 In November 2024, NT IA reported
+on increased usage and deployment in the band, including in rural areas.138
+In May 2025, as Congress considered various bands for reallocation as part of the reconciliation
+process, DOD was reportedly contemplating a spectrum plan that supported  a proposal initiated
+by AT&T that would move low -power CBRS (Tier III) users to the Lower 3 GHz band to share
+with DOD systems.139 The intent would be to reauction the 3.55 -3.7 GHz band for exclusive,
+high-power 5G mobile use. Mobile network operators supp ort the proposal;140 CBRS users who
+have invested in the band oppose the plan.141
+Federated Wireless, a SAS provider, asserted in an August 2025 filing to the FCC that the CBRS
+federal/nonfederal sharing model has been a success. With over 400,000 deployed C BRS devices,
+more than 1,200 different network operators, more than 1,000 certified device types, over 2
+million consumer devices operating in the band, and no reports of interference to incumbent
+users, CBRS has exceeded goals for sharing in the band, acc ording to the company.142 WISPA, an
+organization that advocates for internet service providers, stated that it relies on CBRS to provide
+broadband service to thousands of end users, many in rural regions. It argued that changes in use
+(allowing for increase d power levels and expanding Tier II areas) or forcing relocation would
+require operators either to use existing equipment in a smaller service area (reducing customers)
+or to invest in higher -power equipment (costing them money).143 WISPA argued that chang ing the
+rules “would strand investment, chill innovation, and impose costs” and affect rural areas.144
+While the CBRS band was not excluded from reallocation and auction in P.L. 119 -21, there is
+some interest in Congress in preserving the band for its exi sting use. In September 2025, 10
+Republican Senators wrote FCC Chairman Brendan Carr urging the Commission to preserve
+137 CTIA, “ CTIA  Comments  on NTIA  CBRS  Data  Report ,” May 31, 2023, https://www.ctia.org/ positions/ documents/
+ctia-comments -on-ntia-cbrs-data-report .
+138 NTIA, “ NTIA Submits Comments on ITS CBRS Usage Report ,” November 18, 2024, https://www.ntia.gov/ fcc-
+filing/ 2024/ ntia-submits -comments -its-cbrs-usage -report .
+139 Low-power systems enable many users to share the same spectrum, offering specialized services in localized areas
+at lower power levels to avoid interference among users. Rhonda Johnson, “Ten Years Later: A New Vision for the 3
+GHz Band,” AT&T Connects  (blog), October 9, 2024, https://www.attconnects.com/ ten-years -later-a-new-vision -for-
+the-3-ghz-band/ ; and Mike Dano, “D oD Reportedly Enlists in AT&T’s Plan to Blow Up CBRS,” Light Reading , May
+1, 2025, https://www.lightreading.com/ 5g/dod-reportedly -enlists -in-at-t-s-plan-to-blow -up-cbrs-band .
+140 Letter from Thomas C. Power, S enior Vice President and General Counsel, CTIA, to Char les Cooper, Acting
+Director, Institute for Telecommunication Sciences, NTIA, May 31, 2023, https://its.ntia.gov/ media/ yz2dhhjd/ ctia-
+comments -on-ntia-tr-23-567.pdf .
+141 Monica Alleven, “DoD’s Latest Spectrum Proposal Is Not Good for CBRS,” Fierce Wireless , May 1, 2025,
+https://www.fierce -network.com/ wireless/ dods -latest -spectrum -proposal -not-looking -good -cbrs.
+142 Letter from Kurt Schaubach, Chief Technology Officer,  Federated Wireless, to Marlene H. Dortch, Secretary, FCC,
+June 9, 2025, https://www.fcc.gov/ ecfs/ document/ 10609032926080/ 1.
+143 Letter from David Zumwalt, President & CEO, WISPA , to Mar lene H. Dortch, Secretary, FCC, July 25, 2025,
+https://www.fcc.gov/ ecfs/ document/ 10725886504287/ 1.
+144 Letter from David Zumwalt, President & CEO, WISPA , to Marlene H. Dortch, Secretary,  FCC, July 14, 2025,
+https://www.fcc.gov/ ecfs/ document/ 10714036520689/ 1.
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   24 existing operations in the CBRS band, to protect rural broadband services and Wi -Fi access, and
+to support small business investments in the band, competition, and innovation.145
+In an alternative proposal, DOD suggested that it could vacate its (Navy) radars from the CBRS
+band to make 100 megahertz of spectrum available for commercial wireless use via auction.146
+This proposal raised concern s among some policymakers. In a May 6, 2025, letter to Secretary of
+Defense Pete Hegseth, Senator Cantwell raised concerns about recent DOD spectrum proposals
+and asked the Secretary whether relocating Navy systems from the CBRS band could disrupt
+DOD dete ction and response capabilities.147 While relocating Navy radars from the CBRS band
+could free spectrum for commercial wireless use, it could also affect DOD systems and
+capabilities and incumbent users operating in the Lower 3 GHz band, and could present
+significant costs.
+The CBRS band falls within the 1.3 -10.5 GHz range targeted for relocation and auction in P.L.
+119-21. Options proposed for the band affect users differentl y. A challenge for the spectrum
+management agencies is that there are competing pressures. There are mandated spectrum targets
+and timelines in the act, a limited amount of spectrum available in the range specified, and
+pressures from Congress to leave the  CBRS band intact, due to U.S. security and economic
+interests.148 As demand for spectrum increases, Congress may seek to review spectrum holdings,
+assess spectrum demand, and examine leading and innovative sharing models that promote more
+efficient spectru m use.
+5.925-7.125 GHz
+The 6 GHz band (5.925 -7.125 GHz) has some licensed users (e.g., utilities, commercial and
+private entities, public safety agencies) who use the frequencies mainly to transmit data between
+wireless networks and wireline networks where  fiber installation may be challenging. Some
+broadcasting entities use the band to transmit programming from remote locations and special
+events, and others use the band to provide satellite services.
+In 2020, the FCC adopted rules to also permit unlicense d use in the band. The FCC allows low -
+power access points to enable Wi -Fi connections, as well as standard -power access points that
+could enable wireless service providers, in coordination with other users, to extend their network
+coverage and capacity.149 The band —1,200 megahertz of spectrum —enabled expansive use of
+connected devices, meaning that entities could access and use the band without a license (for
+free), provided that their equipment complies with Wi -Fi 6E standards and FCC terms and
+conditions designed to avoid interference among users. The band is used heavily for Wi -Fi
+services and connected devices; an ecosystem of devices that can operate in the band is emerging
+(e.g., laptops, smartphones, surveillance cameras).
+145 Letter from Sen. Steve Daines et al. to Brendan Carr, FCC Chairman, September 10, 2025,
+https://spectrumfuture.com/ wp-content/ uploads/ 2025/ 09/FILE_1767.pdf .
+146 See “DOD Spectrum Proposal,” March 25, 2025, which can be accessed via Jimm Phillips and Howard Buskirk,
+“DOD Floats  Vacating 420 MHz of Spectrum for Auction but Retaining Lower  3 GHz Band,” Communications Daily ,
+April 7, 2025, https://communicationsdaily.com/ search/ view? search_id= 42437  (link requires paid subscription).
+147 Letter from Sen. Maria Cantwell to Pete Hegseth, Secretary of Defense, May 6, 2025,
+https://www.commerce.senate.gov/ servic es/files/ 2B29105E -75BF -4D7B -B6B2 -7AEC58053698 .
+148 Monica Alleven, “DoD’s Latest Spectrum Proposal Is Not Good for CBRS,” Fierce Wireless , May 1, 2025,
+https://www.fierce -network.com/ wireless/ dods -latest -spectrum -proposal -not-looking -good -cbrs.
+149 FCC, “Unlicensed Use of the 6 GHz Band,” 85  Federal Register  31390, May 26, 2020.
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   25 Some wireless service provi ders have petitioned the FCC for changes to allow for higher -power
+use in the 6 GHz band or to allow for licensed use of the band to accommodate 5G services.150
+They argue that demand for wireless services is increasing; portions of both bands were
+designat ed globally for 5G use; “dozens of nations,” including China, have made licensed
+spectrum in these bands available; and the failure to allocate these bands for mobile use hinders
+development of equipment by U.S. manufacturers —equipment that could be market ed globally,
+benefitting U.S. companies and the economy.151
+Wi-Fi stakeholders (e.g., cable companies, manufacturers, and Big Tech, such as Apple,
+Facebook, and Google) have opposed these requests to allow for licensed use and have pressed
+for more spectru m for Wi -Fi.152 They argue that unlicensed use in the 6 GHz band has spurred
+innovation and economic growth, and point to a recent study commissioned by a Wi -Fi industry
+organization f inding that  allocation of the 6 GHz band generated an estimated $870 bill ion in
+economic value by 2024; that value is projected to increase to $1.2 trillion by 2027.153
+Some versions of H.R. 1 , the bill that became P.L. 119 -21, would have excluded the 6 GHz band
+from reallocation and auction.154 Options for Congress include reallocating all or a portion of the
+6 GHz band for commercial li censed use to align with international allocations; leaving the 6
+GHz band as it is, protecting unlicensed use; or expanding unlicensed use by allocating the
+adjacent 7.125 -7.4 GHz band for unlicensed use.
+Auction Proceeds
+Estimating proceeds from spectru m auctions is challenging. Potential auction proceeds are driven
+by the terms of the auction (e.g., the bands auctioned, the amount of spectrum auctioned,
+restrictions on use, licensing terms, and private sector demand). Proceeds are also driven by costs,
+including relocation costs, and provisions to allocate proceeds to specific programs or purposes.
+Below is a discussion of projected auction proceeds under P.L. 119 -21.
+150 Verizon, Verizon Petition for Reconsideration  Before the F ederal Communications Commission  in the Matter of
+Unlicensed Use of the 6 GHz Band (ET Docket No. 18 -295) and Expanding Flexible Use in Mid -Band Spectrum
+Between 3.7 and 24 GHz (GN Docket No. 17 -183), June 25, 2020, pp. 1 -2, https://www.fcc.gov/ ecfs/ document/
+106252747102489/ 1.
+151 Verizon, Comments of Verizon Before the U.S. Department of Commerce National Telecommunications and
+Information Administration in the Matter of Development of N ational Spectrum Strategy (Docket No. NTIA -2023 -
+0003) , April 17, 2023, pp. 17 -18, https://www.ntia.doc.gov/ sites/ default/ files/ publications/ verizon.pdf ; and AT&T,
+Comments of AT&T Services, Inc. on a National Spectrum Strategy , n.d., pp. 14 -15, https://www.ntia.gov/ sites/ default/
+files/ publications/ at_t_0.pdf .
+152 Adrian Potoroaca, “App le, Google and Others Want the FCC to Approve Unlicensed Use of 6 GHz Wi -Fi Band,”
+TechSpot , July 29, 2019, https://www.techspot.com/ news/ 81184 -apple-google -others -want -fcc-approve -unlicensed -
+use.html ; and Verizon, Comments of Verizon Before the U.S. Department of Commerce National Telecommunications
+and Information Administration  in the Matter of Development of National Spectrum Strategy  (Docket N o. NTIA -2023 -
+0003) , April 17, 2023, pp. 17 -18, https://www.ntia.doc.gov/ sites/ default/ files/ publications/ verizon.pdf .
+153 Raul Katz et al., Assessing the Economic Valu e of Wi -Fi in the United States , Telecom Advisory Services, LLC,
+September 2024, pp. 7 -8, https://wififorward.org/ wp-content/ uploads/ 2024/ 09/Assessing -the-Economic -Value -of-Wi-
+Fi.pdf . (The report cites value in such things as profits from production of Wi -Fi equipment, Wi -Fi services sold for a
+fee, and savings to consumers for using Wi -Fi.)
+154 For more information, see CRS Report R48559, Proposed Spectrum Provisions in the House Reconciliation Bill
+(H.R. 1) , by Jill C. Gallagher .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   26 CBO Estimates of Auction Proceeds
+CBO estimated that the auctions prescribed in P.L. 119 -21 would generate $85 billion in
+offsetting receipts from FY2025 to FY2034.155 Estimates of auction proceeds are driven by
+several factors: the bands auctioned, the terms  of use, and funds needed to cover federal
+relocation or sharing costs, among other things. CBO explains that it has in some cases
+overestimated receipts from spectrum auctions and in other cases underestimated receipts due to
+uncertainties surrounding auc tions, such as fluctuations in market conditions, changes in
+technologies that could drive demand and interest in auctions, and the financial and strategic
+interests of individual wireless companies.156 Other factors can affect projections of spectrum
+recei pts: uncertainties around the quantity of spectrum that will be available for auction, exact
+bands to be auctioned, costs to relocate incumbent users, and decisions on auction design157 that
+are often made by the FCC after the legislation has passed and CBO  has completed its estimate.
+In P.L. 119 -21, Congress has addressed some of these uncertainties. It restored the FCC’s auction
+authority for the long term, identified specific bands for auction (mainly in the mid -band and
+Upper mid -band ranges) and spec ific quantities of spectrum, mandated full -power commercial
+licensed use, and set timelines for auctions. The act requires NTIA, in its analysis of spectrum
+bands, to identify the best approach to maximize net proceeds. Congress may defer to the FCC
+and NT IA to coordinate on spectrum identification. Congress could also exercise its oversight
+authorities (1) to monitor progress on spectrum identification and reallocation, auction design,
+and implementation and (2) to ensure auction design maximizes proceeds,  that auctions are on
+schedule, and that actual receipts meet budgetary goals established in P.L. 119 -21.
+Treatment of Proceeds
+By law, proceeds from spectrum auctions are to be used to cover FCC costs of conducting the
+auction158 and federal agency rel ocation and sharing costs associated with the auction(s);159
+remaining funds are to be deposited into the General Fund of the U.S. Treasury and are to be used
+to reduce the deficit,160 unless otherwise specified by Congress. By law, auction proceeds are to
+cover 110% of federal relocation or sharing costs; the FCC cannot conclude, and must cancel, the
+auction if the auction proceeds are less than 110% of the federal relocation or sharing costs.161
+In previous spectrum legislation, Congress has designated a po rtion of the proceeds for public
+interest programs, such as public safety communication systems to improve interoperability
+among agencies and improvements to local 911 centers, and for spectrum research, such as
+advanced spectrum -sharing technologies and approaches (e.g., see P.L. 112 -96, Title VI). Recent
+155 CBO, “Table 4. Estimated Budgetary Effects of  Public Law 119 -21, to Provide for Reconciliation Pursuant to Tit le
+II of H. Con. Res. 14 , Relative to the Budget Enforcement Baseline for Consideration in the Senate, Title IV,
+Committee on Commerce, Science, and Transportation, As Enacted on July 4, 2025,” July 21, 2025,
+https://view.officeapps.live.com/ op/view.aspx? src=https%3A%2F%2Fwww.cbo.gov%2Fsystem%2Ffiles%2F2025 -
+07%2F61569 -pl119 -21-2025 Recon -BEB.xlsx& wdOrigin= BROWSELINK .
+156 Doug Elendorf, “The Accuracy of CBO’s Budget Projection,” CBO (blog), March 25, 2013, https://www.cbo.gov/
+publication/ 44017 .
+157 Roger Entner, “Lessons from Spectrum Auctions: Entner,” Fierce Network , February 11, 2021, https://www.fierce -
+networ k.com/ regulatory/ lessons -from -spectrum -auctions -entner . (Experts assert that auction design —granting
+exclusive use in larger license areas, offering unencumbered spectrum [already cleared, or without incumbents ], and
+enabling access to contiguous bands h ave, in the past, driven spectrum price and proceeds. )
+158 47 U.S.C. §309(j)(8)(B).
+159 47 U.S.C. §309(j)(3)(F).
+160 47 U.S.C. §309(j)(8).
+161 47 U.S.C. §309(j)(16).
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   27 spectrum bills reflected the same approach —allocating proceeds to spectrum -sharing research,
+next generation 911 improvements, and broadband deployment programs, for example.162 P.L.
+119-21 does not i nclude funding for public interest programs. While some Members proposed
+amendments that would have directed some spectrum auction proceeds to public safety,
+cybersecurity, and broadband affordability, the measures were defeated.163
+Spectrum auctions have generated over $233 billion in receipts for the U.S. government since
+they began in 1994.164 Some Members seek to dedicate the revenues from the sale of this public
+resource entirely to deficit reduction, while others argue that auction proceeds provide a means to
+upgrade public safety systems, invest in spectrum research, or fund other public in terest
+programs. In P.L. 119 -21, proceeds are dedicated entirely to deficit reduction.
+Timelines
+Another issue for Congress is whether the FCC can complete the auctions and activities in the
+timelines given in the act and expedited in the December 2025 presidential memorandum.
+Specifically, w ithin two years of enactment ( by July 2027), the FCC is to complete an auction of
+at least 100 megahertz in the Upper C -band (3.98 -4.2 GHz). The FCC has started the process,
+issuing an NOI in February 2025 and a n NPRM in November 2025. In comparison, the auction
+on the Lower C -band (3.7 -3.98 GHz) occurred about three years after it was directed by law.165
+However, the development of altimeter standards in the 4.2 -4.4 GHz band, which may affect the
+terms of spectrum us e in the Upper C -band, are ongoing and could affect the auction timeline.
+Per P.L. 119 -21, NTIA is to identify the remaining spectrum within four years of enactment ( by
+July 2029), and the FCC is to auction that spectrum within eight years of enactment (by July
+2033). The December 2025 presidential memorandum expedited these activities, requiring that
+the head of NTIA immediately begin the process of identifying the 7.125 -7.4 GHz band for
+reallocation for full -power commercial licensed use. The president ial memorandum directs the
+head of NTIA, in consultation with the White House —specifically, the Assistant to the President
+for Economic Policy and the Assistant to the President for Science and Technology —to
+immediately commence studies of the 7.125 -7.4 GH z band. Further, NTIA, in consultation with
+federal incumbents operating in the 7.125 -7.4 GHz band, is to determine how to relocate federal
+systems to other frequencies, including 7.4 -8.4 GHz. That study is to be submitted to the
+President, through the Ass istant to the President for Economic Policy, the Assistant to the
+President for Science and Technology, and the Assistant to the President for National Security
+Affairs, within 12 months of the presidential memorandum ( by December 19, 2026). The study is
+to also demonstrate how such relocation of systems “will not materially impair the national
+security missions or electric grid operations that occur in the 7.125 -7.4 GHz band, as identified by
+the Secretary of War and the Director of National Intelligence.”166 While the NSS Implementation
+Plan set October 2026 as the deadline  for the final  report, additional considerations in the
+162 For example, see H.R.  7624  in the 117th Congress and H.R. 3565  in the 118th Congress.
+163 Jericho Casper, “ House Commerce Advances $88 Billion Spectrum Auction Plan, Turning Back Amendments ,”
+Broadband Breakfast , May 14, 2025, https://broadbandbreakfast.com/ house -commerce -advances -88-billion -spectrum -
+auction -plan-turning-back -amendments/ .
+164 FCC, “Chairwoman Rosenworcel Statement on the Expiration of FCC Spectrum Auction Authority,” press release,
+March 10, 2023, https://docs.fcc.gov/ public/ attachments/ DOC -391576A1.pdf .
+165 MOBILE NOW Act, P.L. 115 -141, Division P, Title VI, §§601 et seq. The MOBILE NOW Act became law on
+March 23, 2018.
+166 White House, “Winning  the 6G Race,” presidential memorandum, December 19, 2025 ,
+https://www.whitehouse.gov/ presidential -actions/ 2025/ 12/national -security -presidential -memorandum -nspm -8-0bda/ .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   28 presidential memorandum (e.g., consult ing with the White House ; designating the band for full -
+power commercial licensed use ; assess ing impairment to the grid) may affect the study’s timeline.
+As a comparison, per the NSS Implementation Plan, the study of the 3.1 -3.45 GHz band took
+several years. Further, as the 7/8 GHz band is on the agenda for WRC -27, and it is in the interest
+of the  United States to align its spectrum use with global use, outcomes of WRC -27 may also
+affect 7/8 GHz band use.
+Congress may choose to conduct oversight on the activities and timelines prescribed in the act to
+ensure that spectrum is brought to market and budget goals are met.
+Valuation Report
+P.L. 119 -21, Title IV, Section 40002(f), provides DOC with $50 million for the head of NTIA to
+conduct analysis of three new bands and to publish a biennial report on the value of federal
+spectrum. Experts have ide ntified challenges in valuing federal spectrum. For example,
+measuring allocation and actual use is difficult, especially as some use is in a classified setting.
+There is a lack of market pricing (i.e., no comparatives). National security and public safety
+considerations complicate economic models; there is no economic value or comparable market
+value for national security functions. Ga uging opportunity costs is difficult, given for example,
+that all bands do not provide the same characteristics or behave i n the same way; some, such as
+those used in passive sensors for weather data, are unique —there may be a lack of
+substitutability.167 Thus, moving users from one band to another is not always possible , nor are
+the bands always comparable .
+Some Members of the  119th Congress have proposed legislation with additional instruction for
+NTIA. For example, S. 792  would direct NTIA, working with the FCC and the Office of
+Management and Budget, to estimate the value federal spectrum bands would have if the bands
+were reallocated for licensed or unlicensed commercial wireless use with the highest potential
+value. It also directs NTIA to use “dynamic scoring,” which accounts for macroeconomic impacts
+(e.g., secondary impacts) of the reallocation. S. 794  would require the head of NTIA to audit
+feder al spectrum allocation and use and to identify spectrum not being used. Some economists
+assert that a better system of audits —for both federal and commercial use —would help to
+identify opportunities for reallocating or sharing spectrum.168 The challenge of valuation is that
+spectrum use is continually changing, and new technologies are constantly emerging, creating
+new demands on spectrum even as incumbent users may be upgrading or relocating systems. For
+this reason , some Members have advocated for long -term strategic planning and  have  proposed
+legislation for inventorying by the FCC and NTIA to facilitate effective spectrum management
+decisions.169
+167 Sarah Oh Lam and Scott Wallsten, “Federal Spectrum Management Valuation, Management, and Reform: Key
+Takeaways,” Technology Policy Institute , March 6, 2025, https://techpolicyinstitute.org/ publications/ broadband/
+spectrum -and-wireless/ federal -spectrum -valuation -management -and-reform -panel -discussio n/; and  ITU, Exploring the
+Value and Economic Valuation of Spectrum , April 2012, https://www.itu.int/ dms_pub/ itu-d/opb/pref/ D-PREF -
+BB.RPT3 -2012 -PDF-E.pdf .
+168 U.S. Congress, Senate Committee on Commerce, Science, and Transportation, America Offline? How Spectrum
+Auction Delays Give China the Edge and Cost Us Jobs , hearing, 119th Cong., 1st sess., February 19, 2025 ( see
+statements from Dr. Hazlett regarding the need for audit of spectrum use) .
+169 For example, see S. 2869 .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   29 Presidential Powers on Spectrum
+P.L. 119 -21 stipulates that the President shall modify and withdraw any frequ ency proposed for
+reallocation under the act no later than 60 days before the commencement of an auction if the
+President determines that such modification or withdrawal is necessary to protect U.S. national
+security. While the President has authority to a mend, modify, or revoke frequency assignments,
+these authorities have generally been delegated to the Secretary of Commerce, not including the
+authority to make final disposition of appeals from frequency assignments.170
+Given recent spectrum disputes,171 NTIA, as the spectrum management agency representing
+federal agency and national spectrum interests in discussions with the FCC, has clarified
+coordination processes with the FCC in a memorandum of understanding. The agencies are to
+meet regularly on spectr um, communicate on spectrum actions, and identify as early as possible
+in the decisionmaking process technical issues that have a likelihood of generating disputes and
+are to act to assess such issues. If such disputes cannot be resolved by senior spectrum  staff, they
+may be referred to the head of NTIA and to the FCC Chair for consideration.172
+In some cases, Congress has adopted alternative processes for spectrum dispute resolution in
+legislation. For example, in the IIJA ( P.L. 117 -58), Congress directe d the Secretary of Commerce
+to identify spectrum, in coordination with the Secretary of Defense and the Director of the Office
+of Science and Technology Policy, and provided that the Secretary of Commerce may identify
+frequencies only if the Secretary of D efense determined that sharing those frequencies with
+nonfederal users would not impact primary military uses in the band.
+In the development of the National Defense Authorization Act (NDAA) for Fiscal Year 2026, a
+similar debate ensued.173 A version of th e NDAA for FY2026 ( S. 2296 ) passed by the Senate in
+October 2025 would have restricted modifications to the Lower 3 GHz and the 7/8 GHz bands
+until the DSS model defined in the EMBRSS  report is fully operational, unless the Secretary of
+Defense and the Chairman of the Joint Chiefs of Staff together certify to Congress that the
+modification would not result in a loss of capability for the armed forces.174 The House version
+(H.R. 3838 ), passed on September 10, 2025, did not include those provisions. Wireless industry
+associations and several advocacy organizations opposed the Senate provision, arguing that it
+would undermine the directives in P.L. 119 -21, give DOD “veto power” in spectrum decisions,
+and override presidential authorities.175 The White House also opposed this provision , stating that
+170 47 U.S.C. §902(b)(2)(A).
+171 See CRS In Focus IF12046, National Spectrum Policy: Interference Issues in the 5G Context , by Ling Zhu .
+172 NTIA, “Memorandum of Understanding Between the Federal Communications Commission and the National
+Telecommunications and Information Administration,” August 1, 2022, p. 4, https://www.ntia.gov/ sites/ default/ files/
+publications/ ntia-fcc-spectrum_mou -8.2022.pdf .
+173 Jimm Phillips, “Cruz, Pro -DOD Senators Tussle Over NDAA Lang uage to Halt Military Spectrum Reallocation,”
+Communications Daily , October 8, 2025, https://communicationsdaily.com/ article/ 2025/ 10/08/cruz-prodod -senators -
+tussle -over-ndaa -language -to-halt-military -spectrum -reallocation -2510070037? BC= bc_69987e3d7c809 .
+174 S. 2296 , Division A, Title XV, Subtitle D, §1564 .
+175 Letter from Ajit Pai, President and CEO of CTIA, to Sen. John Thune, Sen. Chuck Schumer, Rep. Mike Johnson,
+and Rep. Hakeem Jeffries, November 13, 2025, https://api.ctia.org/ wp-content/ uploads/ 2025/ 11/CTIA -Letter -to-
+Leadership -11-13-25-1.pdf ; Deborah Collier, “DOD Must Not Be Allowed to Veto Spectrum Availability,” Citizens
+Against Government Waste , October 16, 2025, https://www.cagw.org/ dod-must -not-be-allowed -to-veto-spectrum -
+availability/ ; and Free State Foundation (@FSFthinktank ), “I agree w/@dcolliercagw @GovWaste on this. And there is
+an additional reason @SenatorFischer’s amendment should be stricken. It would preclude the president from exerc ising
+ultimate control of the Executive Branch. This violates #separationofpowers, ” X post, October 16, 2025 .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   30 it would hinder the President’s executive authority.176 The final NDAA for FY2026 ( P.L. 119 -60),
+enacted December 18, 2025, did not include the provision.
+In the NSS Implementation Plan , the executive branch specified a dispute resolution process. For
+the Lower 3 GHz and the 7/8 GHz bands, the plan states, “Outstanding issues arising from the
+study implementation, results, or recommendations (if any) will be subject to resolution as set
+forth in the President’s February 4, 2021, Memorandum on Renewing the National Security
+Council System. Furthermore, the Office of the Joint Chiefs of Staff may, if it so chooses, provide
+a written National Security Risk Assessment to the President through the Secretary of Defense
+before any decisi on is made to repurpose this band.”177 The 2021 presidential memorandum
+specifies that the National Security Council shall be the “principal forum for consideration of
+national security policy issues requiring Presidential determination,” and establishes in teragency
+committees to consider issues affecting national security and to advise the President.178
+On December 19, 2025, directly after signing the NDAA for FY2026, President Trump issued a
+presidential memorandum, “Winning the 6G Race,” which accelerates studies of several bands,
+focusing particularly on reallocation of federal systems in the 7.125 -7.4 GHz band, and provides
+for extensive involvement of White House officials in spectrum relocation studies and
+decisionmaking. While coordination with the White House could add complexity and time to
+spectrum decisionmaking, some experts assert that involvement from the White House on
+spectrum issues could focus and enhance interagency coordination on critical spectrum issues and
+support U.S. leader ship on global spectrum policy.179
+Concluding Observations
+In P.L. 119 -21, Congress established a spectrum pipeline —it identified quantities of spectrum for
+reallocation, sp ecific bands for reallocation, and bands for future study. Freeing spectrum for
+commercial use can spur innovation, improve services, yield economic gains, and bolster U.S.
+leadership in the global telecommunications market. Given increasing wireless techn ology use,
+rising demand for spectrum from multiple emerging technologies (e.g., mobile, satellite, Wi -Fi),
+and current spectrum use by federal and nonfederal users, spectrum reallocation is expected to be
+challenging and time  consuming . Considering mandat es in P.L. 119 -21 and in the December 2025
+presidential memorandum, the FCC and NTIA may face challenges in identifying and
+reallocating 800 megahertz of spectrum for full -power commercial licensed use in the spectrum
+range and timelines specified in the act.
+As Congress is relying on proceeds from spectrum auctions to fund provisions in P.L. 11 9-21, it
+may seek to monitor (1) agencies’ progress in identifying spectrum for reallocation; (2) bands
+selected for reallocation; (3) the impact of reallocation on incumbent users, including federal
+176 White House, “Statement of Administration Policy : S. 2296 – National Defense Authorization Act for Fiscal Year
+2026 ,” September 9, 2025, p. 7, https://www.whitehouse.gov/ wp-content/ uploads/ 2025/ 09/SAP-S2296 -Senate -NDAA -
+9.9.25.pdf .
+177 NTIA, National Spectrum Strategy  Implementation Plan , March  2024 , pp. A -6, A-9, https://www.ntia.gov/ sites/
+default/ files/ publications/ national -spectrum -strategy -implementation -plan.pdf .
+178 White House, “ Memorandum on Renewing the National Security Council System ,” presidential memorandum,
+February 4, 2021, https://www.presidency. ucsb.edu/ documents/ memorandum -renewing -the-national -security -council -
+system .
+179 U.S. Congress, Senate  Committee on  Commerce, Science, and Transportation, America Offline? How Spectrum
+Auction Delays Give China the Edge and Cost Us Jobs , hearing, 119th Cong., 1st sess., February 19, 2025  (e.g., see
+statements supporting involvement of the White House in spectrum decisions from Matt Pearl, Director, Strategic
+Technologies Program, Center for Strategic & International Studies) .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   31 agency users performing critical functions; and (4) au ction proceeds and timelines to ensure
+budgetary targets are met. Options for Congress include pursuing additional auctions of other
+bands under study or reallocation of bands identified globally for specific technologies (e.g.,
+satellite). Area s of debate  may in clude  balancing spectrum needs among federal and nonfederal
+users and among various technologies (e.g., mobile, satellite, Wi -Fi, and other emerging
+technologies).
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   32 Appendix A.  Background on Spectrum
+Spectrum  refers to the range of radio waves that enable wireless communications. These waves
+can travel through space at the speed of light. They can be generated naturally, from the Sun, for
+example, or artificially using technologies such as transmitters found i n smartphones, AM/FM
+transmitters, and radar systems. Radio waves have different wavelengths, frequency rates (i.e.,
+oscillation rates), and energy levels. The frequency is measured in hertz  (Hz), or cycles per
+second. For a wave with a frequency rate of
+• 1 kilohertz (kHz), 1,000 waves pass through a given point in the interval of one
+second;
+• 1 megahertz (MHz), 1 million waves pass through a given point in the interval of
+one second; and
+• 1 gigahertz (GHz), 1 billion waves pass through a given point in the in terval of
+one second.
+Frequency and wavelength have an inverse relationship. High energy, high frequency waves have
+shorter wavelengths; low energy, low frequency waves have longer wavelengths. Each wave
+(known by its frequency, such as 99.5 MHz or 7.125 GHz) has different characteristics, which
+cause them to behave differently from one another. Lower frequency waves can bend around
+obstacles, allowing them to travel longer distances than higher frequency waves; these waves are
+useful for carrying communic ations across wide areas. Higher frequency waves can carry more
+data (i.e., more bits per second) than lower frequency waves but are more easily absorbed in the
+environment, which limits their range.180
+Wireless telecommunication providers deploy transmitt ers to generate radio waves that can carry
+communications from one location to another wirelessly. Providers rely on different bands (or
+sets of radio frequencies) to provide service.
+• Low-band spectrum —radio waves with frequencies below 1 GHz. These low -
+frequency radio waves have long wavelengths, can travel long distances (50 to
+100 miles from a cell site) and around obstacles with less attenuation (i.e., signal
+loss), enabling reliable, wide area coverage; however, low -band spectrum
+typically has less ca pacity to carry data and lower transmission speeds.
+• Mid-band spectrum —radio waves with frequencies in the  1-6 GHz  range . These
+radio waves can travel moderate distances (e.g.,  a few miles to 25 miles) , offering
+broad coverage, ability to penetrate obstacle s, and capacity to carry more data
+than low -band frequencies, and at higher speeds. These characteristics make mid -
+band spectrum optimal for mobile communications and valuable to providers.
+• High -band spectrum —radio waves with frequencies above 6 GHz. These  high-
+frequency radio waves have shorter wavelengths and limited range (less than a
+mile) and limited ability to penetrate obstacles (e.g., walls, trees); however, these
+high-frequency waves have the greatest capacity to carry data at high speeds and
+with less latency (i.e., lag time).
+180 In telecommunications, vo ice and data communications are converted into digital data —a series of 0s and 1s (called
+binary digits). Binary digits ( bits) are the most basic unit of data in computing and digital communications. Radio
+frequency waves can be altered (or modulated) to r epresent and transmit the binary data. Each cycle of a wave can be
+modulated to represent a single bit of data (0 or 1). With more cycles per second, more bits per second can be
+transmitted, effectively increasing the data rate. Thus, higher frequency wave s can transmit more data.
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   33 Figure A-1 depicts the radio spectrum —the range of radio waves that enable s various wireless
+communications (e.g., mobil e use, including cellular; AM/FM radio; satellite television; Wi -Fi;
+military radio communications on the ground, in the air, and at sea; military radar and detection
+for national security; air traffic control systems; and research).
+Figure A-1. Radio Spectrum
+Low-Band, Mid -Band, High -Band Segments and Characteristics
+Source: CRS.
+Notes:  This graphic shows the radio spectrum, that is , those frequencies from 3 kilohertz (kHz) to 300
+gigahertz (GHz), and their characteristics. It shows low -band (below 1 GHz), mid -band (1 -6 GHz), and high -band
+(above 6 GHz), and their characteristics. Kilohertz  is a measure of a wave oscillation rate equi valent to 1,000
+waves passing through a one -second interval; gigahertz  is a radio wave with an oscillation rate equivalent to 1
+billion wave crests passing through a one -second interval. Megabits per second  (Mbps)  refers to the speed of
+data transfer over a network. At 20 -30 Mbps, users can typically stream videos, download large files, and support
+multiple connected devices in the home, for example. A speed of 100 Mbps could support more people
+streaming and browsing simultaneously, high -definition streami ng, online gaming, video conferencing, and file
+downloads. Speeds above 250 Mbps and into gigahertz speeds can support multiple users streaming high -
+definition video, simultaneous online gaming, ultrafast downloads, reliable video calls.
+Different technolo gies rely on different radio frequency bands to transmit voice and data.
+Transmitters are built to transmit on certain frequencies or across a range of frequencies. The
+selection of frequencies is not random. Service providers and manufacturers pair techno logies
+with certain frequencies to develop new uses. Service providers must obtain permission from
+government regulators to transmit on those frequencies. Regulators ensure that the assignment of
+frequencies for a new user or use does not interfere with ot hers operating in the same band in the
+same area. Equipment is typically built to operate within a range of frequencies; changing an
+entity’s frequency assignments may affect its ability to transmit and receive communications or
+may change aspects of its t ransmissions (e.g., coverage and capacity).
+As new technologies emerge and require access to spectrum to operate, regulators will need to
+examine incumbent use, opportunities for sharing frequencies in the band, potential for
+interference, costs and benefi ts of reallocating spectrum (e.g., changing use of the band) and
+relocating incumbent users, and other methods to maximize spectrum use. In some cases,
+regulators will need to press for improvements to technologies to improve spectrum efficiency.
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   34 While spe ctrum is an unlimited resource, preferences for certain bands can lead to congestion or
+interference in those bands, which can limit access. With technological advancement, some
+technologies have been engineered to be more spectrally efficient, which can f ree spectrum for
+new uses. Since most of the radio spectrum is in use, finding spectrum for new uses is
+challenging. Regulators may open bands for sharing , designate a segment of a band for a new use ,
+or relocate incumbent users to make spectrum available for new uses.
+Spectrum Management in the United States
+Spectrum —the radio waves that enable wireless communications —is a public resource. In the
+United States, spectrum access and use are managed by two agencies: the National
+Telecommunications and Inform ation Administration ( NTIA ), an agency in the D epartment of
+Commerce  that manages federal use, and the Federal Communications Commission ( FCC ),
+which manages nonfederal (e.g., commercial) spectrum use. Together, the agencies coordinate to
+manage spectrum u se in the United States.
+NTIA can assign specific frequencies to federal agencies. The FCC may assign frequencies to
+nonfederal entities (e.g., state and local police, satellite operators) through an administrative
+process or, when  two or more mutually ex clusive applicants seek an initial spectrum license (i.e.,
+request to use the same frequencies), must grant the license through competitive bidding (i.e.,
+auction).181 Auctions enable entities to bid on licenses, which grant them rights to use specific
+frequencies in certain geographic areas.
+After auctions, the FCC awards licenses to the highest bidders. The FCC may place conditions on
+licenses, such as requirements to operate within specified technical parameters prescribed by the
+FCC to avoid interference  with other users, and obligations to offer wireless services in a set
+timeframe.
+181 47 U.S.C.  §309(j ).
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   35 Appendix B.  Spectrum Previously Allocated to
+Commercial Licensed Use
+Over the last 25 years, the U.S. government has allocated spectrum to support commercial
+wireless use —for both l icensed and unlicensed use. In its 2023 Annual Report on the Status of
+Spectrum Repurposing and Other Initiatives , NTIA said that over 15,214 megahertz of spectrum
+have been made available for commercial wireless use, including
+• 250 megahertz of low -band s pectrum, consisting of 210 megahertz for licensed
+use and 40 megahertz for unlicensed use;
+• 3,014 megahertz of mid -band spectrum, consisting of 1,150.5 megahertz for
+licensed use and 1,863.5 megahertz for unlicensed use; and
+• 11,950 megahertz of high -band s pectrum, consisting of 4,950 megahertz for
+licensed use and 7,000 megahertz for unlicensed use.
+Per the National Telecommunications and Information Administration ( NTIA ), an additional
+7,235 megahertz is under study  as of March 2023; most of that (6,750 megahertz) is high -band
+spectrum, as it is relatively unencumbered and offers some characteristics (e.g., high data
+capacity) that are useful to commercial wireless service providers .182
+The FCC identifies the followi ng bands allocated for licensed mobile service ( Table B-1).183
+T able B-1. Allocated Spectrum Suitable  and Available for Mobile Service
+Banda Frequenciesb Suitable and Available Spectruma
+Low-Band (Below 1 GHz) Spectrum
+600 MHz  614-698 MHz*  70 megahertz
+700 MHz  698-806 MHz  70 megahertz
+Cellular  824-849 MHz
+869-894 MHz  50 megahertz
+SMR 800/900 MHz  14 megahertz
+Total   204 megahertz
+Mid-Band (1 -6 GHz) Spectrum
+AWS -3 1695-1710 MHz
+1755-1780 MHz*
+2155-2180 MHz*  65 megahertz
+PCS 1850-1990 MHz  120 megahertz
+PCS G Block  1910-1915 MHz
+1990-1995 MHz  10 megahertz
+182 NTIA, Annual Report on the Status of Spectrum Repurposing and Other Initiatives , March 2023, p. 14,
+https://www.ntia.gov/ sites/ default/ files/ publications/ annual_spectrum_repurposing_initiatives_report_final.pdf .
+183 Table 1 shows the bands that the FCC has identified as “suitable and available” for mobile service . The FCC
+reviews transactions (e.g., mergers, acquisitions of spectrum licenses) to assess whether the transaction would result in
+one company holding a concentrati on of licenses. Transactions that meet or exceed the screen amounts trigger a more
+intensive review of transactions. For more information, s ee FCC, “Policies Regarding Mobile Spectrum Holdings,”
+https://www.fcc.gov/ wireless/ bureau -divisions/ competition -infrastructure -policy -division/ policies -regarding -mobile .
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service   36 PCS H Block  1915-1920 MHz*
+1995-2000 MHz*  10 megahertz
+AWS -1 1710-1755 MHz
+2110-2155 MHz  90 megahertz
+AWS -4 2000-2020 MHz*
+2180-2200 MHz*  40 megahertz
+WCS  2305-2320 MHz*
+2345-2360 MHz*  20 megahertz
+BRS 2496-2690 MHz  67.5 megahertz
+EBS 2496-2690 MHz  117.5 megahertz
+3.45 GHz  3.45-3.55 GHz*  100 megahertz
+CBRS  3.55-3.65 GHz*  0 megahertzd
+C-Band 3.7-3.98 GHz*  280 megahertz
+Total   920 megahertz
+High-Band or Millimeter Wave (24 GHz+) Spectrum
+24 GHz  24.25 -24.45 GHz
+24.75 -25.25 GHz  700 megahertz
+28 GHz  27.500 -27.925 GHz
+27.925 -28.350 GHz  850 megahertz
+37 GHz  37.6-38.6 GHz  1,000 megahertz
+39 GHz  38.6-40.0 GHz  1,400 megahertz
+47 GHz  47.2-48.2 GHz  1,000 megahertz
+Total   4,950 megahertz
+Source:  CRS, based on Federal Communications Commission (FCC) notices: FCC, In the Matter of Policies
+Regarding Mobile Spectrum Holdings , May 15, 2014, pp. 36 -58, https://docs.fcc.gov/ public /attachments/ FCC-14-
+63A1.pdf ; FCC, In the Matter of T -Mobile License, LLC , February 27, 2024, pp. 14, 16 (fn. 128), https://docs.fcc.gov/
+public/ attachments/ DA-24-171A1.pdf .
+Notes : SMR = Specialized Mobile Radio; AWS = Advanced Wireless Services; PCS = Personal Communication
+Services; WCS = Wireless Communication Service; BRS = Broadband Radio Service; EBS = Educational
+Broadband Service; CBRS = Citizens Broadband Radio Service. Am ounts marked with an asterisk indicate bands
+identified in the National Telecommunications and Information Administration’s (NTIA’s) Plan and Timetable to
+Make Available 500 Megahertz of Spectrum for Wireless Broadband , October 2010, https://www.ntia.doc.gov/ files/
+ntia/publications/ tenyearplan_11152010.pdf .
+a. Bands have been named by different entities over time, including the International Telecommunications
+Union (ITU), an agency of the United Nations that facilitates global communications; the FCC; the Institute
+of Electrical and Electronics Engineers (IEEE) , a professional organization and standards -making body; U.S.
+and foreign military agencies; and the North Atlantic Treaty Organization (NATO). Industry analysts report
+that bands were often named by the engineers or scientists who pioneered their use. Som e bands were
+named for a reason (e.g., C -band was a “compromise” band, providing medium -range coverage where only
+long- and short -range satellite coverage existed); the origin of other band names is unknown. Band names
+used in this table are those used by the FCC. For more information, see “Why Are Frequency Band
+Designations So Confusing?,” Military + Aerospace Electronics , February 19, 2019,
+https://www.militaryaerospace.com/ directory/ blog/14059687/ why-are-frequency -band-designations -so-
+confusing .
+b. These are frequencies deemed suitable and available for mobile service. The abbreviation “MHz”
+(megahertz) or “GHz” (gigahertz) is used  to indicate a specific frequency or range of frequencies in the
+band.
+Spectrum Provisions in P.L. 119 -21, the FY 2025 Reconciliation  Law
+Congressional Research Service  R48862  · VERSION 1 · NEW  37 c. This shows the bandwidth or size of the band. The term “megahertz” is spelled out when it refers to
+bandwidth. In some cases, the FCC provides an exact number for the total suitable an d available spectrum;
+sometimes it rounds the number upward. Thus, total amounts listed in this table are approximate.
+d. The CBRS band has three tiers of users. Tier I is federal users, who have primary access; Tier II is
+commercial mobile service providers  with Priority Access Licenses, who can use the band but must yield to
+Tier I users; and Tier III is general authorized access users , who can use the band as long as they do not
+interfere with Tier I and Tier II users. The FCC counts the band as mobile spe ctrum, but due to its shared
+nature, the FCC does not attribute a specific bandwidth.
+A substantial amount of spectrum has been allocated for commercial licensed use, which
+commercial mobile service providers monetize by providing services to customers (e .g.,
+individuals, businesses, government) or by leasing it to other users, such as mobile virtual
+network operators (e.g., Red Pocket Mobile), other wireless service providers, or , potentially ,
+satellite service providers .
+Author Information
+Jill C. Gallagher
+Specialist in Telecommunications Policy
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

@@ -1,0 +1,196 @@
+https://crsreports.congress.gov
+Updated March 4, 2026
+Congressionally Directed Medical Research Program s Funding
+for FY2026
+Members of Congress are frequently lobbied to add funding
+to annual defense appropriation legislation for certain
+medical research programs  on a wide variety of diseases
+and topics. In addressing annual appropriations bills,
+Members frequently seek information on enacted levels for
+such funding under the Congressionally Directed Medical
+Research Programs  (CDMRP).
+CDMRP Administration and Funding
+The CDMRP  is a Department of Defense (DOD) , which is
+“using  a secondary  Department of War designation” under
+Executive Order 14347  dated  September 5, 2025,  program
+that receives congressional appropriations explicitly for
+biomedical research in specific, congressionally identified
+health matters. As such, it  has not been  part of the
+President’s budget  request for DOD. The U.S. Army
+Medical Research and Development Command
+(USAMRDC) , with oversight from the Defense Health
+Agency,  administers the CDMRP  and is responsible for
+awarding and managing competitive grants.
+Congress typically inserts CDMRP fundi ng as
+Undistributed Medical Research in the Defense Health
+Program’s Research, Development, Test, and Evaluation
+(DHP RDT&E) account in the annual DOD appropriation.
+Congressional documents accompanying the annual defense
+appropriation act (i.e., conferenc e report or explanatory
+statement) typically identify the specific research areas for a
+given fiscal year.
+Division A, Title VI, of the Consolidated Appropriations
+Act, 2026  (P.L. 119 -75), inserted $ 1.27 billion into the
+RDT&E account for CDMRP. This amount comprises 51%
+of the overall DHP RDT&E , as reflected in Figure 1.
+Biomedical research conducted by the Defense Advanced
+Research Projects Agency or other military research
+agencies is not included in this account.
+Table 1 lists the FY202 6 CDMRP funding amounts  for
+specific medical research areas.
+CDMRP Funding Requests
+Members may request funding for medical research during
+the annual defense appropriat ions process. The
+appropriations committees typically send Members a
+memorandum with instructions for submitting requests.
+Both House and Senate committee reports may specify
+funding associated with certain research. An exchange of
+amendments between the h ouses (or a conference
+committee) typically resolves any differences between the
+committee reports.
+The medical research programs funded under the CDMRP
+are not static. Funding may be provided for conditions not
+funded in previous years. For example, fundi ng for tick -borne disease research was provided in FY2016 -FY2020,
+but no associated funds were provided in FY2015.
+Figure 1. Total DHP RDT&E Appropriation, FY202 6
+Source:  CRS analysis of Division A, Title VI, of the  Consolidated
+Appropriations Act, 2026 ( P.L. 119 -75).
+Program Announcements and Awards
+USAMRDC issues periodic program announcements to
+alert researchers of CDMRP grant opportunities. The
+program announcements include detailed descriptions of
+funding mechanisms, evaluation criteria, submission
+requirements, and deadlines. Program announcemen ts are
+listed on the Grants.gov  website . The CDMRP website
+(https://cdmrp.health.mil ) also lists program
+announcements, information on awarded grants and other
+resources such a s related publications, brochures about
+individual research programs, and annual reports.
+Peer Reviewed Cancer Research Program
+Peer Reviewed Cancer Research Program  (PRCRP)
+funding supports grants for medical research on various
+cancers and related treatments. For FY2026, Congress
+appropriated $165 million for the PRCRP, separate from
+other CDMRP funding for breast, glioblastoma, kidney,
+lung, melanoma, ovarian, panc reatic, prostate, and rare
+cancers.  Table 2 lists 20 cancers and treatments eligible for
+FY2026 PRCRP funding.
+Peer Reviewed Medical Research Program
+The program with the highest annual funding level under
+the CDMRP is generally the Peer Reviewed Medical
+Research Program  (PRMRP). For FY2026, Congress
+appropriated $370 million for the PRMRP. PRM RP funding
+supports grants for medical research on a number of
+conditions or treatment modalities that are of “clear
+scientific merit  and direct relevance to military health .”
+Congressionally Directed Medical Research Programs Funding for FY2026
+https://crsreports.congress.gov  Congress specifies an annual list of eligible conditions or
+treatments that typi cally includes a few changes from year
+to year as medical research priorities shift. Table 3 lists 52
+conditions or treatments eligible for FY202 6 PRMRP
+funding.
+Table 1. CDMRP Funding, FY202 6
+(in millions of dollars)
+Program Title  FY202 6
+Alcohol and Substance Abuse Disorders  $4.0
+Alzheimer’s  $15.0
+Amyotrophic Lateral Sclerosis  $40.0
+Arthritis  $10.0
+Autism  $8.0
+Bone Marrow Failure  $7.5
+Breast Cancer  $145.0
+Combat Readiness -Medical  $5.0
+Duchenne Muscular Dystrophy  $12.5
+Epilepsy  $12.0
+Hearing Restoration  $5.0
+Joint Warfighter Medical  $10.0
+Kidney Cancer  $15.0
+Lung Cancer  $20.0
+Lupus  $10.0
+Melanoma  $40.0
+Military Burn  $10.0
+Multiple Sclerosis  $15.0
+Neurofibromatosis  $25.0
+Ovarian Cancer  $50.0
+Pancreatic Cancer  $20.0
+Parkinson’s  $16.0
+Peer-reviewed Cancer  $165.0
+Peer-reviewed Medical  $370.0
+Peer-reviewed Orthopedic  $20.0
+Prostate Cancer  $75.0
+Rare Cancers  $17.5
+Reconstructive Transplant  $12.0
+Spinal Cord  $33.0
+Tickborne Disease  $7.0
+Toxic Exposures  $15.0
+Traumatic Brain Injury/Psychological Health  $40.5
+Tuberous Sclerosis Complex  $10.0
+Vision  $10.0
+TOTAL  $1,270.0
+Source: Explanatory Statement  (pp. H1569 -H1570)  accompanying
+the Consolidated Appropriations Act, 2026 ( P.L. 119 -75).
+Table 2. PRCRP -Eligible Cancer Topics, FY202 6
+Bladder Cancer  Mesothelioma
+Blood Cancers  Metastatic Cancers  Brain Cancer  Myeloma
+Colorectal Cancer  Neuroblastoma
+Endometrial Cancer  Neuroendocrine Tumors
+Esophageal Cancer  Pediatric, Adolescent, and Young
+Adult Cancers
+Germ Cell Cancers  Pediatric Brain Tumors
+Glioblastoma  Sarcoma
+Liver Cancer  Stomach Cancer
+Lymphoma  Thyroid Cancer
+Source: Explanatory Statement (p. H1571)  accompanying the
+Consolidated Appropriations Act, 2026 ( P.L. 119 -75).
+Table 3. PRMRP -Eligible Conditions, FY202 6
+Angelman Syndrome  Intranasal Ketamine Anesthetics
+Burn Pit Exposure  Maternal Mental Health
+Celiac Disease  Mitochondrial Disease
+Congenital Cytomegalovirus  Musculoskeletal Health
+Dystonia  Myotonic Dystrophy
+Eating Disorders  Pancreatitis
+Eczema  Peripheral Neuropathy
+Ehlers -Danlos Syndrome  Polycystic Kidney Disease
+Endometriosis  Post-Traumatic Stress Disorder
+Fibrous Dysplasia  Prader -Willi Syndrome
+Food Allergies  Proteomics
+Fragile X  Pulmonary Fibrosis
+Frontotemporal Degeneration  Respiratory Health
+Gambling Addiction  Rett Syndrome
+Hepatitis B  Sarcoidosis
+Hereditary and Acquired A taxias  Scleroderma
+Hermansky -Pudlack Syndrome  Sickle Cell Disease
+Hydrocephalus  Sleep Disorders
+Hypoxia  Spinal Muscular Atrophy
+Hypertropic Dyschromia  Suicide Prevention
+Inflammatory Bowel Disease  Tuberculosis
+Interstitial Cystitis  Von Hippel -Lindau Disease
+Accelerated Aging Processes
+Associated with Military Service  Infertility Associated with Military
+Aviators/Aviation Personnel  Brain Injury Impact on Cardiac
+Health  Myalgic Encephalomyelitis /
+Chronic Fatigue Syndrome
+Facioscapulohumeral Muscular
+Dystrophy  Orthotics and Prosthetics
+Outcomes
+Hereditary Hemorrhagic
+Telangiectasia
+Pediatric Acute -Onset Neuropsychiatric Syndrome (PANS) & Pediatric
+Autoimmune Neuropsychiatric Disorder Associated with
+Streptococcus (PANDAS )
+Source:  Explanatory Statement (p. H1571)  accompanying  the
+Consolidated Appropriations Act, 2026 ( P.L. 119 -75).
+Bryce H. P. Mendez , Specialist in Defense Health Care
+Policy
+IF10349
+Congressionally Directed Medical Research Programs Funding for FY2026
+https://crsreports.congress.gov  | IF10349  · VERSION 19 · UPDATED
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress.
+Information in a CRS Report should n ot be relied upon for purposes other than public understanding of information that has
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the
+United States Government, are not subject to copyr ight protection in the United States. Any CRS Report may be
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include
+copyrighted images or material from a third party, you may need to obtain the permissio n of the copyright holder if you
+wish to copy or otherwise use copyrighted material.

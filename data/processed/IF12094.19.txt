@@ -1,0 +1,213 @@
+https://crsreports.congress.gov
+Updated March 3, 2026
+The Army’s  XM-30 Mechanized Infantry Combat Vehicle
+(Formerly the Optionally  Manned Fighting Vehicle [OMFV ])
+Background
+The Army’s Optionally  Manned Fighting Vehicle (OMFV)
+is being designed to  replace the M -2 Bradley Infantry
+Fighting Vehicle (IFV)  (see Figure 1 for a notional
+example) . Optionally  manned  means the OMFV is to have
+the capability  to conduct remotely  controlled operations
+while a crew is not in the vehicle . The M -2 Bradley, which
+has been in service since 1981, transport s infantry on the
+battlefield , provide s fire support to dis mounted troops , and
+can destroy enemy fighting vehicles. Updated numerous
+times since its introduction, the M -2 Bradley is widely
+considered to have reached the technological limits of its
+capacity to accommodate new electronics, armor, and
+defens ive syste ms. Two past efforts to replace the M -2
+Bradley —the Future Combat System (FCS) Program and
+the Ground Combat Vehicle (GCV) Program —were
+cancelled for programmatic and cost -associated reasons.
+Figure 1. Notional Example —OMFV
+Sour ce: U.S. Naval Institute (USNI) , https://news.usni.org/ 2021/ 12/
+30/report -to-congress -on-armys -optionally -manned -fightin g-vehicle -
+to-congress -on-armys -optionally -manned -fighting -vehicle , accessed
+April 18, 2022.
+Note : This is a notional example ; the Army’s OMFV selected for
+production may differ from this example.
+OMFV Redesignated XM -30 Mechanized
+Infantry Combat Vehicle
+On June 26, 2023 , upon the completion of the initial digital
+design phase , the Army redesignat ed the OMFV as the XM -
+30 Mechanized Infantry Combat Vehicle.
+Role of the XM-30
+According to the 2024 Department of Defense (DOD) FY
+2025 Program Acquisition Costs by Weapons Systems
+The XM -30 Combat Vehicle (previously OMFV),
+as part of an Armored Brigade Combat Team
+(ABCT), will replace the Bradley Infantry Fighting
+Vehicle to provide the capabi lities required to
+defeat a future near -peer competitor ’s force. The
+XM-30 is an optionally manned platform that maneuvers soldiers to a point of positional
+advantage to engage in close combat and deliver
+decisive lethality during the execution of combined
+arms maneuver. It is designed to operate with and
+may operate without a crew and soldiers under
+armor based on the commande r’s decision. It
+delivers decisive lethality during the execution of
+combined arms maneuver while also controlling
+maneuver robotics and semi -autonomous systems
+XM-30 Acquisition Approach
+The XM -30 is  currently  a Middle Tier Acquisition Rapid
+Prototyping (MTA -RP) program. The XM -30 is to be  the
+Army’s first ground combat vehicle designed using state-
+of-the-art digital engineering tools and techniques.  It is to
+be designed from the onset  as a Modular Open Systems
+Architected (MOSA) platform based on an Army -defined
+and -owned open standard . As technology and software
+evolve , MOSA could potentially facilitate rapid XM-30
+modernization at a reduced cost. The o pen architecture of
+the XM-30 could also offer more oppor tunities for industry
+competition and i nnovations as the XM-30 is upgraded.
+The Army is conducting a five -phase acquisition approach
+to design, prototype, test, and produce the XM-30:
+• Phase 1 consists  of Market Research and
+Requirement Development .
+• Phase 2, the Concept Design Phase , include s modeling,
+simulation, and analysis (MS&A) to inform
+requirements and support  initial design activities .
+• Phase 3, the Detailed Design  Phase , includes  detailed
+design activities to mature XM-30 designs  and
+concludes with a Critical Design Review (CDR).  A
+CDR is a  technical review  to ensure  the initial product
+baseline is established . Successful completion of CDR
+provides the technical basis for proceeding into
+fabrica tion, integration, development , test , and
+evaluation of a system.
+• Phase 4,  the Prototype Build and Test Phase , verifies
+prototype performance against performance
+specification s. Late in this phase, a Limited User Test
+(LUT) is to be conducted.
+• Phase 5, the  Production and Fielding  Phase , is to
+result in a single  Low-Rate Initial Production ( LRIP )
+contract for production, testing , and initial fielding.
+Program Activities
+Phase 2 Contracts Awarded
+The Army announced  the award of five firm -fixed price
+contracts for XM-30 Phase 2 Concept Design Phase using
+full and open competitive procedures  on July 23, 2021 . The
+The Army’s XM -30 Mechanized Infantry Combat Vehicle (Formerly the Optionally Manned Fighting Vehicle [OMFV])
+https://crsreports.congress.gov  contracts were awarded to  Point Blank Enterprises, Inc.
+(Mia mi Lakes, FL); Oshkosh Defense, LLC (Oshkosh, WI);
+BAE Systems Land and Armaments L.P. (Sterling Heights,
+MI); General Dynamics Land Systems, Inc. (Sterling
+Heights, MI); and American Rheinmetall Vehicles, LLC
+(Sterling Heights, MI). The total award value for all five
+contracts was approximately $299.4 million.  During this
+phase , competing firms  were  asked to develop digital
+designs . On November 1, 2022, it was reported that all five
+firms had submitted their XM-30 digital designs prior to the
+November 1 deadline. All five proposals reportedly were
+hybrid electric vehicles .
+Phase 3 and 4 Contracts Awarded
+On June 26, 2023, the Army announced
+[t]he award of two firm -fixed price contracts for the
+Optionally Manned Fighting Vehicle  [XM -30]
+Phase 3 and 4 Deta iled Design and Prototype Build
+and Testing phases, using full and open competitive
+procedures. The contracts were awarded to General
+Dynamics Land Systems Inc. (Sterling Heights, M I)
+and American Rheinmetall Vehicles LLC (Sterling
+Heights, M I). The total award value for both
+contracts is approximately $1.6 billion.
+FY2025 Program Update
+According to the Department of Defense (DOD) FY 2025
+Program Acquis ition Costs by Weapons Systems
+The Army anticipates transitioning from an MTA -
+RP to a Major Capability Acquisition Pathway at
+Milestone B in the 2nd quarter of Fiscal Year (FY)
+2025 and plans to enter Low -Rate Initial Production
+(LRIP) in the 1st quarter F Y 2028 with a Full Rate
+Production (FRP) decision slated for FY 2030.
+FY2026 Program Update
+According to the Department of Defense (DOD) FY 2026
+Program Acquisition Costs by Weapons Systems
+The XM30 is an MTA -RP program. Milestone B
+was approved in June 2025, and Milestone C is
+targeted for first quarter FY 2028. The Army
+Transformation Initiative will accelerate this
+program. [In FY2026 the Army] continues to fund
+prototype vehicle designs from Preliminary Design
+Review (PDR) through CDR in preparation for both
+physical prototype builds and tests.
+XM-30 Preliminary Design Review  (PDR)
+Reportedly , General Dynamics Land Systems  and
+Americ an Rheinmetall Vehicles  completed their PDR  in
+August 2024 and , after a critical design review,
+development of physical prototypes was planned to begin.
+According to Defense News
+Prototypes will take 18 to 20 months to construct
+after the critical design reviews wrap up. Once
+prototypes are delivered, the Army will move into a
+test and evaluation phase with both competitors
+before deciding on a winner in FY2027. The first
+vehicles are expected to be fielded in  FY2029 . Milestone B Decision
+In June 2025, the U.S. Army reportedly  approved Milestone
+B for the XM -30 program, advancing it into the engineering
+manufacturing development phase after both competitors
+completed critical design reviews. However, in February
+2026, Army leadership reportedly  opted not to sign
+documen tation finalizing the Milestone B decision to avoid
+locking the service into a specific design or a slow
+acquisition path, effectively pausing formal  program
+transition and prompting a reevaluation of the program’s
+approach .
+XM-30 Milestone B Pause and a New Request for
+Information (RFI)
+According to  the February 2026 report , the Chief of Staff of
+the Army, General Randy George, and the Secretary of the
+Army , Dan Driscoll, decided not to sign off on the
+Milestone B decision “ to leave the door open to a major
+reworking of the XM -30 Mechanized Infantry Combat
+Vehicle program. ” Reportedly , regarding the pause, an
+Army spokesman stated
+We are actively assessing multiple, competing
+designs for the XM -30 to foster a truly competitive
+environment  We continue to look for partners who
+can deliver cutting -edge solutions now, not decades
+from now.  This is a deliberate and necessary step to
+ensure we assess and select the best approach to
+deliver a world class vehicle today and into the
+future.
+A February 18, 2026 , Request for Information (RFI) for
+Ground Combat Vehicle Production , while not specifically
+mentioning replacing the XM -30 or Bradley, seeks
+“information from industry partners to explore innovative
+solutions for the rapid design, production, and delivery of
+ground combat vehicles. ” It was reportedly  sugges ted such
+an action by Army leadership could serve to put pressure on
+the current XM -30 developers to accelerate the program
+and also open the program to existing fighting vehicle
+designs .
+Potential Oversight Issue for Congress
+The Viability  of the  XM-30 Program
+Should the Army decide to end the current XM -30 effort at
+Milestone B, a ny new  effort would reportedly  be the
+seventh attempt to replace the Bradley since the 1980s. This
+arguably raises several  question s: After about four decades
+of attempts , can the Army decide upon and field a suitable
+Bradley IFV replacement? Furthermore, what are the
+ramifications for the armor ed fighting vehicle defense
+industrial base going forward if successive Bradley
+replacement efforts have ended at the prototype phase or
+earlier? Could this discourage vendors from current and
+future U.S. Army IFV  development altogether? Given the
+Army’s p ast attempts to replace the Bradley and the
+apparent uncertainty of the program’s way forward,
+Congress might decide to examine the viability of the XM -
+30 program.
+Andrew Feickert , Specialist in Military Ground Forces
+Ebrima M'Bai , U.S. Army Fellow
+IF12094
+The Army’s XM -30 Mechanized Infantry Combat Vehicle (Formerly the Optionally Manned Fighting Vehicle [OMFV])
+https://crsreports.congress.gov  | IF12094  · VERSION 19 · UPDATED
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress.
+Information in a CRS Report should n ot be relied upon for purposes other than public understanding of information that has
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the
+United States Government, are not subject to copyr ight protection in the United States. Any CRS Report may be
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include
+copyrighted images or material from a third party, you may need to obtain the permissio n of the copyright holder if you
+wish to copy or otherwise use copyrighted material.

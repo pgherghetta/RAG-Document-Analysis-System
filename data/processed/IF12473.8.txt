@@ -1,0 +1,223 @@
+https://crsreports.congress.gov
+Updated February 26, 2026
+U.S.-China Competition in Emerging Technologies : LiDAR
+The governments of the United States and the People’s
+Republic of China (PRC or China) have both identified
+strategic and emerging  technologies as  a key element  of
+economic competitiveness and national defense.  Efforts to
+lead in  such technologies are  a core aspect  of U.S.-China
+strategic competition . Some  emerging technologies have
+both civilian and m ilitary uses. Among these technologies
+is Light Detection and Ranging (LiDAR), a remote sensing
+technology  used in automotive, agriculture, manufacturing,
+weather,  and other  systems . The LiDAR market and its uses
+are developing quickly. U.S. firms have led in LiDAR  to
+date, but PRC firms  are advanc ing with the support of PRC
+industrial policies  and access  to the U.S. market  and
+technology . Some PRC firms have used questionable
+practices to obtain  U.S. LiDAR  intellectual property (IP) .
+LiDAR Technology
+LiDAR is  a remote sensing method  that us es pulsed laser light to
+measure the distance, speed, and/or altitude of physical objects to
+map the surrounding environment. LiDAR allows for precise,
+accurate, and rapid three -dimensional measurements of natural and
+manmade environments with high resolut ion and long -range
+detection. Unlike other sensing technologies (e.g., cameras), LiDAR’s
+performance is not degraded in low -light conditions. There are
+different types of LiDAR. Scanning LiDAR uses mechanical rotation to
+spin the sensor and enables 360 -degree detection. U.S. firm Velodyne
+(now merged with U.S. firm Ouster) developed the first scanning
+LiDAR.  Microelectro -mechanical system (MEMS) LiDAR uses
+miniature mobile mirrors to scan the environment. MEMS firms
+include the U.S. firm Atomica. Optical ph ased array (OPA) LiDAR
+does not require sensor movement and is thus more durable than
+alternative LiDAR technologies. OPA firms include Quanergy. Flash
+LiDAR works like a camera to map environments using a single laser
+pulse. Flash LiDAR firms include Ledd arTech (Canada), Sense
+Photonics (U nited States ), and Continental (Germany).
+LiDAR Development and Applications
+The United States first developed LiDAR as a military
+technology in the 1960s for defense and aerospace uses.
+Since then, the LiDAR market has expanded with the
+development of systems capable of autonomous navigation,
+for which LiDAR is a critical enabling technology.  Its use
+has grown rapidly with demand for  electric vehicles (EV)
+and related autonomous driving systems (Figure 1).
+Commercial:  LiDAR has a range of applications in
+mapping, satellites, and space . In the automotive sector,
+LiDAR provide s sensin g capabilities for lane -keeping,
+collision avoidance, advanced driver assistance, and
+autonomous navigation.  In precision farming , it can
+monitor crop conditions and soil health. In meteorology,
+LiDAR  can improve weather forecasting. In manufacturing,
+firms use the technology for robotics and to monitor safety
+and productivity. “Smart cities” pair LiDAR with other
+technologies to int egrate sensor networks in utilities,
+transportation, and infrastructure. Chattanooga, Tennessee ,
+for example,  plans to use LiDAR at 86 traffic intersections
+in an effort to improve traffic management and safety.  Military : U.S. and PRC forces are among the  militaries
+using LiDAR to support autonomous navigation capabilities
+for uncrewed ground and aerial vehicles (UxV). LiDAR’s
+precision and speed enable military -specific use. UxV
+equipped with LiDAR could be used to conduct battle
+damage assessment —an esti mate of the physical and
+functional damage produced by an attack —removing the
+need for military personnel to be physically present and
+exposed on the battlefield. LiDAR -equipped UxV could be
+used to survey structural damage after natural disasters and
+to collect environmental data in remote or dangerous
+locations. The U.S. military has explored using LiDAR to
+identify and determine the depth of littoral sea mines and to
+conduct atmospheric monitoring to predict laser weapons’
+effectiveness. The U.S. Army sa ys potential uses include
+“platform  target identificat ion, aim point selection, range
+instrumentation support, weapon defenses , and mapping. ”
+Figure 1. LiDAR Applications: Market Forecasts
+Figure is interactive in the HTML version of this In Focus.
+Source: CRS, adapted from Yole Group.
+Notes:  ADAS is advanced driver assistance systems. Mfg. is
+manufacturing. 2021 is actual market. 2027 is forecasted market.
+China ’s Industrial Policies
+China’s  LiDAR firms benefit from PRC  industrial pol icies
+and related subsidies, market protections, preferences (e.g.,
+procurement) , and other  practices  widely seen as unfair .
+PRC policies  direct and finance the acquisition  of foreign
+IP to develo p China’s LiDAR  and related  technologies
+(e.g., semiconductors and optical sensors ). In 2020, China
+prioritized  state support to develop sectors that  use LiDAR
+(e.g.,  smart cities,  smart manufacturing, autonomous
+driving ). Since 2022, the PRC  has encouraged  foreign
+investment in its LiDAR sector on terms that develop  PRC
+capabilities  and has placed LiDAR under export controls .
+PRC policies  additionally  emphasize t echnical standards
+setting to promote the use of China’s IP and help PRC firms
+expand globally . PRC LiDAR firm Hesai has led  China’s
+efforts to develop national and global LiDAR standards. In
+the International Standards Organization, Hesai co -leads the
+Automotive LiDAR Working Group  in developing a test
+method for LiDAR performance and safety. Hesai co-
+developed a U.S. standard for automotive LiDAR  in 2020
+and global optical radi ation safety standards  in 2022 .
+U.S.-China Competition in Emerging Technologies: LiDAR
+https://crsreports.congress.gov  PRC policies incentivize aggressive  tactics  to obtain  foreign
+IP, which may  distort the common use of trade tools and
+involve questionable practices or illicit activity . In antitrust
+reviews  of global deals , the PRC  often sets terms for asset
+sales and technology transfer b efore approving deals.  In
+2023 , the PRC  effectively blocked Intel’s bid for I srael
+Tower Semiconductor, a LiDAR chip producer. PRC  firms
+use China’s courts to set foreign IP licensing terms and
+launch copycat cases to challenge U.S . court rulings. In
+2019 , U.S. firm Velodyne  charged  the PRC’s Hesai and
+RoboSense with illegally ac quiring IP during talks  to
+produce  its products in China. In 2020, Veldoyne and Hesai
+reached a global cross -licensing patent agreement . In 2023,
+U.S. Ouster charged Hesai with IP infring ement .
+China’s Use of the U.S. Market
+PRC LiDAR firms are using U.S. capital markets to secure
+financing, enter the U.S. market, form partnerships, and
+acquire  U.S. technology . In 2022 , CITIC , a PRC state
+inves tor, undertook a $1.4 billion reverse merger with U.S.
+Quanergy Systems . Quanergy de clared bankruptcy 10
+months later and sold its assets for $3.2 million to a limited
+liability company (LLC) with possible Russia ties . In 2018,
+China’s sovereign wealth fund  CIC bought U.S. Boyd
+Corporation  with Goldman Sachs. In 2015 , the PRC state
+semico nductor fund financed PRC NavTech’s acquisition
+of Sweden’s Silex  and a MEMS foundry in China that uses
+Silex ’s IP. In 2015, PRC state investors bought
+OmniVision, a U.S. sensor desig ner (Table 1). PRC auto
+firm Geely is invested in U.S. Luminar and co -develop ing
+LiDAR technologies.  Hesai is partnered with Bosch, a
+German automotive supplier and key LiDAR patent holder.
+China also has  ties to  U.S. LiDAR research. For example,
+Tsinghua -UC Berkel ey Shenzhen Institute’s phot onics lab
+in China works on LiDAR . The Institute’s ties to University
+of California may allow PRC access to the Sensor &
+Actuator Center and Marvell Nanolab in Berkeley . LiDAR
+USA is a Hesai distributor ; in 202 4 Hesai incorporated in
+the U.S. market as  Ame rican LiDAR . Robosense  has a
+North American headquarters in Michigan; in 2024, it
+joined  MCity, a University of Michigan research center.
+Table 1. Select ed PRC Purchases of LiDAR  Firms
+Year  Target    Acquirer  Capability
+2015 OmniVision   State investors  Sensor design
+2015 Silek  NavTech , Sino IC
+Fund Microscopic sensors
+2018 Boyd Corp.  CIC Optical encoders
+Faraday Future  Evergrande , CAS LiDAR IP
+2022 Quanergy  CITIC Hardware , software
+Source: Media and industry reports.
+While U.S. and other non -PRC firms have led t he LiDAR
+marke t with advanced research  capabilities and IP, PRC
+firms are poised to quickly take a leadership position . PRC
+industrial policies , acquisitions of foreign firms  and IP , and
+corporate partn erships  have already rapidly enhanced PRC
+firms ’ position  in the LiDAR  market , particularly  in
+automotive LiDAR , as seen in patents granted to PRC firms
+(Figure 2). Supported by state monies  and market
+preferences , PRC firms are scaling up quickly in China .
+Hesai has a $98.4 million credit line to expand production
+in Shanghai and sa id in its 2023 filing with the S ecurities
+and Exchange Commission that it would  use earnings  from
+its U.S. initial public offering for acquisitions, research , and manufacturing. PRC firms  had 58% of the global
+automotive LiDAR  market in 2020 , as measured by
+shipment s. Many PRC firms operat e at a loss  and may be
+selling below cost  to gain market share . Some analysts say
+the LiDAR market is ripe for consolidation , which may
+give China op enings  to acquire U.S. firms  and expand .
+Figure 2.Major Automotive LiDAR Patent Holdings
+Source: CRS, adapted from Henry Patent Law Firm .
+Note s: *China acquired U.S. firms Faraday Future  and Quanergy (and
+then sold Quanergy assets to an LLC in bankruptcy proceedings) . A
+patent family is a patent collection covering similar technical content.
+Military Ties and National Security Issues
+In China, LiDAR systems are regulated as radio systems that
+require military approval. Additionally, PRC policies seek to
+develop technologies that are interoperable for civilian and
+military use and may allow PRC state access. PRC LiDAR firms
+support mili tary programs. NavTech provides navigation
+technology for satellites (Beidou) and aviation defense (drones
+and fighter jets). Hesai makes equipment used in  autonomous
+warfighting vehicles  and is reportedly tied to the military’s China
+Electronics Technolog y Group Corporation . Robosense has ties
+to the Harbin Institute of Technology, a military university.
+There are reports that the U.S. federal government, state
+governments , and the U.S. military may be using or
+considering  the use of  PRC LiDAR systems. If so, it could have
+U.S. national security implications. China could use data
+compiled by PRC LiDAR systems to acquire sensitive
+information or exquisite mapping of U.S. infr astructure . China
+could use this information to conduct military or industrial
+espionage or gain operational advantages in a military conflict.
+PRC firms also could introduce malware via a software update
+and degrade the performance of systems using the te chnology.
+In 202 5, the Department of Defense relisted Hesai on its list
+of military companies in accordance with the William M. (Mac)
+Thornberry  National Defense Authorization Act for F Y2021,
+Section 1260H  (P.L. 116 -283). Additionally, i n December
+2025, the Department of Commerce  issued rules that restrict
+the use of PRC connected technology in U.S. vehicles.
+Issues for Congre ss
+To help ensure fair competition and to protect U.S. national
+security, Congress could  consider the tactics China is using
+to advance in LiDAR and whether to  strengthen  U.S. and
+allied  procurement  rules  to review or restrict  federal, state,
+and military acquisition of PRC LiDAR systems. Congress
+could  also consider  policies related to  investment, export
+controls, fair trade, antitrust, standards, capital markets, IP
+licensing  and infringement , bankruptcy, and research .
+Karen  M. Sutter , Specialist in Asian Trade and Finance
+Kelley M. Sayler , Specialist in Advanced Technology and
+Global Security
+U.S.-China Competition in Emerging Technologies: LiDAR
+https://crsreports.congress.gov  | IF12473  · VERSION 8 · UPDATED   IF12473
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress.
+Information in a CRS Report should n ot be relied upon for purposes other than public understanding of information that has
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the
+United States Government, are not subject to copyr ight protection in the United States. Any CRS Report may be
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include
+copyrighted images or material from a third party, you may need to obtain the permissio n of the copyright holder if you
+wish to copy or otherwise use copyrighted material.

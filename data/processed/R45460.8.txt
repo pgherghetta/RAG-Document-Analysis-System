@@ -1,0 +1,941 @@
+Coastal Zone  Management Act (CZMA):
+Overview and Issues for Congress
+Updated February 19, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R45460
+Congressional Research Service
+SUMMARY
+Coastal Zone Management Act (CZMA):
+Overview and Issues for Congress
+The Coastal Zone Management Act (CZMA; P.L. 92 -583, 16 U.S.C. §§1451 -1466),  enacted in
+1972 and since amended, set up a national framework for states and territories to consider and
+manage coastal resources and potential impacts on those resources, and for the federal
+government to provide financial assistance to support such eff orts. Congress may continue to
+consider whether to alter —and if so, how —the focus and implementation of CZMA activities
+and CZMA’s federal assistance authorizations and appropriations. Congress also may consider
+whether —and if so, how —to modify or codify i n statute any executive actions taken by the Trump Administration.
+Under CZMA, if a state or territory chooses to develop a coastal management program (CMP) and the Secretary of
+Commerce approves such a program, the state or territory becomes a participan t and (1) is eligible for federal financial
+assistance and (2) can perform consistency determination reviews  of federal agency actions in coastal areas. The Secretary of
+Commerce has delegated CZMA administration to the National Oceanic and Atmospheric Adm inistration’s (NOAA’s)
+Office for Coastal Management (OCM). States determine the details of their CMPs, including coastal zone boundaries, issues
+of most interest to them, and policies to address these issues, among other factors. Thirty -five states and te rritories (including
+the Great Lakes states, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the U.S. Virgin Islands) are
+eligible to participate. Although all 35 have chosen to participate at some point, 34 are currently part of the N ational Coastal
+Zone Management Program (NCZMP; Alaska has not participated since 2011).
+Between FY1974 and FY2024, NOAA allocated nearly  $2.7 billion (nominal dollars) to participants  across six coastal zone
+management -related financial assistance progra ms. During this time, participants received amounts ranging from at least
+$25.5 million to over $1 34.0 million in financial assistance, depending on factors such as how long the participant had been a
+part of NCZMP, the participant’s population and shoreli ne length, and the extent of the participant’s success in competitive
+CZMA grant programs. Congress provided $81.5 million to NOAA for coastal zone management financial assistance in
+FY2026.
+CZMA consistency provisions require federal actions that have rea sonably foreseeable effects on coastal uses or resources to
+be consistent with policies of a participant’s approved CMP. An action may occur in the participant’s approved coastal zone
+or in nearby federal or out -of-state waters that may cause interstate co astal effects. Federal agencies or applicants proposing
+to perform work in or near coastal zones (e.g., a project developer proposing an activity pursuant to a federal permit or usi ng
+federal funds) must submit a consistency determination to the potentiall y affected participant certifying that the actions are
+consistent with participant policies and providing participants the opportunity to review their determinations. Depending on
+the federal action, federal agencies may or may not move forward with the ac tivity if the participant finds the action is not
+consistent with the participant’s policies.
+Congress continues to consider changes to CZMA. For example, some Members in the 119th Congress have argued for
+alterations to CZMA account for continued populat ion and infrastructure growth along the coast, and evolving coastal
+environmental conditions. Introduced bills would amend CZMA to address climate change and “working waterfronts” (e.g.,
+H.R. 1808 ; H.R. 2786 , H.R. 2990 ; H.R. 3718  §202; and H.R. 5746  §303), among other topics. Congress has examined how
+the Secretary of Commerce  and NOAA have implemented CZMA and whether changes to the agency, the law, or the law’s
+implementation are necessary. Concerns have focused on specific financial assistance programs, as well as federal
+consistency determination reviews of certain activiti es. Members of Congress have introduced some bills to address these
+issues (e.g., H.R. 1874  and H.R. 5342 ) and may consider additional oversight activities, such as reporting. Additionally,
+Congress may consider proposals to reauthorize or modify appropriated amounts for CZMA financial assistance programs.
+Various stakeholders have argued for changes to approp riated amounts for the CZMA financial assistance programs to
+address changing or additional priorities on and away from the coast. Bills in the 119th Congress to modify CZMA’s
+authorization of appropriations or funding include H.R. 143  and H.R. 2786 . R45460
+February 19, 2026
+Eva Lipiec
+Specialist in Natural
+Resource Policy
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service  Contents
+Introduction  ................................ ................................ ................................ ................................ ..... 1
+Coastal Zone Management Act  ................................ ................................ ................................ ....... 2
+National Coastal Zone Management Program ................................ ................................ .................  2
+How States and Territories Become Part of  the NCZMP  ................................ ..........................  3
+Why States and Territories May Choose to Join the NCZMP  ................................ ...................  4
+Access to Federal Financial Assistance Programs  ................................ ..............................  4
+Federal Consistency Determination Review  ................................ ................................ ....... 8
+Issues for Congress  ................................ ................................ ................................ ........................  12
+Changes Along the Coast  ................................ ................................ ................................ ........  13
+Effectiveness of CZMA Implementation  ................................ ................................ ................  14
+Authorization of Appropriations and Funding for CZMA Financial Assistance
+Programs  ................................ ................................ ................................ ..............................  16
+Figures
+Figure 1. Amounts Disbursed by CZMA Financial Assistance Prog rams,
+FY1974 -FY2024  ................................ ................................ ................................ ..........................  8
+Figure 2. CZMA Consistency Determination Objection Appeals to the Secretary of
+Commerce, 1972 -August 2025  ................................ ................................ ................................ .. 12
+Tables
+Table 1. Coastal Zone Management Act (CZMA) Financial Assistance Provisions  .......................  6
+Table 2. Summary of CZMA Consistency Determination Review Process by  Proposed
+Federal Action Type  ................................ ................................ ................................ ....................  11
+Contacts
+Author Information  ................................ ................................ ................................ ........................  18
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   1 Introduction
+The Coastal Zone Ma nagement Act (CZMA; P.L. 92 -583, 16 U.S.C. §§1451 -1466 ) set up a
+national framework for states and territories to consider and manage coastal resources.  Congress
+passed  the act in 1972  and has am ended it 11 times, most recently in 2009.1 Congress deliberated
+and passed CZMA at a time when concern about environmental degradation spurred passage of
+many of the nation’s environmental statutes.2 Under the act, i f a state or territory chooses to
+deve lop a coasta l management program and the program is approved by the Secretary of
+Commerce, the state or territory (1)  becomes elig ible for several federal financial assistance
+programs  and (2) can perform reviews of certain federal agency actions in coasta l areas (known
+as federal consistency determination reviews ).
+Since 1972, many of the trends that originally called congressional attention to coastal
+management have continued. According to the 2020 census, coastal shoreline counties were home
+to 129 mill ion people —nearly 40% of the U.S. population.3 Coastal areas also are home to
+economic sectors such as fishing, transportation, defense, offshore energy, and tourism and to
+natural resources such as estuaries, beach systems, and wetlands. The shoreline li kely will
+continue to be affected by pressures to both develop and preserve areas, large -scale natural events
+(e.g., hurricanes and tsunamis), and long -term environmental changes (to relative sea level,
+rainfall, wetland coverage, and air and water tempera tures, etc.).4 Congress may continue to
+consider whether and how CZMA should respond to these pressures, whether CZMA is being
+effectively implemented, and whether changes should be made to CZMA financial assistance
+programs, including their authorization  of appropriations and funding levels.
+This report provides a review of CZMA with a specific focus on the National Coastal Zone
+Management Program (NCZMP). The report discusses how and why states and territories may
+choose to participate in the national p rogram (namely, to access federal financial assistance and to
+review consistency determinations related to federal actions, such as federally implemented or
+federally supported projects in coastal areas) and recent issues for Congress. Issues for potential
+consideration include addressing changes in the environment and development along the coast
+within CZMA, effectiveness of federal implementation of CZMA provisions, and authorization of
+appropriations and funding levels for CZMA financial assistance progr ams.
+1 The Coastal Zone Ma nagement Act (CZMA; P.L. 92 -583, 16 U.S.C. §§1451 -1466) received broad support in both
+chambers. The Senate passed its version of the bill ( S. 3507 , 92nd Congress) by a 68 -0 roll -call vote, and the House
+passed its version ( H.R. 1414 , 92nd Congre ss) by a 376 -6 roll -call vote. The conference report was adopted by voice
+vote in both chambers. In addition to CZMA, the 92nd Congress considered but did not enact  more general national land
+use planning legislation. Some Members of  Congress concluded tha t the challenges the general land use legislation was
+intending to address were most concentrated in coastal areas and warranted immediate attention. U.S. Congress, Senate
+Committee on Commerce, Bill Report on S. 3507, National Coastal Zone Management Act of 1972 , S. Rpt. 92 -753, p.
+3. The result was CZMA, with the intent by some Members to fold coastal management into more encompassin g
+legislation at a later date. U.S. Congress, Conference Committee, Conference Report to Accompany S. 3507, Coastal
+Zone Man agement Act of 1972 , H. Rept. 92 -1544, p. 13.
+2 For example, in 1970, Congress passed the National Environmental Policy Act of 1969 ( P.L. 91 -190) and President
+Nixon create d the Environmental Protection Agency. The Federal Water Pollution Control Act Amendments of 1972
+(P.L. 92 -500; also known as the Clean Water Act) also were enacted in the e arly 1970s.
+3 National Oceanic and Atmospheric Administration (NOAA), Office for Coastal Management (OCM), “Economics
+and Demographics,” https://coast.noaa.gov/ states /fast-facts/ economics -and-demographics.html , archived April 1, 2025,
+at https://perma.cc/ Q85H -YB33 .
+4 NOAA, “Land Cover Change,” https://coast.noaa.gov/ states/ fast-facts/ land-cover -change.html , archived December
+19, 2025, at  https://perma.cc/ M5X5 -Z8W4https:/ /coast.noaa.gov/ states/ fast-facts/ land-cover -change.html ; and U.S.
+Global Change Research Program (USGCRP), “Chap ter 9: Coastal Effects,” in Fifth National Climate Assessment ,
+2023. Hereinafter USGCRP, “Chapter 9: Coastal Effects.”
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   2 Coastal Zone Management Act
+Congress enacted CZMA “to establish a national policy and develop a national program for the
+management, beneficial use, protection, and development of the land and water resources of the
+nation’s coastal zones.”5 Although CZMA has been amended 11 times since enactment, the
+national policies as declared by Congress have stayed relatively consistent over time. The
+national policies include
+• to preserve, protect, develop, and, if possible, restore or enhance coastal
+resources;
+• to encourage and assist states and territories to effectively exercise their
+development and management responsibilities in the coastal zone, giving full
+consideration to ecological, cultural, historic, and aesthetic values as well as the
+needs for compatible economic development;
+• to encourage the preparation of special area management plans to protect
+significant natural resources, support reasonable coastal -dependent economic
+growth, and improve protection of life and property;
+• to encourage t he participation and cooperation of the public, state and local
+governments, interstate and other regional agencies, and federal agencies to carry
+out CZMA;
+• to encourage coordination and cooperation with and among appropriate federal,
+state, and local agen cies, and international organizations, in collection, analysis,
+and dissemination of coastal management information and research; and
+• to respond to changing circumstances affecting the coastal environment and
+resources and their management by encouraging s tates and territories to consider
+ocean uses that may affect the coastal zone.6
+Under CZMA, each level of government plays a role in coastal management. At the federal level,
+the Secretary of Commerce  implements CZMA’s national policies and provisions; th e Secretary
+has delegated this responsibility to the National Oceanic and Atmospheric Administration’s
+(NOAA’s) Office for Coastal Management (OCM). To participate in the NCZMP, states must
+adhere to guidelines as set in federal statute and related regulat ions. States and territories
+determine the details of their coastal management programs (CMPs), including the boundaries of
+their coastal zones, issues of most interest to the state, and policies to address these issues, among
+other factors. Local governme nts implement the approved CMPs, often through land use
+regulations.
+National Coastal Zone Management Program
+OCM administers CZMA provisions under two national programs, the NCZMP and the National
+Estuarine Research Reserve System (NERRS);7 this report focuses on the NCZMP. The NCZMP
+5 P.L. 92 -583.
+6 16 U.S.C. §1452.
+7 The National Estu arine Research Reserve System program funds research and monitoring in 30 protected coastal
+areas. The Digital Coast is an online platform with data, tools, and training  for U.S. coastal managers and technicians .
+OCM houses the NOAA Coral Reef Conservation  Program, which supports efforts to preserve, sustain, and restore
+coral reef ecosystems across NOAA. More information on all of these programs can be found at NOAA, “Learn About
+the Programs,” https://coast.no aa.gov/ about/ , archived April 1, 2025, at https://perma.cc/ 8VNR -3UYH .
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   3 encourages interested coastal states and territories (hereinafter referred to as states ) to work with
+NOAA to develop and implement coastal management programs.8 To join, states must develop
+CMPs pursuant to CZMA and federa l regulations. States that join the NCZMP are eligible for
+several federal financial assistance programs and have the right to review federal actions for
+consistency with state coastal policies.
+How States and Territories Become Part of the NCZMP
+If a state chooses to become part of the NCZMP, it must develop a CMP pursuant to CZMA
+Section 306 and NOAA regulations.9 CMPs must contain “a broad class of policies for ...
+resource protection, management of coastal development, and simplification of governm ental
+processes.”10
+The Secretary of Commerce (the Secretary) must conclude that the state has completed certain
+tasks (e.g., included required program elements and coordinated with local and regional agencies)
+to approve the CMP. Once the Secretary appro ves the state’s CMP, the state is eligible to receive
+the NCZMP’s benefits and is referred to as a participant  of the national program.11 The Secretary
+is expected to evaluate participants at least once every three years to determine whether they are
+worki ng toward their stated plans.12
+Thirty -five states and territories (including states surrounding the Great Lakes , American Samoa,
+Guam, the Northern Mariana Islands, Puerto Rico, and the U.S. Virgin Islands) are eligible to
+participate. Although all 35 eligible states and terri tories have at some point chosen to participate,
+34 are currently part of the NCZMP .13
+8 Participating in CZMA is voluntary;  states  and territories (hereinafter states ) are not required to submit a coastal
+management program t o the Secretary of Commerce. However, if and when a state’s coastal management program is
+approved by the Secretary of Commerce, the state must implement Section 6217, the Coastal Nonpoint Pollution
+Control Program, which requires states with approved coas tal management programs to reduce polluted runoff to
+coastal waters through specific land -based measures.
+9 16 U.S.C. §1455 and 15 C.F.R. Part 923.
+10 15 C.F.R. §923.3(c).
+11 16 U.S.C. §1455.
+12 15 C.F.R. §923.132. Information about evaluation criteria can be  found at NOAA, Evaluation Process: Coastal Zone
+Management Act Evaluations , June 2021, https://coast.noaa.gov/ data/ czm/ media/ guidance -evaluation -process.pdf ,
+archived April 1, 2025, at https://perma.cc/ PTT6 -VKZ2 . Past  evaluations can be found at NOAA, “Evaluation
+Findings,” https://coast.noaa.gov/ czm/ evaluations/ evaluation_findings/ index.html , archived December 19, 2025, at
+https://perma.cc/ HPS5 -MWP7 . Information about ongoing evaluations can be found at NOAA, “Program Evaluations,”
+https://coast.noaa.gov/ czm/ evaluations/ , archived December 19, 2025, at https://pe rma.cc/ VQY7 -VL52 .
+13 Alaska’s legislature did not renew its coastal management program on July 1, 2011, resulting in its withdrawal from
+the National Coastal Zone Management Program (NCZMP) (NOAA, “ Alaska Coastal  Management Program
+Withdrawal f rom the National Coastal Managem ent Program Under the Coastal Zone Management Act (CZMA) ,” 76
+Federal Register  39857, July 7, 2011). According to some, Alaska’s choice to discontinue the program was influenced
+by natural resource extraction agencies and divisive political discourse. Othe rs argue that legislation to reestablish the
+program would have created a larger coastal zone and would have had adverse impacts on the state  (Ryan M. Wilson,
+Why Did Alaska Eliminate the Alaska Coastal Management Program? , 2018, https://scholarworks.alaska.edu/ handle/
+11122/ 8751 , and Mark Thiessen, “Coastal Management Initiative Fails by a Heavy Margin,” Alaska Journal of
+Commerce , 2012, https://www.proquest.com/ trade -journals/ coastal -management -initiative -fails-heavy -margin/
+docview/ 1040833201/ se-2?accountid= 12084 ).
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   4 Variety Among State Coastal Management Programs
+Although the Coastal Zone Management Act (CZMA) and related regulations require states and territo ries
+(hereinafter states ) to include specific components and take certain steps in developing their coastal management
+programs (CMPs), states have flexibility  in their programs’ structure and focus. Once the Secretary of Commerce
+approves a state’s CMP, t he state becomes known as a participant . CMPs vary in terms of where in each
+participant’s government the program is situated , the relationships between state and local levels of government,
+and which issues are emphasized.
+One major variation among CMPs is a program’s  placement in the participant’s government al structure , which may
+indicate how that participant approaches coastal management . NOAA has designated participants as direct or
+networked  states. Direct states are pa rticipants with a single state agency with direct coastal comprehensive permit
+or regulatory activities. These states include California, Connecticut, Louisiana, New Jersey, North Carolina,
+Northern Marianas, Rhode Island, South Carolina, and the U.S. Virg in Islands. Networked states are those
+participants with a lead state agency that coordinates with other state agencies and where several state agencies
+have CMP responsibilities. These states include the remaining states and territories that are currently  part of the
+National Coastal Zone Management Program.
+A second variation among CMPs is how programs divide responsibilities between the state and local levels of
+government. NOAA has identified three main techniques participants use in their CMP organiza tional structure.
+Technique A is where a state establishes criteria and standards for local implementation, subject to state
+administrative review and enforcement. While many state s use Technique A, no states use only Technique A.
+Technique B is where a st ate implements land and water use planning and regulation. States using Technique B
+include American Samoa, Georgia, Guam, Illinois, Indiana, Mississippi, New Hampshire, New Jersey, Northern
+Marianas, Puerto Rico, Rhode Island, South Carolina, and the U.S.  Virgin Islands. The remaining states, with the
+exception of Michigan, use a mix of Techniques A and B. Finally, Technique C is where a state reviews actions
+affecting land and water uses in the CMP on a case -by-case basis. Michigan uses a combination of T echniques A, B,
+and C.
+A third variation is the selection of program components that participants choose to emphasize, such as the
+protection of natural resources and the management of coastal development. A participant’s focus may depend on
+characteristi cs of its coastal zone, major activities in the coastal zone, and associated issues and challenges. A
+comparison across the 34 participants is outside the scope of this report . However, as an example, both Illinois
+and Indiana are networked programs that u se Technique B. Illinois  has chosen to focus on habitats and species,
+economic development and recreation, and coastal communities. The program in neighboring Indiana has focused
+on protection and sustainable use of natural and cultural resources in the La ke Michigan region.
+Sources:  Personal correspondence with NOAA, Office of Legislative and Intergovernmental Affairs,
+February 9, 2024; Illinois Department of Natural Resources, “Coastal Management Program,”
+https://dnr.illinois.gov/ cmp.html ; and Indiana Department of Natural Resources, “About the Lake Michigan
+Coastal Program,” https://www.in.gov/ dnr/lake-michigan -coastal -program/ about/ .
+Why States and Territories May Choose to Join the NCZMP
+Participation in the NCZMP provides various benefits to participants, including access to several
+federal financial assistance programs and the right to review certain federal actions for
+consistency with state coastal policies. These provisions have been mainstays of CZMA since its
+congressional consideration and enactment.14
+Access to Federal Financial Assistance Programs
+Coastal states or territories with approved CMPs are e ligible to apply for federal financial
+assistance for coastal zone management. Financial assistance programs have changed over time to
+reflect congressional priorities and have included funding for program development, coastal
+energy impacts, and research and technical assistance. Currently, CZMA authorize s the Secretary
+of Commerce to provide funding related  to program administration (Section 306),15 coastal
+14 U.S. Congress, Senate Committee on Commerce, Legislative History of the Coastal Zone Management Act of 1972,
+as Amended in 1974 and 1976 with a Section -by-Section Index , committee print, prepared by the Congressional
+Research Service, 94th Cong., 2nd sess., 1976, CMP -1976 -COM -0021.
+15 16 U.S.C. §1455.
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   5 resource improvement (Section 306A),16 coastal and estuarine land conservation (Section
+307A),17 coastal enhancement objectives (Section 309),18 technical assistance (Section 310),19 and
+coastal nonpoint pollution control (Section 6217) ( Table 1).20 The ability to fund activities under
+these authorities is subject to the availability of appropriations .
+Table 1 shows programs that are a part of CZMA; some, but not all, have received federal
+funding in the last few years. For example, Congress appropriated $81.5 million for CZMA
+financial assistance for FY202 4, of which the agency allocated $71.4 million to Section s 306 and
+306A grants and $10.0 million to Section 309 grants.21 Congress provided a total appropriation to
+NOAA for FY2025 but did not identify a specific amount for CZMA financial assistan ce, and the
+agency has not released a spending plan detailing its allocations.  Congress again provided NOAA
+with $81.5 million for CZMA financial assistance in FY2026; details about the allocation of
+funds to specific programs were not available at the tim e of this report.22
+According to NOAA, the agency disbursed nearly  $2.7 billion to participants  between FY1974
+and FY2024 (nominal dollars ) across the six programs shown in Table 1 (Figure 1).23 The
+disbursement total  does not include amounts for financial assistance  programs  discontinued by
+Congress ( i.e., Section 305 for management program development , Section 308 for impacts o f
+coastal energy and other coastal uses , and Section 309 for interstate coordinated coastal zone
+planning and programs) .24 Between FY1974 and FY2024 , participants received amounts ranging
+from at least $25.5 million to over $1 34.0 million across the programs in Table 1, depending on
+factors such as how long the participant ha d been a part of NCZMP , the participant’s population
+and shoreli ne length , and the extent of the participant’s success in competitive CZMA grant
+programs.25
+16 16 U.S.C. §1455a.
+17 16 U.S.C. §§1456 -1 and 1456d.
+18 16 U.S.C. §1456b.
+19 16 U.S.C. §1456c.
+20 16 U.S.C. §1455b. CZMA also includes 16 U.S.C. 1456a, the Coastal Zone Management Fund (Fund), a mechanism
+for NOA A to provide loans to various coastal entities for coastal zone work. The fund was established, operated, and
+was amended several times. It is unclear whether the fund could function under the language of the current statute. In
+2011, Congress permanently rescinded unobligated or unavailable funding in the Fund, and directed any future loan
+repayments to the Fund to be treated in accordance with the Federal Credit Reform Act of 1990 ( P.L. 112 -55; 16
+U.S.C. §1456a note). As such, according to NOAA in 2018, if Congress appropriated dollars to the fund, NOAA would
+need a new authority to provide loans and to receive repayments for new loans (personal correspondence with NOAA’s
+Office of Legislative and Intergovernmental Affairs (OLIA), November 7, 2018).
+21 Personal correspondence with NOAA’s OLIA, August 12, 2025. An amount, less than $100,000, was assessed for
+the Hollings Scholarship Program.
+22 Explanatory Statement Submitted b y Mr. Cole, Chair of the House Committee on Appropriations, regarding H.R.
+6938, Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act,
+2026, Congressional Record , vol. 172, part 2 (January 8, 2026), p. H 257.
+23 Personal correspondence with NOAA’s OLIA, January 12, 2026. NOAA indicated the funding amounts do not
+include funds from the Infrastructure Investment and Jobs Act, Inflation Reduction Act, and congressionally directed
+spending, or through the Great  Lakes Restoration Initiative (limited to use in Great Lakes states), which may have been
+allocated to the CZMA financial assistance programs.
+24 The agency has disbursed over $75.0 million for Sections 305 and 309 – Interstate Financial Assistance Programs .
+NOAA did not provide an estimate for the Section 308 program (personal correspondence with NOAA’s OLIA,
+January 12, 2026).
+25 Personal correspondence with NOAA’s OLIA, January 12, 2026. NOAA determines a participant’s annual allocation
+for non -competitive  financial assistance using a formula which considers the participant’s coastal population and
+shoreline mileage, among other factors (15 C.F.R. §923.110). As noted in footnote 23, the disbursement amounts do
+not include amounts from several other funding sources.
+CRS -6 T able 1. Coastal Zone Management Act (CZMA) Financial Assistance Provisions
+Provis ion and Programa Program Summary
+16 U.S.C. §1455
+Section 306. Administrative Grants  The Secretary of Commerce may allocate formula grants to coastal states with approved coastal management programs (CMPs) to
+administer the program. Grants are allocated based on extent and nature of the shoreline and area covered by the program, pop ulation  of
+the area, and other relevant factors. State cost share is required. Implementing regulation at 15 C.F.R. §923.90 -923.96 and 15 C.F.R.
+§923.110.
+16 U.S.C. §1455a
+Section 306A. Coastal Resource
+Improvement Program
+The Secretary of Commerce may provid e grants to eligible coastal states to assist with certain activities. National Oceanic and
+Atmospheric Administration (NOAA ) has interpreted the statute to mean that coastal states with CMPs may use a portion of their
+federal Section 306 funds for Section  306A activities, including (1) preservation or restoration of areas of conservation, recreational,
+ecological, and aesthetic value or of national significance; (2) the redevelopment of urban waterfronts and ports identified as areas of
+concern; (3) access  to public beach and coastal areas; and (4) the development of a coordinated process among state agencies to regulate
+and issue permits for aquaculture facilities in the coastal zone. State cost share is required.b
+16 U.S.C. §§1456 -1 and 1456d
+Section 307A. Coastal and Estuarine
+Land Conservation Program  The Secretary of Commerce may administer competitive grants to coastal states with CMPs or to N ational Estuarine Research Reserve
+System (NERRS) units to acquire property or interest in property that will further the goals of the CMP, NERRS management pla n,
+regional or state watershed protection or management plan, or state land acquisition plan tha t is consistent with an approved CMP. State
+cost share is required. b
+16 U.S.C. §1456b
+Section 309. Coastal Zone
+Enhancement Grants
+The Secretar y of Commerce may allocate formula grants and administer competitive grants for projects of special merit to eligible coastal
+states for development and implementation of coastal zone enhancement objectives. The objectives include (1) protecting, rest oring , or
+enhancing existing coastal wetlands or creating new coastal wetlands; (2) preventing or reducing threats to life and destruct ion of
+property by eliminating or managing development in hazardous areas; (3) providing increased current and future public a ccess; (4)
+reducing marine debris; (5) developing and adopting procedures to consider and manage cumulative and secondary impacts of coa stal
+growth and development; (6) preparing and implementing special area management plans for important coastal areas; ( 7) planning for the
+use of ocean resources; (8) adopting procedures and enforceable policies to facilitate energy facility siting; and (9) adopti ng procedures
+and policies to evaluate and facilitate public and private aquaculture in the coastal zone. Grant s are allocated based on evaluation and
+ranking of the state’s comprehensive, multiyear statement of goals and methods to achieve priority enhancement objectives, as
+determined by NOAA and the state, with a yearly minimum and maximum. No state cost share i s required. Implementing regulations at
+15 C.F.R. §923.121 -923.128.
+16 U.S.C. §1456c
+Section 310. Technical Assistance  The Secretary of Commerce may enter into contracts or other arrangements with coastal states with CMPs to provide technical
+assistance and fund management -related research in support of the development and implementation of coastal zone enhancement -related
+amendments to CMPs and international cooperative efforts.b
+16 U.S.C. §1455b
+Section 6217. Coastal Nonpoint
+Pollution Control Program  The Secretary of Commerce, in consultation with the Environmental Protection Agency administrator, may allocate formula grant s to
+states and territories with approved CMPs for development of state coastal nonpoint pollution control programs. Grants will be all ocated
+based on regulations pursuant to Section 306 grants and state cost share is required.b
+Source: Congressional Research Service (CRS) from 16 U.S.C. §§1451 et seq., regulations, and agency guidance.
+CRS -7 a. The Secretary of Commerce has delegated to the NOAA assistant administrat or many of the responsibilities related to the programs described in this table.
+b. NOAA has not promulgated regulations related to §§306A, 307A, 310, or 6217. Instead, NOAA has issued guidance documents for some of these programs (e.g.,
+NOAA, Coastal Zone M anagement Act Section 306A Guidance , April 2025, https://coast.noaa.gov/ data/czm/media/ guide306a.pdf , archived December 19, 2025, at
+https://perma.cc/ A3PZ -599V ; and NOAA, Funding Guidance for State/Territory Expenditure of Coastal Nonpoint Pollution Control Program Implementation Funds , March
+2006, https://coast.noaa.gov/ data/czm/media/ grantsguidance_fy066217.pdf , archived December 19, 2025, at https://perma.cc/ V95U -QQ2X  )
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   8 Figure 1. Amounts Disbursed by CZMA Financial Assistance Programs,
+FY197 4-FY20 24
+(nominal dollars)
+Source: CRS using data from NOAA’s Office of Legislative and Intergovernmental Affairs, January 12, 2026.
+Notes:  NOAA combined funding information for Sections 306 and 306A grants. In addition, NOAA indicated
+the funding amounts do not include funds from the Infr astructure Investment and Jobs Act, Inflation Reduction
+Act, and congressionally directed spending, or through the Great Lakes Restoration Initiative (limited to use in
+Great Lakes states), which may have been allocated to the CZMA financial assistance pro grams.
+Federal Consistency Determination Review
+CZMA Section 307 requires federal actions that have reasonably foreseeable effects on coastal
+uses or resources to be consistent with the enforceable policies of a participant’s approved CMP.26
+These actions  may occur in the state’s approved coastal zone or in federal or out -of-state waters
+(which may cause interstate coastal effects). Federal agencies or applicants proposing to perform
+certain actions with a federal nexus (e.g., a project developer that woul d perform work pursuant
+to a federal permit or using federal funds)  must submit a consistency determination or consistency
+certification  (hereinafter referred to as a consistency determination), depending on the federal
+action, to the potentially affected participant  confirming that proposed actions are consistent with
+the state’s coastal policies.27 The participant then completes a consistency determination review.
+Statutes and NOAA regulation have defined several terms related to consistency determinations
+and reviews , including the following:
+• Applicant  is “any individual, public or private corporation, partnership,
+association, or other entity organized or existing under the laws of any nation,
+State, or any State, regional, or local government, who, following management
+program approval, either files a n application for a required individual federal
+license or permit, or who files a consistency certification for a required general
+federal license or permit … to conduct an activity affecting any coastal use or
+resource.”28
+• Coastal zone  is defined as the c oastal waters and adjacent shorelands, strongly
+influenced by each other, and includes islands, transitional and intertidal areas,
+salt marshes, wetlands, and beaches. The zone extends in Great Lakes waters to
+26 16 U.S.C. §1456(c)(1)(A).
+27 16 U.S.C. §1456(c)(1)(C); 16 U.S.C. §1456(c)(3)(A); 16 U.S.C. §1456(c)(3)(B); and 16 U.S.C. §1456(d).
+28 15 C.F.R. §930.52.
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   9 the international boundary and in other areas seaward to the outer limit of the
+state title and ownership under various acts, such as the Submerged Lands Act.29
+The zone extends inland from the shorelines only to the extent necessary to
+control shorelands and to control those geographical areas that a re likely to be
+affected by or vulnerable to sea level rise.30 Identification of the coastal zone
+boundaries is a required part of an approved CMP.31
+• Effect  on coastal use or resource refers to “any reasonable foreseeable effect on
+any coastal use or reso urce resulting from a federal agency activity or federal
+license or permit activity,” including federal assistance to state and local
+governments.32 Effects may be environmental or impact coastal use; may be
+direct or secondary; and may result from the inc remental impact of past, current,
+or future actions.33 The determination of whether the action will have a
+reasonably foreseeable effect is also known as the effects test.
+• Enforceable policies  are “state policies which are legally binding through
+constitut ional provisions, laws, regulations, land use plans, ordinances, or judicial
+or administrative decisions, by which a state exerts control over private and
+public land and water uses and natural resources of the coastal zone.”34
+• Federal actions  include fed eral agency activities, federal license or permit
+activities, outer continental shelf plans, and federal assistance to state and local
+governments.35 NOAA requires participants to submit lists of federal actions that
+are subject to consistency determinatio n reviews and their general geographic
+areas.36
+• Interstate coastal effect  refers to any reasonably foreseeable effect resulting from
+a federal action occurring in one state on any coastal use or resource of another
+state that has an approved CMP.  Effects may be environmental or impact coastal
+use; may be direct or secondary; and may result from the incremental impact of
+past, current, or future actions.37 A state must identify a list of federal actions in
+29 67 Stat. 29.
+30 16 U.S.C. §1453(1).
+31 16 U.S.C. §1455(d)(2)(A).
+32 15 C.F.R. §930.11(g).
+33 15 C.F.R. §930.11(g).
+34 16 U.S.C. §1453; 15 C.F.R. §930.11(h).
+35 NOAA has defined federal actions  in regulation. Federal agency activities  means “any functions performed by or on
+behalf of a Federal agency in the exercise of its statutory responsibilities” (15 C.F.R. §930.31). Federal license o r
+permit activities  is defined as “any authorization that an applicant is required by law to obtain  in order to conduct
+activities affecting any land or water use of natural resource of the coastal zone and that any Federal agency is
+empowered to issue to an applicant” (15 C.F.R. §930.51). OCS [ outer continental shelf] plans  means “any plan for the
+exploration or development of, or production from, any area which has been leased under the Outer Continental Shelf
+Lands Act (43 U.S.C. §§1331 et seq.), and the regulations under that Act, which is submitted to the Secretary of the
+Interior or designee follow ing management program approval and which describes in detail federal license or permit
+activities” (15 C.F.R. §930.73). Federal assistance  is defined as “assistance provided under a federal program to an
+applicant agency through grant or contractual arran gements, loans, subsidies, guarantees, insurance, or other form of
+financial aid” (15 C.F.R. §930.90 -91). 16 U.S.C. §1456(c)(1)(C); 16 U.S.C. §1456(c)(3)(A); 16 U.S.C. §1456(c)(3)(B);
+and 16 U.S.C. §1456(d).
+36 15 C.F.R. §930.34(b) -(c); 15 C.F.R. §930.53 -930.54; 15 C.F.R. §930.74; and 15 C.F.R. §930.95. NOAA has
+promulgated regulations for review of unlisted actions. See regulations listed above for more details.
+37 15 C.F.R. §930.151.
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   10 other states for approval by NOAA in order to perform interstate consistency
+determination reviews.38
+Participant reviews of federal actions are context -specific and depend on the location and action
+in question, with different rights and responsibilities assigned to the federal agency, applicants ,
+and participants involved. The consistency determination review process —such as which party
+determines the foreseeable effects, the length of the participant review period, the effect of a
+participant’s objection to the action, and the available conflict  resolution or appeals options —
+depends on the federal action in question ( Table 2).39
+As noted above, resolutions to participant object ions to consistency determinations depend on the
+federal action in question, as follows:
+• Federal agency acti vities: If a participant objects to a federal agency’s
+consistency determination, the participant may request mediation from the
+Secretary of Commer ce or OCM. Regardless of the mediation outcomes, the
+federal agency may proceed with its activities if
+• the agency provides a legal basis for being consistent to the maximum
+extent practicable ,40 or
+• the agency has concluded that its proposed action is fully  consistent with
+the participant’s enforceable policies.41
+• Federal license or permit activities, outer continental shelf plans, and federal
+assistance to state and local governments : If the participant objects to the
+consistency determination, the federal agency cannot authorize the action unless
+the Secretary of Commerce overrides the objection.42 The applicant may appeal
+the objection to the Secretary, who is expected to review the administrative
+record and may override a participant’s objection if they f ind that the action is
+consistent with the objectives of CZMA or is necessary for national security.43
+For example, in 2020, the Secretary of Commerce overrode New York’s
+objection to an applicant’s consistency determination, finding that the project “is
+necessary in the interest of national security.”44
+38 15 C.F.R. §930 Subpart I.
+39 NOAA also illustrated the federal agency a ctivities and federal license and permit activities process in a step -by-step
+flowchart at NOAA OCM, CZMA Federal Consistency Overview , Section 307 of the Coastal Zone Management Act of
+1972 , February 24, 2020, https://coast.noaa.gov/ data/ czm/ consistency/ media/ federal -consistency -overview.pdf ,
+archived April 1, 2025, at https://perma.cc/ LV3D -GWLG . The flowcharts  are in Appendixes B and C of that report.
+40 NOAA has defined the term consistent to the maximum extent practicable  as “fully consistent with the enforceable
+policies of management programs unless full consistency is prohibited by existing law applicable to the Federal
+agency ” (15 C.F.R. §930.32).
+41 15 C.F.R. §930.43.
+42 16 U.S.C. §1456(c) -(d); 15 C.F.R. §930.64; 15 C.F .R. §930.80; and 15 C.F.R. §930.97.
+43 16 U.S.C. §1456(c) -(d); and 15 C.F.R. §930 Subparts G and H.
+44 Department of Commerce, Decision and Findings by the U.S. Secretary of Commerce in the Consistency Appeal of
+Electric Boat Corporation from an Objection b y the New York State Department of State , November 16, 2020, p. 18,
+https://coast.noaa.gov/ data/ czm/ consistency/ appeals/ fcappealdecis ions/ mediadecisions/ ebc-decision.pdf , archived April
+1, 2025, at https://perma.cc/ R8D4 -VD25 .
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   11 T able 2. Summary of CZMA Consistency Determination Review Process
+by Proposed Federal Action T ype
+Federal Agency
+Activities  Federal License or
+Permit Activities  Outer Continental
+Shelf Plans  Federal Assistance
+Activities to State
+and Local
+Governments
+Proposed
+action is
+subject to
+participant
+review if it  ... Affects any land or
+water use or natural
+resource of state
+coastal zone,
+regardless of locatio n
+of activity.  Affects any land or
+water use or natural
+resource of state
+coastal zone  and
+activity is listed in
+participant’s CMP or
+NOAA approves
+review of unlisted
+activity.  Affects any land or
+water use or natural
+resource of state
+coastal zone.  Affects any land or
+water use or natural
+resource of state
+coastal zone  and
+activity is listed in
+participant’s CMP or
+participant reviews
+unlisted activity.
+Consistency
+Requirement  Consistent to the
+maximum extent
+practicable  with
+participant CMP
+enforce able policiesa Consistent with
+participant CMP
+enforceable policies  Consistent with
+participant CMP
+enforceable policies  Consistent with
+participant CMP
+enforceable  policies
+Participant
+Review
+Period  60 days
+(plus 15 -day
+extension or
+alternative period
+agreed to by
+participant and
+federal agency)  6 months  3 months
+(participant may
+extend to 6 months)  Participant
+clearinghouse
+schedule
+Impact of
+Participant
+Objection  Federal agency may
+proceed only if it
+provides legal basis
+for being consistent
+to the maximum
+extent practicableb Federal agency may
+not grant a license or
+permit unless
+Secretary of
+Commerce overrides
+objection on appeal  Federal agency may
+not grant a license or
+permit for plan
+activities unless
+Secreta ry of
+Commerce
+overrides objection
+on appeal  Federal agency may
+not provide federal
+assistance unless
+Secretary of
+Commerce overrides
+objection on appeal
+Conflict
+Resolution  Mediation by
+Secretary of
+Commerce or OCMc
+(voluntary process
+and nonbinding
+decision)  License or permit
+applicant may appeal
+to Secretary of
+Commerce to
+override participant
+objection
+(binding decision)  Person may appeal to
+Secretary of
+Commer ce to
+override participant
+objection
+(binding decision)  State and local
+governments may
+appeal to Secretary
+of Commerce to
+override participant
+objection
+(binding decision)
+Source: CRS, a dapted from National Oceanic and Atmospheric Administration (NOAA), CZMA Federal
+Consistency Overview , February 24, 2020, https://coast.noaa.gov/ data/czm/consistency/ media/ federal -consistency -
+overview.pdf , archived April 1, 2025, at https://perma.cc/ P2LZ -GSWF ; 16 U.S.C. §1456; and 15 C.F.R. §930.
+Notes: CMP = coastal management program; OCM = NOAA Office for Coastal Management
+a. NOAA defines the term consistent to the maximum extent practicable  as “fully consistent with the enforceabl e
+policies of management programs unless full consistency is prohibited by existing law applicable to the
+Federal agency” (15 C.F.R. §930.32).
+b. More information about the impact of the participant’s objection to proposed federal actions can be found
+at 15 C.F.R. §930.43.
+c. More information about the availability of mediation for proposed federal actions can be found at 15 C.F.R.
+§930.44.
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   12 According to NOAA, participants have concurred with around 95% of the federal consistency
+determinations they have review ed.45 Since the first CMP was approved in 1978, 5 1 consistency
+decisions have been subject to secretarial appeals (as of August 2025, Figure 2).46 Of the 5 1
+appeals, the Secretary overrode participant objections in 17 cases and agreed with the participant
+in the other 3 4 cases. An additional 68 appeals have been settled or withdrawn after they reached
+the secretarial level but before a determination was made, and 34 additional requests for appeals
+were dismissed or overridden on procedural grounds.47
+Figure 2. CZMA Consistency Determination Objection Appeals to the Secretary of
+Commerce, 1972 -August 2025
+Source:  NOAA, Office for Coastal Management, Appeals to the Secretary of Commerce Under the Coastal Zone
+Management Act (CZMA) , August 18 , 2025 , https://coast.noaa.gov/ data/czm/consistency/ media/ appealslist.pdf ,
+archived December 23, 2025, at https://perma.cc/ 8RVR -FPAQ .
+Issues for Congress
+Various concerns related to CZMA have been considered by Congress and have been recently raised by
+government agencies and various coastal stakeholders. Some of these concerns include the effects of
+natural and man -made changes on the coast, the effectiveness of CZMA implementation, and CZMA
+financial assistance authorizations of appropriations and funding levels. These discussions are occurring
+within the broader  context of the 119th Congress and the Trump Administration . The 119th Congress may
+consider whether —and if so, how —to modify or codify in statute actions of the Trump Administration.
+45 NOAA, Office for Coastal Management, Appeals to the Secretary of Commerce Under the Coastal Zone
+Management Act (CZMA) , August 18 , 2025,  https://coast.noaa.gov/ data/ czm/ consistency/ media/ appealslist.pdf ,
+archived December 23, 2025 at https://perma.cc/ 8RVR -FPAQ . Hereinafter NOAA, Appeals under CZMA , August 18,
+2025.
+46 NOAA, Appeals Under CZMA , August 18 , 2025.
+47 In addition to the decisions noted in the text, the Secretary of Commerce has delegated questions of threshold (i .e.,
+whether the appeal meets the form and timeliness requirements set in regulation) to the NOAA general counsel and
+substantive appeal decisions to the Under Secretary for Oceans and Atmosphere (NOAA, Appeals Under CZMA ,
+August 18 , 2025).
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   13 Changes Along the Coast
+Congress may continue to examine CZMA in light of continued population and infrastructure
+growth along the coast, as well as coastal environmental conditions. According to the 2020
+census, coastal shoreline counties were home to 129 million people —nearly 40% of the U.S.
+population.48 NOAA and the U.S. Bureau of Economic Analysis estimate that  the marine
+economy, covering the U.S. oceans and Great Lakes, accounted for 2. 6 million jobs and
+contributed $ 511 billion to the total U.S. gross domestic product in 20 23.49 Population and
+infrastructure growth often occurs in  shoreline communities amid ecosystems such as beaches,
+reefs, sea grasses, wetlands, estuaries, and deltas. The combination of built and natural systems
+has been and likely will continue to be affected by changes in sea level (and its impacts,  such as
+higher tides, greater storm surge, saltwater intrusion, erosion, etc.), local rainfall, water and air
+temperatures, and ocean acidification, among other factors.50
+Some scholars have argued for substantial revision or alterations  to CZMA to account for changes
+along the coast.51 For example, one suggested changing CZMA financial assistance programs to
+focus primarily on actions to protect and restore natural systems,  acquire wetlands with greatest
+capacity to adapt to sea level rise, and address sea level rise and biodiversity loss.52 Another
+advocated amending  CZMA to increase the use of science in coastal management decisions and
+more acutely focus on low -income coa stal communities.53 Still another encouraged participants to
+more fully include the fishing industry in their coastal management planning regarding offshore
+wind;54 Congress could amend CZMA to make these changes or others . On the other hand, some
+stakehol ders may argue that CZMA is working as intended and should not be amended to
+specifically address new or novel concerns.  Others, including the Trump Administration , have
+taken action to reduce, rather than expand, federal financial assistance under CZMA.
+Members of the 119th Congress have introduced several bills  with provisions  to amend CZMA.
+For example, Members have introduced  bills focused on amending CZMA to include provisions
+regarding climate change preparedness and response and “ working waterfronts ,” including the
+creation of  new financial assistance program s.55 Another  bill in the 11 9th Congress would expand
+48 NOAA, OCM, “E conomics and Demographics,” https://coast.noaa.gov/ states/ fast-facts/ economics -and-
+demographics.html , archived April 1, 2025, at https://perma.cc/ Q85H -YB33 .
+49 NOAA, OCM, “Marine Economy,” https://coast.noaa.gov/ states/ fast-facts/ marine -economy.html , archived
+December 29, 2025, at https://perma.cc/ BBU7 -SRJV . The marine economy includes tourism and recreation, national
+defense and public administration, offshore minerals, transportation and warehousing, living resources, ship and boat
+building, coastal u tilities, research and education, professional and technical services, and construction.
+50 USGCRP, “Chapter 9: Coastal Effects.”
+51 Eric V. Hull, “Protecting Coastal Communities and Marine Biodiversity Under the Coastal Zone Management Act,”
+South Carolina  Law Review , vol. 76 (2024), pp. 1 -47 (hereinafter Hull, “Protecting Coastal Communities”); Alisha
+Summers et al., “Failure to Protect Beaches Under Slowly Rising Sea Level,” Climatic Change , vol. 151 (2018), pp.
+427-443; and Lindsay Garten, “The Coastal Zone Management Act: A Mixed Success,” Consilience: The Journal of
+Sustainable Development , vol. 16, no. 1 (2016), pp. 1 -13.
+52 Hull, “Protecting Coastal Communities,” pp. 37 -38.
+53 Brooke Merc aldi, “Enhancing the Coastal Zone Management Act by Integrating Environmental Justice,” Chicago -
+Kent Journal of Environmental & Energy Law , vol. 12, no. 1 (Fall 2022), p. 52.
+54 Lindsey Hutchison, “Fissues in the Windustry: Mitigating Fishing Industry Conce rns While Promoting Offshore
+Wind,” Journal of Environmental Law and Litigation , vol. 37 (2022), p. 312.
+55 For example, H.R. 1808 ; H.R. 2990 ; H.R. 3718  §202; and H.R. 5746  §303 in the 119th Congress. H.R. 1808  would
+define a working waterfront  as “real property (including support structure over water and other facilities) that (A)
+provides access to coastal waters by coastal users; and (B) is used for, or supports, commercial and recreational fishing,
+recreational fishing and boating businesses, and boatbuilding, aquaculture, and other water -dependent, coastal -related
+business.”
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   14 CZMA financial assistance programs to the District of Columbia .56 A bill introduced  in the 118th
+Congress would have also authorized new CZMA grants to tribal governments and Native
+Hawaiian organizations ; similar provisions have not been proposed in the 119th Congress .57
+Another bill in the 119th Congress would amend the Section 307A grant program  to prioritize
+areas that are “under threat due to climate change” or that “may serve to mitigate the adverse
+effects of climate change,” among other changes .58
+Effectiveness of CZMA Implementation
+Congress may examine how the Secretary of Commerce and NOAA have implemented CZMA
+and whether c hanges to the agency, the law, or the law’s implementation are necessary. Various
+entities have evaluated the effectiveness of CZMA implementation, specifically the NCZMP,
+since the law’s enactment. Evaluations have noted a range of issues, from monitoring  and
+measuring the success of the program as a whole to issues concerning specific financial assistance
+programs. Some stakeholders also have proposed changes to the types of activities considered by
+participants in their consistency determination reviews.
+In 2014 and 2016, the Government Accountability Office (GAO) reported several issues with
+NOAA’s implementation of CZMA. The 2014 report focused on limitations to the coastal zone
+management performance measurement system and the agency’s limited use of collected
+performance data, among other topics.59 NOAA agreed with the recommendations and
+implemented the recommended actions by November 2016.60 According to the agency, NOAA
+tracks the performance data internally but does not make it public .61 In a sepa rate 2016 study,
+GAO surveyed state coastal zone managers about the actions NOAA was taking under CZMA to
+support state efforts to make marine coastal ecosystems more resilient to climate change; GAO at
+that time found that state coastal zone managers “gen erally had positive views of the actions
+NOAA [was] taking.”62 Congress may continue allowing NOAA the discretion to retain data
+internally, or consider requiring the agency to make its progress implementing GAO
+recommendations public in a variety of ways,  including periodic reports to Congress or the
+public.63 Additionally, Congress may consider requiring NOAA, GAO, or another entity to re -
+survey state coastal zone managers to better understand whether and what kind of improvements
+could be made to CZMA an d its implementation.
+Some stakeholders have argued that the implementation of some CZMA programs has been
+inadequate. For example, some have questioned whether Section 6217 provisions have been
+properly implemented. Section 6217 establishes the Coastal No npoint Pollution Control Program
+56 H.R. 5920  in the 119th Congress
+57 H.R. 3976  in the 118th Congress.
+58 H.R. 2786  in the 119th Congress.
+59 U.S. Government Accountability Office (GAO), Coastal Zone Management: Opportunities Exist for NOAA to
+Enhance Its Use of Performance  Information , GAO-14-592, July 16, 2014, pp. 22 -24. Hereinafter GAO -14-592.
+60 GAO -14-592.
+61 NOAA, Office of Coastal Management, Coastal Zone Management Act Performance Measurement System: Coastal
+Management Program Guidance , April 2011, updated October 2023, https://coast.noaa.gov/ data/ czm/ media/
+czmapmsguide.pdf , archived April 1, 2025, at https://perma.cc/ P9KV -5Q73 , and personal correspondence with
+NOAA ’s OLIA, August 12, 2025.
+62 GAO, Climate Change: Information on NOAA’s Support for States’ Marine Coastal Ecosystem Resilience Efforts,
+GAO -16-834, September 28, 2016, p. 14. Hereinafter GAO -16-834.
+63 16 U.S.C. §1462 require s the Secretary of Commerce  to submit a report summarizing CZMA a dministration every
+two fiscal years. In 1 995, Congress passed the Sunset Act (P.L. 104 -66) which repealed the CZMA reporting
+requirements, effective May 2000 (personal correspondence with NOAA’s OLIA , August 12, 2025).
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   15 (CNPCP), which  requires coastal states with approved CMPs to reduce polluted runoff to coastal
+waters through coastal nonpoint pollution control programs  that include specific land -based
+measures.  NOAA and the Environmental  Protection Agency (EPA) jointly administer the CNPCP.
+Under Section 6217, participants that fail to submit an “approvable [CNPCP]” lose a portion of
+their funding under CZMA Section 306.64 Most participants received conditional approval
+between 1997 and 1 998, and the majority have since received final approval.
+In 2009 and 2016, a private organization sued NOAA and EPA for continuing to provide Section
+306 funds to Washington and Oregon, even though the states’ programs were not approved .65
+Washington received final approval of its program in 2024. As of February 2026, approvals for
+Hawaii  and Mississippi  were pending, and  Oregon  had not submitted a “fully approvable”
+program .66 According to available NOAA allocation guidance for FY2017 thro ugh FY2020, 30%
+of Oregon’s Sections 306/306A allocations were withheld and redirected to participants with
+approved CNPCPs.67 Some have advocated for Congress to further amend CZMA to better
+address coastal nonpoint pollution, such as agricultural nutrients, to reduce the incidence and
+extent of harmful algal blooms and hypoxia.68 Others may argue that these responsibilities in
+coastal waters should fall primarily to the states and local governments.
+Some have advocated for changes to the types of activities that can be funded by CZMA financial
+assistance or that undergo participant consistency determination reviews. For example, legislation
+introduced in the 119th Congress would prohibit CZMA financial assistance to be used to “block
+wildfire and timber production, energy production, housing construction, or military -related
+activities under the Endangered Species Act.”69 In another instance , a Member of Congress
+introduced legislation to add a “conclusive presumption” of consistency be tween certain federal
+actions and participants’ policies.70 In the bill, the specified federal actions or covered activities
+are defined as “a national security activity,” “a critical infrastructure project,” “a disaster recovery
+or mitigation activity,” o r “an activity with a significant national or regional economic impact.”71
+Under the legislation, the participant could  object  to or challenge the activity, but such a
+challenge may “not delay or otherwise prevent the activity from proceeding.” In a statem ent, the
+bill sponsor noted that the bill would “expedite important coastal activities” and highlighted
+concerns regarding state coastal management decisions in California.72 Some stakeholders have
+64 16 U.S.C. §1455b(c)(3).
+65 Northwest Environmental Advocates, Lawsuit Seeks Federal Action on Washington’s Failure to Control Puget
+Sound Polluted Runoff , press release, December 7, 2016, https://northwestenvironmentaladvocates.org/ wpdm -package/
+waczaranewsr201612/ ?wpdmdl= 6334&refresh= 695592720c5cf1767215730 ; and Northwest Environmental Advocates,
+Federal Lawsuit Settlement Will Force Changes in Oregon’s Coastal Logging Practices, press release, September 28,
+2010, https://www.northwestenvironmentaladvocates.org/ blog/ wp-content/ uploads/ 2011/ 03/
+dt_intfc4d86844e01a23_4d8686c2a96cc.pdf .
+66 NOAA, “Coastal Nonpoint Pollution Control Program,” https://coast.noaa.gov/ czm/ pollutioncontrol/ , archived
+February 13, 2026, at https://perma.cc/ D46Q -XMGT .
+67 NOAA, “National Coastal Zone Management Program,” https://coast.noaa.gov/ czm/ guidance/ , archived December
+31, 2025, at https://perma.cc/ CX4W -AYTK . Allocation guidance prior to FY2017 and after FY2020 was not available.
+68 Caroleen M. Dineen, “Stemming the ‘Red Tide’: Legislative Approaches to Addressing the Contribution of
+Agricultural Nutrient Pollution to the Development and Consequences of Har mful Algal Blooms,” Vermont Journal of
+Environmental Law , vol. 24, no. 3 (spring 2023 ), p. 261.
+69 H.R. 5342 , §616 in the 119th Congress.
+70 H.R. 1874  in the 119th Congress.
+71 H.R. 1874  in the 119th Congress. The bill also defines each of the covere d activities listed.
+72 Rep. Kevin Kiley, “Representative Kiley Introduces the Coastal Commission Accountability Act to Rein in CA
+Coastal Commission Abuses,” March 5, 2025, https://kiley.house.gov/ posts/ representative -kiley -introduces -the-coastal -
+commission -accountability -act-to-rein-in-ca-coastal -commission -abuses . For more about concerns regardi ng the
+(continued...)
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   16 opposed the bill, stating that it “would muzzle the voices  of communities, small businesses, and
+states to speak out about federal government actions along the coast that affect their lives and
+livelihoods” and  that it  “attacks coastal states’ rights to review federal actions under the
+CZMA.”73
+Authorization of Appropriations and Funding for CZMA Financial
+Assistance Programs
+The CZMA coastal zone management financial assistance programs, listed in Table 1, were last
+authorized for appropriations in the following years:74
+• Section 306 (Administrative Grants): FY1999;75
+• Section 306A (Coastal Resource Improvement Grants): FY1999;
+• Section 307A (Coastal and Estuarine Land Conservation Program): FY2013;76
+• Section 30 9 (Coastal Zone Enhancement Grants): FY1999;
+• Section 310 (Technical Assistance): no authorization of appropriations; and
+• Section 6217 ( Coastal Nonpoint Pollution Control Program ): FY1995.77
+Some Members of the 119th and previous Congresses have proposed to  reauthorize the programs
+into the future . For example, one bill in the 11 9th Congress would update the time  frame of the
+authorization of appropriations for an amended version of the Section 307A program.78
+Although authorizations of appropriations for CZMA financial assistance programs expired years
+ago, Congress continued to appropriate funding for the programs through FY2024.79 Various
+stakeholders have argued for changes to appropriated amounts for the CZMA financial assistance
+programs. For example, the Biden Administration requested $ 81.5 million for the programs for
+FY202 5;80 conversely, the Trump  Administration proposed to eliminate all the programs for
+California Coastal Commission, see, for example, Editorial Board, “Trump and Newsom Unite over Coastal
+Commission,” March 30, 2025, Los Angeles Daily News , https://www.dailynews.com/ 2025/ 03/30/trump -and-newsom -
+unite -over-coastal -commission/ .
+73 Coastal States Organization  (CSO) , “Coastal States Organization Opposes Bill Attacking Coastal Zone Management
+Act,” March 6, 2025, https://coastalstates.org/ coastal -states -organization -opposes -bill-attacking -coastal -zone -
+management -act/. Another group similarly stated that the bill “threatens to strip states of their authority” under CZMA
+(American Coastal Coalition, “American Coastal Coalition Opposes Anti -CZMA B ill Introduced by Rep. Kevin
+Kiley,” March 21, 2025, https://americancoastalcoalition.org/ news/ american -coastal -coaliti on-opposes -anti-czma -bill-
+introduced -rep-kevin -kiley ).
+74 Authorized a mounts for CZMA grant programs generally decreased in the 1980 ( P.L. 96 -464) and 1985 ( P.L. 99 -
+272) amendments and increased in the subsequent  amendments.
+75 P.L. 104 -150 authorized appropriati ons of $50.5 million for  Sections 306, 306A, and 309 grants in FY1999.
+76 P.L. 111 -11 authorized appropriations of $60.0 million for Section 307A grants in FY2013.
+77 P.L. 101 -508 authorized appropriations of $12.0 million for Section 6217 grants in FY1995.
+78 H.R. 2786  in the 119th Congress.
+79 Congress provided appropriations to NOAA for FY2025, but did not provide line office or budget line item
+information as part of the law (P.L. 119 -4, Title III) or  accompanying language.  The agency also did not make its
+FY2025 spending plan publicly available.
+80 NOAA, Budget Estimates Fiscal Year 2025,  March 2024, p. Control Table -1, https://www.noaa.gov/ sites/ default/
+files/ 2024 -03/NOAA_FY25_Congressional_Justification.pdf , archived April 1, 2025, at https://perma.cc/ ZZD7 -2KW3 .
+Hereinafter NOAA, Budget Estimates FY2025 .
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   17 FY2026 .81 Congress appropriated $81.5 million to NOAA for coastal zone management grants  in
+FY2026 .82
+Congress had also provided additional funding to states and territories under Sec tions  307A and
+310 programs for FY2022 through FY2026 under the Infrastructure In vestment and Jobs Act
+(IIJA) and  P.L. 117 -169, also known as the Inflation Reduction Act .83 In January 2025, the Trump
+Administration  paused or terminated certain categorie s of IIJA and P.L. 117 -169 funding through
+Executive Order 14154, “Unleashing American Energy.”84 In July 2025, Congress rescinded
+unobligated balances of P.L. 117 -169 funding for NOAA. 85 CRS was unable to identify how the
+Administration ’s pause and congressional rescis sion of P.L. 117 -169 funds may have specifically
+impacted NOAA ’s coastal zone management -related financial assistance .
+Some stakeholders have contended that financial assi stance to states from the NCZMP is
+important, and have supported more funding. For example, in a 2016 GAO survey, state coastal
+zone managers indicated  that “financial assistance provided by NOAA [was] critical” and that
+“the amount of financial assistance  available [was] insufficient to address states’ needs in
+implementing projects .”86 Another stakeholder group in 2024 stated that the “federal government
+needs to provide more consistent financial  … support to states” and that “many states would be
+further  along with coastal management program s if federal partners strategically committed more
+time and resources to assisting local efforts.”87 One group also noted that while funding for
+coastal zone management financial assistance generally increased nominall y from FY2002
+through FY2023, funding levels have “not kept pace with inflation or the increased costs of
+staffing and operating programs.”88 They claim that “coastal states and territories have identified
+that annual appropriations would need to be over $ 134 [million] in FY2025  … to fully address
+these demands.”
+NOAA has seen varying interest in its competitive financial assistance programs, with amounts
+applied for exceeding available funding in most years . For example, the NOAA Regional Coastal
+81 NOAA, Budget Estimates Fiscal Year 2026 , June 2025, p. NOS -23, https://www.noaa.gov/ sites/ default/ files/ 2025 -
+06/NOAA%20FY26%20Congressional%20Justification.pdf , archived December 30, 2025, at https://perma.cc/ PX7V -
+Q99Q . NOAA stated that the agency would “continue to administer existing cooperative agreements, while also
+providing national coordination and in -kind support to state coastal zone management agencies  that are able operate
+programs using state funds.”
+82 Sen. Patty Murray, Unanimous Consent Agreement - H.R. 4366, Congressional Record , vol. 170 (March 4, 2024), p.
+S1401. EPA directed states to allocate a portion of their Clean Water Act Section 319 fund ing toward the
+implementation of CZMA Sec tion 6217 starting in FY2025 (EPA, Nonpoint Source Program and Grants Guidelines
+for States and Territories , May 4, 2024, EPA 841 -R-24-009, https://www.epa.gov/ system/ files/ documents/ 2024 -06/
+2024_section_319_guidelines_final_1.pdf , archived April 1, 2025, at https://perma.cc/ PG88 -C3E9 ). For more
+information about Clean Water Act Section  319, see CRS Report R44871, Freshwater Harmful Algal Blooms: Causes,
+Challenges, and Policy Considerations , by Laura Gatz .
+83 NOAA, “Coastal Zone Management,” https://www.noaa.gov/ infrastructure -law/infrastructure -law-climate -ready -
+coasts/ coastal -zone -management , archived April 1, 2025, at https://perma.cc/ KQ5L -XQFW ; and NOAA, “Inflation
+Reduction Act: Climate -Ready Coasts and Communities,” https://ww w.noaa.gov/ inflation -reduction -act/inflation -
+reduction -act-climate -ready -coasts -and-communities , archived April 1, 2025, at https://perma.cc/ A4M7 -RMK4 . For
+information on how  NOAA planned to allocate  some of  that funding , see NOAA, Budget Estimates FY2025 , p. BIL
+Control Table -1.
+84 Executive Order 14154, “Unleashing American Energy,” 90  Federal Register  8353, January 20, 2025.
+85 P.L. 119 -21, §40008 .
+86 GAO -16-834, p. 16.
+87 Surfrider Foundation, State of the Beach Report, 2023 , p. 84, https://www.surfrider.org/ hubfs/ SOTB23/ SOTB -
+2023.pdf .
+88 CSO, CSO FY2025 Programmatic Request,  Subcommittee on Commerce, Justice, and Science, March 2024,
+https://coastalstates.org/ wp-content/ uploads/ dmf/ FY-2025 -CSO -Approps -Request -FINAL_March24.pdf .
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service   18 Resilienc e grant program, administered under Section 310, received 132 applications in FY2015
+requesting $105 million , while $4.5 million was available for grants.89 More recently, in FY2022
+through FY2024, NOAA received applications for Projects of Special Merit u nder Section 309 at
+or above the available funding. For example, the agency received 11 applications in both FY2022
+and FY2023, requesting over $2.2 million for $1.5 million in available funds each year.90
+Moving forward, Congress could evaluate whether to increase appropriations for some or all of
+the CZMA financial assistance programs given these stakeholders’ concerns, maintain the funding
+status quo, or reduce funding. Congress also may consider directin g NOAA to continue its recent
+allocation strategy of funding certain financial assistance programs or mak ing changes to provide
+funds to other programs , such as Sec tions  307A and 6217  programs,  that have not received annual
+appropriations in recent years . Alternatively, some Members of Congress and stakeholders have
+argued no appropriations should be provided for program s with expired authorizations of
+appropriations, such as CZMA financial assistance programs. Under House rules, authorizations
+of appropria tions are required to be enacted prior to consideration of relevant appropriations bills;
+Members may raise a point of order , which may be waived.91 Some  stakeholders contend that
+Congress should enforce the rules to a greater degree and refrain from appro priating funding
+toward programs with expired authorization s of appropriations.92 Some Members of the 119th
+Congress  have  proposed legislation that would reduce appropriations for, or terminate altogether,
+programs with expired authorizations of appropriat ions.93
+Author Informat ion
+Eva Lipiec
+Specialist in Natural Resource Policy
+89 GAO -16-834, p. 16. Congress appropriated funds to t he Regional C oastal Resilience grant program from FY2015 to
+FY2017.
+90 Personal correspondence with NOAA’s OLIA, August 12, 2025.
+91 For more about the rules see CRS Report R46497, Authorizations and the Appropriations Process , by James V.
+Saturno .
+92 National Taxpayers Union Foundation, “Reform Legislation Would Help Bring ‘Zombie Programs ’ to Their Final
+Rest,” April 23, 2025, https://www.ntu.org/ foundation/ detail/ reform -legislation -would -help-bring -zombie -programs -to-
+their-final-rest.
+93 H.R. 143  in the 119th Congress.
+Coastal Zone Management Act (CZMA): Overview and Issues for Congress
+Congressional Research Service  R45460  · VERSION 8 · UPDAT ED 19
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

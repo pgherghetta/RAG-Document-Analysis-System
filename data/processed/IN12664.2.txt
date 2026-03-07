@@ -1,0 +1,84 @@
+CRS INSIGHT
+Prepared for Members and
+Committees of Congress
+INSIGHT i
+Executive Office for Immigration Review
+Immigration Judge Staffing Issues
+March 2, 2026
+Immigration judge (IJ) staffing at the U.S. Department of Justice’s (DOJ’s) Executive Office for
+Immigration Review (EOIR; immigration courts) has long been insufficient to  adjudicate its pending
+caseload  and keep up with the receipt of new immigration cases, particularly removal proceedings ,
+contributing to large backlogs  in the immigration court system . These backlogs have been exacerbated by
+record -high case receipts  in recent years.
+IJs, career employees within the executive branch, are attorneys appointed by the At torney General . IJ
+hiring is largely contingent on congressional appropriations.  EOIR had steadily increased IJ hiring and
+grown its IJ corps ( i.e., total number of IJs on staff) in recent years  (Figure 1). In FY2023, EOIR hired
+133 IJs, its largest annual number  of hires . The IJ corps reached  a high of 735 at the end of FY2024 .
+Since FY2025 , the IJ corps has declined , with  substantially higher than typical levels of departures .
+Reportedly,  some  IJs have left EOIR under options for early retirement or deferred resignation  while
+others have been  fired . CRS estimates that 115 IJs separated from EOIR in FY2025 , the highest annual
+number  of separations since at least 2011  (see Figure 1 note for estimation methodology) . In the first
+quarter of FY2026, 88 IJs departed EOIR . EOIR has continued to hire IJs (14 in FY2025 and 11 FY2026
+Q1), but not at a level to restore its staffing to the previous level.
+By the end of FY2025, the IJ corps had declined to 634. At the end of the first quarter of FY2026, EOIR
+had 557 IJs on staff , down nearly one quarter ( 178 IJs ) from the peak staffing level in FY 2024 . This
+number does not include temporary IJs (discussed below ). The FY2025 reconciliation law  (P.L. 119 -21),
+appropriated $3.33 billion to DOJ for several  purposes, incl uding to hire IJs and support staff. The law
+authorizes EOIR for a staffing level of  “not more than 800 ” IJs, effective November 1, 2028.
+Congressional Research Service
+https://crsreports.congress.gov
+IN12664
+Congressional Research Service  2
+Figure 1. Immigration Judges : Hired, Departed, and T otal on Board, FY2011 -FY2026 Q1
+Source: EOIR analysis of “Immigration Judge (IJ) Hiring,” Adjudication Statistics, January 2026.
+Notes:  Figure does not include temporary IJs. CRS imputed departures as the sum of the number of IJs o n board at the
+end of the previous fiscal year and hires in the given fiscal year minus the IJs on board at the end of the given fiscal year .
+Under the current Trump Administration, EOIR has focused on hiring temporary IJs as a mechanism for
+reducing the backlog  and widening the pool of potential applicants . In August 2025, EOIR published a
+final rule, “ Designation of Temporary Immigra tion Judges .” The rule amended 8 C.F.R. §1003.10 (e),
+which , under a 2014 interim final rule  (IFR) , authorized the EOIR Director to hire as temporary IJs
+former IJs, former members of the Board of Immigr ation Appeals (EOIR’s appellate body) , current or
+retired EOIR administrative law judges , administrative law judges from other executive branch agencies ,
+and DOJ attorneys with 10 years of experience in immigration law , for renewable six -month terms . The
+2014 IFR stated that hiring temporary IJs would “increase the number of ma tters EOIR could bring to a
+final disposition” by assigning temporary judges to “a discrete category of cases, such as motions and
+bond proceedings, freeing up permanent immigration judge time to adjudicate more complicated removal
+cases,” but not ed that t he rule would not “limit the assignment of temporary immigration judges in the
+type of cases they may adjudicate .”
+As amended by the August 2025 rule, 8 C.F.R. §1003.10(e) now authorizes  the Director to designate “any
+attorney” to serve as a temporary immigration judge for six -month renewable terms.  In a response to
+comments  on the proposed version of the rule, EOIR stated that the 2014  criteria for temporary IJs “were
+too narrow and impeded the Department ’s ability to use the [temporary immigration judge]  authority to
+the extent needed. Rather than adopt different benchmarks by regulation, the Department has decided to
+adop t the same approach that it has long taken for permanent IJs —that is, require by regulation that they
+be attorneys but leave the specific criteria to internal policy.”  The rule also  stated, “ The Department does
+not view its authority to appoint TIJs as a s ubstitute for hiring to fill permanent IJ positions and continues
+to recruit candidates to fill permanent IJ positions. ”
+Since then,  EOIR has relied on hiring military attorneys  as temporary IJs, as authorized by the U.S.
+Department of Defense  (DOD) . EOIR requested  DOD  detail up to 600 lawyers to serve as temporary IJs.
+In October 2025 , EOIR announced it had appointed  25 temporary IJs  assigned to 19 courts ; in February
+2026 , EOIR annou nced  it had appointed  an additional 27 temporary IJs  assigned to 18 immigration
+courts . EOIR’s chan ge in criteria for temporary IJs and hiring military lawyers has been condemned by
+some stakeholders , including over concerns that such temporary judges may
+Congressional Research Service  3
+IN12664  · VERSION 2 · NEW  lack n ecessary immigration expertise . In contrast to that criticism,  EOIR states  in the rule , “Immigration
+law experience is not always a strong predictor of success as an IJ, and EOIR has hired i ndividuals from
+other Federal agencies and Department components without prior immigration experience who have
+become successful and exemplary IJs. ” It remains unclear how the departure of permanent IJs and
+addition of temporary IJs will impact the backlog.
+In the 119th Congress, Members have introduced the Temporary Immigration Judge Integrity Act  in the
+House and the Senate  (H.R. 6497  and S. 3326 ). The measures would codify in statute the Attorney
+General’s authority to hire temporary IJs under the 2014 eligibility requirements and implement certain
+training requirements.
+Author Information
+Holly Straut -Eppsteiner
+Analyst in Immigration Policy
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff
+to congressional committees and Members of Congress. It operates solely at the behest of and under the direction of
+Congress. Information in a CRS Report should n ot be relied upon for purposes other than public understanding of
+information that has been provided by CRS to Members of Congress in connection with CRS’s institutional role.
+CRS Reports, as a work of the United States Government, are not subject to copyr ight protection in the United
+States. Any CRS Report may be reproduced and distributed in its entirety without permission from CRS. However,
+as a CRS Report may include copyrighted images or material from a third party, you may need to obtain the
+permissio n of the copyright holder if you wish to copy or otherwise use copyrighted material.

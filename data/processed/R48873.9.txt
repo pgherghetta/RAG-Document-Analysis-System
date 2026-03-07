@@ -1,0 +1,827 @@
+The Prohibitions on Private Inurement &
+Benefit by Tax -Exempt Organizations and
+Intermediate Sanctions
+March 5, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R48873
+Congressional Research Service
+SUMMARY
+The Prohibitions on Private Inurement &
+Benefit by Tax -Exempt Organizations and
+Intermediate Sanctions
+The Internal Revenue Code (I.R.C.) contai ns certain restrictions designed to ensure tax -exempt
+organizations serve public, not private, interests and cannot be used for personal gain.  See, e.g. ,
+I.R.C. §§ 501(c)(3) , (4). These restrictions derive from statutory text in the I.R.C. and have
+anteced ents in common law rules on charity. Id. Among these restrictions are two prohibitions: (1) the prohibition on private
+inurement, and (2) the prohibition on private benefit. Id. These two prohibitions are distinct requirements derived from
+different statut ory language , yet they overlap substantially in interpretation and enforcement by the Internal Revenue Service
+(IRS). Id. Violation of either prohibition is grounds for revocation of an organization’s tax -exempt status.  Treasury
+Regulations  § 1.501(c)(3) -1(c)(2), (d)(1)(ii).
+In addition to the prohibitions, the I.R.C. contains excise taxes on certain transactions that can result in personal gain.  See,
+e.g., I.R.C. §§ 4941, 4958, 4960.  These excise taxes provide intermediate sanctions short of rev ocation of the tax exemption.
+This report discusses three types of excise taxes that differ in who is taxed, which transactions are taxed, how the tax is
+calculated, and the types of organizations subject to the tax. Application of the excise taxes to § 50 1(c)(3) organizations can
+depend on classification of the organization as (1) either a public charity or private foundation and (2) either a supporting
+organization or supported organization.  Id. §§ 4941, 4958.
+Focusing on the two most common types of tax -exempt organizations , §§ 501(c)(3) and 501(c)(4) organizations, this report
+explains the prohibitions on private inurement and benefit, how they differ, and how they overlap. This report also explains
+when and how excise taxes might apply in lieu of or in addition to revocation . It also describes related proposals that
+Congress has considered to modify the excise taxes, including  to (1) expand the types of individuals upon whom the tax es are
+imposed, (2) expand the types of organizations subject to the tax es, (3) redefine the transactions subject to the tax es, (4)
+impose the tax es on organization s, and (5) restrict certain defenses against the tax es. R48873
+March 5, 2026
+Justin C. Chung
+Legislative Attorney
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organizations and Intermediate Sanctions
+Congressional Research Service  Contents
+Prohibition on “Private Inurement”  ................................ ................................ ................................ . 1
+Prohibition on “Private Benefit”  ................................ ................................ ................................ ..... 2
+Organizational and Op erational Tests  ................................ ................................ .......................  3
+Organizational Test  ................................ ................................ ................................ .............  3
+Operational Test  ................................ ................................ ................................ ..................  4
+Examples of Types of Private Inurement or Benefit  ................................ ................................ ....... 4
+Intermediate Sanctions  ................................ ................................ ................................ ....................  5
+Relevant Categories of § 501(c)(3) Organizations  ................................ ................................ .... 6
+Public Charity Versus Private Foundation  ................................ ................................ ..........  6
+“Supporting” Organization Versus “Supported” Organization  ................................ ...........  6
+Section 4958 Excise Tax on Excess Benefit Transactions by Public Charities  .........................  6
+Special Rules for Supporting Organizations  ................................ ................................ ....... 8
+Section 4941 Excise Tax on Self -Dealing by Private Foundations  ................................ ...........  9
+Section 4960 Excise Tax on Excess Compensation  ................................ ................................  12
+Application to § 501(c)(4) Organizations  ................................ ................................ ......................  13
+Congressional Proposals on the Intermediate Sanctions  ................................ ...............................  15
+Proposed Amendments to § 4958  ................................ ................................ ............................  16
+Proposed Amendments to § 4941  ................................ ................................ ............................  17
+Tables
+Table 1. Theoretical Differences B etween the Prohibitions on Private Inurement and
+Private Benefit for § 501(c)(3) Organizations  ................................ ................................ ..............  4
+Table 2. Summary of § 4958 Excise Tax on Excess Benefit Transactions by  Public
+Charities  ................................ ................................ ................................ ................................ ....... 8
+Table 3. Summary of § 4941 Excise Tax on Self -Dealing by Private Foundations  ........................  11
+Table 4. Comparison of §§ 4958, 4941, and 4960 Excise Taxes  ................................ ...................  13
+Table 5. Summary of Applicability of Prohibitions on Private Inurement & Benefit and
+Intermediate Sanctions to §§ 501(c)(3) and 501(c)(4) Organizations  ................................ ........  15
+Contacts
+Author Information  ................................ ................................ ................................ ........................  17
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organizations and Intermediate Sanctions
+Congressional Research Service   1 Prohibition on “Private Inurement”
+Section 501(c)(3)  organizations —sometimes called “charitable organizations” —are organizations
+that receive tax exemption for being organized and operated exclusively for certain enumerated
+exempt purposes such as “ religious, charitable, scientific, testing for public safety, literary, or
+educational purp oses.”1 The requirements for such organizations to receive tax exemption are
+specified in § 501(c)(3).
+Among the requirements, § 501(c)(3)  provides  that “no part of the net earnings of [the
+organization] inures to the benefit of any private shareholder or  individual” for the organization  to
+obtain or maintain tax -exempt status under it.2 A private inurement prohibition on charities first
+appeared in the Payne -Aldrich Act and originally applied to an organization’s “ net income .”3 The
+prohibition was rephr ased to apply to an organization’s “ net earnings” in 1918.4
+The U.S. Department of the T reasury ’s (Treasury Department ’s) regulations interpreting the
+prohibition define “private shareholder or individual” as any “persons having a personal and
+private int erest in the activities of the organization.”5 Private shareholders or individuals ,
+sometimes called “insiders ,” have been found to  include an organization’s officers or directors.6
+The prohibition “is designed to prevent the siphoning of charitable rece ipts to insiders of the
+charity.”7 Determination of whether someone is an insider depends on an individual’s level of
+control or influence within an organization , rather than a formal position.8 For example, a “close
+professional working relationship”  with an organization, without formal employment by or any
+other connection with the organization , can create a personal and private interest  subject to the
+inurement prohibition.9
+The statutory language prohibits all private inurement.10 The Internal Revenue Service (IRS)  has
+stated that “[p]ursuant to [Internal Revenue Code (I.R.C.) §] 501(c)(3), any amount of inurement
+is grounds for revocation [of tax -exempt status] ,”11 and courts have generally applied the
+statutory prohibition strictly ;12 however, i n certain  specific situations, the IRS has found that no
+1 I.R.C. § 501(c)(3)  (Title 26 of the U.S. Code  is cited as the Internal Revenue Code (I.R.C.)). In this report, “section”
+and the section symbol ( §) refer to sections in the I. R.C. unless otherwise specified.
+2 Id. § 501(c)(3) .
+3 Ch. 6, § 38, 36 Stat. 11 , 112 –14 (1909) .
+4 Revenue Act of 1918, ch. 18, § 231, 40 Stat. 1057 , 1076 (1919) . As explained later, courts and the IRS have not
+interpreted “net earnings” to have a strict, accounting meaning. See infra  “Examples of Types of Private Inurement or
+Benefit .” As a result, the difference between “net income” and “net earnings” may not be material.
+5 Treas. Reg. §§ 1.501(a) -1(c) (as amended in 2017), 1.501(c)(3) -1(c)(2) (as amended in 2017)  (Title 26 of the Code of
+Federal Regulations  is cited as  Treasury Regulations (Treas. Reg.)).
+6 See, e.g. , Easter House v. United States, 12 Cl. Ct. 476 (1987 ), aff’d, 846 F.2d 78 (Fed. Cir. 1988); I.R.S. Priv. Ltr.
+Rul. 17 -40-022 (Dec. 29, 2016) (finding private inurement to an executive director of an organization); I.R.S. Priv. Ltr.
+Rul. 15 -41-012 (June 12, 2014) (finding private inurement to an organization’s president).
+7 United Cancer Council v.  Comm’r , 165 F.3d 1173, 1176 (7th Cir. 1999) (finding that a contract with the organization,
+although unfavorable to the organization, did not create an insider relationship to which the prohibition would apply).
+8 Id.; People of God Cmty. v. Comm’r, 75 T.C. 127,  133 (1980); Senior Citizens of Mo., Inc. v. Comm’r, 56 T.C.M.
+(CCH) 480 ( 1988).
+9 I.R.S. Gen. Couns. Mem. 39, 670 (Oct. 14, 1987 ).
+10 I.R.C. § 501(c)(3) (“ no part  of the net earnings . . . inures to the benefit of any private shareholder or individual”)
+(emphasis added).
+11 I.R.S. Priv. Ltr. Rul. 17 -40-022 (Dec. 29, 2016) .
+12 See, e.g. , Easter House , 12 Cl. Ct. at 488 (“It is also important to note that section 501(c)(3) specifically provides that
+(continued...)
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   2 private inurement  occurred using reasoning similar to the less strict prohibition on private benefit
+described below .13
+Prohibition on “Private Benefit”
+Section 501(c)(3) organizations  must also be “organized and operated exclusively” for an
+enumerated exempt purpose.14 Interpreting  the statutory text “organized and operated
+exclusively, ” the IRS regulations require that the organization must not be organized or operated
+for the benefit of private interests.15 This prohibition on private benefit also has antecedents in
+common law rules on charitable trusts.16
+The prohibition on “private benefit” is a distinct requirement but overlaps with the prohibition on
+private inurement  discussed above.17 If either the private inurement or private benefit prohibition
+is violated, the organization is not organized and operated exclusively for an exempt purpose  and
+thus could lose tax -exempt status .18
+The prohibition on private benefit is theoretically broader in terms of interests covered than the
+prohibition on private inurement. For example, the private benefit prohibition can apply to an
+organization’s members or beneficiaries even if they are not insiders of the organization with
+signi ficant control or influence within the organization  and therefore not subject to the inurement
+prohibition .19 In one case, the United States Tax Court found that an organization that provided
+burial benefits to its elderly , dues -paying  members  provided a p rivate benefit to its members
+‘no part’ of the organization ’s net earnings may inure to a private shareholder or individual. This means that any
+inurement, regardless of amount, will prevent an organization from qualifying under section 501(c)(3).”).
+13 See, e.g. , I.R.S . Tech. Adv. Mem. 98 -35-001 (Aug.  28, 1998)  (finding issuance of free passes to a fair conducted by
+an organization to the organization ’s shareholders is not  private inurement “[a]lthough the is suance of tickets and/or
+passes to shareholders in some circumstances might constitute inurement of net earnin gs.”) .
+14 I.R.C. § 501(c)(3).
+15 Treas. Reg . § 1.501(c)(3) -1(d)(1)(ii).
+16 Mark C. Westenberger, A Path to “Inure” Peace: Consolidating the Perplexit ies of the Private Inurement and
+Private Benefit Doctrines , 92 WASH. U. L. REV. 227, 248 –52 (2014) (citing JAMES J. FISHMAN & STEPHEN SCHWARZ ,
+NONPROFIT ORGANIZATIONS : CASES AND MATERIALS  459 (4th ed. 2010)).
+17 Am. Campaign Acad. v. Comm’ r, 92 T.C. 1053, 1068 –69 (1989 ) (“The absence of private inurement of earnings to
+the benefit of a private shareholder or individual does not, however, establish that the organization is operated
+exclusively for exempt purposes. Therefore, while the private inurement  prohibition may arguably be subsumed within
+the private benefit analysis of the operational test, the reverse is not true.”). See also  IRS,  PUB. NO. 6101,  EXEMPT
+ORGANIZATIONS TECHNICAL GUIDE, TG 3-8: DISQUALIFYING AND NON-EXEMPT ACTIVITIES , INUREMENT AND  PRIVATE
+BENEFIT – IRC  SECTION 501( C)(3), at 5 (2025)  (“[A]ll inurement is private benefit, but not all private benefit is
+inurement.”).
+At least one commentator has argued for a consolidation of the two prohibitions because they can be confused and
+confla ted and are redundant. See, e.g. , Westenberger, supra note 16, at 251 –52. See also  Am. Campaign Acad. , 92 T.C.
+at 1068 (“ Nonetheless, we have often observed that the prohibition against private inurement of net earnings appears
+redundant, since the inurement of earnings to an interested person or insider would constitute the conferral of a benefit
+inconsistent with operating exclusively for an e xempt purpose.  In other words, when an organization permits its net
+earnings to inure to the benefit of a private shareholder or individual, it transgresses the private inurement prohibition
+and operates for a nonexempt private purpose. ” (citation omitted) ).
+18 Treas. Reg . § 1.501(c)(3) -1(c)(2), (d)(1)(ii).
+19 Id. § 1.501(c)(3) -1(d)(1)(ii) . See also Christian Stewardship Assistance, Inc. v. Comm’r, 70 T.C. 1037 (1978);
+Korean -Am. Senior Mut . Ass’n v. Comm’r, 120 T.C.M. (CCH) 191 ( 2020).  For a comparison of th e prohibition on
+private benefit to the prohibition on private inurement, s ee infra  Table 1.
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   3 because it  did not provide burial benefits to nonmembers of the community and did not provide a
+subsidized dues program.20
+While the statutory language in § 501(c)(3) prohibits all private inurement, the IRS has
+interpreted an incidental amount of private benefit to be  permissible.21 Whether a private benefit
+is incidental depends on the nature and amount of the private benefit in comparison to the exempt
+purpose served, that is , the “public benefit.”22
+Organizational and Opera tional Tests
+As mentioned above, § 501(c)(3) organizations must be “organized and operated exclusively” for
+an enumerated exempt purpose. If the organization fails either the so -called “organizational” or
+“operational” test —for example, based on a finding of a private benefit —it will no longer be
+exempt from federal income tax.23 Private benefit is one way in which an organization can fail the
+organizational and operational tests; other ways an organization can fail include engaging in
+prohibited political activity.24 Thus, the prohibition on private benefit is an application of the
+more general “organizational” or “operational” test s. The organizational test relates to the
+purposes and activities of the organization described and authorized in its governing  documents.
+The operational test relates to the actual activities conducted by the organization. Both tests must
+be satisfied.25
+Organizational Test
+To satisfy the organizational test, the articles of organization26 (1) must limit the organization ’s
+purpos es to exempt purposes; (2) may not expressly authorize the organization  to engage in
+activities that do not further exempt purposes except to an insubstantial degree; and (3) must
+contain an express or implied provision dedicating the organization ’s assets  to an exempt purpose
+upon dissolution.27
+For example, “ an organization that is empowered by its articles to engage in a manufacturing
+business, or to engage in the operation of a social club does not meet the organizational test .”28
+20 Korean -Am. Senior Mut. Ass’n, 120 T.C.M. (CCH) 191 .
+21 The IRS has interpreted “operated exclusively ” as “ primarily .” Treas. Reg. § 1.501(c)(3) -1(c)(1) (emphasis added).
+See infra  “Operational Test .”
+22 See, e.g., B.S.W. Grp. v. Comm’r, 70 T.C. 352, 356 –57 (1978); I.R.S. Gen. Couns. Mem. 39 ,598 (Jan. 23, 1987);
+Rev. Rul. 74 -146, 1974 -1 C.B. 129 (finding incidental private benefit); I.R.S. Priv. Ltr. Rul. 16 -14-038 (Apr. 1, 2016)
+(finding prohibited private b enefit).
+While the incidental doctrine is generally confined to private benefits, less strict applications of the prohibition on
+private inurement resemble this private versus public benefit comparison. See, e.g. , I.R.S . Tech. Adv. Mem. 98 -35-001
+(Apr. 27 , 1998) (“[The organization] has shown that the issuance of free tickets and/or passes [to the organization’s
+shareholders ] is an important part of promoting and attracting people to the Fair so as to fulfill [the organization] ’s
+exempt, educational goals. . . . Although there is no specific de minimis  or ‘insubstantial’ exception to the prohibition
+against inurement of an organization ’s net earnings, the issuance of free passes in the manner described does not
+constitute a distr ibution of earnings.”).
+23 Treas. Reg. §  1.501(c)(3) -1(a)(1).
+24 Id. § 1.501(c)(3) -1(c)(3).
+25 Id. § 1.501(c)(3) -1(a)(1) .
+26 “Articles of organization” may be a trust instrument, a corporate charter, an article of association, or any other
+document which creat es the organization. Id. § 1.501(c)(3) -1(b)(2).
+27 Id. § 1.501(c)(3) -1(b)(1) , (b)(4).
+28 Id. § 1.501(c)(3) -1(b)(1)(iii)  (emphasis omitted) .
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   4 Operational Test
+An organization is operated exclusively for exempt purposes if it engages “primarily” in activities
+that further its exempt purpose or purposes; only an insubstantial degree of activities that do not
+further any exempt purpose is allowed.29 There is no bright -line rule for when an activity becomes
+substantial  and violates the operational test;  it depends upon the facts and circumstances of each
+case.30 Whether an unrelated activity is permitted  can depend on the size and extent of the non-
+exempt activities in comparison to and the size and extent of the activities that are in furtherance
+of exempt purposes .31
+For example, an educational organization with a purpose of  study ing history and immigration
+focuses on the genealogy of one family , and its members consis t only of individuals who are
+members of that one family . This organization would fail the operational test because it is
+operated for the benefit of private interests in violation of the restriction on private benefit .32
+T able 1. Theoretical Differences Between the Prohibitions on Private Inurement and
+Private Benefit for § 501(c)(3) Organizations
+Beneficiary  Prohibition  Source of Prohibition
+Private
+Inurement  Only an insider (person
+with control or
+influence within an
+organization)  Absolute prohibition  “[N]o part of the net earnings of [the
+organization] inures to the benefit of any
+private shareholder or individual.”
+Private
+Benefit  Any private interest,
+whether an insider or
+not Incidental amount of
+private benefit allowed  Regulatory interpretation of “organized
+and operated exclusively [for an
+enumerated exempt purpose].”
+Source s: I.R.C. § 501(c)(3); Treas. Reg. § 1.501(c)(3) -1 (as amended in 2017 ); IRS, PUB. NO. 6101,  EXEMPT
+ORGANIZATIONS TECHNICAL GUIDE, TG 3-8: DISQUALIFYING AND NON-EXEMPT ACTIVITIES , INUREMENT AND PRIVATE
+BENEFIT – IRC SECTION 501( C)(3) (2025) .
+Examples of Types of Private Inurement or Benefit
+While the statutory language prohibits only private inure ment of “net earnings,”33 courts and the
+IRS have applied the prohibition more broadly  to the use or distribution of an organization ’s
+assets .34 Neither the statutory language on the prohibition on private benefit nor the IRS
+29 Id. § 1.501(c)(3) -1(c)(1).
+30 Living Faith, Inc. v. Comm ’r, 950 F.2d 365, 371 (7th Cir. 1991) .
+31 See Treas. Reg. § 1.501(c)(3) -1(e) (explaining permissibility of unrelated trade or business activities) ; Orange Cnty.
+Agr. Soc., Inc. v. Comm’r , 893 F.2d 529, 532 (2d Cir. 1990) (upholding revocation after considering organization’s
+percentage of revenue from non -exempt re venue) .
+32 Treas. Reg. §  1.501(c)(3) -1(d)(1)(iii)  (ex. 1).
+33 I.R.C. § 501(c)(3) ; Treas. Reg. § 1.501(c)(3) -1(c)( 2).
+34 See., e.g. , Anclote Psychiatric Ctr., Inc. v. Comm ’r, 76 T.C.M. (CCH) 175  (1998 ), aff’d sub nom. , Anclote
+Psychiatric v. Com m’r, 190 F.3d 541 (11th Cir. 1999)  (finding sale of a hospital to the hospital ’s board members for
+significantly less than fair market value  was private inurement) ; I.R.S. Tech. Adv. Mem. 9 1-30-002 (Mar. 19, 199 1)
+(revoking hospi tal’s exemption  for private inurement because hospital facility was sold to a for-profit entity controlled
+by hospital ’s directors for less than fair market value ); Rev. Rul. 76 -441, 1976 -2 C.B. 147  (finding that assumption of
+the liabilities of a for -profit school by a nonprofit organization can be  private inurement if the liabilities exceed the fair
+market value of  the assets the nonprofit organization receives).
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   5 regulations contain limits as to the types of private benefits prohibited.35 Thus, at least textually,
+more types of activities are prohibited under the prohibition on private  benefit than under the
+prohibition on private inurement. However, because the prohibition on private inurement  is
+applied more broadly than to just “net earnings,” the types of activities prohibited by the
+prohibition  on private inurement and the prohibit ion on private benefit can overlap.
+Types of activities that may be prohibited private inurement and/or benefit include
+• loans extended on advantageous terms ,36
+• partisan political activity ,37
+• paying excessive rent38 or charging rent at less than fair marke t value ,39
+• personal use of an organization ’s assets ,40 and
+• unreasonable compensation .41
+Intermediate Sanctions
+In addition to the prohibitions on private inurement and private benefit, the I.R.C. contains excise
+taxes on certain transactions that can result in personal gain. This report explains the operation of
+three such excise taxes —those imposed by  §§ 4941, 4958, and 4960.42 This report discusses how
+these three excise taxes  differ in who is taxed, which transactions are taxed, how the tax is
+calculated, and the types of organizations subject to the tax.  These excise taxes are intermediate
+sanctions short of revocation of tax  exemption  for violation of the prohibitions. The e xcise taxes
+are reported on IRS Form 4720 .43
+35 I.R.C. § 501(c)(3) ; Treas. Reg. § 1.501(c)(3) -1(d)(1)(ii) .
+36 See, e.g. , Unitary Mission Church of Long Island v. Comm ’r, 74 T.C. 507, 1980 WL 4450 (1980), aff’d, 647 F.2d
+163 (2d Cir. 1981) ; Orange County Agr. Soc., Inc. v. Comm ’r, 893 F.2d 529  (2d Cir. 1990) .
+37 See, e.g. , Am. Campaign Acad. v. Comm ’r, 92 T.C. 1053 (1989) (ruling that  an organization that operates for the
+benefit of private interests, such as members and entities of one political party, on a more than insubstantial basis may
+not qualify for § 501(c)(3) status); see also  Democratic Leadership Council v. United States, 5 42 F. Supp. 2d 63
+(D.D.C. 2008) (ruling that the retroactive revocation of group ’s § 501(c)(4) status was improper because case did not
+meet circumstances required for retroactive revocation; IRS had revoked the group ’s § 501(c)(4) status after
+determining  the group had impermissibly benefited private interests, specifically Democratic elected officials); I.R.S.
+Priv. Ltr. Rul. 12 -21-025 (Mar. 2, 2012).
+In addition to the prohibitions on private inurement and benefit, political activity may also be prohibit ed by the
+restrictions on political activity placed on tax -exempt organizations. See CRS Report RL33377, Tax-Exempt
+Organizations Under Internal Revenue Code Section 501(c): Political Activity Restrictions , by Justin C. Chung  (2025) .
+38 See, e.g. , Tex. Trade Sch. v. Comm ’r, 30 T.C. 642 (1958), aff’d  per curiam , 272 F.2d 168 (5th Cir. 1959) .
+39 See, e.g. , Harding Hosp., Inc. v. United States, 505 F.2d 1068 ( 6th Cir. 1974) ; I.R.S. Priv. Ltr. Rul. 15 -48-024 ( Nov.
+27, 2015 ); I.R.S. Gen. Couns. Mem. 39 ,598 (Jan. 23, 1987).
+40 See, e.g. , John Marshall Law Sch. v. United States, 228 Ct. Cl. 901 (198 1) (per curiam); I.R.S. Priv. Ltr. Rul. 25 -20-
+013 (Jan. 28, 2025) ; I.R.S. Priv. Ltr. Rul . 24-29-020 (July 19, 2024) .
+41 Rev. Rul. 73 -126, 1973 -1 C.B.  220; Treas. Reg.  § 1.162 -7(b)(3 ) (20 17). See, e.g. , Founding Church of Scientology v.
+United States, 412 F.2d 1197 (Ct. Cl. 1969) .
+42 In this report, these excise taxes are referenced  as “excise taxes” or “intermediate sanctions.”
+43 DEP’T OF TREASURY , I.R.S.,  FORM 4720,  RETURN OF CERTAIN EXCISE TAXES UNDER CHAPTERS 41 AND 42 OF THE
+INTERNAL REVENUE CODE (2025),  https://www.irs.gov/pub/irs -pdf/f4720.pdf  [https://perma.cc/KT76 -WEQX ].
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   6 Relevant Categories of § 501(c)(3) Organizations
+Application of the excise taxes to § 501(c)(3) organizations can depend on classification of the
+organization as (1) either a public charity or private foundation  and (2) either a supporting
+organization or supported organization.
+Public Charity Versus Private Foundation
+Section 501(c)(3) organizations  are subclassified as either p ublic charities or private foundations,
+distinguished primarily by the level of publi c involvement in their activities and funding. Public
+charities receive contributions from a variety of sources, whereas private foundations receive
+contributions from limited sources.44 A § 501(c)(3) organization is presumed to be a private
+foundation unl ess it requests, and qualifies for, a determination as a public charity, which
+generally involves proving public support or activity.45 Private foundations are generally subject
+to stricter regulation than public charities.
+“Supporting ” Organization Versus  “Supported ” Organization
+“Supporting ” organizations are subject to restrictions and requirements  additional to those
+applicable to “supported” organizations. Supporting organizations are §  501(c)(3) organizations
+that qualify for public charity status by reason of close ties with another public charity, the
+supported organization.46 The supporting organization must be organized  and operated
+exclusively to further the purposes of a supported organization.47 The supp orting organization
+must have a defined relationship with its supported organization , such as a “parent -subsidiary” or
+“brother -sister” relationship.48
+Section 4958 Excise Tax on Excess Benefit Transact ions by Public
+Charities
+Congress enacted t he § 4958 excise tax on excess benefit transactions by public charities in
+199649 to provide the IRS with  an intermediate sanction short of loss of exemption  for prohibited
+private inurement or benefit .50 At a 1993 hearing by the House Ways and Means Committee ’s
+Oversight Subcommittee , the commissioner of internal revenue  testified that the IRS needed
+intermediate sanctions to provide another  mechanism to enforce the private inurement
+prohibition.51 The § 4958 excise tax  was modeled after existing excise taxes on private
+foundations.52
+44 I.R.C. §  509; Treas. Reg. § 1.509(a) -3 (as amended in 2020).
+45 I.R.C. §  509; Treas. Reg. § 1.509(a) -3.
+46 I.R.C. § 509(a)(3).
+47 Id. § 509(a)(3)( A).
+48 Id. § 509(a)(3)(B).
+49 Taxpayer Bill of Rights 2, Pub. L. No. 104 -168, tit. XIII, § 1311(a) , 110 Stat. 1452, 1475  (1996).
+50 H.R. REP. NO. 104-105, at 55  (1955) .
+51 Federal Tax Laws Applicable to the A ctivities of Tax -Exempt Charitable Organizations: Hearing  Before the
+Subcomm.  on Oversight of the H. Comm. on  Ways and Means , 103d Cong. 14 , 18–19 (1993) (statement of Margaret
+Milner Richard, Comm’r, IRS).
+52 For an explanation of “private foundations” and “public charities ,” see supra  “Public Charity Versus Private
+Foundation .”
+(continued...)
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   7 As an intermediate sanction, the IRS has discretion to impose the § 4958 tax  in lieu of or in
+addition to revocation of an organization ’s tax-exempt status.53
+When a § 501(c)(3) public charity engages in a n “excess benefit transaction” to “disqualified
+persons,”  the excise tax is imposed on the disqualified persons.54 “Disqualified persons” include
+individuals with substantial influence over the organization, family members of suc h persons, or
+entities with a certain amount of control over the organization.55 The tax applies to “excess
+benefit transactions,” that is, any transaction in which an economic benefit is provided by the
+organization to a disqualified person where  the valu e of the benefit provided exceeds the value
+received by the organization.56 Unreasonable compensation is an example of an excess benefit
+transaction.57 In addition, use of an organization’s bank account for cash withdrawals and
+personal purchases are exces s benefit transaction s.58
+An initial, “first -tier” tax  on the disqualified person is equal to 25% of the “excess benefit” of
+such a transaction, that is , the excess of benefit to the disqualified person over the value received
+by the organization .59 An additional tax of 200% of the excess benefit is imposed on the
+disqualified person if the excess benefit transaction is not corrected within the taxable pe riod.60
+Additionally, an organization’s manager who knowingly participates in an excess benefit
+transaction  is subject to a tax equal to 10 % of the excess benefit .61 The manager tax is capped at
+$20,000 for any one transaction.62 The tax is not imposed if the participation is not “willful ” and
+Private foundations are subject to t he § 4941 excise tax on self-dealing and §  4945 excise tax on taxable expenditures.
+These excise taxes on private foundations pre -date the § 4958 tax  on public charities . Tax Reform Act o f 1969, Pub. L.
+No. 91-172, tit . I, § 101(b), 83 Stat. 487, 498 . Because private foundations are subject to a different excise tax regime
+from public charities, the § 4958 tax  on public charities excludes private foundations. I.R.C.  § 4958(e).
+For more inf ormation on the § 4941  excise tax on private foundations, see infra  “Section 4941 Excise Tax on Self -
+Dealing by Private Foundations .” For an explanation of the § 4945  excise  tax on private foundations as applied to
+political expenditures, see CRS Report RL33377, Tax-Exemp t Organizations Under Internal Revenue Code Section
+501(c): Political Activity Restrictions , by Justin C. Chung  (2025) . The § 4945 excise tax  is otherwise not covered in this
+report.
+53 T.D. 9390, 2008 -1 C.B. 855;  see also  Treas. Reg. §  1.501(c)(3) -1(f)(2 ) (listing relevant factors the IRS considers in
+determining whether to revoke exempt status for excess benefit transactions) .
+54 I.R.C.  § 4958(a)(1).
+55 Id. § 4958(f)(1).  “Substantial influence” is a fact -and-circumstances determination, and regulations list certain factors
+“tending to show” substantial influence as well as factors “tend ing to show no” substantial influence.  Treas. Reg. §
+53.4958 -3(e) (as amended in 2002) . For an example of a case applying the factors, see Fumo v. Comm ’r, 121 T.C.M.
+(CCH) 1475  (2021) .
+56 I.R.C.  § 4958(c)(1)(A) ; see also  Caracci v. Comm’r , 456 F.3d 444 (5th Cir. 2006)  (approving the taxpayers ’
+valuation  of a transaction and finding no excess benefit).
+57 Treas. Reg. § 53.4958 -4(a), (b)(ii)  (as amended in 2002) . Under the regulations, in certain circumstances
+compensation  and transfers of property  are given a rebuttable presumption of reasonableness , which the IRS must
+overcome  to impose the tax . Id. § 53.4958 -6. Generally, such transactions are presumed to be reasonable if approved in
+advance by a governing board with no conflicts of interest relying on appropriate data and with adequate
+documentatio n. Id. § 53.4958 -6(a).
+58 Farr v. Comm’r, 115 T.C.M. (CCH) 1003 (2018), aff’d , 738 F. App ’x 969 (10th Cir. 2018) .
+59 I.R.C.  § 4958(a)(1), (c)(1)(B).
+60 Id. § 4958(b).
+61 Id. § 4958(a)(2).  Regulations define “knowing” as (1) having actual knowledge of sufficient facts  to determine the
+transaction is an excess benefit transaction ; (2) awareness that the transaction may violate federal tax law ; and (3)
+negligently fail ing to make reasonable at tempts to ascertain whether the transaction is an excess benefit transaction, or
+awareness in fact that it is such a transaction.  Treas. Reg. § 53.4958 -1(d)( 4)(i) (as amended in 2002) . Reliance on
+professional advice can preclude knowing participation. Id. § 53.4958 -1(d)( 4)(iii). Professional advice is limited to
+written advice from legal counsel, accountants, and independent valuation experts. Id.
+62 I.R.C.  § 4958(d).
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   8 is “due to reasonable cause. ”63 “Manager” is defined as “ any officer, director, or trustee ” of the
+organization or anyone with powers or responsibilities similar  to such positions.64 The definitions
+of “manager”  and “disqualified persons”  are not exclusive ; thus, an individual could be subject to
+both the manager  tax and the first -tier tax on disqualified persons.65 The additional 200% tax for
+non-correction, though, applies only to disqualified persons .66
+T able 2. Summary of § 4958 Excise T ax on Excess Benefit Transactions by
+Public Charities
+Tax on Disqualified
+Person  Tax on Manager
+First -Tier Tax 25% of excess benefit  10% of excess benefit, not to exceed $20,000 for any
+one transaction, if manager knowingly participates in
+the transactions, unless such participation is not willful
+and is due to reasonable cause.
+Additional Tax, if
+transaction is not
+corrected within the
+taxable period  200% of excess benefit  (No additional tax)
+Source:  I.R.C. § 4958.
+Special Rules for Supporting Organizations
+In addition to the general rules described above for the tax on excess benefit transactions ,
+supporting organizations are subject to special rules.67 Congress added these special rules in the
+Pension Protection Act of 2006.68
+63 Id. Regulations define “willful” as “ voluntary, conscious, and intentional .” Treas. Reg. § 53.4958 -1(d)(5). “Due to
+reasonable cause” is defined as “ if the manager has exercised responsibility on behalf of the organization with ordinary
+business care and prudence. ” Id. § 53.4958 -1(d)(6).
+While the statutory text in § 4958 only pre cludes the tax from being imposed on managers for non -willfulness and
+reasonable cause, the IRS may abate the first -tier tax on disqualified persons under another section of the tax code if the
+excess benefit was due to reasonable cause and not to willful neglect and if a correction is made within the correction
+period. I.R.C.  § 4962 .
+64 Id. § 4958(f)(2).
+65 Id. § 4958(f)(1), (2). The regulations list certain positions that qualify persons holding the powers and responsibilities
+of such positions as disqualif ied persons. These include voting member on the organization ’s governing body and the
+president, chief executive officer, chief operating officer, chief financial officer, and treasurer of the organization.
+Treas. Reg. § 53.4958 -3(c) ( as amended in 2002 ).
+66 I.R.C. § 4958(b).  For a summary of the § 4958  excise tax,  see infra  Table 2.
+67 For an explanation of “supporting organizations,” see supra  “Supporting ” Organization Versus  “Supported ”
+Organization .
+Similar special rules apply to donor -advised funds. I.R.C.  § 4958(c)(2).  Donor-advised funds  are funds or accounts
+established within a sponsoring organization , which oversees payment of grants to charities from the fund  on
+recommendations from donors to the fund . For more information on d onor-advised funds , see CRS Report R48789,
+Tax Issues Relating to Charitable Contributions and Organizations , by Jane G. Gravelle, Donal d J. Marples, and
+Brendan McDermott  (2026); CRS In Focus IF12126, Donor -Advised Funds (DAFs): Proposed Legislation , by Jane G.
+Gravelle  (2022); CRS Report R42595, An Analysis of Charitable Giving and Donor Advised Funds , by Molly F.
+Sherlock and Jane G. Gravelle  (2012). D onor-advised funds  are otherwise not covered in this report.
+68 Pub. L. No. 109 -280, tit. XII, § 1242, 120 Stat. 780 , 1104 .
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   9 Under these rules, certain transactions —including grants, loans, and compensation —made by the
+supporting organization to  a “substantial contributor ”69 (even a contributor who is not a
+“disqualifi ed person” under the definition in §  4958 (f)(1) ) are automatically excess benefit
+transactions , with the entire amount treated as the excess benefit regardless  of reasonableness or
+amount of benefit to the organization.70 Because substantial contributors to supporting
+organizations do not have to satisfy the general definition of disqualified persons, which can
+depend on influence within the organization , substantial contributors can be subject to the § 4958
+excise tax eve n if they exercise little to no influence over the organization —for example , if they
+merely contributed money. The special rules also apply to transactions by the supporting
+organization to
+• family members of a substantial contributor,71 and
+• an entity over which a substantial contributor or family member of a substantial
+contributor has a certain amount of control .72
+Due to these special rules, the tax on excess benefits transactions is more strictly applied to
+contributors to supporting organizations .73
+In addition to the special rules regarding substantial contributors , any loan from a supporting
+organization to a disqualified person ( with some exceptions for loans to certain organizations
+such as supported organizations ) is also treated as an excess ben efit transaction, with the entire
+loan amount subject to the excise tax .74
+Section 4941 Excise Tax on Self -Dealing by Private Foundations
+Congress enacted § 4941 in 196975 to supplant a previous enforcement regime, which had
+imposed “arm’s length standard s” for certain transactions between an organization and its creators
+or substantial donors.76 The arm’s length standards  were criticized as subjective, administratively
+difficult, and inconsistently enforced.77
+Section 4941  imposes  excise taxes on “disqual ified persons”  when certain “acts of self -dealing”
+occur between the person and a private foundation .78
+69 Generally, a substantial contributor is any person who contributed more than $5,000 to the organization, if such
+amount is more than 2% of the total contributions received by the organization that tax year. I.R.C.  § 4958(c)(3)( C).
+70 Id. § 4958(c)(3) ; see also  I.R.S. Priv. Ltr. Rul. 16-27-005 (July 1, 2016 ) (stating student debt reduction payment to a
+substantial contributor would be an excess benefit transaction).
+71 I.R.C. § 4958(c)(3) (B)(ii).
+72 Id. § 4958(c)(3) (B)(iii) .
+73 Compare  I.R.C. § 4958(c)(3)  (defining “substantial contributor” and “excess benefit” for supporting organizations)
+with id. § 4958(c)( 1), (f)(1) (providing generally applicable definitions for “excess benefit” and “disqualified person”).
+74 Id. § 4958(c)(3) (A)(ii) ; see also  I.R.S. Tech. Adv. Mem. 15-03-019 (Jan. 16, 2015 ) (finding that a loan from the
+supporting organization to a company in which a former director owns more than 35% interest was automatic ally an
+excess benefit transaction equal to  the loan amount ).
+75 Tax Reform Act of 1969, Pub. L. No. 91 -172, tit. I, § 101(k)(1) , 83 Stat. 487, 492 .
+76 STAFF OF THE JOINT COMM . ON INTERNAL REVENUE TAXATION , 91ST CONG., REPORT ON A GENERAL EXPLANATION OF
+THE TAX REFORM ACT OF 1969  (Comm. Print 1970).
+77 Id.
+78 I.R.C. §  4941. For an explanation of “ private foundations ,” see supra  “Public Charity Versus Private Foundation .”
+The § 4941  excise tax on self -dealing is also applied to certain charitable trusts described in  § 4947(a)(1) as well as
+certain split interest trusts described in § 4947(a)(2).  These are otherwise outside the scope of this report.
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   10 Disqualified persons include79
+• “substantial contributor[s] to the foundation”;80
+• “foundation manager[s]”;81
+• a person who owns more than 20% of an entity that is itself a substantial
+contributor;82
+• a family member of  an aforementioned  person;83
+• an entity with a certain amount of control over the foundation;84 and
+• certain government officials.85
+Acts of self -dealing generally86 include
+• “sale or exchange, or leasing, of property”;87
+• loans;88
+• “furnishing of goods, services, or facilities ”;89
+• compensation or reimbursement;90
+• transfer or use of income or assets;91 and
+• payments to a government official.92
+Unlike the § 4958 excise tax on excess benefit transactions  described above, the § 4941  excise tax
+is generally imposed on all such acts of self -dealing, even if there is an equivalent benefit to the
+organization.93
+The tax is imposed on the “amount involv ed” in the act of self -dealing. This is defined as
+generally the greater of the
+• “money and the fair market value of the other property given, ” or
+79 Id. § 4946(a) .
+80 Id. § 4946(a) (1)(A).
+81 Id. § 4946(a) (1)(B).
+82 Id. § 4946(a) (1)(C).
+83 Id. § 4946(a) (1)(D).
+84 Id. § 4946(a) (1)(E) –(G).
+85 Id. § 4946(a) (1)(I).
+86 Certain transactions are statutorily excepted from self -dealing e ven if the transaction would otherwise constitute an
+act of self-dealing . Id. § 4941 (d)(2). For example, reasonable and necessary  compensation (oth er than to a government
+official ) for personal services  is specifically excepted from self -dealing. Id. § 4941(d)(2) (E).
+87 Id. § 4941 (d)(1)(A) ; Rev. Rul. 77 -379, 1977 -2 C.B. 387 ; Rev. Rul. 76 -18, 1976 -1 C.B. 355 .
+88 I.R.C.  § 4941 (d)(1)(B) .
+89 Id. § 4941 (d)(1)(C) ; see also  Rev. Rul. 73 -363, 1973 -2 C.B. 383  (finding that rental of an aircraft by a disqualified
+person to a private foundation is a furnishing of property ).
+90 Id. § 4941 (d)(1)(D) .
+91 Id. § 4941 (d)(1)(E) ; see also  Rev. Rul. 74 -600, 1974 -2 C.B. 38 5 (finding that the placing of paintings owned by a
+private foundation in the residence of a substantial contributor  is use of an asset).
+92 Id. § 4941 (d)(1)(F) .
+93 Compare  id. § 4958(a)(1), (c)(1)(B)  (tax applied to “excess benefit”), with id. § 4941(e)(2)  (tax applied to “amount
+involved”). See also  Treas. Reg. §  53.4941(d) -1(a) (as amended in 1973) (“[I] t is immaterial whether the [self-dealing]
+transaction results in a benefit or a detriment to the  private foundation ”).
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   11 • “money and the fair market value of the other property received .”94
+The “amount involved” is calculated differently if the act of self -dealing is compensation. In the
+case of compensation  other than to a government official , the tax is paid only if the compensation
+is “excessive ,” that is , if the compensation exceeds  the fair value of the services . In such a case,
+the “amount involved” is only the excess compensation.95
+An initial, “first -tier” tax equal to 10% of the amount involved in the self -dealing transaction  is
+imposed on the disqualified person .96 An additional tax of 200% of the amount involved is
+imposed on the disqualified person if the excess benefit transaction is not corrected within the
+taxable period.97
+A foundation manager who knowingly98 participates in a self-dealing transaction is subject to a
+first-tier tax equal to 5% of the amount involved.99 The first -tier tax is not imposed on the
+manager  if the participation is not “willful ” and is “due to reasonable cause. ”100 An additional tax
+of 50% of the amount involved is imposed on the foundation manager if the excess benefit
+transaction is not corrected within the taxable period  and the manager refuse s to agree to the
+correction.101 The first-tier and additional taxes on managers  are each capped  at $20,000 for any
+one transaction.102 A foundation manager may be liable both as a foundation manager and as a
+disqualified person.103
+T able 3. Summary of § 4941 Excise T ax on Self -Dealing by Private Foundations
+Tax on Disqualified
+Person  Tax on Foundation Manager
+First -Tier Tax 10% of amount involved  5% of amount involved , not to exceed $20,000 for any
+one transaction, if foundation manager knowingly
+participates in the transactions, unless such
+participation is not willful and is due to reasonable
+cause.
+Additional Tax, if
+transaction is not
+corrected within the
+taxable period  200% of amount involved  50% of amount involved , not to exceed $20,000 for any
+one transaction, if foundation manager refuse s to agree
+to the correction .
+Source: I.R.C. § 49 41.
+94 I.R.C.  § 4941(e)(2) .
+95 Id. § 4941(d)(2)(E) , (e)(2) .
+96 Id. § 4941( a)(1). The IRS cannot abate the first -tier tax on disqualified persons. Id. § 4962(b).
+97 Id. § 4941( b)(1).
+98 Regulations define “knowing” as (1) having actual knowledge of sufficient facts  to determine the transaction is an act
+of self -dealing; (2) being aware that the transaction may violate federal tax law  on self -dealing; and (3) n egligently
+failing to make r easonable attempts to ascertain whether the transaction is an act of self -dealing , or awareness in fact
+that it is such a n act. Treas. Reg. §  53.4941( a)-1(b)(3) (as amended in 1973). Reliance on advice of counsel can
+preclude knowing or “willful” participa tion and be considered “due to reasonable cause .” Id. § 53.4941( a)-1(b)(6).
+99 I.R.C.  § 4941( a)(2); Madden v. Comm ’r, 74 T.C.M. (CCH) 440  (1997); Rev. Rul. 78 -76, 1978 -1 C.B. 377 .
+100 I.R.C.  § 4941( a)(2). Regulations define “willful” as “ voluntary, conscious, and intentional .” Treas. Reg. §
+53.4941( a)-1(b)(4). “Due to reasonable cause” is defined as “ if [the manager]  has exercised his responsibility on behalf
+of the foundation with ordinary business care and prudence .” Id. § 53.4941( a)-1(b)(5).
+101 I.R.C. § 4941( b)(2).
+102 Id. § 4941( c)(2).
+103 Id. §§ 4941( a), (b); 4946(a) (1)(B).  For a summary of the § 4941  excise tax, s ee infra  Table 3.
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   12 Section 4960 Excise Tax on Excess Compensation
+The FY2018 reconciliation law, sometimes referred to as the Tax Cuts and Jobs Act (TCJA) ,104
+created § 4960 , which imposes an excise tax on “remuneration” of “covered employees”105 of
+certain tax-exempt organizations106 that exceeds certain amounts.107 The excise tax is paid by the
+organization.108 Imposition of the § 4960  tax on excess compensation and the §§ 4958  and 4941
+excise taxes described above are separate inquiries.109 Liability for the § 4960  tax does not
+necessarily lead to liability for the o thers, though the same transaction can lead to liability for
+both.110
+“Renumeration” generally means wages, with certain exceptions, including remuneration paid by
+a related organization , such as a supporting or supported organization.111 The tax is equal to  the
+product of the corporate income tax rate (currently 21%) and the sum of
+• remuneration (excluding any “excess parachute payment”) paid in any tax  year to
+any covered employee that exceeds $1 million , plus
+• any “excess parachute payment”  to a covered employee .112
+The structure of the § 4960  tax resembles limitations on deductibility of employee compensation
+by certain corporations.113 The TCJA conference report on the § 4960 tax identified these
+limitations as “present law” but explained th at “[t]hese deduction limits generally do not affect a
+tax-exempt organization.”114
+104 Pub. L. No. 115 -97, tit. I, § 13602(a), 131 Stat. 2054 , 2157  (2017).
+105 Defined in § 4960(c)(2) to mean any current or former employee of the organization (or its predecessor) employed
+during any tax year after December 31, 2016 .
+The FY2025 reconciliation law , sometimes referred to as the  One Big Beautiful Bill Act , Pub. L. No. 119 -21, § 70416 ,
+139 Stat. 72, 223 (2025),  expand ed the definition of “covered employee,” which was previously limited to  “one of the 5
+highest compensated employees of the organization for the taxable year” or one who was such for any preceding
+taxable year beginning after December 31, 2016.
+106 Including  both § 501(c)(3) charities and private foundations. I.R.C. §  4960(c)(1)(A)  (defining “applicable tax -
+exempt organization” ).
+107 Id. § 4960 .
+108 Id. § 4960 (b).
+109 Tax on Excess Tax -Exempt Organization Executive Compensation, 86 Fed. Reg. 6196 (Jan. 19, 2021) (codifi ed at
+26 C.F.R. §§ 1, 53).
+110 Id.; I.R.S. Notice 19 -9, 2019 -4 I.R.B. 403 (2019).  For a comparison between the excise taxes, see infra  Table 4.
+111 I.R.C. § 4960(c)(3) -(4).
+112 Id. § 4960( a)(1)-(2). Defined in § 4960(c)( 5) to generally mean payments “contingent on [an] employee’s
+separation ” that are over a certain amount.
+113 I.R.C. §§ 162(m), 280G .
+114 H. REP. NO. 115 -466 (2017) (Conf. Rep.).
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   13 T able 4. Comparison of §§ 4958, 4941, and 4960 Excise T axes
+Who can be liable
+for the tax?  What is taxed?  What is the tax rate?
+§ 4958  “Disqualified
+person”a and
+“organization
+manager”  “Excess benefit” of a n
+“excess benefit
+transaction”  25%:  First-tier tax on disqualified person
+10%: First-tier tax on organization manager
+200%:  Additional tax on disqualified person
+§ 4941  “Disqualified person”
+and “foundation
+manager”  “Amount involved” in an
+“act of self -dealing”  10%:  First-tier tax on disqualified person
+5%: First-tier tax on foundation manager
+200%:  Additional tax on disqualified person
+50%:  Additional tax on foundation manager
+§ 4960  The organization  “Remuneration” (other
+than any “excess
+parachute payment ”) in
+excess of $1,000,000  to
+any covered employee
+and any “excess parachute
+payment”  21%
+Source s: I.R.C. §§ 4941, 4958, and 4960 .
+Note :
+a. Special rules apply for “substantial contributors” of supporting organizations.
+Application to § 501(c)(4) Organizations
+Section 501(c)(4) imposes prohibitions on private inurement and benefit similar to those imposed
+on § 501(c)(3) organizations . Section  501(c)(4) organizations —sometimes called “social welfare”
+organizations —are defined as
+[c]ivic leagues or organizations not organized for profit but operated exclusively for  the
+promotion of social welfare, . . . no part of the net earnings of such entity  inures  to the
+benefit of any private shareholder or individual .115
+The explicit statutory language prohibiting private inurement by § 501(c)(4) organizations  was
+added in 1996.116 Although in 1996 the IRS had stated an intent  to issue guidance on the
+applic ation of the private inurement prohibition to §  501(c)(4) organizations , it has not done this
+as of the date of writing this report.117 While the IRS has acknowledged that the law on the
+private inurement prohibition on § 501(c)(4) organizations  is “signifi cantly less well developed”
+than for § 501(c)(3) organizations , it has stated, “It is clear that there is a comparable statutory bar
+to inurement. Therefore, the same facts that would justify revocation under section 501(c)(3) for
+inurement would also like ly bar a claim of exemption under section 501(c)(4).”118
+115 See I.R.C . § 50 1(c)(4) (emphasis added); see also  Flat Top Lake Ass ’n v. Comm ’r, 868 F.2d 108 (4th Cir. 1989)
+(finding that “ an organization that operates for the exclusive benefit of its members does not serve a ‘community ’ as
+that term relates to the broader concept of social welfare. ”); I.R.S. Priv. Ltr. Rul. 13 -13-031 (Sept. 8, 2011)  (“By
+providing these facilities only for the use of its members the association is operating for the private benefit of its
+members, and not for the promotion of social welfare within the meaning of section 501(c)(4) of the Code. ”).
+116 Taxpayer Bill of Rights 2, Pub. L. No. 104 -168, tit. XIII, § 1311(a) , 110 Stat. 1452, 1475 –77 (1996) . Some transfers
+by certain cooperative organizations  to their members were “grandfathered” from being subject to the prohibition. Id.
+117 I.R.S. Notice  96-47, 1996 -2 C.B. 213 .
+118 I.R.S. Gen. Couns. Mem. 04-31-023 (July 1 3, 2004).
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   14 Section 501(c)(4) organizations  must be “ operated exclusively for the promotion of social
+welfare .”119 Under the regulations, an organization operates exclusively for the promotion of
+social welfare if it is “primarily engaged  in promoting in some way the common good and
+general welfare of the people of the community .”120 Such an organization is “operated primarily
+for the purpose of bringing about civic betterments and social improvements .”121 The IRS uses
+the same standard s for determining what constitutes private benefit for § 501(c)(4) organizations
+as those for § 501(c) (3) organizations .122
+While IRS regulations permit a § 501(c)(4)  organization to engage in a limited amount of
+political campaign activity,123 an organization that primarily benefits private, partisan interests
+could jeopardize its § 501(c)(4) status.124
+Both the § 4958  excise tax  on excess benefit transactions  and the § 4960 excise tax on excess
+compensation apply to § 501(c)(4)  organizations.125 The § 4941 excise tax  on self -dealing by
+private foundations does not apply to § 501(c)(4) organizations .126
+119 I.R.C. § 501(c)(4) .
+120 Treas. Reg. §  1.501(c)(4) -1(a)( 2)(i) (as amended in 1990) (emphasis added) .
+121 Id. (emphasis added).
+122 I.R.S. Priv. Ltr. Rul. 12 -21-025 (Mar. 2, 2012)  (“While you requested recognition as an organization described in
+section 501(c)(4) and not section 501(c)(3) . . . the standard for determining what constitutes private benefit  . . . applies
+to both sections ”).
+Because the prohibition on private benefit by § 501(c)(4) organizations  derives from the statutory language “ operated
+exclusively for the promotion of social welfare ,” the IRS is prohibited from further clarifying the prohibition by
+appropriations rider s, first added to Congress ’s fiscal year 2016 app ropriations law, which have  prohibited the Treasury
+Department , generally,  or the IRS  in particular  from “issu[ing], revis[ing], or finaliz[ing] any regulation, revenue
+ruling, or other guidance not limited to a particular taxpayer relating to the standard  which is used to determine whether
+an organization is operated exclusively for the promotion of social welfare for purposes of section 501(c)(4) .” See, e.g. ,
+Department of the Treasury Appropriations Act, 2016, Pub. L. No. 114 -113, div. E, tit. I., § 127, 129 Stat. 2423, 2433
+(2015) (introducing the rider) ; Department of the Treasury Appropriations Act, 2024, Pub. L. No. 118 -47, div. B, tit. I,
+§ 123, 138 Stat. 460, 530.
+123 Treas. Reg. § 1.501(c)(4) -1(a)(2) ; Rev. Rul. 81 -95, 1981 -1 C.B. 332 .
+124 See Democratic Leadership Council v. United States, 542 F. Supp. 2d 63 (D.D.C. 2008) ( considering revocation of a
+group ’s § 501(c)(4) status after determining the group had impermissibly benefited private interests, specifically
+Democratic elected officials); I.R.S. Priv. Ltr. Rul. 12 -21-025 (Mar. 2, 2012)  (revok ing § 501(c)(4) status of
+organization that trained female members of one political party ).
+125 I.R.C. §§  4958(e)(1); 4960(c)(1)(A).
+126 Id. §§ 509; 4941.  For a summary of applicability of the p rohibitions  on private inurement & benefit and intermediate
+sanctions to § 501(c)(4) organizations, s ee infra  Table 5.
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   15 T able 5. Summary of Applicability of Prohibitions on Private Inurement & Benefit
+and Intermediate Sanctions to §§ 501(c)(3) and 501(c)(4) Organizations
+Prohibition on
+Private
+Inurement  Prohibition
+on Private
+Bene fit § 4958
+Excise Tax  § 4941
+Excise Tax  § 4960
+Excise Tax
+§ 501(c)(3)
+Public Charity  Yes Yes Yes, special rules
+for supporting
+organizations  No Yes
+§ 501(c)(3)
+Private
+Foundation  Yes Yes No Yes Yes
+§ 501(c)(4)  Yes Yes Yes No Yes
+Source s: I.R.C. § 501(c)(3), (4); id. §§ 4941, 4958, 4960.
+Congressional Proposals on the Intermediate
+Sanctions
+Congress has broad constitutional authority to select the “measure and objects ” of taxation and
+may use its taxing power to regulate private conduct.127 This authority  includes the power to
+impose excise taxes, which are indirect tax es levied on specific activities.128 Congress also has
+broad authority to exempt certain things from taxation and to set the conditions for the
+exemption.129
+Allegations of abuse  of tax -exempt status by specific organizations has drawn congressional
+interest in the intermediate sanctions.130 Congress has proposed amendments  that, if enacted,
+would change how the intermediate sanctions operate and to whom they apply. A current propo sal
+would expand the definition of “disqualified person” for the § 4958  excise tax. Past proposals
+would  have  (1) expand ed the types of individuals upon whom the § 4958  excise tax is imposed,
+(2) expand ed the types of organizations subject to the § 4958  tax, (3) redefine d the transactions
+subject to the  § 4958  tax, (4) impose d the §§ 4958  and 4941  excise taxes on the organization s,
+and/or (5) restrict ed certain defenses against the  §§ 4958  and 4941  taxes.
+127 Flint v. Stone Tracy Co., 220 U.S. 107, 167 (1911) .
+128 U.S.  CONST . art. I, § 8, cl. 1; Stone Tracy  Co., 220 U.S. at 155.
+129 Regan v. Taxation with Representation of Wash ., 461 U.S. 540 , 546–47 (1983) .
+130 See, e.g. , STAFF OF COMM . ON WAYS AND MEANS , 117TH CONG., REPORT ON UNIVERSITIES ’ RESPONSES TO THE
+COMPENSATION OF ATHLETIC COACHES INQUIRY (2022),  https://democrats -waysandmeans.house.gov/sites/evo -
+subsites/democrats -waysandmeans.h ouse.gov/files/documents/V.3%20University%20Coaches%20Report -Pascrell.pdf
+[https://perma.cc/7WNT -HTUL ] (investigating college coaching salaries) ; S. COMM . ON FIN., MAJORITY STAFF REPORT :
+THE NRA  AND RUSSIA  (Sept. 2019), https://www.finance.senate.gov/imo/media/doc/2019 -09-
+27%20NRA%20&%20Russia%20 -%20Majority%20Report.pdf  [https://perma.cc/V6H4 -DEKK ] (considering
+allegations against the National Rifle Association) ; Press Release, S. Comm. on Fin., Grassley Releases Review of Tax
+Issues Raised by Media -based Ministries (Jan. 6, 2011), https://www.finance.senate.gov/ranking -members -
+news/grassley -releases -review -of-tax-issues -raised -by-media -based -ministries  [https://perma.cc/8WUL -4RE2 ]
+(reviewing allegations against six media -based ministries);  Profiteering In a Non -Profit Industry: Abusive Practices in
+Credit  Counseling: Hearing Before the Permanent Subcomm. on Investigations, S. C omm. on Governmental Affs .,
+108th Cong. (2004) (investigating allegations against c redit counseling agencies ).
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organ izations and Intermediate Sanctions
+Congressional Research Service   16 CRS identified the following bills proposing amendments to §§ 4958  and 4941 .131
+Proposed Amendments to § 4958
+S. 3325 , 119 th Congress —Expanding Access to Affordable Drugs and Medical Devices Act132—
+would expand “disqualified person” to include a person who provide s certain types of funding to
+a “public interest drug or medical device health care organization .”
+S. 1, 115 th Congress —An Original Bill to Provide for Reconciliation Pursuant to Title II of the
+Concurrent Resolution on the Budget for Fiscal Year 2018133—would  have
+• impose d on the organization a first -tier tax of 10% of the excess benefit, unless
+(1) the participation of the organization in the excess benefit transaction is not
+willful and is due to reasonable cause , or (2) the  organization establishes
+“minimum standards of organization due diligence”  or other reasonable
+procedures to ensure that no excess benefit is provided;134
+• provide d that reliance on professional advice shall not, by itself, preclude the
+manager from being t reated as participating in the excess benefit transaction
+knowingly ;135
+• added athletic coaches at educational institutions and their family members as
+“disqualified persons ”;
+• expand ed and clarif ied situations where “investment advisors” can be considered
+“disqualified persons ”; and
+• expand ed the applicability of § 4958 to labor unio ns under § 501(c)(5) and trade
+unions under § 501(c)(6).
+H.R. 7083 , 110 th Congress —Charity Enhancement Act of 2008136—would have provide d that
+reasonable compensation paid by supporting organizations to substantial contributors  would not
+be treated as an ex cess benefit .
+131 CRS searched for proposed amendments from the 109th Congress to the 119th  Congress, as of the date of the
+writing of this report. CRS did not i dentify any un -enacted amendments to § 4960. The most recent congressional
+action on § 4960  is in the FY2025 reconciliation law , which expanded the definition of “covered employee.” For more
+information, see supra  note 105.
+132 S. 3325, 119th Cong. § 2 (as introduced, Dec. 3, 2025).
+133 S. 1, 115th Cong. §  13705 (as introduced, Nov. 28, 2017). The following proposed amendments were also included
+in Tax Reform Act of 2014, H.R. 1, 113th Cong.  § 5201  (as introduced, Dec. 10, 2014) .
+134 The “minimum standards of  organization  due diligence”  was an attempt to eliminate the rebuttable presumption of
+reasonableness . STAFF OF J. COMM . ON TAX’N, 115 TH CONG., DESCRIPTION OF THE CHAIRMAN ’S MARK OF THE “TAX
+CUTS AND JOBS ACT,” JCX-51-17, at 173 (2017). For more information on the rebuttable presumpt ion of
+reasonableness, see supra note 57.
+The Joint Committee on Taxation’s  explanation of the bill explains that “ [t]ransactions with insiders crea te widespread
+opportunities for abuse, especially when the determination of whether a transaction passes muster depends upon a
+subjective determination of fair market value or reasonableness of compensation.”  STAFF OF J. COMM . ON TAX’N, 115 TH
+CONG., SUMMAR Y OF JOINT COMMITTEE STAFF “OPTIONS TO IMPROVE TAX COMPLIANCE AND REFORM TAX
+EXPENDITURES ,” JCX-19-05R, at 28 (2017). Aside  from this amendment, the rebuttable presumption has been
+suggested as an area of reform. Press Release, S. Comm. on Fin., Grassley R eleases Staff Discussion Draft of Potential
+Non-profit Hospital Reforms, Solicits Public Comment  (July 18, 2017), https://www.finance.senate.gov/ranking -
+members -news/grassley -releases -staff-discussion -draft -of-potential -non-profit -hospital -reforms -solicits -public -
+comment  [https://perma.cc/Y9DW -2Z2T ].
+135 For more information on reliance on professional advice as a defense, see supra  note 61.
+136 H.R. 7083, 110th Cong.  § 5 (as passed by House, Sept. 27, 2008).
+The Prohibitions on Private Inurement & Benefit by Tax -Exempt Organizations and Intermediate Sanctions
+Congressional Research Service  R48873  · VERSION 9 · NEW  17 Proposed Amendments to § 4941
+H.R.  1, 113 th Congress —Tax Reform Act of 2014137—would  have
+• impose d on private foundations a first -tier tax equal to 2.5% (10% in the case of
+compensation) of the amount involved in the act of self -dealing; and
+• provide d that reliance on professional advice shall not, by itself, preclude the
+manager from being treated as participating in the excess benefit transaction
+knowingl y.138
+Author Information
+Justin C. Chung
+Legislative Attorney
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.
+137 H.R.  1, 113th Cong. § 5202  (as introduced, Dec. 10, 2014).
+138 For more information on reliance on professional advice as a defense, see supra  note 98.

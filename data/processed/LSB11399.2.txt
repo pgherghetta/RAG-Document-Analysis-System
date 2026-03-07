@@ -1,0 +1,145 @@
+CRS Legal Sidebar
+Prepared for Members and
+Committees of Congress
+Legal Sidebar i
+Congressional Court Watcher : Circuit Splits
+from January 2026
+February 25, 2026
+The U.S. Courts of Appeals for the thirteen “circuits ” issue thousands of precedential decisions each year.
+Because relatively few of these decisions  are ultimately reviewed by the Supreme Court, the U.S. Courts
+of Appeals are often the last word  on consequential legal questions. The federal appellate courts
+sometimes reach different conclusions on the same issue of federal law, causing a “split”  among the
+circuits  that leads to the nonuniform application of federal law among similarly situated litigants.
+This Legal Sidebar discusses circuit splits that emerged or widened following decisions from January
+2026 on matters relevant to Congress. The Sidebar does not address every circuit split  that developed or
+widened during this period . Selected cases typically involve judicial disagreement over the interpretation
+or validity of federal statutes and regulations, or constitutional issues relevant to Congress ’s lawmak ing
+and oversight functions. The Sidebar includes only cases where an appellate court ’s controlling opinion
+recognizes a split among the circuits on a key legal issue resolved in the opinion.  This Sidebar  refers to
+each U.S. Court of Appeals by its number or descriptor (e.g., “D.C. Circuit” for “U.S. Court of Appeals
+for the D.C. Circuit”).
+Some cases identified in this Sidebar, or the legal questions they address, are examined in other CRS
+general distribution products. Members of Congress and congressional staff may click here  to subscribe to
+the CRS Legal Update  and receive regular notifications of new products and upcoming seminars by CRS
+attorneys.
+• Commerce:  In consolidated cases, the Ninth Circuit rejected challenges to residency
+requireme nts in cannabis dispensary licensing schemes in Washington State and the City
+of Sacramento, California. Both California and Washington state laws permit marijuana
+sales for recreational and medicinal use, and the challenged licensing schemes allow only
+state or city residents to hold dispensary licenses. Plaintiffs argued these requirements
+discriminated against out -of-state businesses in violation of the dormant C ommerce
+Clause , a judicial doctrine that construes the Commerce Clause to prohibit state laws that
+unduly restrict interstate commerce , even in the absence of federal legislation . Observing
+that the Supreme Court has urged caution in the doctrine’s  applica tion, the Ninth Circuit
+held that it did not apply to the challenged residency requirements because medical and
+recreational marijuana remain illegal under federal law . As such, according to the court,
+Congressional Research Service
+https://crsreports.congress.gov
+LSB11399
+Congressional Research Service  2
+the challenged laws align ed with Congress’s efforts to eliminate interstate drug markets.
+The Ninth Circuit’s conclusion diverges from the First and Second  Circuits, which have
+held that the dormant Commerce Clause applies to state econom ic restrictions even if the
+market is unlawful under federal law  (Peridot Tree WA, Inc. v. Washington State Liquor
+& Cannabis Control Bd. ).
+• Criminal Law & Procedure:  The Third Circuit held that a criminal defendant’s bare,
+nonspecific  motion for acquittal under  Federal Rule of Criminal Procedure 29  did not
+preserve specific arguments for appellate review regarding whether the prosecution
+presented sufficient evidence to sustain his convictions. The circuit panel observed that
+its approach diverges from the D.C. , First, Second , Sixth , Seventh , and Ninth  Circuits,
+which recognize that a broadly stated Rule 29 motion preserves such arguments on
+appeal. Because the Third Circuit concluded that the defendant’s specific sufficiency -of-
+the-evidence claims were not preserved on appeal and therefore were not subject to de
+novo  review, the court instead reviewed the defendant ’s insufficiency claims under the
+stringent plain -error standard and found no reversible error ( United States v. Abrams ).
+• Firearms:  A Fifth Circuit  panel vacated a criminal defendant ’s conv iction under  18
+U.S.C. § 922(g)(1)  for possessing a firearm as a convicted felon, holding that the statute
+violated the Second Amendment as applied to the defendant based on his  prior state-law
+conviction  for simple possession of methamphetamine. The pa nel concluded that
+permanently prohibiting firearm  possession  based on this defendant ’s illegal possession
+of methamphetamine was inconsistent with the Second Amendment because the
+prohibition was not sufficiently analogous to historical restrictions on  firearm  possession
+by dangerous or intoxicated individuals.  The court acknowledged widespread
+disagreement among the appellate courts over how to apply the Supreme Court’s history -
+based framework set forth in New York State Rifle & Pistol Association v. Bruen  to assess
+the compatibility of firearm restrictions with the Second Amendment, including with
+respect to Section 922(g)(1). The panel observed that  an earlier Fifth Circuit opinion
+identified the Second , Fourth , Eighth , Ninth , Tenth , and Eleventh  Circuits as upholding
+the constitutionality of Section 922(g)(1) as applied to all felons. The panel also
+recognized  disagreement among  those courts t hat hold that  a criminal defendant’s
+dangerousness must be assessed to determine whether he may, consistent with the Second
+Amendment,  be permanently disarmed under Section 922(g)(1 ). The Third  and Sixth
+Circuits  consider bo th felony and misdemeanor histories in assessing dangerousness,
+while the Fifth Circuit’s analysis of dangerousness focuse s exclusively on  the predicate
+felony convictions giving rise to the Section 922(g)(1) violation (United States v.
+Hembree ).
+• Firearms:  A divided Ninth Circuit panel held that California’s ban on open carry of
+firearms in urban areas violate d the Second Amendment, while its licensing regime for
+rural areas —requi ring permits for individuals expressing a general desire for self -
+defense —survive d a facial constitutional challenge. The majority emphasized that open
+carry was historically the default lawful method of firearm carriage, with no evidence of
+outright bans at the time of the Founding. Applying the history -based framework set forth
+by the Supreme Court in Bruen  to assess a firearms restriction’s compatibility with the
+Second Amendment, the panel concluded that open carry is clearly protected by the
+Second Amendment and that California’s urban ban is unconstitutional. The Ninth Circuit
+criticized the Second Circuit’s approach , which permits the government to ban either
+open or concealed carry provided that at least one of the tw o form s of public carry
+remain s available. The Ninth Circuit contended that such reasoning rested on a
+misreading of Bruen  and was inconsistent with the historic al tradition of allowing open
+Congressional Research Service  3
+carry. The panel also upheld California’s rural licensing regime  on its face , characterizing
+Bruen  as indicating that licensing schemes a re permissible when , as here, a permit shall
+be issued when the request is  based on a general desire for self -defense ( Baird v. Bonta ).
+• Immigration:  In a per curiam opinion, a divided Third Circuit panel held that a lthough a
+federal district court retained habeas jurisdiction over an alien detained by the federal
+government, the court lacked subject ma tter jurisdiction to consider the alien’s claims
+challenging the lawfulness of his detention and removability. Federal c ourts exercising
+habeas jurisdi ction  typically may review the legality of an individual ’s incarceration.
+Under 8 U.S.C. § 1252(b)(9) , “[j]udicial review of all questions of law and fact , including
+interpretation and application of constitutional and statutory provisions, arising from any
+action  taken or proceeding brought to remove an alien from the United States shall be
+available only” as part of a federal appeals court’s consideration  of a petition  for review
+(PFR) of a final removal order. In this case, the government  argued that the alien was
+removable from the United States on foreign policy  grounds  and for obtaining lawful
+permanent resident status through fraud or willful misrepresentation , and he was arrested
+and detained pending removal proceedings. Before those proceedings were completed,
+the alien sought habeas relief, claiming that his detention and placement in removal
+proceedings constituted unlawful retaliation for engaging in protected political speech
+under the First Amendment. The panel majority held that Section 125 2(b)(9) stripped the
+habeas court of subject matter jurisdiction to consider these claims because they involved
+legal and factual questions that could ultimately be reviewe d by a federal appeals court
+considering a PFR. The majority acknowledged that its ruling diverged from recent
+decisions in similar cases by other courts —including published  opinions  from the  Second
+Circuit —holding  that Section 125 2(b)(9) does not prevent aliens from ch allenging, in
+habeas proceedings, the underlying basis for their removability and detention prior to the
+issuance of a removal order ( Khalil v. President ).
+• Immigration:  The Fourth Circuit affirmed a defendant’s criminal convictions and
+sentence for fraudulently preparing immigration visa petitions under the Violence Against
+Women Act of 1994  (V AWA).  The petition  applications  submitted to the government
+included fraudulent or forged supporting documents, but the defendant had not signed the
+applications and therefore did not certify under penalty of perjury the ir accuracy. The
+Fourth Ci rcuit upheld the defendant’s convictions under multiple  fraud -related statutes,
+including paragraph four of 18 U.S.C. § 1546(a) , which imposes criminal penalties on a
+person who  “knowingly make s under oath, or as permitted under penalty of perjury …
+knowingly subscribe s as true, any false statement with respect to a m aterial fact in any …
+document required by the immigration laws or regulations prescribed thereunder, or
+knowingly present s any such … document which contains any such false statement.”
+Aligning with the Second Circuit  but s plitting with the Third Circuit , the pa nel held that
+the oath requirement in Section 1546(a) applies only to the “knowingly makes” offense
+listed in that paragraph, and not to other listed offenses including the “knowingly
+presents” offense with which the defendant was charged ( United States v. Aborisade ).
+Congressional Research Service  4
+Author Information
+Michael John Garcia
+Deputy Assistant Director/ALD
+Congressional Research Service  5
+LSB11399  · VERSION 2 · NEW
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff
+to congressional committees and Members of Congress. It operates solely at the behest of and under the direction of
+Congress. Information in a CRS Report should n ot be relied upon for purposes other than public understanding of
+information that has been provided by CRS to Members of Congress in connection with CRS’s institutional role.
+CRS Reports, as a work of the United States Government, are not subject to copyr ight protection in the United
+States. Any CRS Report may be reproduced and distributed in its entirety without permission from CRS. However,
+as a CRS Report may include copyrighted images or material from a third party, you may need to obtain the
+permissio n of the copyright holder if you wish to copy or otherwise use copyrighted material.

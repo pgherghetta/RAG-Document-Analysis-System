@@ -1,0 +1,205 @@
+https://crsreports.congress.gov
+Updated March 4, 2026
+Defense Primer: LGM -35A Sentinel Intercontinental
+Ballistic  Missile
+The LGM -35A Sentinel  is an intercontinental ballistic
+missile (ICBM) system that is expected to  replace the
+Minuteman III (MMIII) ICBM  in the U.S. nuclear force
+structure.  MMIII has served  as the ground -based leg of the
+U.S. nuclear triad—land-based ICBMs , submarine -
+launched ballistic missiles, and nuclear -capable bombers —
+since 1970.  The Department of Defense (DOD) , which is
+“using a secondary Department of War designation, ” under
+Executive Order  14347 dated September 5, 2025 , requested
+$4.1 billion for Sentinel research, development, test, and
+evaluation (RDT&E)  in FY2026.  This request assumed
+$1.5 billion from FY2025 reconciliation legislation ( P.L.
+119-21), commonly referred to as the One Big Beautiful
+Bill Act. The FY2025 reconciliation legislation included
+$2.5 billion for Sentinel “risk reduction activities .” The
+FY2026 budget request for the Department of Energy’s
+National Nuclear Security Administration (NNSA) include d
+$649  million for the W87 -1 nuclear warhead  for the
+Sentinel . The FY2026 National  Defense Authorization Act
+(NDAA P.L. 119 -60) authorized $3.8 billion for Sentinel
+RDT&E and $649 million for the W87 -1 warhead.
+What Is an ICBM ?
+A U.S. ICBM can reach targets around the globe in
+approximately 30 minutes after launch. During the first
+three minutes, three solid fuel rocket motors power the
+missile’s flight. After the powered portion of flight, the
+missile follows a para bolic trajectory toward its target. The
+missile releases its warhead during the mid -course portion
+of its flight, and the warhead continues to the target. Once
+the President authorizes the launch of any U.S. ICBM, the
+missile cannot be recalled or destroye d in flight. The same
+is true for nuclear missiles launched from U.S. submarines.
+In contrast, U.S. bombers can return to their bases, without
+releasing their weapons, although their weapons also cannot
+be recalled after their release.
+The United States began deploying nuclear -armed ICBM s
+in 19 59, and has maintained these systems “on alert ,” or
+able to launch promptly , since that time.  The Air Force
+deployed the Atlas  between 1959 and 1965, the Minuteman
+beginning in the 1960s, and the Peacekeeper  (or MX)
+between 1987 and 2005. The Air For ce bases its ICBMs  in
+hardened concrete silos, or launch facilities, located  in
+North Dakota, Montana , Wyoming, Colorado, and
+Nebraska.  The United States has periodically considered
+alternative ICBM basing concepts  to ensure survivability.
+The Transition from Minuteman III
+The MMIII, which is currently deployed  in a single -
+warhead configuration, but could carry up to three
+warheads, entered the force in 1970 . The Air Force has
+replaced and updated many of the component systems on
+the missile —a process known as life -extension —several times over the past 50 years. The Air Force has stated  that
+some of these  components may face reliability concerns as
+they reach the end of their inten ded lifespan s. After
+conducti ng an Analysis of Alternatives  in 2014, the Air
+Force decided to  replace  MMIII with a new missile system
+(originally Ground Based Strategic Deterrent)  that would
+serve through 2075 . The Air Force argued  that, when
+compared with a life -extended M MIII, the new ICBM
+would meet current and expected threats , main tain the
+industrial base , produce  a modular weapon system , and
+reduce life cycle cost.  The Air Force  and Northrop
+Grumman, the Sentinel’s lead defense contractor,  planned
+for the Sentinel to begin replacing MMIII in 2029.
+Program Status
+The Air Force  plans  to procure 634 Sentinel missiles , plus
+an additional 25  missiles to support devel opment and
+testing , to enable the deploy ment of  400 missiles . The Air
+Force also originally planned  to modernize  450 silos and
+over 600 facilities (see Figure 1).
+Figure 1. Sentinel Deployment and Support Locations
+Source:  Air Force Global Strike Command , 2023.
+In January 2024, the Air Force informed  Congress that the
+Sentinel program exceeded its initial cost projections,
+positing  at least a 37% increase (from $118 million initial
+Defense Primer: LGM -35A Sentinel Intercontinental Ballistic Missile
+https://crsreports.congress.gov  baseline cost to $16 2 million in 2020 dollars ) in the cost per
+unit. This cost incre ase is known as a “critical” breach per
+the Nunn -McCurdy Act  (Title 10 U.S. Code  §§4371 -4377) ,
+which  requires  DOD  to certify that the program is essential
+to national security , has no cheaper alternatives,  and cannot
+be terminated.  It also mandates  that DOD  develop new cost
+estimates and program milestones  and submit this
+information to Congress.  Air Force  officials have attributed
+cost increases to ground  infrastructure  update s.
+In July 2024, DOD announced  completion of  the Nunn -
+McCurdy review and that the  program “ met the statutory
+criteria to continue .” DOD officials  said the review  resulted
+in the rescindme nt of the Sentinel’s Milestone B  approval ,
+and that DOD’s Cost Assessment and Program Evaluation
+(CAPE) estimated  the cost of a “reasonably modified”
+Sentinel at $141 billion.  Air Force  officials have said  that
+they are  reexamining requirements and restructur ing the
+program  to make the ground segment “simpler” and “more
+affor dable .” In December 2025, t he Senate confirmed  Air
+Force General Dale White as Direct Reporting Portfolio
+Manager  (DRPM)  to oversee several major Air Force
+acquisition programs , includi ng the Sentinel.
+In February 2026, the Air Force announced  that it
+anticipate s to “complete the [program] restructure and
+achieve a Milestone B decision by the end of 2026” and
+deliver an “initial capabili ty targeted for the early 2030s.”
+The Air Force now plans to  build new silos , instead of
+reusing old ones, a process that will reportedly  require a
+supplementary environmental impact statement. The Army
+Corps of Engineers, rather than Northrop Grumman, will
+now reportedly  manage some of the ground infrastructure
+updates . The Air Force said that it plans to conduct a pad
+launch in 2027.  According  to a February 2026 GAO report ,
+the ICBM’s  first flight test will now occur in March 2028.
+Warheads
+The Air Force plans to initially deploy the  Sentinel  with the
+W87 -0 warhead  currently on the MMIII.  NNSA  is
+developing  the W87 -1 warhead , whic h, according  to
+NNSA , “is slated to deploy between FY2031 and FY2032.”
+NNSA  announced  the qualification  of the first war reserve
+plutonium pit for the W87 -1 in October 2024 . Lockheed
+Martin is developing the Mk21A reentry vehicle  for the
+W87 -1. DOD  and NNSA are also  modernizing  the arming
+and fuzing assembly for the MMIII and the Sentinel.
+Considerations for Congress
+ICBM  Force  Necessity
+Some analysts have argued  that the United States reduce or
+eliminate its ICBMs because they increase  the risk of
+accidental war , or because the invulnerability of ballistic
+missile submarines makes ICBMs “ redundant .” Advocates
+of retaining ICBMs  have argued  that these missiles are the
+most “responsive” leg of the U.S. nuclear triad. The 2022
+Nuclear Posture Review (NPR), a Biden Administration
+review of U.S. nuclear policy, echoed  past NPRs in stating
+that the three triad legs are “complementary,” with each one
+“offering unique attributes.”
+MMIII Life -Extension
+Some Members of Congress have questioned the need to
+fund an d deploy new ICBMs; others have also suggested that the Air Force again c onsider MMIII  life extension .
+They, along with other commentators , have argued that a
+delay or cancellation  of Sentinel could ease financial and
+other pressures caused by the simultaneous recapitalization
+of all legs of the nuclear triad. In 2021, DOD commissioned
+an independent study  on future ICBM options , which
+recommended  an assessment  of MMIII life -extension.
+However, the 2022 NPR endorsed Sentinel and said that
+any alternative “would increase risk and cost.” Air Force
+officials stated  in January 2024  that they d id not see a
+“viable” long -term MMIII life -extension, though they were
+“committed” to doing “everything [they] can to keep it in
+the field.”  A September 2025 GAO study stated  that the Air
+Force may operate the MMIII through 2050, though it faced
+parts obsolescence and other sustainment risks.
+Sentinel Costs and Schedule
+Some Members of Congress have been con cerned about the
+costs and schedule delays associated with the Sentinel, the
+W87 -1 warhead, and NNSA plutonium pit production.
+Section 1629 of the FY2025 NDAA  (P.L. 118 -159)
+imposed conditional requirements on the program to ensure
+oversight and opportunities for competition.
+Risk of Sentinel Delays
+Some Members of Congress have expressed concern about
+the risks associated with  transition from the MM III to the
+Sentinel . Since the FY2017 NDAA ( §1667 of P.L. 114 -
+328), Congress has required that  the Air Force deploy  no
+fewer than 400 on -alert ICBMs. Section 1632  of the
+FY2026 NDAA amend ed the U.S. Code  to reaffirm this
+minimum requirement and also  required  that these ICBMs
+be deployed equally across “not fewer than 450” silos  at
+F.E. Warren, Malmstrom, and Minot Air Force bases  (Title
+10 U.S. Code  §9062) .
+An Air Force official reportedly  stated in Jan uary 2025 that
+MMIII and Sentinel operations would overlap for at least
+15 years.  A September 2025 GAO report  assessed MMIII to
+Sentinel transition risks and recommended that the Air
+Force develo p a transition risk management plan.  Section
+1641  of the FY2026 NDAA mandates an Air Force  strategy
+to sustain the MMIII and maximize its end -of-life margin.
+In Sec tion 1650 of the FY2024 NDAA  (P.L. 118 -31),
+Congress directed the Air Force to “develop a plan to
+decrease the amount of time required to upload additional
+warheads to the [ICBM] force .” Section 1633 of th e
+FY2025 NDAA limited the availability of certain DOD
+funds pending the submission of this plan to Congress. The
+2023 report  of the  Congressional Commission on the
+Strategic Posture of the United States  proposed  considering
+such upload, within arms control limits, to field “the same
+number of warheads” “if the number of available [ICBMs]
+is reduced.” The Commission report  also proposed that the
+Air Force  consider deploy ing Sentinel with multiple
+warheads or with “some portion of the future ICBM force”
+in a road -mobile configuration to account for evolving
+nuclear threats  to the United States  from Russia and China .
+Anya L. Fink , Analyst in U.S. Defense Policy
+IF11681
+Defense Primer: LGM -35A Sentin el Intercontinental Ballistic Missile
+https://crsreports.congress.gov  | IF11681  · VERSION 25 · UPDATED
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress.
+Information in a CRS Report should n ot be relied upon for purposes other than public understanding of information that has
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the
+United States Government, are not subject to copyr ight protection in the United States. Any CRS Report may be
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include
+copyrighted images or material from a third party, you may need to obtain the permissio n of the copyright holder if you
+wish to copy or otherwise use copyrighted material.

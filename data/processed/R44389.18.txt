@@ -1,0 +1,983 @@
+Statutory Framework for Congressional
+Management of DOD General and Flag
+Officers
+Updated March 5, 2026
+Congressional Research Service
+https://crsreports.congres s.gov
+R44389
+Congressional Research Service
+SUMMARY
+Statutory Framework for Congressional
+Management of DOD Gener al and Flag Officers
+In the exercise of its constitutional responsibilities to shape and oversee the U.S. Armed Forces,
+Congress has enacted an array of laws that govern foundational aspects of military officer
+personnel managemen t, including appointments, assignments, grade structure , promotions, and
+separations. Some of these laws are directed specifically at the most senior military officers,
+known as general and flag officers (GFOs). Congress periodically reviews these laws and
+considers amending  them. Areas of congressional interest have included duties and grades of
+certain GFO positions, the number of GFOs, the proportion of GFOs to the total force, and
+compensation levels of GFOs.
+Congress and the executive branch have used statutory aut hority to specify the grade and duties of certain GFO positions and
+affect the number of GFOs. As of September  30, 2026, there were 848 active -duty GFOs subject to statutory caps, 9 less than
+the maximum of 857 authorized by law. The current number is low er for the post -Cold War era and substantially lower than
+the number of GFOs in the 1960s -1980s, when the Armed Forces were much larger in size than they are today. The GFO
+corps has increased as a percentage of the total force  over the past five decades. I n 1965, GFOs made up about one -twentieth
+of one percent (0.048%) of the total force, while in 2024, they made up about one -fifteenth of one percent (0.067%) of the
+total force, indicating that the share of the total force made up of GFOs has increased by  40%.
+Some argue that this increased proportion of GFOs is excessive and contributes to more bureaucratic decisionmaking
+processes. Others counter that the increased proportion is linked to the military’s emphasis on joint and coalition operation s;
+core org anizational requirements; management, budgeting, and program requirements; and the employment of automated,
+highly lethal, and destructive weapons systems that may require fewer personnel coupled with more discernment in
+employment of those weapons .
+Compe nsation for GFOs varies  based on pay grade  and years of service . Regular  military compensation  (RMC) includes
+basic pay, basic allowance for housing, basic allowance for subsistence, and  the federal tax advantage associated with
+allowances, which are exempt from federal income tax . In 202 6, the lowest -ranking GFOs may expect to make about
+$272,802  per year in RMC, while the highest -ranking GFOs may expect to make about $ 296,539 per year.
+This report provides an overview of Congress’s framework for man aging active -duty GFOs in the U.S. Armed Forces —
+including duties, statutory controls, authorizations, compensation, and historical trends in the proportion of GFOs relative to
+the total force. National Guard and Reserve GFOs are not addressed in this repor t, except in cases in which they serve on
+active duty in a manner that counts against the statutory active -duty caps on GFOs. The report includes issues for
+congressional consideration in the exercise of its authority and responsibilities.
+R44389
+March 5, 2026
+Michael J. Vassalotti,
+Coordinator
+Section Research Manager
+Sofia Plagakis
+Senior Research Librarian
+Statutory Framework for Congressional Management of DOD General and  Flag Officers
+Congressional Research Service  Contents
+Background  ................................ ................................ ................................ ................................ ..... 1
+The GFO Population  ................................ ................................ ................................ .................  2
+Respons ibilities of GFO  Positions  ................................ ................................ ................................ ... 2
+Statutory Controls on GFO Authorizations  ................................ ................................ .....................  3
+Presidential Determination for Three -Star and Four -Star Positions  ................................ ..........  6
+Statutorily Defined Positions  ................................ ................................ ................................ .... 6
+Regular Military Compensation for GFOs  ................................ ................................ ......................  7
+Considerations for Congress ................................ ................................ ................................ ............  8
+Proportion of GFOs in the Force  ................................ ................................ ...............................  8
+Historical Perspective  ................................ ................................ ................................ .........  8
+Criticisms of Increasing the Proportion of GFOs  ................................ ...............................  8
+Justifications for a Higher Proportion of GFOs  ................................ ................................ .. 9
+Justification for the Statutory Status Quo  ................................ ................................ ..........  11
+GFO Assignments  ................................ ................................ ................................ ...................  12
+GFO  Management Co nsiderations for Congress ................................ ................................ ..... 13
+Congress Faces Recurring Questions in Managing GFO  Authorizations  ...............................  13
+Figures
+Figure 1. Minimum Number of GFOs for Joint Positions  ................................ ...............................  5
+Figure 2. GFO Authorizations by Service  ................................ ................................ .......................  6
+Figure 3. Dep artment of Defense Budget Authority, by Public Law Title FY1948 -FY2028  .........  11
+Tables
+Table 1. Grade, Insignia, and Paygrade of General and F lag Officers  ................................ ............  1
+Table 2. Number of Active -Duty General and Flag Officers  ................................ ...........................  2
+Table 3. Maximum Number of GFOs, by Service, Excluding Joint Positions  ................................  4
+Table 4. Annual Regular Military Compensation for General and Flag  Officers  ............................  7
+Table  A-1. Historical GFO Levels  ................................ ................................ ................................ . 15
+Table B -1. Selected Positions and Statutes  ................................ ................................ ....................  17
+Appendixes
+Appendix A. Historical GFO Levels  ................................ ................................ .............................  15
+Appendix B. Selected Positions and Statutes  ................................ ................................ ................  17
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service  Contacts
+Author Information  ................................ ................................ ................................ ........................  24
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   1 Background
+The Constitution provides Congress broad powers over the Armed Forces, including the power
+“to raise and support Armies,” “to provide and maintain a Navy,” and “to make Rules for the
+Government and Regulation of the land and naval Forces.”1 It also provides the Senate the
+authority to provide “Advice and Consent” on presidential nominations of “all other Officers of
+the United States,” including military officers.2 On the basis of its constitutional authority,
+Congress has passed laws that govern important aspects of military officer personnel
+management, including appointments, assignments, grade structure, promotions, and separations.
+The most senior officers in the Army, Air Force, Marine Corps, and Space Force are called
+general officers. The most senior officers in the Navy are called  flag officers.3 The phrase
+“general and flag officers,” or “GFOs,” refers to all officers in pay  grades O -7 through O -10 and
+includ e all one-, two -, three -, and four -star officers. At the highest level, O -10, GFOs hold the
+most visible and important military positions in the Department of Defense (DOD),  which is
+“using a secondary Department of War desi gnation,” under Executive Order  14347 dated
+September 5, 2025 , including the Chairman of the Joint Chiefs of Staff, the chiefs of the five
+military services, Chief of the National Guard Bureau, and the combatant commanders. At the
+lowest level, O -7, they hold positions that span an array of roles, including commanders, deputy
+commanders, and key staff roles in  defense and service -level departments and agencies .
+Congress has developed a statutory framework applicable to GFOs  and considers amendments  to
+these laws as it deems appropriate. Congress also periodically reviews the number, duties, and
+compensation of GFOs. References in thi s report to specific grades (ranks) within the GFO corps
+use the appropriate capitalized title, insignia, or paygrade as indicated in Table 1.
+T able 1. Grade, Insignia, and Paygrade of General and Flag Officers
+Grade
+(Army, Air Force, Marine Corps and
+Space Force)  Grade
+(Navy)  Insignia  Paygrade
+General  Admiral  four-stars
+★★★★  0-10
+Lieutenant General  Vice Admiral  three -stars
+★★★  0-9
+Major General  Rear Admiral  two-stars
+★★ 0-8
+Brigadier General  Rear Admiral (Lower Half)  one-star
+★ 0-7
+Source: Grades from 10 U.S.C. §741 ; insignias from Department of Defense, available at
+https://dod.defense.gov/ About/ Insignias/ Officers/ ; paygrades from 37 U.S.C. §201.
+1 U.S. Constitution Article I, Section 8.
+2 Article II, Section 2 . This section  also provides that “the Congress may by Law vest the Appointment of such inferior
+Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.”
+3 The Coast Guard uses the same rank structure as the Navy. While the Coast Guard is o ne of the Armed Forces, it is
+not covered in this report, as it normally operates under different statutory authority (Title 14) than the Army, Navy,
+Marine Corps, Air Force , and Space Force  (Title 10).
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   2 The GFO Population
+T able 2. Number of Active -Duty General and Flag Officers
+As of September  30, 2025
+Grade  Army  Navy  Marine
+Corps  Air
+Force   Space
+Force  TOTAL
+General/Admiral  8 9 3 12 4 36
+Lieutenant General/Vice Admiral  53 32 22 33 4 144
+Major General/Rear Admiral  84 69 30 65 11 259
+Brigadier General /Rear Admiral
+(Lower Half)  134 109 37 116 13 409
+TOTAL  279 219 92 226 32 848
+Source: Department of Defense Active Duty Military Personnel by Rank/Grade and Service, September  30, 2025,
+available at  https://dwp.dmdc.osd.mil/ dwp/app/dod-data-reports/ workforce -reports . Includes GFOs in Service
+and Joint assignments.
+Responsibilities of GFO  Positions
+Congress has speci fied the functions or duties for some key GFO positions, such as members of
+the Joint Chiefs of Staff,4 the top two officers of each service (i.e., service chiefs and vice
+chiefs),5 the combatant commanders,6 the Commander of U.S. Special Operations Com mand,7 the
+Commander of U.S. Cyber Command,8 and the Chief and Vice Chief of the National Guard
+Bureau.9 This leaves the majority of GFO positions undefined in statute. In these instances, DOD
+uses the following criteria for determining whether a genera l or flag officer should fill a position:
+• nature, characteristics, and function of the position;
+• grade and position of superior, principal subordinates, and lateral points of
+coordination;
+• degree of independence of operation;
+• official relations with other U.S. and foreign governmental positions;
+• magnitude of responsibilities;
+• mission and special requirements;
+• number, type, and value of resources managed and employed;
+4 10 U.S.C. §§151 -154.
+5 Specifically, the Chief of Staff of the Army (10 U.S.C.  §7033), the Vice Chief of Staff of the Army (10 U.S.C.
+§7034), the Chief of Staff of the Air Force (10 U.S.C. §9033), the Vice Chief of Staff of the Air Force (10 U.S.C.
+§9034), the Commandant of the  Marine Corps (10 U.S.C. §8043), the Assistant Commandant of the Marine Corps (10
+U.S.C. §8044), the Chief of Naval Operations (10 U.S.C.  §8033), the Vice Chief of Naval Operations (10 U.S.C.
+§8035), the Chief of Space Operations (10 U.S.C.  §9082), and the Vice Chief of Space Operations (10 U.S.C. 9083).
+6 10 U.S.C. §164.
+7 10 U.S.C. §167.
+8 10 U.S.C. §167b .
+9 10 U.S.C. §10502 and 10 U.S.C. §1050 5, respectively.
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   3 • forces, personnel, value of equipment, total obligation authority;
+• geographic area of responsibility;
+• authority to make decisions and commit resources;
+• development of policy;
+• national commitment to international agreements;
+• impact on national security and other national interests; and
+• effect on the prestige of the nation or the armed force.10
+Statutory Controls on GFO Authorizations
+Congress has established a statutory framework for GFOs that limits GFO numbers by grade,
+requires presidential appointment to many three -star and four -star positions, and specifies the
+grade and/or duties of cer tain key positions. This framework provides for congressional oversight
+of the most senior GFO positions, while providing latitude to the executive branch in the
+management of the remaining GFO positions. Combining the maximum number of service and
+joint G FO statutory authorizations, the maximum number of GFO positions authorized is 857.
+Positions to which DOD is required, or may choose, to assign a GFO may be designated as joint
+duty assignments. Those joint duty positions typically reside in joint activit ies (e.g., the Joint
+Staff, combatant command staffs).11 Other positions normally reside in the respective services ’
+organizations  (e.g., the Army Staff, division, wing, or higher commands).12
+The FY2017 National Defense Authorization Act (FY2017 NDAA; P.L. 114 -328) included a
+provision, codified at 10 U.S.C. §526, to reduce the number of GFOs authorized to be on active
+duty for more than one year, effective as of January 1, 2023. The conference report that
+accompanied the bill highlighted congressional concerns that the military departments had not
+demonstrated a willingness to implement GFO reductions directed by then -Secretary of Defense
+Robert Gates in 2011 and noted the context of significant reductions in personnel strength that
+occurred in the calendar year 2011 -2016 timeframe.13
+10 Criteria provided by Office of the Assistant Secretary of Defense for Legislative Affairs, May 12, 2015.  In a 2021
+congressional hearing, Clifford L. Stan ley, Under Secretary of Defense for Personnel and Readiness,  provided similar
+criteria. See Testimony of Under Secretary of Defense for Personnel and Readiness Clifford L. Stanley, in U.S.
+Congress, Senate Committee on Armed Services, Subcommittee on Perso nnel, General and Flag Officer Requirements,
+112th Cong., 1st sess., September 14, 2021, S.Hrg . 112-258, p. 62.
+11 10 U.S.C . §526 . For GFO  billet management, these positions reside in “The Joint Pool.” For detailed information on
+DOD GFO management, see Chairman of The Joint Chiefs of Staff Instruction 1331.01E , March 31, 2022, at
+https://www.jcs.mil/ Portals/ 36/Documents/ Library/ Instructions/ CJCSI%201331. 01E.pdf .
+12 10 U.S.C . §526 .
+13 The conference report that accompanied the FY2017 National Defense Authorization Act stated , “The conferees note
+that despite two decades of Congressional concern the Department of Defense and the military departments have not
+demonstrated the willingness to implement even the reduction in the number of general and flag officer positions
+directed  by the Secretary of Defense ’s Track Four Efficiencies Initiatives decision of March 14, 2011. In the context of
+the Department of Defense ’s continued requests to reduce military end strength, especially in the Army and the Marine
+Corps, reductions that Co ngress has cautiously considered and authorized, the time has come for the Department to
+rigorously evaluate and validate every general and flag officer position. The conferees believe that an additional 10%
+reduction in the number of general and flag offi cer positions may be appropriate by downgrading or eliminating
+positions in addition to the 110 positions required to be eliminated under this provision are achieved. The conferees
+expect that the Department of Defense and the military departments will imp rove efficiency by eliminating bloated
+headquarters and staffs while preserving the necessary number and grades of positions for general and flag officers who
+(continued...)
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   4 The National Defense Authorization Act for Fiscal Year 2024 ( FY2024 NDAA ; P.L. 118 -31)
+realized a  set of legislative actions begun in the FY2017 NDAA, to reduce  congressiona lly
+mandated limits on the number of GFOs on active duty , with some exceptions .14 Section 512 of
+the FY2024 NDAA amend ed 10 U.S.C. §10505  to require that the Vice Chief of the National
+Guard Bureau be appointed to serve in the grade of general and that the Secretary of Defense
+designate this position as one of the g eneral officer positions to be excluded from the limitations
+of Section 526(a) of Title 10 of the U.S. Code . Per the Conference Report to Accompany H.R.
+2670  (H.Rept. 118 -301), the conferees “authorized the permanent increase in general and flag
+officer authorized strengths [in Section 501, by one per service] to accommodate the
+congressional requirement for a general or flag officer to serve as the lead special trial couns el,
+and [added] an increase of an additional Marine Corps general officer to address safety needs in
+the Marine Corps.”15 The FY 2026 NDAA ( P.L. 119 -60 §502) amended 10 U.S.C. 526 to increase
+the maximum number of GFOs in the Space Force from 21 to 24 and reduce the maximum
+number of Air Force GFOs from 171 to 168 . Table 3 summarizes the statutory upper limits by
+grade for service -specific GFO  positions.
+T able 3. Maximum Number of GFOs, b y Service, Excluding Joint Positions
+Grade  Army  Air Force  Marine
+Corps  Navy  Space Force  TOTAL
+GFO Maximum
+for all grades  219 168 64 150 24 625
+2-star maximum  90 73 21 49 6 239
+3- and 4 -star
+maximum  46 44  18 34 7 149
+4-star maximum  8 9 2 6 2 27
+Source: CRS analysis of  10 U.S.C.  §§525 and 526 .
+Note: Neither 10 U.S.C.  §525 nor §526 specifies an exact limit for 3 -star GFOs, rather , they specif y the total
+not-to-exceed number of 3 - and 4 -star GFO s combined.
+There are certain circumstances under which a general or flag officer does not “count” against the
+GFO caps (e.g., after retirement  approval).16 The President has authority under Title 10, Section
+are responsible to train and lead our Nation ’s forces in battle and to bring them safely home aga in.” H.Rept. 114 -840, p.
+1013. A copy of the Track Four Efficiency Initiatives Decisions  memo by Secretary Gates is available at
+https://dodprocurementtoolbox.com/ cms/ sites/ default/ files/ resources/ 2021 -12/20110314 -
+Track%20Four%20Efficiency%20Initiatives%20Decision s.pdf .
+14 The FY2017 National Defense Authorization Act (FY2017 NDAA; P.L. 114 -328 § 501) included a provision,
+codified at 10 U.S.C. §526, to reduce the number of GFOs auth orized to be on active duty for more than one year,
+effective as of January 1, 2023. The conference report, H.Rept. 114 -840, p. 1013, that accompanied the bill highlighted
+congressional concerns that the military departments had not demonstrated a willingness to implement GFO reductions
+directed by then -Secretary of Defense Robert Gates in 2011 and noted the context of significant reductions in personnel
+strength that occurr ed in the calendar year 2011 -2016 time frame . The John S. McCain National Defense Authorization
+Act for Fiscal Year 2019  (P.L. 115 -232 §596) required a “ report on general and flag officer costs. ” William M. (Mac)
+Thornberry National Defense Authorization Act for Fiscal Year 2021  (P.L. 116 -283 §501) provided for accounting for
+the number reserve GFOs, required a plan for downsizing the number of active GFOs among other purposes.  The
+National Defense Authorization A ct for Fiscal Year 2022  (P.L. 117 -81 §501 ) provided authority for transferring GFO
+billets among the Armed Forces . The James M. Inhofe National Defense Authorization Act for  Fiscal Year 2023  P.L.
+117-263 §501 ) excluded lead special trial counsel of each Armed Service from the GFO strength limits.
+15 H.Rept. 118 -301, p. 1042.
+16 Active -duty GFOs excluded from the caps include  those within 60 days of retirement and GFOs transitioning
+(continued...)
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   5 527, of the U.S. Code  to suspend the operation of the caps in time of war or national emergency
+declared by Congress or the President . Section 526(b) of Title 10 of the U.S. Code  further
+authorizes the exemption of 232 GFOs in joint positions from the limitations of Section 526(a).
+The FY2026  NDAA did not specify any changes to the minimum number of joint GFOs . Unless
+the Secretary of Defense determines that a lower number is in the best interest of the department,
+the GFOs s erving in the 232 authorized joint positions “shall be ” at least those illustrated in
+Figure 1 .17
+Figure 1. Minimum Number of GFOs for Joint Positions
+Source: CRS analysis of  10 U.S.C.  §526(b)(2).
+Note:  10 U.S.C. §526 allocates only minimum  position s per service , not all positions .
+between certain positions for up to 60 days. The Attending Physician of Congress is counted in addition to the number
+otherwise permitted for the officers ’ armed force in grades above O -7. Certain reserve component GFOs serving on
+active duty for limited periods of time are also excluded; see 10 U.S.C. §§525 (d) -(g) and 526(c) -(g).
+17 10 U.S.C. §526(b)(2) .
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   6 Figure 2. GFO Authorizations by Service
+Source:  CRS analysis of 10 U.S.C. §§525 and 526.
+Note:  10 U.S.C. §526 allocates minimum  positions  per service  within the total of joint assignments . Percentages
+in the graph  illustrate portion of GFOs by service within the entire GFO population. Percentages are  rounded
+and may not sum .
+Presidential Determination for Three -Star and Four -Star Positions
+Section 601 o f Title 10 of the U.S. Code  provides that “[t]he President may designate positions of
+importance and responsibility to carry the grade of general or admiral or lieutenant general or
+vice admiral .... An officer assigned to any such position has the grade sp ecified for that position if
+he is appointed to that grade by the President , by and  with the advice and consent of the Senate.”
+Thus, except for  those so designated in statute, all three -star and four -star positions are to  be
+designated as such by the Pres ident. Congress may review the rationale for this designation as
+part of its oversight function . The Senate retains the power to confirm or withhold confirmation
+of the nomination of an individual to fill such a position. The authority of the President to
+designate such positions is also limited by the strength caps on GFOs found in 10 U.S.C. §§525
+and 526.
+Statutorily Defined Positions
+Congress has established in law certain GFO positions with specified grades, designated duties,
+or both. Those GFOs named in 10 U.S.C. §151, the Joint Chiefs of Staff, and the commanders of
+unified and specified combatant commands constitute most of these positions. Title 10 U.S.C.
+§152 specifies that the Chairman of the Joint Chiefs of Staff holds the rank of General or Admiral
+(O-10) “while so serving .”
+Appendix B  provides excerpts of the statutorily required responsibilities, duties, or functions of
+certain GFO positions. Congress may change these duties. For example, Section 512 of the
+National Defense Authorization Act for Fiscal Year 2012 ( P.L. 112 -81) specified that the Chief of
+the National Guard Bureau is a member of the Joint Chiefs of Staff, whose duties include “the
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   7 specific responsibility of addressing matters involving  non-Federalized National Guard forces in
+support of homeland defense and civil support missions.”18
+Regular Military Compensation for GFOs
+Military personnel, including GFOs, are compensated in three main ways: cash compensation
+(pay and allowances), nonc ash compensation (benefits), and deferred compensation (retired pay
+and benefits). This report discusses only the compensation elements that make up regular military
+compensation  (RMC) . RMC is a statutorily defined measure of the major compensation element s
+that every servicemember receives  periodically , and excludes non -cash benefits and deferred
+compensation .19 Certain GFOs receive a “personal money allowance” as well , which  is not part of
+RMC.
+Table 4 details  the notional  RMC that GFOs may receive in 202 6. It assumes that all GFOs
+receive a basic allowance for housing (BAH) rather than living  in government -provided
+housing.20
+T able 4. Annual Regular Military Compensation for General and Flag  Officers
+As of January  1, 202 6
+Grade  Basic Pay  Basic
+Allowance
+for Housing  Basic
+Allowance
+for
+Subsistence
+(Flat Rate)  Federal Tax
+Advantage  RMC
+General/Admiral  $227,999  $48,09 2 $3,942 $16,507 $296,539
+Lieutenant General/
+Vice Admiral  $227,999   $48,17 2   $3,942
+$16,410
+$296,52 3
+Major General/
+Rear Admiral  $227,999
+$48,14 5
+$3,942
+$16,443
+$296,528
+Brigadier General /
+Rear Admiral(Lower  Half) $204,958
+$48,229
+$3,942 $15,673
+$272,802
+Source:  Office of the Under Secretary of Defense, Personnel and Readiness, Directorate of Compensation,  Selected
+Compensation Tables, 1 January  2026, p. B3. On file with the authors.
+18 P.L. 112 -81 §512.
+19 Statutory definition contained in 37 U.S.C. §101(25):  “the total of the following elements that a member of the
+uniformed services accrues or receives, directly or indirectly, in cash or in kind every payday: basic pay, basic
+allowance for housin g, basic allowance for subsistence, and Federal tax advantage accruing to the aforementioned
+allowances because they are not subject to Federal income tax.”  For more information on Regular Military
+Compensation, see CRS In Focus IF10532, Defense Primer: Regular Military Compensation , by Kristy N. Kamarck .
+20 About 19% of GFOs lived in government -provided housing as of January 1, 2024  according to DOD reporting , and,
+therefore , seemingly did not receive BAH . While this lowers the cash compensation received, they receive d free
+housing instead. For the purposes of Table 4, the value of the f ree housing is assumed to be equivalent to the BAH of
+their GFO peers.  The calculation of the proportion living in government -provided housing was made using Selected
+Military Compensation Tables (OSD Compensation Greenbook, 2024), Table A -7, Number Of  Military Personnel ...
+Receiving Cash Allowances , and Table A 8, Number Of Military Personnel... Receiving Quarters In Kind  by Pay Cell,
+PDF pp. 7 -8, available at https://militarypay.defense.gov/ Portals/ 3/Documents/ BlendedRetirementDocuments/
+GreenBook%202024%20 -%205.2%20percent%20 -%20rev.pdf? ver=-pvWgAk1QWQ4cU -5B-nkgg%3d%3d .
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   8 Notes: RMC is Regular Military Compensation . Totals may not sum due to rounding . Members of the Joint
+Chiefs of Staff and the Combatant Commanders receive $48 ,412 in BAH and $1 6,122 in Federal Tax Advantage .
+The Federal Tax Advantage  is computed using the standard deduction and 2026 tax rates, including the Earned
+Income Tax Credit (E ITC).
+Considerations for Congress
+Proportion of GFOs in the Force
+Historical Perspective
+A summa ry of the number of active -duty GFOs and the proportion of GFOs relative to the size of
+the active force over the past fiv e decades is provided in Appendix A . A review of GFO levels
+indicates a 13.9% increase in the number  of four -star officers  in this period  (36 on September 30,
+1965, versus 41 on September 30, 2024 , the end of the fiscal year ) and a 39.5% increase in the
+number of three -star officers (119 versus 166), with variations over time related to contemporary
+events. Over the same time  period , the number of one -star and two -star officers decreased by
+41.9% (1,129 versus 656).
+During this  time, the size of the active  force  dropped by approximately 51.9%,  from 2.66 million
+on September 30, 1965, to 1.28 million on September 30, 2024 . Thus, a more salient measure
+may be the proportion of GFOs to the total force.
+Looking at the data from thi s perspective, GFOs have generally  made up a small percentage of
+the active  force; however, the GFO corps has increased as a percentage of the active  force  over
+the past five decades. GFOs made up about one -twentieth of one percent (0.048%) of the total
+force in 1965, whereas they made up about one -fifteenth of one percent (0.067%) of the total
+force in FY2024, indicating that the share of the total force made up of GFOs has increased by
+39.6% . This historical trend is more pronounced with respect to four-star officers (which grew
+from 0.0014% of the total force to 0.0032%, a 12 8.6% increase) and three -star officers (which
+grew from 0.0045% of the total force to 0.013%, a 1 89% increase). One - and two -star officers as
+a percentage of the total force inc reased 20.5%  (from 0.0425% of the total force to 0.0512%).
+These increases occurred while the size of the officer corps in general  increas ed as a percentage
+of the active  force. As indicated in the last column of  Table A-1, between 1965 and 2024, the
+officer corps increased from 12. 8% of the active  force to 18.2%, indicating that the share of the
+active force comprised of officers increa sed by 42. 2%.
+Criticisms of Increasing the Proportion of GFOs
+Generally, criticisms of increasing the proportion of GFOs relative to the total force  fall into two
+broad categories . The first criticism revolves around the increased cost of employing a GFO,
+compared with employing a lower -ranking officer. The second relates to the belief that too many
+GFOs may slow down decisionmaking processes. Each point is examined in more detail below.
+• Cost . GFOs cost more to employ than officers of a lower rank , in part due to the
+higher compensation they receive. For example, a GFO in paygrade O -7 (i.e., 1 -
+star officers,  Brigadier General /  Rear Admiral  (Lower Half) ) may expect to
+receive about $272,802  in RMC in 202 6, while an officer in paygrade O -6 (i.e.,
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   9 Colon el / Captain) may expect to receive about $237,978 .21 There can be
+additional  costs associated with GFOs such as large staffs, official travel, and
+security details.22
+• Decisionmaking . Another criticism is that increasing the proportion of GFOs
+may slow decisionmaking  by adding additional layers of management between
+the highest and lowest echelons of command. In a 2010 speech, former Secretary
+of Defense Robert Gates criticized the impa ct of an increase in GFOs and senior
+civilians in making the DOD a top -heavy and overly bureaucratic organization .
+He noted, as an example, that “The Defense Business Board recently estimated
+that in some cases the gap between me and an action officer may be as high as 30
+layers .”23
+Justifications for a Higher  Proportion of GFOs
+Several congressional hearings have addressed the potential benefits of having a high  proportion
+of GFOs relative  to the total force.24 A 1997 congressional review of GFO authorizat ions
+describes several  rationales for a relatively high  proportion , including the following:
+• Coalition operations . Forging coalitions with other nations to achieve common
+security objectives can generate demand for senior military leaders to conduct
+coordi nated planning, training, and operations with peers from foreign nations.
+Conducting contingency operations a fter the end of the Cold War often involved
+forces from dozens of countries, including the forces of the nation in which the
+operations t ook place.  Examples of these coalition operations include those in
+Iraq and Afghanistan, as well as smaller -scale contingencies such as Bosnia,
+Haiti, Kosovo  (ongoing), Somalia  (ongoing), and Syria  (ongoing). Contingency
+operations such as these are often commanded by a GFO, who usually has
+additional GFOs as subordinate commanders and senior staff officers. Both their
+experience and the authority inherent in their grade can be considered important
+elements to the success of complex operations. Political and diplomatic
+considerations can also be a factor, as the officers leading these operations are
+typically  expected to interact with the senior military and civilian leadership of
+the participating foreign nation s.
+• Organizational structure . The relative increase in  GFOs in proportion to the
+active force is  due in part  to the organizational structure of the Armed Forces . For
+21Office of the Under Secretary of Defense, Personnel and Readiness , Directorate of Compensation , Selected Military
+Compensation Tables, 1 January  2026, p. B3. On file with the authors.
+22 These costs are difficult to estimate , as noted by the Government Accountability Office, DOD Needs to Update
+General and Flag Officer Requirements and Improve Availability of Associated Costs , GAO -14-745, September 9,
+2014, available at http://gao.gov/ products/ GAO -14-745. Compensation figures are from Military Compensation Tables
+(OSD Compensation Greenbook, 2023), Table B3, Detailed RMC Tables for All Personnel (PDF p.  94) at
+https://militarypay.defense.gov/ Portals/ 3/GreenBook%202023.pdf .
+23 Secretary of Defense Robert Gates speech at Eisenhower Library, delivered May 8, 2010, available at
+https://www.airandspaceforces.com/ PDF/ SiteCollectionDocuments/ Reports/ 2010/ May%202010/ Day10/
+GateSpeech050810.pdf .
+24 See the following hearings: “Flag and General Officer Strengths,” Subcommittee on Manpower and Personnel of the
+Senate Armed Services Committee, September 17, 1981; “General and Flag Officer Requirements,” Subcommittee on
+Manpower and Personnel of the Senate Armed Services Committee, August 10 , 1988; “Review of General and Flag
+Officer Authorizations,” Subcommittee on Personnel of the House National Security Committee, April 8, 1997, in
+House National Security Committee Report No. 105 -6; “General and Flag Officer Requirements,” Subcommittee on
+Personnel of the Senate Armed Services Committee, September 14, 2011, Senate Hearing 112 -258.
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   10 example, there was a Chief of Staff of the Air Force at the peak of the Vietnam
+War, when the Air Force had about 900,000 airmen, and there is  still one in 202 6,
+with the Air Force  strength at approximately 319,000  airmen  as of  December  31,
+2025.25 Given the organizational structure and “posture” of the Armed Forces —
+some of which is re quired by law —the amount of management “overhead” does
+not necessarily change in direct proportion to the size of the force.
+• Technological changes . A third justification for increased GFO ratios is that
+technological advances have changed the way the United States fights its wars.
+Modern weapons systems, much more powerful and accurate than their
+predecessors, require fewer personnel to deliver great er firepower. Thus, while
+the number of personnel a GFO commands may decline as more sophisticated
+equipment is substituted for manpower, the lethality of those forces may increase.
+From this perspective, the lethality of the weapons systems, rather than t he
+number of people, provides the justification for an organization to be led by a
+very senior military officer. Additionally, the advent and development of new
+domains of warfare —such as space and cyber —has led to the creation of new
+organizations (e.g., U.S. Space Force , U.S. Cyber Command ) to exploit
+advantages and defend against vulnerabilities in those environments , with
+additional senior positions.
+• Resource Management Changes. DOD budget authority and complexity have
+generally increased over time,  as have expectations of their management . (DOD
+budget authority is  depicted in Figure 3.) As with the increased sophistication of
+operation s and weaponry, responsibility for budgets that amount to over one -half
+of federal discretionary spending may require more senior -level management.
+25 Department of Defense Active Duty Military Personnel by Rank/Grade and Service, December 31, 2025 .
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   11 Figure 3. Department of  Defense Budget Authority, by Public Law Title
+FY1948 -FY202 8
+In billions of constant FY2025 dollars
+Sources:  FY2025 Budget Request: Department of Defense -Military (Subfunction 051), by Cameron M. Keys.
+CRS analysis of Department of Defense, National Defense Budget Estimates for FY2025, April 2024, Table 6 -8.
+Note:  Figures for FY2026 -FY2029 are projections.
+Trans lating defense authorization laws governing policy and appropriations laws for
+defense and military construction into a Future Years Defense Program  that illustrates
+policy and plans five years into the future and “record[s] and display[s] resource
+decisio ns,” may require the seniority of a GFO.26
+Justification for the Statutory Status Quo
+As noted above, the National Defense Authorization Act for Fiscal Year 2024 ( FY2024 NDAA ;
+P.L. 118 -31) realized a congressionally directed reduction of GFO billets, achieved through
+intensive study and oversight.27 The law does not prohibit the executive bran ch from further
+reductions , and the  executive branch has initiated such a reduction . Secretary of Defense Peter B.
+Hegseth , who is using “Secretary of War” as a “secondary title” under Executive Order  14347
+dated September 5, 2025,  released a memorandum on May 5, 2025, directing the following
+general and flag officer reductions .
+• A minimum 20% reduction of 4 -star positions across the Active Component;
+• A minimum 20% reduction of general officers in the National Guard; and
+26 For more information on the Future Years Defense Program , see CRS In Focus IF10831, Defense Primer: Future
+Years Defense Program (FYDP) , by Brendan W. McGarry and Alexandra G. Neenan .
+27 See footnote 13 and see footnote 14. See also  H.Rept. 114 -840, p. 1013. A copy of the Track Four Efficiency
+Initiatives Decisions memo by Secretary Gates is available at  https://www.acq.osd.mil/ asda/ dpc/ce/pc/docs/ archive/ 3-
+14-2011_Track_Four_Efficiency_Initiatives_Decisions.pdf .
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   12 • An additional minimum 10% reductio n in general and flag officers with the
+realignment of the Unified Command Plan.28
+The final list of “redundant” positions is yet to be released . Therefore, Congress may choose
+whether or not to await further legislati ve action and review any future execu tive branch
+decisions.
+GFO Assignments
+Assignment to any role in the uniformed military services is subject to controls provided in
+statutes, DOD regulations, and military department regulations. Congress has the constitutional
+power to make the laws that govern the Armed Forces.29 In carrying out these laws, the President,
+as Commander in Chief of the Armed Forces ( U.S. Constitution, Article 2, Section II ), exercises
+command authority, which extends to the most junior leader of any unit. In statute, the Defense
+Secretary has “authority, direction, and control” over the Defense Department.30 The duty
+assignment of any servicemember, including leadership and command positions at all levels,
+depends on such delegated command authority.
+GFOs are subject to the same command au thority and to certain statutes and regulations that
+apply to their nomination for promotion and service in certain assignments. For joint duty
+assignments (JDAs), including as Combatant Commanders, other than those in statute, “Most
+GFO JDAs are identifie d and managed as 2 -year assignments. The tour length for Combatant
+Commanders and Defense Agency directors is 3 years. Acquisition billets are governed by
+additional legislation that may require tour lengths of 3 or 4 years.”31 Services have their own
+specific regulations that apply only to GFOs in service -controlled billets.
+Terminology in describing assignment actions , including GFOs,  can be imprecise. The terms fire,
+sack, axe, cashier , relieve , reassign , and dismiss  are used as synonyms in various press  articles
+and oral reporting to describe the dynamic process of a uniformed officer’s change of position.
+The latter three terms figure in statute and in DOD issuances. Dismissal is the most severe
+because it expels the officer from the service altogether as punishment for misconduct. Such
+authority has limits in statute, especially regarding dismissal, which can occur only by sentence of
+court martial, unless the President orders it during war, in which case the officer is entitled to
+demand court martial (e.g., 10 U.S.C. §§ 804 and 1161 ). Relief and reassignment are duty changes
+that may be negative, positive, or neutral in charact er, depending on the individual situation.
+Appendix B  includes selected provisions of the U.S. Code  that inform decisions related to GFO
+assignments.
+28 Secretary o f Defense Peter B. Hegseth, Memorandum For Senior Pentagon Leadership, Subject: General/Flag
+Officer Reductions , available at https://media.defense.gov/ 2025/ May/ 05/2003704210/ -1/-1/1/MEMORANDUM -
+DIRECTING -GENERAL -AND -FLAG -OFFICER -REDUCTIONS.PDF .
+29 U.S. CONST . art. I, §8, cls. 14 (to make Rules for the Government and Regulation of the land and naval Forces ), 16
+(to gove rn such part of the militia in federal service).
+30 10 U.S.C.  §113.
+31 Chairman of the Joint Chiefs of Staff, The Joint Staff,  Manpower And Personnel Actions Involving General And
+Flag Officers , CJCSI 1331.01E , Washington, DC , March 31, 2022, p. C -1. Based on 10 U.S.C. §664 . See also Under
+Secretary of Defense for Personnel and Readiness, DOD Joint Officer Management Program , Office of the Under
+Secretary of Defense for Personnel and Readiness, DOD INSTRUCTION 1300.19, Washington, DC, May 18, 2023, p.
+27, https://www.esd.whs.mil/ Portals/ 54/Documents/ DD/issuances/ dodi/ 130019p.pdf? ver=2018 -04-03-114842 -923.
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   13 GFO  Management Considerations for Congress
+Congress has established in law certain GFO positions with specified grades, designated duties,
+or both. Those GFOs named in 10 U.S.C. §151, the Joint Chiefs of Staff, and the commanders of
+unifi ed and specified combatant commands comprise most of these positions. Title 10, Section
+152, of the U.S. Code  specifies that the Chairman of the Joint Chiefs of Staff holds the rank of
+General or Admiral (O -10). Positions with statutorily required grades t ypically have statutorily
+required duties as well . Congress may consider whether or not to adjust statutory requirements
+controlling GFO assignments. This could include
+• presidential reports to Congress in the case of §601 GFO assignments that fall
+outside  of the assignment framework represented in  Appendix B ;
+• a specified tour duration for Combatant Commanders;
+• specified Service rotation in Combatant Command assignments, or a sense of
+Congress regarding a preferred Service to lead such commands; and
+• more d etailed education, training, or assignment history requirements (e.g., for
+Combatant Commanders, an assignment in the nominated theater at the O -6 level
+or above).
+Appendix B  highlights positions and selected provisions with statutory requirements that affect
+responsibilities, duties, or functio ns of certain GFO positions and GFO positions generally.
+Congress Faces Recurring Questions in Managing
+GFO  Authorizations
+Should Congress elect to address GFO authorizations, duties, compensation, or other related
+topics in more detail, it may consider t he following:
+• What is the most appropriate way to determine how many GFOs DOD should
+have? How closely should this be linked to total force size? To what extent do
+statutory requirements drive GFO requirements? What other factors would be
+useful in determi ning the optimal number of GFOs?
+• Are there GFO roles that could be filled by civilian employees? Which tasks or
+roles require a senior military officer, especially in terms of advanced managerial
+skills, and which tasks or roles currently held by senior mi litary officers could be
+done by senior civilian personnel?
+• How do advances in information technology and decisionmaking tools affect the
+need for GFOs? Could the use of these technologies result in flattened
+management structures and decrease the need for GFOs? Or do they require
+additional GFOs with specialized expertise?
+• Could organizational restructuring of the Joint Staff, Service Staffs, and
+combatant command staffs decrease the need for GFOs or allow positions to be
+held by officers of a lowe r pay grade? Could selected organizations be merged to
+reduce the requirements for GFOs?
+• How important is rank equivalence when senior U.S. military personnel work
+with their allied peers? Could military relations with international partners be
+restructur ed to reduce the need for GFO representation?
+• Could National Guard and Reserve GFOs be used to reduce the need for active -
+duty GFOs?
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service   14 • Are there GFO positions that could be eliminated or “downgraded” to a lower
+rank? What are the costs and benefits associat ed with these actions? How might
+this affect military effectiveness?
+• Can the direct and indirect costs associated with GFOs be reduced? For example,
+could staff overhead costs be reduced without significantly affecting the ability of
+GFOs to carry out their duties?
+CRS -15 Appendix A.  Historical GFO Levels
+T able A-1. Historical GFO Levels
+Officers     As Percent age of Total Force
+Year  4-Star 3-Star 2-Star 1-Star 1- & 2-
+Star All
+GFOs  All
+Officer  Active
+Force  4-Star
+Officers  3-Star
+Officers  1- & 2- Star
+Officers  All GFOs  All
+Officers
+1965 36 119 n.a. n.a. 1,129  1,284  338,822  2,655,389  0.0014%  0.0045%  0.0425%  0.048%  12.76%
+1970 40 141 n.a. n.a. 1,157  1,338  402,226  3,066,294  0.0013%  0.0046%  0.0377%  0.044%  13.12%
+1975 36 118 443 584 1,027  1,181  292,424  2,128,120  0.0017%  0.0055%  0.0483%  0.055%  13.74%
+1980 32 113 406 559 965 1,110  277,622  2,050,627  0.0016%  0.0055%  0.0471%  0.054%  13.54%
+1985 36 125 370 519 889 1,050  308,919  2,151,032  0.0017%  0.0058%  0.0413%  0.049%  14.36%
+1990 36 121 367 530 897 1,054  296,591  2,043,705  0.0018%  0.0059%  0.0439%  0.052%  14.51%
+1995 35 110 274 432 706 851 237,602  1,518,224  0.0023%  0.0072%  0.0465%  0.056%  15.65%
+2000 34 119 282 436 718 871 217,178  1,384,338  0.0025%  0.0086%  0.0519%  0.063%  15.69%
+2005 35 128 272 439 711 874 226,619  1,389,394  0.0025%  0.0092%  0.0512%  0.063%  16.31%
+2010 39 150 310 482 792 981 234,000  1,430,985  0.0027%  0.0105%  0.0553%  0.069%  16.35%
+2015 38 141 310 420 730 909 230,468  1,313,940  0.0029%  0.0107%  0.0556%  0.069%  17.54%
+2018 40 147 296 438 734 921 230,708  1,317,325  0.0030%  0.0112%  0.0557%  0.070%  17.51%
+2019 37 142 295 409 704 883 214,661  1,325,826  0.0028%  0.0107%  0.0531%  0.0666%  16.19%
+2020 45 153 281 417 698 896 215,935  1,333,461  0.0034%  0.0115%  0.0523%  0.0672%  16.19%
+2021 41 156 293 405 698 895 216,369  1,333,771  0.0031%  0.0117%  0.0523%  0.0671%  16.22%
+2022 39 146 283 373 656 841 213,175  1,296,309  0.0030%  0.0113%  0.0506%  0.0649%  16.44%
+2023 37 132 252 388 640 809 234,252  1,286,027  0.0029%  0.0103%  0.0500%  0.0630%  18.22%
+2024 41 166 282 374 656 863 233,581  1,280,652  0.0032%  0.013%  0.0512%  0.0674%  18.24%
+2025 36 144 259 409 668 848 235,575  1,298,099  0.0028%  0.0111%  0.0515%  0.0653%  18.15%
+CRS -16 Source: CRS compilation of data produced by the Defense Manpower Data Center.
+Note s: Figures are as of September 30 of each year.  N/A = not applicable.
+CRS -17 Appendix B.  Selected Positions and Statutes
+T able B-1. Selected Positions and Statutes
+Position /Service  Statute  Grade and Requirements  Selected Duties,
+Responsibilities, or Functions  Appointment Du ration
+Chairman of the Joint Chiefs
+of Staff /Joint 10 U.S.C. §§152 -153 General or Admiral
+• Must have served as the Vice
+Chairman of the Joint Chiefs
+of Staff , Service Chief , or
+commander of a unified or
+specified combatant command.
+• The President may waive the
+above  if the President
+determines such action is
+necessary in the national
+interest.  • Assisting the President and the
+Secretary of De fense in
+providing for the strategic
+direction of the Armed Forces.
+• In matters related to strategic
+and contingency planning,
+developing strategic
+frameworks and preparing
+strategic plans, as required, to
+guide the use and employment
+of military force and related
+activities across all geographic
+regions and military functions
+and domains, and to sustain
+military efforts over different
+durations of time, as
+necessary .
+• In matters relating to global
+military strategic and
+operational integration,
+providing adv ice to the
+President and the Secretary on
+ongoing military operations ,
+and advising the Secretary on
+the allocation and transfer of
+forces among geographic and
+functional combatant
+commands, as necessary, to
+address transregional,
+multidomain, and
+multifun ctional threats.  Four years  (except in time of war)
+Term begins on October 1 of an
+odd-numbered year .
+CRS -18 Position /Service  Statute  Grade and Requirements  Selected Duties,
+Responsibilities, or Functions  Appointment Du ration
+• In matters related to
+comprehensive joint readiness,
+evaluating the overall
+preparedness of the joint force
+to perform the responsibilities
+of that force under national
+defense strategies and to
+respond to significant
+contingencies worldwi de.
+• In matters relating to joint
+capability development,
+identifying new joint military
+capabilities based on advances
+in technology and concepts of
+operation needed to maintain
+the technological and
+operational superiority of the
+Armed Forces, and
+recomme nding investments
+and experiments in such
+capabilities to the Secretary.
+• In matters relating to joint
+force development activities,
+developing doctrine for the
+joint employment of the
+Armed Forces, and formulating
+policies and technical
+standards, and exec uting
+actions, for the joint training of
+the Armed Forces.
+Service Chiefs /Army, Marine
+Corps, Navy, Air Force, and
+Space Force
+10 U.S.C. §7033 (for
+other Service Chief s,
+see 10 U.S.C.
+§§8043, 8033, 9033,
+and 9082)  General or Admiral
+• “Significant experience in joint
+duty assignments; and ... one
+full tour of duty in a joint duty
+assignment  ... as a general
+officer. ” Varies by Service.
+For the Chief of Staff of the
+Army:
+• Presiding over the Army Staff.  Four years , term extendable up to
+four years during  time of war or
+during a national emergency
+declared by Congress.
+Serves at the pleasure of the
+President .
+CRS -19 Position /Service  Statute  Grade and Requirements  Selected Duties,
+Responsibilities, or Functions  Appointment Du ration
+The President may waive the above
+if the President determines such
+action is necessary in the national
+interest.  • Transmitting the plans and
+recommendations of the Army
+Staff to the Secretary and
+advising the Secretary about
+such plans and
+recommendations.
+• After approval of the plans or
+recommendations of the Army
+Staff by the Secretary, acting as
+the agent of the Sec retary in
+carrying them into effect.
+• Exercising supervision,
+consistent with the authority
+assigned to commanders of
+unified or specified combatant
+commands under Chapter 6 of
+this title, over such members
+and organizations of the Army
+as the Secretary det ermines .
+• Performing duties as
+prescribed for members of the
+Joint Chiefs of Staff.
+Commander of a combatant
+command, Commander,
+United States Forces,
+Korea /Joint 10 U.S.C. §164  and
+§604 General or Admiral
+• 10 U.S.C. §604 refers to
+“commander of a combatant
+command” positions as  “Joint
+4-star officer positions .”
+• Joint specialty under Section
+661 of Title 10; has completed
+a tour of duty in a joint duty
+assignment as a general or flag
+officer . • Giving authoritative direction
+to subordinate commands and
+forces necessary to carry out
+missions assigned to the
+command, including
+authoritative direction over all
+aspects of military operations ,
+joint training, and logistics.
+• Prescribing the chain of
+command to the command s
+and forces within the
+command.  Not specified
+Normally three years ; DOD policy
+requires two years (see footnote
+footnote 14).
+CRS -20 Position /Service  Statute  Grade and Requirements  Selected Duties,
+Responsibilities, or Functions  Appointment Du ration
+• Organizing commands and
+forces within that command as
+necessa ry to carry out
+missions assigned to the
+command.
+• Employing forces within that
+command as necessary to
+carry out m issions assigned to
+the command.
+• Assigning command func tions
+to subordinate commanders.
+• Coordinating and approving
+those aspects of administration
+and support (including control
+of resources and equipment,
+internal organization, and
+training) and discipline
+necessary to carry out
+missions assigned to the
+command.
+• Exercising the authority with
+respect to selecting
+subordinate commanders ,
+selecting combatant command
+staff, suspending subordinates,
+and convening courts -martial .
+Commander, Special
+Operations Command /Joint 10 U.S.C. §167  in
+addition to §164 General or Admiral
+• No requirements beyond
+those specified  in §164. • Developing strategy, doctrine,
+and tactics [related to special
+operations activities].
+• Preparing and submitting to
+the Secretary of Defense
+program recommendations
+and budget proposals for
+special operations forces and
+for other forces assigned to Not specified
+CRS -21 Position /Service  Statute  Grade and Requirements  Selected Duties,
+Responsibilities, or Functions  Appointment Du ration
+the special operations
+command.
+• Training assigned forces.
+• Conducting specialized
+courses of instruction for
+commissioned and
+noncommissioned officers.
+• Validating requirements.
+• Establishing priorities for
+requirements.
+• Ensuring the interoperability of
+equipment and forces.
+• Ensuring the combat readiness
+of forces assigned to the
+special operations command.
+• Monitoring the preparedness
+to carry out assigned missions
+of special operations forces
+assigned to unified combatant
+commands other than the
+special operations command.
+• Managing the development and
+acquisition of special -
+operations equipment.
+Commander , Cyber
+Command /Joint
+10 U.S.C. §167b  in
+addition to §164  General or Admiral
+• No requirements specified
+beyond those specified in
+§164. • Developing strategy, doctrine,
+and tactics [ related to cyber
+operations activities ].
+• Preparing and submitting to
+the Secretary of Defense
+program recommendations
+and budget proposals for
+cyber operations forces and
+for other forces assigned to
+the cyber command.  Not specified
+CRS -22 Position /Service  Statute  Grade and Requirements  Selected Duties,
+Responsibilities, or Functions  Appointment Du ration
+• Exercising authority, direction,
+and control over the
+expenditure of funds for
+forces assigned directly to the
+cyber command, and for cyber
+operations forces assigned to
+unified combatant commands
+other than the cyber
+command.
+• Training and certifying assigned
+joint forces.
+• Conducting specialized
+courses of instruction for
+commissioned and
+noncommiss ioned officers.
+• Validating requirements,
+establishing priorities for
+requirements, and ensuring
+the interoperability of
+equipment and forces.
+• Monitoring the promotion of
+cyber operation forces and
+coordinating with the military
+departments regarding the
+assignment, retention, training,
+professional military education,
+and special and incentive pays
+of cyber -operation forces.
+• Ensuring the combat readiness
+of forces assigned to the cyber
+command.
+• Monitoring the preparedness
+to carry out assigned missions
+of cyber forces assigned to
+unified combatant commands
+CRS -23 Position /Service  Statute  Grade and Requirements  Selected Duties,
+Responsibilities, or Functions  Appointment Du ration
+other than the cyber
+command.
+Chief of the National Guard
+Bureau /Joint
+“Positions of importance and
+responsibility”
+Grade of general or admiral
+or lieutenant general or vice
+admiral  10 U.S.C. §10502
+10 U.S.C. §601
+General
+• Must have had at least 10
+years of federally recognized
+commissioned service in an
+active status in the National
+Guard  in a grade above the
+grade of brigadier general .
+• Significant joint duty
+experience .
+• The President designates such
+positions  serving on active
+duty in any grade above
+colonel or Navy captain .
+• Other joint duty assignments . • Serving as a principal advisor
+to the Secretary of Defense,
+through the Chairman of the
+Joint Chiefs of Staff, on
+matters involving
+nonfederalized National Guard
+forces and on other matters as
+determined by the Secretary
+of Defense.
+• Serving as the principal advisor
+to the Secretary of the Army
+and the Chief of Staff of the
+Army, and to the Secretary of
+the Air Force and the Chief of
+Staff of the Air Force, on
+matters relating to the
+National Guard, the Army
+National Guard of the United
+States, and the Air National
+Guard of the United States .
+• Addressing matters involving
+nonfederalized National Guard
+forces in support of homeland
+defense and civil support
+missions as a member of the
+Joint Chiefs of Staff.
+Four years , may be reappointed.
+Serves at the pleasure of the
+President.
+Source: Title 10, U.S. Code.
+Note: This table does not include a full listing of statutory positions. Likewise, for the positions it does list, the table does no t include a full description of statutorily
+defined functions, duties, or responsibilities.
+Statutory Framework for Congressional Management of DOD General and Flag Officers
+Congressional Research Service  R44389  · VERSION 18 · UPDATED  24
+Author Information
+Michael J. Vassalotti, Coordinator
+Section Research Manager
+Sofia Plagakis
+Senior Research Librarian
+Acknowledgments
+Lawrence Kapp,  former  Specialist in Defense Personnel Policy , originally authored  this report.
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

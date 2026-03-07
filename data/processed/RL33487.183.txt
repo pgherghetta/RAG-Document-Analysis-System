@@ -1,0 +1,1719 @@
+Syria: Transition and U.S. Policy
+Updated February 26, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+RL33487
+Congressional Research Service
+SUMMARY
+Syria: Transition and U.S. Policy
+Since the  December 2024 collapse  of the government  of Bashar  Al Asad,  Syrians have pursued
+political  and economic  opportunities  created  by the end of the country’s  12-year civil war.
+Internal  tensions  and external  pressures  pose obstacles  to the country’s  transition.  Transitional
+President Ahmed Al Sharaa  led a group long designated by the U.S. government as a foreign
+terrorist organization  and still designated as a specially designated global terrorist entity . He has
+renounced former ties to Al Qaeda and the Islamic State and met with President Donald Trump in
+the White House in November 2025. Interim authorities have outlined a five-year transitional
+constitutional framework after limited consultation with Syrian citizens . Indirect e lections were
+held in October 2025 for a  transitional  legislative assembly ; elections were not held in some areas of eastern Syria, which
+were then under  the control of ethnic Kurdish -led forces , and areas south east of the capital, Damascus,  which remain under
+the control of members of the Druze  religious minority . Turkish forces remain in parts of the north, while Israeli  forces  have
+moved  into formerly  demilitarized  areas  between  Syria  and Israel and into  some Syrian  territory near  the frontier. Sectarian
+violence involving government forces, their backers, and  mem bers of minority communities ha s marred the transition,
+highlighting the interim government’s limited capacity to ensure security  and impose discipline  on its forces . In this context,
+some observers have expressed skepticism about the transitional  governme nt’s commitments  to inclusivity  and the protection
+of all members  of Syria’s  diverse  religious  and ethnic fabric.  Others have warned that domestic and foreign opponents of the
+transitional  government may be exploiting communal tensions to advance their own agendas , and that fragmentation in Syria
+would threaten regional security .
+The Trump  Administration  has outlined  a policy  of robust but conditional  support  for Syria’s transitional govern ment , pairing
+endorsement of its leaders’  calls for the maintenance  of Syria’s  unity  and territorial  integrity  with insistence that they adopt a
+protective and inclusive approach toward all Syrian communities. The United States is support ing dialogue  between  the
+government  and Kurdish forces  and political figures that controlled areas of the northeast until government forces advanced
+in and reasserted control in January 2026. Some U.S. military forces remain deployed in north east Syria, but U .S. forces
+withdrew from an outpost in southern Syria in February 2026 and unnamed U.S. officials told press outlets on February 18
+that preparations for a full withdrawal of U.S. forces are underway and may be complete  within two months. U.S. forces
+trans ferred more than 5, 700 Islamic State prisoners formerly secured by U.S. partner s in the Syrian Democratic F orces (SDF)
+to neighboring Iraq following the Syrian government’s 2026 advance.  The United  States  and European Union have extended
+broad sanctions re lief to the interim government in a bid to encourage investment and prevent economic collapse and
+humanitarian pressures from derailing the transition.  Announced changes to U.S. and international sanctions on Syria have
+create d possibilities for more  robus t investment,  trade,  and economic  growth,  but Syrians are grappling with the negative
+effects of decades of misrule and sanctions amid the strife and destructive consequences of a decade -plus-long civil war.
+Governance and security arrangements in northeast and southern Syria remain a central dilemma for transitional leaders and
+the minority communities in these areas. Neighboring countries, including Turkey and Israel, have security concerns about
+these regio ns and are acting inside Syria in pursuit of their preferred outcomes. Turkey opposes Syrian Kurds’ aspirations for
+autonomy or decentralization , citing links between Kurdish elements of the SDF and the Kurdistan Workers’ Party (PKK), a
+U.S.-designated For eign Terrorist Organization. The PKK announced in early 2025 that it would dissolve and disarm.
+January 2026 SDF-government agreements set terms for the integration of some SDF fighters into special brigades. Israel has
+struck military  targets across Syria  since December 2024 to neutralize Syrian capabilities, enforce its desire to see Syria’s
+three southern governorates remain a demilitarized zone, and in what it describes as a bid to protect the Syrian Druze
+minority community.  Israel -Turkey tensions over  Syria raise continuing risks of confrontation.
+In Congress,  many  Members  welcomed  the fall of the Asad  government  and the setbacks  it created for Iran and Russia.
+Members have debated U.S. policy toward the Syrian government, with some advocating  for the elimination  of remaining
+U.S. sanctions  on Syria  and others  expressing  concern  about  the intentions and actions of Syria’s transitional  leaders and
+advising a more gradual and conditional approach. President Donald  Trump  has acted  to remove  many  Asad -era sanctions on
+Syria using  authorities delegated to  the President  by Congress;  President  Trump  also has revised  other  Syria -related  sancti ons
+mechanisms  to preserve his ability  to impose new sanctions based on  future developments in  Syria. Congress  repealed the
+Caesar Syria Civilian  Protection Act and has authorized funding for the continued provision of military assistance to U.S.
+partners , though the future of the U.S. military presence is uncertain . Legislative questions for Congress include whether and
+on what terms to  authorize  and appropriate  funds  for U.S. assistance  and security  operations  in Syria;  whether  and to what
+extent  to rescind , revise, or reenact laws providing for Syria -related sanctions ; and how best to influence executive  branch
+policies and shape the decisions of  Syrian  authorities,  and U.S. partners  and adversaries.  RL33487
+February 26, 2026
+Christopher M. Blanchard
+Specialist in Middle
+Eastern Affairs
+Syria: Transition and U.S. Policy
+Congressional Research Service   Contents
+Overview  and Key Developments  ................................ ................................ ................................ ... 1
+Syria: Profile and Contemporary History  ................................ ................................ ..................  3
+Political and Security Dynamics  ................................ ................................ ................................ ..... 5
+Political Transition and Consolidation of Authority  ................................ ................................ . 5
+Transitional Government Reasserts Control over Eastern Syria  ................................ ...............  7
+Threats from the Islamic State and Other Extremists Persist, Evolve  ................................ ....... 9
+Sectarian Violence Threatens Transition, Draws Intervention  ................................ ................  10
+Violence in Coastal Governorates  ................................ ................................ ......................  11
+Violence in Southern Governorates  ................................ ................................ ..................  12
+Syria and the United Nations Security Council  ................................ ................................ .............  13
+Humanitarian Crises and Appeals for Assistance  ................................ ................................ ..........  15
+U.S. Interests and Initiatives  ................................ ................................ ................................ ..........  16
+U.S. Diplomacy  ................................ ................................ ................................ .......................  19
+U.S. Milita ry Operations in Syria ................................ ................................ ............................  20
+Syria Train and Equip Program FY2025 Funding and FY2026 Legislation  ...........................  21
+U.S. Stabilization and Foreign Assistance  ................................ ................................ ..............  21
+Entry and Presence of Syrians in the United States  ................................ ................................  22
+U.S. Sanctions and Syria  ................................ ................................ ................................ .........  23
+Sanctions Relief and Remainin g Authorities  ................................ ................................ .... 23
+U.S. Tariffs  ................................ ................................ ................................ ..............................  25
+Regional and International Initiatives and Interests  ................................ ................................ ...... 26
+Legislation and Hearings in the 119th Congress  ................................ ................................ ............  30
+Outlook and Issues Before Congress  ................................ ................................ .............................  31
+Figures
+Figure 1. Syria: Areas of Influence  ................................ ................................ ................................ .. 2
+Figure 2. Syria: At a Glance Map and Data  ................................ ................................ .....................  3
+Figure 3. S yria: Coastal Governorates  ................................ ................................ ............................  11
+Figure 4. Syria: Southern Governorates  ................................ ................................ ........................  12
+Figure 5. President Donald Trump Hosts President Ahmed Al Sharaa  ................................ .........  20
+Figure A -1. Interim President of the Syrian Arab Republic Ahmed Al Sharaa  .............................  35
+Tables
+Table 1. Syria: Selected Interim Authorities  ................................ ................................ ....................  6
+Syria: Transition and U.S. Policy
+Congressional Research Service  Appendixes
+Appendix.  Hayat Tahrir al Sham (HTS): Leadership, Insurgency, Terrorism, and
+Governance ................................ ................................ ................................ ................................ . 35
+Contacts
+Author Information  ................................ ................................ ................................ ........................  37
+Syria: Transition and U.S. Policy
+Congressional Research Service   1 Overview  and Key Developments
+The Al Asad (alt. Assad) family  ruled Syria for more than 50 years; its fall in December 2024
+marked a dramatic end to a more than 12-year-long conflict in Syria  and the conclusion of
+decades of confrontation between the Syrian government and the United States . Conflict in Syria
+had dis placed millions, killed hundreds of thousands, spurred military intervention by multiple
+countries, and fueled the rise of the Islamic State organization. The Asad government’s hostility
+to Israel, attempts to dominate neighboring Lebanon, alignment with R ussia, partnership with
+Iran, support for terrorist groups, and development and use of weapons of mass destruction had
+troubled U.S. policymakers for decades. Asad’s removal was a setback for some U.S. adversaries,
+but left many unanswered questions about Syria’s future.
+The country’s transition is proceeding under the direction of President Ahmed Al Sharaa, a former
+Al Qaeda member and leader of the now -disbanded Hayat Tahrir al Sham (HTS,  see Appendix ),
+the Islamist armed group whose late 2024 offensive drove former president Bashar Al Asad into
+exile. Having asserted a prerogative to set terms for a five -year transitional period with limited
+input from others, Sharaa and his partners have concentrated decisionmaking among themselves.
+Transitional authorities have focused  on reconstituting national security forces, extending the
+state’s remit to areas that initi ally were outside of transitional government  control, achieving the
+removal of U.S. and international sanctions, and attracting investment  to support Syria’s recovery .
+The U nited States and some other international actors have removed many Asad -era sanctio ns on
+Syria and some counterterrorism sanctions , creat ing opportunities for economic recovery  and
+engagement.  Nevertheless, terrorist threats  from the Islamic State  (IS, aka ISIS/ISIL)  and others
+persist , intercommunal tensions are high, territorial contro l remains contested, and government
+capacity  is limited . The World Bank estimates Syria’s needed reconstruction costs at nearly $216
+billion. As of February 2026, UN agencies report ed that 1. 4 million Syrian refugees had returned
+to the country since Decem ber 2024 , but more than 3.7 million remained in regional countries .
+Additionally, more than 6 million Syrians remained internally displaced as of January 2026.
+Spasms of violence involving some minority populations have created a series of crises , killing
+and displacing civilians,  and generat ing scrutiny of transitional leaders. These crises include
+incidents in Alawite majority areas of coastal western Syria in March 2025 and Druze majority
+areas of southern Syria in July 2025. In January 2026, the government forcefully reasserted
+control over several non -Kurdish majority areas that had long been secured by the Syrian
+Democratic Forces (SDF), the Kurdish -led coalition that through 2025 served as the principal
+U.S. partner force against the Islamic S tate. U.S.-backed agreement s established a ceasefire and
+set terms for the entry of government forces into Kurdish -majority areas  and the integration of
+some wartime governing bodies  and some SDF fighters into national units .
+The Trump  Administration  has pursued a policy of conditional  support  for the transitional
+government , endors ing Syrian leaders’  calls for territorial  integrity  and the extension of state
+authority, while insist ing the new government protect all Syrian communities.  President Trump
+has met with Ahmed Al Sharaa twice. On February 18, unnamed Administration officials
+reportedly said that th e roughly 1,0 00 U.S. military personnel remaining in Syria are preparing to
+leave within two months as part of a “conditions -based ” transition.1 Unnamed Syrian sources said
+the timeline could be as little as one month.2 The U.S. military has completed the transfer of more
+than 5,700 IS prisoners from Syria to Iraq and has withdr awn from two long -held outpost s.
+1 Lara Seligman, “U.S. Is Withdrawing All Forces From Syria, O fficials Say,” Wall Street Journal , February 18, 2026.
+2 Agence France Presse (AFP), “US forces to complete withdrawal from Syria within a month: sources to AFP,”
+February 23, 2026.
+Syria: Transition and U.S. Policy
+Congressional Research Service   2 Specific plans for the remaining U.S. presence in northeast Syria and the potential for ongoing
+U.S.-Syria  security cooperation are uncertain.
+Figure 1. Syria: Areas of Influence
+Source: CRS using Combined Joint Task Force -Operation Inherent Resolve ( CJTF-OIR) reporting to Lead
+Inspector General, media and social media reporting , and E sri and U.S. State Department data. All areas of
+influence approximate and subject to change.
+Syria: Transition and U.S. Policy
+Congressional Research Service   3 Syria: Profile and Contemporary History
+The area that now comprises Syria was long ruled as part of the Ottoman Empire and was
+administered by France under a mandate of the League of Nations following the First World War.
+Its demographic diversity reflects its history over millennia as a regiona l crossroads and home to
+a variety of religious, ethnic, and linguistic communities. Contemporary Syria secured its
+independence as France ’s post-World War I mandate ended in the 1930s and 1940s; its early
+history as an independent state was marked by a se ries of Cold War -influenced coups and
+regional instability. The Baath (Renaissance) Party seized power in 1963. Wars with Israel in
+1948, 1967, and 1973 ended in defeat and resulted in Israeli control of the Golan Heights region.
+Former president Bashar a l Asad’s father —Hafiz al Asad —ruled the country from 1970 until his
+death in 2000. The Asad family are members of the minority Alawite sect (estimated 15% of the
+population), which has its roots in Shiite Islam.  The Asads cultivated Alawites as a base of
+support. The government violently suppressed an armed uprising led by the Muslim Brotherhood
+in the early 1980s, killing thousands from the majority Sunni Muslim community. After taking
+office in 2000, Bashar Al Asad offered and then retracted the prospect of limited political reform,
+while privileging family members and other Alawite supporters and aligning his government with
+Iran and Russia and with nonstate actors such as Hamas and Hezbollah in a complex rivalry with
+the United States and its Arab and no n-Arab allies (including Israel). Violence in northeast Syria
+in 2004 highlighted long -standing and unresolved tensions involving Syria’s ethic Kurdish
+minority. In 2011, Asad met local unrest with military force, sparking an insurgency that spread in
+2012  and ignited more than a decade of conflict and foreign intervention.
+Figure 2. Syria : At a Glance Map and Data
+Source: CRS using Central Intelligence Agency World Factbook  data, February 2025.
+Notes:  The United States recognized the Golan Heights as part of Israel in 2019. UN Security Council
+Resolution 497, adopted on December 17, 1981, held that the area of the Golan Heights controlled by Israel ’s
+military is occupied territory belonging to Syria.
+Syria: Transition and U.S. Policy
+Congressional Research Service   4 Syria: Conflict Syn opsis and U.S. Policy, 2011 -2024
+In March 2011 , antigovernment protests broke out in Syria, in the midst of a wider trend of regional upheaval and
+challenges to decades of authoritarian rule. Violence escalated, and, in August 2011, President Barack Obama
+called on Syrian President Bashar al Asad to step down. Over time, the rising death toll from the conflict and the
+use of chemical weapons by the Asad government intensified pressure for the United States to assist the
+opposition. In 2013, Congress debated  lethal and nonlethal assistance to vetted Syrian opposition groups, and
+authorized the latter. After President Obama said the United States viewed chemical weapons use as  a red line,
+Congress debated, but did not authorize, the use of force after an Augus t 2013  chemical weapons attack.
+In 2014 , the Obama Administration requested authority and funding from Congress to provide lethal support to
+vetted Syrians for select purposes. The original request sought authority to support vetted Syrians in “defending
+the Syrian people from attacks by the Syrian regime,” but the subsequent advance of the Islamic State organization
+from Syria across Iraq refocused executive and legislative deliberations onto counterterrorism. Congress
+ultimately authorized a Department of  Defense -led train and equip program for select Syrian forces to combat
+terrorist groups active in Syria, defend the United States and its partners from Syria -based terrorist threats, and
+“promote the conditions for a negotiated settlement to end the confl ict in Syria.”3
+In September 2014, the United States began air strikes in Syria, with the stated goal of preventing the Islamic State
+from using Syria as a base for its operations in neighboring Iraq. In October 2014, the Defense Department
+established C ombined Joint Task Force -Operation Inherent Resolve (CJTF -OIR) to serve as the military
+component of the Global Coalition to Defeat ISIS, a multilateral civil and military coalition of dozens of countries.
+In 2015 , the United States deployed military forc es to Syria to counter the Islamic State and train local partner
+forces. Coalition and U.S. gains in Syria against the Islamic State after 2015 came largely through the assistance of
+Syrian Kurdish -led partner forces, but neighboring Turkey’s concerns abou t Kurdish forces in Syria emerged as a
+persistent challenge for U.S. policymakers.
+In 2017 , the United States began providing arms to the Kurdish -led Syrian Democratic Forces (SDF), and the SDF,
+backed by U.S. forces, advanced on IS -held areas, seizing th e IS stronghold of Raqqah in October 2017 and
+asserting control over the last IS -held areas of Syria’s eastern Euphrates River valley in March 2019.
+In 2018 , the U.S. intelligence community assessed that the conflict had “decisively shifted in the Syrian regime’s
+favor.”4 Remaining armed opposition forces (including groups linked to Al Qaeda) and civilians actively opposed to
+Asad were pushed into a shrinking geographic space in and around Idlib province in northwestern Syria. Turkish
+military forces rema ined present in Idlib and other areas of northern Syria, limiting advances by pro -Asad forces
+and preventing further displacement of Syrians to Turkey.
+In October 2019 , after President Trump signaled that U.S. forces would withdraw from Syria, Turkey launc hed a
+cross -border military operation attempting to expel Syrian Kurdish U.S. partner forces from areas adjacent to the
+Turkish border. President Trump briefly imposed sanctions on Turkish officials and negotiated a ceasefire that was
+later comple mented by  a separate agreement reached between Turkey and Russia to establish patrolled security
+zones. While U.S. -led coalition and partner forces focused on defeating the Islamic State in northern and eastern
+Syria, support from Russian, Iranian, and Hezbollah fo rces enabled the Syrian government to retake many areas of
+the country formerly held by the opposition.
+The United Nations (UN) sponsored peace talks in Geneva beginning in 2012, but the talks bore little fruit. Over
+time, military pressure on the Syrian government to make concessions to the opposition was reduced. By 2022 ,
+UN Special Envoy for Syria Geir Pedersen described the conflict as a “stalemate” with relatively fixed lines.5 In
+Idlib, Haya’t Tahrir al Sham distanced itself from Al Qaeda and the Is lamic State, establishing and controlling a
+Syrian Salvation Government, retraining fighters into more formidable and capable units, and periodically clashing
+with Turkey -backed groups in control of other areas of northern Syria.
+In November 2024 , HTS -led forces launched an offensive in response to escalating pro -Asad attacks, leading to
+the unexpected HTS capture of Aleppo and the cascading collapse of pro -Asad forces across western Syria. Some
+southern anti -Asad groups —demobilized under military  pressure earlier in the conflict —remobilized as the regime
+collapsed.  Asad fled to Russia on December 8, 2024, as HTS and southern armed groups entered Damascus.
+3 For additional background, see CRS Report R46796, Congress and the Middle East, 2011 -2020: Selected Case
+Studies , coordinated by Christopher M. Blanchard .
+4 Office of the Director of National Intelligence, Worldwide Threat Assessment of the U.S. Intelligence Community :
+2018 .
+5 UN Security Council, “Amid Stalemate, Acut e Suffering in Syria, Special Envoy Tells Security Council Political
+Solution ‘Only Way Out,’” Meetings Coverage, SC/14807, February 25, 2022.
+Syria: Transition and U.S. Policy
+Congressional Research Service   5 Political  and Security  Dynamics
+On January 22, 202 6, UN Assistant Secretary -General for the  Middle East, Europe, the Americas,
+Asia and the Pacific Khaled Khiari told the UN Security Council that “much has been achieved in
+post-Al-Assad Syria” but warned that the country “remains extremely fragile after 14 years of
+devastating conflict .”6 Trans itional authorities are adapting preexisting state institutions to the
+country’s postwar realities, incorporating personnel and procedures to keep ministries and
+agencies functioning and leveraging the powers of the transitional presidency to consolidate a nd
+reorganize others and to create new administrative and economic bodies. Measures to promote
+inclusion, transparency, consultation, and accountability have been enacted but have remained
+relatively narrow , as authorities consider the pros and cons of expeditious decisionmaking  and
+political pragmatism under conditions where national  unity  is under strain .
+Syria’s unresolved internal tensions, the interests of regional and international actors, and the
+transitional government ’s limitations have present ed serious challenges to the transition.
+According to UN officials, clashes during 2025 involving state forces, state -aligned armed
+groups, and some  minority  communities  reportedly killed  nearly 3,000 civilians and fighters and
+displaced  more than 2 00,000 people. The violence increased  global scrutiny  of the interim
+authorities’  capabilities and intentions.
+The following issues present the  principal challenges to Syria’s stability and the success of its
+transition.
+Political Transition and Consolida tion of Authority
+In January 2025, attendees at a “Victory Conference” of some anti -Asad armed groups appointed
+HTS leader Ahmed Hussein Al Sharaa (aka Abu Mohammed al Jawlani/Jolani/Golani , see
+Appendix ), as Syria’s interim president. Under Al Sharaa ’s leadership, authorities declared the
+dissolution of all military factions, political, and civil revolutionary bodies , including HTS,  and
+called for their integration into state institutions. Many individuals appointed to initial interim
+national leadership positions were former HTS members or previously served in the HTS -backed
+Syrian Salvation Government  that ruled rebel -held areas of  northwest Syria . In conjunction with
+Sharaa’s selection as president, the authorities also rescinded Syria’s 2012 constitution and
+dissolved the former ruling Baath Party, the Asad -era legislature, and the former regime’s military
+and security forces. As of February 2026, the UN Panel of Experts on Al Qaeda and the Islamic
+State reported that a number of member states assessed that HTS “remained in transition and was
+being absorbed into the new Syrian military and governance structures.”7
+After  a series  of governorate -level  consultations  and a National  Dialogue  conference in
+Damascus,  interim authorities  appointed  members  of a committee  that drafted  a five-year
+transitional constitution al declaration . In March 2025, President  Sharaa  signed  the transitional
+constitutional  declaration  and named a new transitional cabinet  (Table 1), expand ing the
+government’s leadership to includ e members of some minority groups. The transitional
+constitution declaration recognizes individual rights, including freedom of belief and expression,
+and states a commitment to preserving  the country’s territorial integrity, diversity, and social
+peace.  The declaration  vests  most powers  with the interim  presidency  and states  that Arabic  is the
+6 UN Document S/PV.10094 , UN Security Council  meeting , January 22 , 202 6.
+7 UN Document S/2026/44, Thirty -sevent h report of the Analytical Support and Sanctions Monitoring Team submitted
+pursuant to resolution 2734 (2024) , February 4, 2026.
+Syria: Transition and U.S. Policy
+Congressional Research Service   6 official language of the state and that Islamic law is the principal source of legislation .8 The
+Kurdish -led administration  of northeastern  Syria  did not participate  in the national  dialogue  and
+constitutional declaration drafting process and called for its reconsideration and a decentralized
+alternative.
+T able 1. Syria: Selected Interim Authorities
+As of February  12, 2026
+President of the Syrian Arab Republic/Commander -in-Chief
+Ahmed Al Sharaa
+Minister of Foreign Affairs  Asaad Al Shaibani  Minister of Defense  Maj. Gen. Marhaf Abu Qasra
+Minister of Interior  Anas Al Khattab  Minister of Finance  Mohammad Yusr Barniya
+Minister of Economy  Mohammad Nidal
+Al Shaar  Minister of Justice  Mazhar Al Weiss
+Minister of Energy  Mohammed Al
+Bashir  Minister of Public
+Works and Housing  Mustafa Abdulrazak
+Minister of Transport  Yarob Badr  Minister of Agriculture  Amjad Badr
+Minister of Health  Musaab Nazal Al
+Ali Minister of Social
+Affairs and Labor  Hind Qabawat
+Chief of the General Staff
+of the Army and Armed
+Forces  Ali Noureddine Al
+Nasan  Governor of the
+Central Bank of Syria  Abdulqader Husrieh
+Chargé d’Affaires, A.I.
+Syrian Embassy to the
+United States  Mohammad
+Qanatari
+Source: CRS, compiled from Syrian and international media reports. Subject to change.
+Note:  According to a July 2025 UN report, “At least 9 out of 23 ministers are directly or indirectly linked to
+HTS, 4 of whom held military roles within the group.” See UN Document S/2025/482, July 24, 2025.
+In July 2025, then -UN Special Envoy for Syria Geir Pe dersen told the UN Security Council  that
+the political  transition  was “not  yet fully  inclusive”  and he noted that “many  Syrians  express
+concern  about centralized  power,  limited  transparency,  weak  checks  and balances,  and insufficient
+means  for genuine public  consultations,  participation,  and scrutiny .”9
+The government held indirect elections in October for 119 of 210 seats in a transitional People’s
+Assembly. Of those elected, six are women, one is Christian, three are Ismaili, three are Alawi te,
+four are Kurds , and none are Druze. Twenty -one seats were not filled because of suspensions of
+the indirect voting process in areas of northeast Syria and Suweida (alt. Suwayda) governorate
+that were outside the government’s control.10 Following the Ja nuary 2026 reassertion of Syrian
+government control over areas of eastern Syria, authorities have said that Popular Assembly
+elections in those areas will be held when security conditions stabilize.11 President Sharaa is to
+appoint the remaining 70 members  of the Assembly. The indirect method of election and
+8 Text of Syrian Interim Constitution as translated by SyriaReport.com; and Evan Ward, “Syria Has a New Temporary
+Constitution. H ere Are the Highlights, ” New York Times , March 14, 2025.
+9 UN Special Envoy for Syria Geir Pedersen Briefing to the UN Security Council, July 28, 2025.
+10 Carlotta Gall, “ Syria Chooses a Parliament of Revolutionaries ,” New York Times , October 6, 2025.
+11 On February 14, 2026, UN Deputy Special Envoy for Syria Claudio Cardone told the Security Council that “voting
+for four vacant seats in Raqqa governorate will take place in the coming weeks. Clarification is still pending on steps to
+fill a further 11 ele cted seats in Hasakah governorate and in the district of Ain -al-Arab, also known as Kobane.” Deputy
+Special Envoy for Syria Claudio Cordone, Briefing to the Security Council, February 13, 2026.
+Syria: Transition and U.S. Policy
+Congressional Research Service   7 geographic distribution of seats have drawn some attention from election experts.12 According to
+UN Deputy Special Envoy Najat Rochdi, “the High Electoral Commission has publicly
+acknowledged the need t o improve representation of communities.”13
+Syria’s transitional constitutional  declaration  may be amended  by presidential  proposal approved
+by two -thirds of the Assembly. The president has yet to name members of the Supreme
+Constitutional Court created under the declaration. The transitional constitution declaration is to
+be replaced by a permanent constitution drafted by a still -to-be-named drafting committee.
+Transitional Government Reasserts Control  over Eastern Syria
+In January 2026, the gove rnment forcefully reasserted control over areas of eastern Syria that
+until January 2026 were under the control of the Autonomous Administration of North and East
+Syria (AANES) and the Syrian Democratic Forces (SDF) . The diverse, resource -rich, and
+strateg ically located region has been the focal point of U.S. efforts to defeat the Islamic State
+group since 2015 and is critical to the security of Syria and of neighboring Turkey and Iraq.  In
+March 2025, the SDF signed an agreement on integrating with national  security forces by the end
+of 2025. In subsequent talks with national leaders, t he SDF and AANES sought guarantees of
+constitutional rights amid threats from the Islamic State and concerns about sectarian violence.
+Turkey and the Syrian transitional gover nment oppose d autonomy for SDF -held areas, with
+Turkish concerns focus ed on SDF  links to the Kurdistan Workers Party (PKK), a U.S. -designated
+terrorist group that is implementing plans to disband.14 As the end of 2025 deadline approached,
+progress on imple menting the March 2025 integration agreement faltered, and clashes between
+the SDF and the government preceded the government’s advance  on SDF -held areas .
+Under the terms of agreement s reached in January 2026 to end fighting between SDF and
+government for ces, the government and local authorities in the northeast are proceeding with the
+implementation of “an understanding on a phased integration process for the military and
+administrative forces between the two sides.”15 Specifically, the agreement s call fo r “the
+formation of a military brigade comprising three regiments from SDF forces” along with a
+regiment for forces in Kobani/Ayn al Arab under the authority of the Aleppo Governorate military
+command. The agreement s also call for “the integration of self -administration [AANES]
+institutions within the Syrian state institutions, with the retention of civilian employees” and
+provide for “settling the civil and educational rights of the Kurdish community, and ensuring th e
+return of the displaced to their areas.”
+In conjunction with negotiations and fighting that preceded the January 2026 agreement s,
+President Sharaa issued Presidential Decree 13 establishing Kurdish as a national language,
+providing for Kurdish language education, and invalidating laws that stripped citizenship from
+12 Patricia Karam, “Prospects for Syria’s Democratization Under  Ahmed al -Sharaa,” Arab Center Washington DC,
+November 21, 2025.
+13 UN Deputy Special Envoy for Syria Najat Rochdi  Briefing to the UN Security Council, October  22, 2025 .
+14 In a July 2025 briefing, U.S. Ambassador to Turkey and Special Envoy for Syria Tom Ba rrack said, “ SDF is YPG
+[Kurdish acronym for People’s Defense Units, a Syrian Kurdish militia] . YPG is a derivative of PKK …. But this is a
+huge thing in Türkiye, right. The PKK -Türkiye dilemma is really complicated. And YPG was a spinoff of PKK that we
+allied with to fight ISIS. ” State Department, “ Strengthening U.S. -Türkiye Relations and Advancing Relations with
+Syria ,” July 11, 2025. In May 2025, a PKK congress decided to disband the PKK and end its armed struggle against the
+Turkish government, subject t o various implementation steps.  “Full text: PKK’s statement on disbanding decision ,”
+Bianet , May 13, 2025; and Rebecca Lucas, “ Disbanding the PKK: Political Engagement as the Key to Ending
+Insurgencies ,” RAND, June 10, 2025.
+15 Syrian Minister of Informatio n Hamza Mustafa, Statement by the Syrian Government on the Ceasefire Agreement , X
+post, January 30, 2026, https://x.com/ HmzhMo/ status/ 2017151630978781256 .
+Syria: Transition and U.S. Policy
+Congressional Research Service   8 some Syrian Kurds. Enduring resolution of these and other long -standing Kurdish communal
+concerns about governance and resource sharing may require reconciling the varying demands of
+the politically diverse Syrian Kurdish community with the transitional government’s insistence on
+precluding regional autonomy  and identifyi ng Syria as a primarily Arab state . Prior to the
+government -SDF confrontations, the population of eastern Syria had not been united in support of
+SDF goals: within SDF -held areas, urban and rural communities have expressed  varying needs
+and concerns, while  members of Arab, Turkmen, and Kurdish ethnic groups and members of
+Christian, Muslim, and secular communities have appeared to have divergent priorities.
+Under the January agreement s, the two sides have proceeded with the “withdrawal of military
+forces fr om points of contact” and the agreed entry of national government forces from the
+Ministry of Interior into the SDF -held cities of Al Hasakah and Qamishli. The agreements ’ call
+for the creation of new brigades may involve individualized vetting and changes  to the command
+and composition of SDF units. The return of displaced persons under the agreement s may include
+the return of Syrian Kurds to areas where property and other intercommunal disputes could erupt.
+The United States and the Security of Northeast  Syria
+Since 2015, the U.S. military has operated in Syria and support ed local partner forces to fight the Islamic State.
+Through 2025, the  main U.S. partner in this effort ha s been the Syrian Democratic Forces, a coalition of armed
+groups whose leaders a nd strongest components are members of the People’s Protection Units (YPG), a Syrian
+Kurdish nationalist militia with links to the Kurdistan Workers Party (PKK), a U.S. -designated Foreign Terrorist
+Organization.16 In 2017, the United States began overtly a rming the YPG and other SDF elements, and by early
+2019, YPG -led SDF forces backed by U.S. forces had succeeded in ending the Islamic State’s control of territory
+north of the Euphrates River in Syria. SDF forces took control of thousands of captured IS fi ghters and secured
+camps for persons displaced from IS -held areas. The SDF partner ed with an Autonomous Administration of North
+and East Syria (AANES)  to govern a de facto autonomous zone that included Kurdish -majority areas but later
+encompassed Arab-majority areas  formerly held by the Islamic State .
+The government of Turkey consistently objected to U.S. partnership with the YPG, characterizing the group and
+the wider SDF coalition as terrorists. 17 In response to the YPG's consolidation of contiguous control over much
+of northern Syria's border areas by 2016, Turkey and allied Syrian militias conducted three significant military
+operations (in 2016, 2018, and 2019) that replaced YPG rule in some are as adjacent to Turkey with Turkish -
+backed Syrian forces. Turkey -Russia arrangements reached in 2019 and 2020 provided for an end to Turkish
+advances and joint patrols aimed at limiting the presence of the YPG and SDF in areas near the Turkish border.
+As th e Asad government collapsed in late 2024, Russian forces implementing Turkey -Russia agreements withdrew.
+SDF forces moved into areas that had been under pro -Asad forces’ control, including the city of Deir -ez-Zor. In
+2025, HTS forces and their local partne rs moved to assert authority in these areas, and SDF forces withdrew
+north of the Euphrates River. To the west, Turkey -backed Arab militia groups expelled YPG and SDF forces from
+some areas north and east of Aleppo , before a ceasefire was reached.
+A March  2025 agreement between the SDF and the interim government created a framework for the possible
+future integration of security forces and administrative entities in the northeast with the national government , but
+implementation stalled over competing SDF a nd government demands . Ahmed Al Sharaa publicly rejected any
+future territorial division of Syria or the use of Syrian territory by any entity to threaten Syria’s neighbors, insisting
+on the exclusive control of weapons by state security forces while stati ng his intent to resolve issues with the SDF
+through dialogue.18 SDF Commander and YPG leader Mazloum Abdi said the SDF was “not pursuing separatism”
+and envisioned itself “as an integral part of a unified Syrian army, as part of a broader political soluti on.”19 The
+United States supported SDF-government talks , but impasses remained , and conflict erupted in December 2025 .
+16 In a July 2025 briefing, U.S. Ambassador to Turkey and Special Envoy for Syria Thomas Barrack said, “SDF is YPG
+…. And YPG was a spinoff of PKK that we allied with to fight ISIS.” State Department, “St rengthening U.S. -Türkiye
+Relations and Advancing Relations with Syria,” July 11, 2025.
+17 See CRS Insight IN12473, Turkey (Türkiye) in Syria: Key U.S. Policy Issues , by Jim Zanotti and Clayton Thomas .
+18 MEMRI Translation #11695, reviewed by CRS, Source - Al-Arabiya Network, December 29, 2024.
+19 “‘We want change to be the basis for a new phase in Syria ’ Mazloum Abdi ,” Kurdistan24  (Iraq), January 28, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   9 Threats from the Islamic State and Other Extremists Persist , Evolve
+For the United States, SDF -government confrontation and the end of SDF control over large areas
+relevant to the fight against remaining Islamic State elements in Syria pose questions about the
+future of U.S. policy and military strategy . Immediate considerations have include d managing the
+withdrawal of SDF control over some prisons and camps housing IS prisoners and associated
+persons. To prevent the escape of high -value IS prisoners, the U.S. military worked with Syrian
+and Iraqi authorities to transfer more than 5,700 IS prisoners to neighbor ing Iraq, where they are
+expected to continue to await trial  or return to their countries of origin . The unmanaged end of
+SDF control over an IS prison at Al Shaddadi and the large camp for IS -associated families at Al
+Hol led to the escape of hundreds of  prisoners and camp residents with suspected IS ties.20 Syrian
+government authorities  say they have recaptured most of the escaped IS prison ers, and they have
+closed the camp at Al Hol, transferring some of its former 20,000 -plus residents to camps in
+northwest Syria and releasing  or losing track of  others.
+U.S. officials and UN experts report that IS fighters, Al Qaeda -linked groups, and oth er
+extremists are exploit ing security conditions in Syria to reinvigorate their ranks  and infiltrate
+urban areas and the ranks of government forces . According to m onitoring report s in July 2025 and
+February 2026 by the UN panel on Al Qaeda and the Islamic State , IS fighters  acquired new
+weaponry as the former regime fell, “including anti -tank missiles, artillery, anti -aircraft systems
+and mortars, ...  drones and related components.”21 These report s have estimat ed that of the “more
+than 5,000” foreign terror ist fighters assessed to remain in Syria , more than 3,500 are being
+integrated into new military units .22 According to UN member states cited in the report, IS
+fighters have “infiltrated newly formed security structures, particularly at the lower and mid -level
+ranks ,” including by exploiting weak identification and insignia standards and the continuing
+semiautonomous operations of some integrated armed groups.23 Extremist foreign fighters have
+been implicated in some instances of sectarian violence since ea rly 2025.
+Independent  observers  catalogued  more  than 100 attacks  attributed  to the Islamic  State  group  in
+eastern  and central  Syria  in 2025,  including  attacks  on interim  government  forces  and SDF
+forces.24 Most  of these  attacks  occurred  in Deir-ez-Zor governorate  in eastern  Syria,  but some
+occurred near Palmyra in central Syria and in remote areas patrolled by U.S . partner  forces then
+based at  Al Tanf in south -central  Syria.  While remote areas of central and eastern Syria have been a
+focal point of counter -IS operations, UN monitoring reports assess that the group has now “established
+networks across all Syrian governorates, embedding sleeper cells in urban centres, including
+Damascus” while continuing “to recruit hardline elements from dissolved factions.”25
+According to UN monitors, IS fighters consider President Ahmed Al Sharaa a “priority target.”26
+A May 2025 IS statement condemned  President  Sharaa  as an apostate  and called  on foreign
+fighters  and others  disillusioned  by the interim government’s policies to reconcile and integrate
+20 Jared Malsin, “A Giant ISIS Detention Facility Com es Apart in Syria’s Desert,” Wall Street Journal , February 17,
+2026; and Carlotta Gall and Hussam Hammoud, “Power Shift in Syria Upends an Archipelago for ISIS Prisoners,” New
+York Times , February 18, 2026.
+21 UN Document S/2025/482, Thirty -sixth report of the Analytical Support and Sanctions Monitoring Team submitted
+pursuant to resolution 2734 (2024) , July 24, 2025 ; and UN Document S/2026/44, Thirty -sevent h report of the
+Analytical Support and Sanctions Monitoring Team submitted pursuant to resolution 2734 (2024) , February 4, 2026.
+22 UN Documents S/2025/482 and S/2026/44, July 24, 2025 , and February 4, 2026.
+23 UN Document S/2026/44, February 4, 2026.
+24 SOHR, “114 attacks since early 2025 ,” July 27, 2025 ; and UN Document S/2026/44, February 4, 2026 .
+25 UN Document S/2026/44, February 4, 2026.
+26 UN Document S/2026/44, February 4, 2026.
+Syria: Transition and U.S. Policy
+Congressional Research Service   10 with IS forces in rural areas.27 After a February 2026 statement reiterating its condemnations of
+Sharaa and the transitional government, th e Islamic State claimed a series of coordinated attacks
+in eastern Syria, including in Raqqa and Deir ez Zor.28 According to UN monitors, in 2025,
+authorities claimed to have disrupted at least one Islamist -group -instigated coup attempt and “five
+assassina tion attempts were foiled against the President, the Minister of Interior and the Minister
+for Foreign Affairs and Expatriates.”29At least two of the  assassination  attempts have been
+attributed to Saraya Ansar Al  Sunnah , a group “ assessed as being a front for” the Islamic State
+that also claimed attacks on Syrian minorities throughout the year  that undermined some groups’
+confidence in transitional leaders.30
+Hurras al Din, an Al Qaeda -linked group, claimed to have dissolved, but UN monitors assess that
+it remains “active” with an “undiminished” commitment to Al Qaeda and up to 1,000 fighters
+organized in a “c overt, decentralized structure with cells across all Syrian governorate s,”
+including cells “pre -positioned” in southern Syria.31
+Syria’s transitional government has formally joined the U.S. -led Global Coalition to Defeat the
+Islamic State and has conduct ed operations, including some joint operations  with U.S. forces ,
+against IS  targets. U.S. raids in northern Syria in July and August  2025  reportedly killed
+individuals playing senior roles in IS operations in Syria.32 An Islamist extremist attack in
+December 2025 killed two U.S. servicemembers and a U.S. civilian translator engaged  in
+counter -IS operations. U.S. forces responded to the December 2025 IS attack on U.S. personnel
+with a campaign of joint airstrikes with Jordan’s air force on a number of IS targets, and follow -
+on raids resulted in the death and capture of IS personnel.33
+Sectarian Violence Threaten s Transition , Draws Intervention
+Several instances of sectarian violence involving members of minority communities, Syrian
+security forces, nonstate armed groups, and armed vigilantes threatened Syria’s stability in 2025 .
+Aggr avating factors included t he Syrian government’s imperfect command and control
+mechanisms , extremists’ presence in some security force units and other armed groups , the
+proliferation of arms among the population, and volatile , conflict -fueled  communal tensions .
+Social media  dynamics , misinformation, and foreign intervention  have exacerbated conditions
+further . Transitional leaders’ rhetoric and some government actions have prioritized de -escalation
+and civilian protection, and the government ha s created bodies that have undertaken fact -finding
+investigations and are pursuing legal accountability for some perpetrators. The dynamics of
+integrating or demobilizing armed Islamist fighters and ensuring their respect for command and
+control and for th e rights of civilians pose fundamental security and political challenges for
+Syrian authorities.
+In monitoring the situation and engaging U.S. officials and Members of Congress, some
+observers have focused on the government’s failure to prevent violations against civilians,
+27 “ISIS and Rebel Offshoots Challenge the Al -Sharaa Administration’s Security Grip,” Syria Report , May 28, 2025.
+28 “ISIS Lashes Out at Syria ’s Sharaa, Announces ‘New Phase of Operations ,’” Al Sharq Al Awsat , February 23, 2026;
+and Reuters, “Islamic State kills four security personnel in Syria, state news agency says,” Reuters, February 23, 2026.
+29 UN Document S/2026/44, February 4, 2026.
+30 UN Document S/ 2026/44, February 4, 2026.
+31 UN Document S/2026/44, February 4, 2026.
+32 Reuters, “US forces conduct raid in northern Syria against ISIS targets, in second since Assad’s overthrow,” August
+20, 2025.
+33 U.S. Central Command, “CENTCOM Forces Remove ISIS Operatives in Syria After Large -Scale Strike,” December
+30, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   11 including violations by government units or government -aligned actors. Others have noted attacks
+on government forces and civilians perpetrated by some minority community armed groups as
+contributing to cycles of violence.  Complicating m atters further, some members of Syria’s
+Alawite, Kurdish, and Druze communities have called for decentralized rule and the preservation
+of local security forces in the wake of intercommunal violence. Some Druze have called for
+foreign intervention, includi ng by Israel, to ensure their protection, and some Kurdish groups
+appealed to U.S . officials and Kurdish counterparts outside of Syria in the midst of SDF -
+government fighting in December 2025 and January 2026. Other members of these communities
+have reject ed outside involvement and separatist rhetoric, while condemning government
+violations and failures. The Syrian transitional government has acknowledged shortcomings and
+pledged to protect all Syrians while implementing agreements reached with minority
+communities since March 2025.
+Violence in Coastal Governorates
+In March and April  2025 , attacks by pro -Asad groups prompted a response by security forces that
+devolved into attacks on some Alawite communities by some state units, government -aligned
+groups , and vigilantes . A UN report issued in August 2025 detail ed eyewitness accounts of house -
+to-house killings, beatings, and lootings targeting Alawi tes, including the abuse and summary
+execution of Alawi te men by individuals wearing military clothing without in signia.34 The report
+concluded that parallel hostilities were occurring between the interim government and pro -Asad
+armed groups  at the time , and found that
+there are reasonable grounds to believe that individual members of certain factions of the
+securit y forces of the interim government  ... as well as private individuals participating in
+hostilities engaged in acts that amounted to violations and international humanitarian law,
+including acts that may amount to war crimes, as well as serious violations of international
+human rights law .
+The report acknowledge d measures by the
+interim government during and since the
+violence to prevent further violations and
+“found no evidence of  a governmental policy
+or plan to carry out such attacks.” President
+Sharaa personally condemned the violence
+and vowed to hold those responsible
+accountable. In the wake of the violence  in
+western coastal areas , the government said it
+would redoubl e its efforts to assert unified
+security  command over  armed groups and
+launched a  fact-finding investigation that has
+delivered its report to the authorities .35 The
+UN report state d that, when interviewed,
+residents of the coastal provinces were not
+aware of any actions by interim authorities to
+criminally investigat e any individual incidents  that took place during the violence . Authorities
+since have undertaken investigations and pursued court proceedings f or individuals suspected of
+involvement in the violence, including some security force personnel. In November 2025, a court
+34 Independent International Commission of Inquiry on the Syrian Arab Republic, Violations against civilians in
+Coastal and Western Central Syria in January - March 2025 , UN Document A/HRC/59/CRP.4, August 11, 2025.
+35 The body responsible is the National Inquiry and High -Level Committee to Maintain Civil Peace . Figure 3. Syria: Coastal Governorates
+Source: CRS, using State Department and Esri data.
+Syria: Transition and U.S. Policy
+Congressional Research Service   12 in Aleppo heard arguments from seven security force personnel and seven alleged Asad loyalists
+accused of involvement in the violenc e. Investigators have referred more than 560 individuals for
+prosecution in connection with the March -April incidents.
+On December 26, an attack on an Alawite mosque in Homs killed and injured civilians; Saraya
+Ansar al Sunnah , an armed group founded by ex tremist former members of HTS, claimed
+responsibility. The group has claimed a series of arson, assassination, and bombing attacks
+targeting Alawite, Shia, and Christian communities since early 2025. Protests in Alawite areas of
+coastal and western Syria f ollowed the Homs attack, with demonstrators calling for the protection
+of minority communities and some advancing calls for federalism. Syrian authorities blamed
+former regime members for shooting attacks during the protests that killed Interior Security F orce
+(ISF) personnel and prompted the deployment of military forces and the imposition of a curfew.
+Media reporting has identified former Asad regime officers outside of Syria who are suspected of
+involvement in instigating sectarian violence and targeting  government forces.36
+Violence in Southern Governorates
+The extent of national authorities ’ control
+over armed groups  and their commitment to
+civilian protection came under renewed
+scrutiny as sectarian  violence  involving
+members  of Druze  and Sunni  Arab
+communities erupted  in southern  Syria  in
+April, May,  and July  2025 . Strained
+relationships between Druze communities and
+their Sunni Arab neighbors flared south of
+Damascus in April and May after criminal
+incidents and false social media reports about
+religiously antagonistic statements led armed
+groups to mobilize. In Jul y, latent tensions
+between Bedouin and Druze communities in
+and around the predominantly Druze city of
+Suweida spilled over into clashes that drew in
+tribal fighters, security forces, and Druze militia. The violence killed nearly 1,400 combatants and
+civilians, displaced an estimated more than 185,000 people, and prompted military intervention
+by Israel , including Israeli strikes on the Ministry of Defense headquarters in  Damascus .37 As of
+January 2026, the UN reported that “155,000 people who have been uprooted since July 2025
+cannot return home owing to the fragile security situation.”38
+The UN Human Rights Office cited  credible  reports  of “widespread  violations  and abuses”
+attributed  to “members  of the security  forces and individuals affiliated with the interim
+authorities, as well as other armed elements from the area, including  Druze  and Bedouins.”39
+Secretary  of State  Marco  Rubio  called  on the interim  authorities  to “hold accountable and bring to
+36 Erika Solomon  et al.,  “Ousted and in Exile, Generals Secretly Plot Insurgency in Syria ,” New York Times , December
+24, 2025.
+37 Syrian Observatory for Human Rights (SOHR), “Al -Suwayda bloodshed in seven days,” July 23, 2025; UN Special
+Envoy for Syria Geir Pedersen, Briefing s to the UN Security Council, July 28, 2025  and August 21, 2025;  and UN
+Security Council, Statement by the President of the Security Council , UN Document S/PRST/2025/6, August 10, 2025 .
+38 UN Document S/PV.10094 , UN Security Council  meeting , January 22 , 202 6.
+39 UN Human Rights Council, “Türk calls for immediate steps to ensure protection of people in Suweida and across
+Syria,” July 18, 2025.  Figure 4. Syria: Southern Governorates
+Source: CRS, using State Department and Esri data.
+Syria: Transition and U.S. Policy
+Congressional Research Service   13 justice anyone guilty of atrocities including those in their own ranks.”40 The interim  government
+formed  a committee  to investigate  the violence , and in September, a committee spokesman said
+an unspecified number of defense a nd interior security personnel “were detained by the interior
+and defense ministries to be transferred to the judiciary when the investigations are concluded to
+be publicly tried for the crimes they committed against Syrians .”41
+A ceasefire has provided f or the entry of Ministry of I nterior forces into some areas of Suweida
+province in coordination with local Druze militia groups. Druze militias and community leaders
+have at times appear ed to hold differing views on relations with national authorities  and with
+Israel , with some advocating for de -escalation and cooperation and others expressing  skepticism
+about  the interim  authorities’  intentions  and welcoming  foreign  protection.42 In August 2025,
+leading Druze religious figures for the first time released consistent statements condemning
+sectarian attacks against the Druze, criticizing the interim authorities, and calling for
+humanitarian relief for Druze areas .43 Following pro -independence protests by some in Suweida
+city, Druze leader Sheikh Hikmat Al Hijri  announced the alignment of several Druze militia
+forces under a National Guard, and Hijri has called for Suweida to be treated as a separate
+region.44
+Since December 2025, int ermittent resurgent violence involving Druze communities near
+Suweida has occurred , killing ISF personnel and local Druze fighters and civilians. In January
+2026 , UN Assistant Secretary -General Khaled Khiari “noted with concern the unresolved
+differences and escalating rhetoric in Suwayda Governorate. ”45 He said,  “Sporadic armed clashes
+between Syrian forces and local groups and militia are concerning, as are the reported intra -Druze
+tensions, including detentions and assassinations, in areas o f Suwayda outside of Government
+control.”
+Syria and the United Nations Security Council
+In August  2025, the UN Security Council call ed for “an inclusive, Syrian -led and Syrian -owned
+political process facilitated by the United Nations and based on key principles” in Security
+Council Resolution 2254 (2015) .46 These include “commitments to Syria’s unity, independence,
+territorial integrity, and non -sectarian character,” “credible, inclusive and non -sectarian
+governance,” and , eventually,  “free and fair el ections” under a new constitution.47 In August 2025
+and February 2026, t he UN Security Council called on all states to respect Syria’s “ sovereignty,
+independence, unity and territorial integrity ” and “refrain from any action or interference that
+40 X post, Marco Rubio (@marcorubio), July 19, 2025, https://x.com/ marcorubio/ status/ 1946736912854835380 .
+41 Reuters, “Syria detains defense, interior ministry members suspected of Sweida violence,” September 3, 2025.
+42 Druze leader Sheikh Hikmat Al Hijri (alt. Hajari) has been outspoken in his criticism of interim authorities and has
+endorsed protective fore ign intervention. Other leaders, such as Sheikhs Yusuf Jarbou and Hammoud Al Hannawi, had
+advocated for engagement with interim authorities and refrained from endorsing intervention. See Syrian Arab News
+Agency, “ Sheikh Yusuf Jarbou’, the spiritual leader of the Druze community: We stand by our state, refuse any foreign
+orientation ,” July 15, 2025;  Reuters, “Explainer: Who are the Druze and why does Israel say it is hitting Syria for their
+sake?” July 17, 2025; Cathrin Schaer, “What part did Druze leader al -Hijri play in Syria violence?” July 22, 2025.
+43 “Druze Sheikhs in Suwayda Unite in Opposition to Damascus ,” Enab Baladi , August 9, 2025.
+44 “Suwayda, Southern Syria: Protests Demand Independence, Raise Israeli Flags ,” Enab Baladi , August 17, 2025;
+“What Is  the ‘National Guard ’ Formed by Sheikh al -Hijri in Suwayda, Southern Syria? ” Enab Baladi , August 24, 2025 ;
+and Khaled Yacoub Oweis, “ Druze leader issues call for separation from Syria ,” The National , August 26, 2025 .
+45 UN Document S/PV.10094 , UN Security Council  meeting , January 22 , 202 6.
+46 UN Document S/PRST/2025/6, Statement by the President of the Security Council , August 10, 2025.
+47 UN Security Council Resolution 2254 (2015).
+Syria: Transition and U.S. Policy
+Congressional Research Service   14 may furthe r destabilize the country.”48 UN Special Envoy for Syria Geir Pedersen  of Norway
+retired in September 2025; Deputy Special Envoy Claudio Cordone  of Italy is the acting UN head
+of mission for Syria.49
+Permanent members of the Security Council differed sharply over developments in Syria  from
+2011 through 2024.  Differences  in emphasis have persisted following Asad’s departure , though
+the Council continue s to make common reference to the principles of Resolution 225 4 and call
+for civilian protection, territorial unity, and inclusive governance.50 The U nited States, United
+Kingdom , and France have engaged with interim authorities to support the transition and have
+supported conditional sanctions relief  for Syrian stat e entities . Russia seeks to preserve its
+military basing access in Syria and has expressed concern about attacks on minorities, the
+presence and actions of foreign terrorist fighters, and Israeli military operations . The People’s
+Republic of China has echo ed these latter concerns, while highlighting the presence in Syria of
+the East Turkestan Islamic Movement, an armed Islamist extremist group composed of ethnic
+Uighur and Central Asian fighters . Counterterrorism continues to provide some basis for Council
+consensus, but to date the Council has not revised its positions in the form of a new
+comprehensive resolution  on Syria .
+Russia and China blocked efforts in the Council to impose UN sanctions on the Syrian
+gover nment and Syrian officials related to conduct during the 2011 -2024 conflict, but the Council
+did impose targeted counterterrorism sanctions on some Syria -based groups and individuals,
+including HTS and Ahmed Al Sharaa. In a November 2025 vote, the UN Secur ity Council
+adopted  Resolution 2799, a U.S. -sponsored resolution remov ing Sharaa and interim interior
+minister Anas Khattab from the UN’s Islamic State and Al Qaeda sanctions list. As of February
+2026, HTS remain ed listed.
+In a December 2024 interview, Sh araa expressed his hope that Syrians would not be unduly
+constrained by Asad -era UN resolutions and international sanctions, and he asserted Syrians’
+collective responsibility for solving their issues internally , while also welcoming international
+support.51 Sharaa has argued that the transitional authorities are empowered to establish
+conditions allowing for the return of Syrian refugees and to define and implement a transition in
+line with the spirit of  Resolution 2254 .
+Prior to his September 2025 resignation, former UN Special Envoy Pedersen acknowledged that
+Resolution 2254’s specific calls for UN -facilitated negotiations were “no longer relevant,” while
+reiterating Security Council statement s emphasizing the importance  of Syria’s sovereignty,
+independence, unity, and territorial integrity, and calling for an inclusive and Syrian -led and
+Syrian -owned political process.52 Deputy Special Envoy Cordone and other UN officials have
+continued to highlight the risks of renewed conflict posed by the unresolved status of northeast
+Syria  and by tensions in southern Syria , and have called for negotiated solution s and an end to
+military intervention by outside actors .53 In briefings to the Security Council since January 2026,
+48 UN Document S/PRST/2025/6, Statement by the President of the Security Council , August 10, 2025; and UN
+Document SC/16293, Security Council Press Statement on North -East Syria, February 12, 2026.
+49 See Office of the Special Envoy of the Secretary -General for Syria  at https://specialenvoysyria.unmissions.org/ en.
+50 See UN Security Council, 9960th meeting, July 17, 2025, UN Document S/PRST/2025/6, Statement by the President
+of the Security Council , August 10, 2025; and UN Document S/2025/801 , Terms of reference: Security Council field
+mission to the Syrian Arab Republic in December 2025, December 10, 2025.
+51 MEMRI Translation #11695, reviewed by CRS, Source - Al-Arabiya Network, December 29, 2024.
+52 Office of the Special Envoy of the Secretary -General for Syria (UN OSES), “Near Verbatim Transcript of Press
+Conference by United Nations Special Envoy for Syria Mr. Geir O. Pedersen,” January 22, 2025; and UN Document
+SC/15943, “Security Council Press S tatement on Situation in Syria,” December 17, 2024.
+53 UN Document S/PV.10094 , UN Security Council  meeting , January 22 , 202 6.
+Syria: Transition and U.S. Policy
+Congressional Research Service   15 Deputy Special Envoy Cordone and UN Assistant Secretary -General Khaled Khiari have
+criticized Israeli incursions in southern Syria, reiterated the UN Secretary -General’s call for the
+withdrawal of Israeli forces from areas entered after December 8, 2004, and have  expressed
+support for Syria n-Israeli talks to identify mutually acceptable security arrangements.54
+Humanitarian Crises and Appeals for Assistance
+UN agencies estimate that more than 6  million Syrians are internally displaced (of whom 1.2
+million were in organized displacement sites as of December 2025 ).55 According to the UN High
+Commissioner for Refugees (UNHCR), as of February 12 , 3.7 million Syrians were registered as
+refugees in regional countries .56 UNHCR and the International Organization for Migration (IOM)
+report that more than 1.44 million  Syrians have returned to Syria through neighboring countries
+since  December  2024, and more  than 1.94 million  internally  displaced  Syrians  have  returned  to
+their homes in the same period.57 According to UN surveys, among the obstacles and challenges
+facing returnees are security concerns, inadequate infrastructure, and limited economic
+opportunity and financial liquidity in Syria, along with damage to persona l property, lack of civil
+or legal documentation, family relocation, transportation costs, and debts incurred abroad.
+UN agencies estimate d in 2025  that 16 .5 million Syrians were in need of some form of
+humanitarian or protection assistance, nearly half of  whom were children.58 In March  2025 , UN
+Under -Secretary -General for Humanitarian Affairs and Emergency Relief Coordinator Tom
+Fletcher said humanitarian providers were being forced to make “brutal choices,” citing a trend of
+unmet appeals  that caused redu ctions in the humanitarian response during 2024 “by more than
+half.”59 The UN Office for the Coordination of Humanitarian  Affairs (UNOCHA) in 2025
+described the negative  effects  of a what  its officials describe d as a “catastrophic  drop in funding ,”
+report ing that health, education, protection, and food services were disrupted across Syria due to
+limited funding of 2025 appeals and funding cuts, including the termination of some U.S. aid
+programs.60 In January 2026, UNOCHA  report ed that global donors had funded 36% of the 2025
+UN appeal for $3.2 billion , leading UN agencies and partners to prioritize monthly assistance for
+3.4 million people out of 10.3 million identified as being in critical need .61 UN system planning
+and priorities for 2026 should be  informed by multisector needs assessment s completed in 2025 .62
+54 UN Document S/PV.10094 , UN Security Council  meeting , January 22 , 202 6; and Deputy Special Envoy of the
+Secretary -General for Syri a Claudio Cordone, Briefing to the Security Council, February 13, 2026.
+55 IOM, Population Mobility and Baseline Assessment: Syrian Arab Republic Round 12 —January 2026; and UNHCR ,
+Comprehensive Overview of IDPs and IDP Returns Dashboard , February 1 2, 2026.
+56 UNHCR, Operational Data Portal, Syria Refugee Response, https://data.unhcr.org/ en/situations/ syria .
+57 UNHCR , Operational Data Portal, Syria Refugee Response, https://data.unhcr.org/ en/situations/ syria ; and IOM,
+Population Mobility and Baseline Assessment: Syrian Arab Republic Round 12 —January 2026 .
+58 UNOCHA, Humanitarian Response Priorities, Syrian Arab Republic, January –December  2025.
+59 UN Under -Secretary -General for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher, Briefing to
+the UN Security Council, March 25, 2025 . See https://fts.unocha.org/ plans/ 1175/summary .
+60 UNOCHA , Syrian Arab Republic: Humanitarian Situation Report No. 6 (as of 27 May 2025), June 2, 2025; and
+UNOCHA Geneva Head Ramesh Rajasingham, Briefing to the UN Security Council, May 21, 2025.
+61 Rajasingham, May 21, 2025 ; UNOCHA Director of Operations and Advoc acy Edem Wosornu, Briefing to the UN
+Security Council, July 28, 2025 ; and UN Under -Secretary -General for Humanitarian Affairs and Emergency Relief
+Coordinator Tom Fletcher, Briefing to the UN Security Council, August 21, 2025 .
+62 UNOCHA, Humanitarian Respo nse Priorities, Syrian Arab Republic, January –December 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   16 U.S. Interests and Initiatives
+As of February 2026, developments in Syria’s post -Asad transition and changes to security
+arrangements in northeast Syria may pose at least three sets of questions for the future of U.S.
+policy in the country:
+• What is the future of the U.S. military presen ce and security assistance in Syria?
+Should U.S. forces stay or go? Should U.S. assistance continue? To whom and on
+what terms?
+• Should the United States seek to shape the direction and outcomes of Syria’s
+transition? If so, toward what objectives and with what means?
+• How can the United States best respond to interventions in Syria by other actors
+that may jeopardize Syria’s security and threaten U.S. interests?
+The Trump Administration and Congress face these types questions in a context defined by the
+history of U.S. -Syrian relations, Syria’s decade -plus-long conflict, and their assessment of Syria’s
+post-Asad transition. For decades, U.S. -Syrian ties were strained and, since 1979, the United
+States has designated Syria as a State Sponsor of Terrorism. The former Syrian government’s
+hostility to Israel, its attempts to dominate neighboring Lebanon, its alignment with Russia, its
+partnership with Iran, its support for terrorist groups, and its development and use of weapons of
+mass destruction all fueled tens ion between the United States and Syria  until the fall of Asad’s
+regime in late 2024 . In post -Asad Syria, counterterrorism, nonproliferation, civilian protection,
+and regional security concerns endure and may inform future U.S. policy choices.
+Congress and  successive U.S. Administrations imposed and maintained a range of bilateral
+sanctions on Syria and targeted sanctions on entities and individuals (see “U.S. Sanctions and
+Syria ” below). After t he onset of the anti -Asad uprising in 2011 and the outbreak of conflict , the
+United States and European countries impose d additional, more punishing sanctions on the Syrian
+government and individuals and entities supporting it. The Trump Administration has pursued a
+policy of engagement and conditional support toward Syria’s transitional government, removing
+many U.S. sancti ons ( and stating an intent to rescind Syria’s state sponsor of terrorism
+designation).
+The duration, severity, and effects of conflict in Syria have created some  actual and potential
+threats  for U.S., European, and regional security related to terrorism, w eapons proliferation, the
+use of chemical weapons, military intervention, drug trafficking, and mass migration. In this
+context, successive Administrations and Congress have prioritized the following issues:
+Counterterrorism.  The former Syrian government’s  support for terrorism and the exploitation of
+Syrian territory by transnational terrorist groups to recruit, train, equip, raise funds, and plan
+attacks ha ve been focal points  for U.S. policymakers since before 2011 . U.S. government
+reporting has describe d how Al Qaeda, the Islamic State, Hezbollah and other Iran -backed U.S. -
+designated terrorist groups, and the Kurdistan Workers Party ( PKK ) have used Syria to further
+their aims, some with the active support of the Asad government.63 Syria -based members of
+terrorist organizations, including the Islamic State, have used Syria “to plot or inspire external
+terrorist operations .”64 U.S. and partner force operations ended the Islamic State’s control of
+populated territories in Syria in March 2019, but remnants of  the group have continued to operate
+from remote areas in central Syria  and now reportedly have infiltrated urban areas across the
+63 See, for example, U.S. State Department, Country Reports on Terrorism 2023: Syria, November 2024 ; and  annual
+threat assessments of the Director of National Intelligence, 2014 -2024.
+64 U.S. State  Department, Country Reports on Terrorism 2023: Syria, November 2024.
+Syria: Transition and U.S. Policy
+Congressional Research Service   17 country . Through 2025, IS fighters attempted to break prisoners and family members out of U.S.
+partner -secured prisons and camps and attacked Syrian communities and U.S. partners.
+Syria’s transitional authorities  have joined the Global Coalition to Defeat the Islamic State and,
+with reported intelligence support from the United States, have disrupted attempted IS attacks that
+could have exacerbated sectarian tensions in post -Asad Syria.65
+U.S., UN, and other international officials have expressed concern about the presence in S yria of
+foreign terrorist fighters and the integration into Syrian security forces of foreign individuals and
+fighters.  The transitional government has appointed foreign nationals to leadership roles in its
+security structures, and, according to UN reporti ng, “many tactical -level individuals hold more
+extreme views” than government leaders.66 Syrian authorities reportedly have argued that
+integrating anti -Asad fighters, including some foreign fighters, into national forces is preferable
+to dangers that migh t arise from their exclusion. U.S. Special Envoy for Syria Ambassador Tom
+Barrack reportedly said in June 2025 that the United States and Syria ha d reached “an
+understanding, with transparency” on the issue, after previous reports suggested U.S. urging of
+the transitional government  to exclude foreign fighters.67 The Syrian government and some
+individuals and entities active in Syria remain subject to U.S. and UN terrorism sanctions (see
+“U.S. Sanctions and Syria ” below).
+Foreign Military Access and Basing. Since 2011,  the presence  and operations in Syria of foreign
+military forces from Russia, Iran, Turkey, Israel, and the United States and its partners have
+reflected the differing priorities and goals of outside actors in the country. U.S. policymakers may
+consider whether or how the c ontinued operations in Syria of U.S. and coalition forces, Turkish
+forces, Russian forces, and Israeli forces  affect U.S. interests. U.S. officials also may monitor and
+seek to shape the policies of Syrian authorities toward these forces ; Syria’s interim leaders say
+they seek to establish normal diplomatic and security relationships with foreign countries —
+including their former Russian and Iranian adversaries —on the basis of mutual respect for
+sovereignty and noninterference. In a February 2025 interview, A hmed Al Sharaa said “any
+military presence should be with the agreement of the host state.”68
+Weapons of Mass Destruction. The Asad  government’s domestic use of chemical weapons
+against its armed opponents and civilians drew international condemnation and motivated U.S.
+military strikes in 2017 and 2018. In December 2024, the Organization for the Prohibition of
+Chemical Weapons (OPCW) said “significant concerns persist regarding the accuracy and
+completeness” of the former government’s declarations to the a gency, “as well as the fate of
+substantial quantities of unaccounted -for chemical weapons.”69 Outstanding  issues  of concern
+reported  to the OPCW  Secretariat  prior  to Asad’s ouster  “involved  large  quantities  of potentially
+undeclared or unverified chemical warfare agents and chemical munitions.”70
+The interim  authorities  have  informed  the OPCW  that they lack the information  and expertise  to
+definitively identify and declare all chemical -weapons -related  locations  and materials . According
+to the OPCW , “in addition to 26 declared chemical  weapons -related locations, information available to
+the Secretariat indicates that  over 100 additional locations may have been involved in activities related
+65 Warren P. Strobel, Ellen Nakashima, and Missy Ryan, “ U.S. shared secret intelligence with Syria’s new leaders ,”
+Washington Post , January 24, 2025.
+66 UN Document S/2025/482, Thirty -sixth report of the Analytical Support and Sanctions Monitoring Team submitted
+pursuant to resolution 2734 (2024) , July 24, 2025.
+67 “Exclusive - US gives nod to Syria to bring foreign jihadist ex -rebels into army ,” Reuters , June 2, 2025 .
+68 Reuters, “Syria’s Sharaa aims to restore US ties, no contacts yet with Trump administration,” February 4, 2025.
+69 OPCW, “OPCW ur ges Syria to fulfil Chemical Weapons Convention obligations,”  December 12, 2024.
+70 OPCW, “Syria’s caretaker Foreign Minister addresses OPCW’s Executive Council,” March 5, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   18 to chemical  weapons. ”71 The OPCW Office of Special Missions , established in June 2025,
+coordinates and implements OPCW activities, and the OPCW reestablished a continuous
+presence in Syria in October 2025.
+In March 2025, interim Foreign  Minister  Asaad  Al Shaibani  participated  in an OPCW  meeting  and
+stated  the interim government’s  commitment “to destroy any remains of the chemical weapons
+programme developed under the  Assad regime,  to put an end to this painful  legacy,  to bring
+justice  to victims,  and to ensure  that the compliance with  international  law is a solid  one.”72 The
+OPCW  since has deployed  Declaration  Assessment  Team  and Office of Special Missions
+personnel to Syria with the support of the interim government.  The personnel have visited some
+declared and suspected chemical weapons program locations  with Syrian government assistance
+and have reported their findings to the OPCW and Syrian authorities regularly .73 The OPCW
+regularly requests that Syrian authorities keep it apprised of any information on sites, materials,
+personnel, or document s related to chemical weapons issues, and the government has provided
+documents and other information to OPCW teams.
+As of January 2026, the OPCW estimate d that additional donor country contributions  of 16.8
+million  euros  would be required  to support its Syria -related  activities  through  2027.74
+Conventional Weapons and Regional Security. The influx of weapons to Syria and their wide
+distribution in -country since 2011 present enduring threats to Syria’s internal security and to the
+security of Syria’s neighbors. Criminal groups, extremist organizations, and nonstate armed
+groups, including some aligned with Iran and Turkey, have benefitted from the proliferation of
+small arms and military weapons during the conflict. In addition, unexploded ordnance, mines,
+and other explosive remnants of war pose risks to Syrian civilians and international actors across
+Syria. Transitional authorities’ ability and willingness to assert control over weapons stockpiles
+associated with the former government may be limited or vary in different areas. Israel has acted
+to destroy advanced conventional weapons and military air defense and air domain awareness
+systems across Syria since December 2024, citing potential risks to Israel’s security.75
+Drug Trafficking. The Asad government enabled and profited from the production and
+smuggling of drugs across the Middle E ast, especially the drug captagon.76 Congress sought to
+limit the Asad government’s ability to profit from the captagon trade. In the 117th Congress, the
+Countering Assad’s Proliferation Trafficking and Garnering of Narcotics Act ( H.R. 6265 , also
+known as the CAPTAGON Act) was introduced by Representative French Hill in December
+2021, passed by the House in September 2022, and incorporated into the FY2023 NDAA (Section
+1238 of P.L. 117 -263). It has required the development and submission to Congress of an
+71 OPCW Executive Council, EC -110/DG.2, July 24, 2025.
+72 OPCW Executive Council,  Report by the Director -General Progress in the Elimination of the Syrian Chemical
+Weapons Programme, EC -110/DG.2, July 24, 2025.
+73 For related reporting, see OPCW Executive Council, Report s by the Director -General on Progress in the Elimination
+of the Syr ian Chemical Weapons Programme,  https://www.opcw.org/ media -centre/ featured -topics/ opcw -and-syria . In
+January 2026, the OPCW reported that “Since March 2025, the Secretariat  has visited 19 locations (4 declared and 15
+suspected chemical weapons -related locations), conducted interviews with former chemical weapons experts, collected
+10 samples, and obtained over 6,000 documents from the locations visited.” OPCW  Executive Counc il, EC-111/DG. 4,
+Januar y 23, 202 6.
+74 OPCW Executive Council , EC-111/DG. 4, Januar y 23, 202 6.
+75 Emanuel Fabian, “In historic campaign across Syria, IDF says it destroyed 80% of Assad regime’s military,” Times
+of Israel , December 10, 2024.
+76 For more information, see, U.S. State Department Bureau for International Narcotics and Law Enforcement Affairs ,
+International Narcotics Control Strategy Report, 2024 ; and Caroline Rose and Matthew Zweig, “ What Will Happen to
+Assad’s Secret Drug Empire? ” Foreign Policy, January 16, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   19 interagency plan to disrupt captagon trafficking and build regional counterdrug capacity. The
+transitional government has pledged to dismantle captagon production and smuggling networks
+and cooperate with regional countries to halt the flow of the drug across Syria’s borders. Arrests
+of criminals, including drug traffickers, are being publicized by Syrian authorities. Criminal
+networks’ loss of captagon trade revenues may add to economic pressures in some areas of Syria .
+Human Rights and Syrian Minorities.  The Asad government’s use of military force to repress
+demonstrations led many Syrians, the United  States , and other countries in 2011 to call for Asad’s
+departure. The Asad government’s subsequent use of torture , chemical weapons,  and its mass
+execution of prisoners continue to drive Syrian and international calls for accountability.
+Transitional authorities have made statements calling for inclusive governance and respect for
+religious tolerance, and U.S. and other international officials have called on interim Syrian
+leaders to fulfill these commitments.  U.S. officials have condemned attacks on m inority
+communities, including by members of or forces associated with the interim government (see
+“Political  and Security  Dynamics ” above). Some members of minority communities in northeast
+and southern Syria have expressed support for decentralized governance and remain skeptical of
+the transitional government’s  intentions.
+The State Department in 2023 designated HTS as an entity of par ticular concern pursuant to the
+Frank R. Wolf International Religious Freedom Act ( P.L. 114 -281), and reported in 2025 that
+“armed terrorist groups, including Hayat Tahrir al-Sham, reportedly carried out arbitrary
+detentions and subjected some detainees to torture ” during 2024.77 The State Department’s annual
+human rights report on conditions in Syria during 2024 cite s UN Commission of Inquiry for Syria
+reporting and other h uman rights organization s’ reporting alleging the involvement of SDF, HTS,
+and Turkey -backed Syrian National Army  forces in a range of human rights abuses and
+violations. The U.S. Commission on International Religious Freedom recommended in its 2025
+annual  report that HTS be redesignated.
+U.S. Diplomacy
+Since President Donald Trump’s May 2025 meeting in Saudi Arabia with Ahmed Al Sharaa , the
+United States has provided high-level engagement and substantial sanctions relief to the Syrian
+government , present ing these changes as a conditional opportunity for Syrians and transitional
+leaders to rebuild , reorganize , and demonstrat e their intentions  toward ethnic and religious
+minority groups , terrorist threats,  and Syria’s neighbors . The Trump Administrat ion’s engagement
+builds on initial contacts made and steps taken by the previous Administration in the wake of
+Asad’s departure .78 U.S. Ambassador to Turkey Tom Barrack serves as U.S. Special Envoy to
+Syria and has engaged regularly and directly with Syria n leaders and regional leaders in support
+of agreements to end intra -Syrian violence and reach mutually agreed security arrangements in
+areas subject to foreign intervention. President Sharaa visited the United States in November
+2025 and met again with Pr esident Trump at the White House  (Figure 5).
+The United States suspended  operations at the U.S. Embassy in Damascus in 2012; the Czech
+Republic serves as the U.S. protecting power in Syria. In May 2 025, Ambassador Barrack an d
+other officials raised the U.S. flag at the U.S. diplomatic residence in Damascus for the first time
+since 2012.79 The Trump Administration has not publicly announced plan s to return U.S.
+personnel to Syria on an enduring basis , and the FY2026 National D efense Authorization Act
+77 U.S. State Department, Country Reports on Human Rights Practices: Syria, 202 4, August 12, 2025 .
+78 “US removes $10M bounty on leader of rebel group now in charge of Syria ,” Voice of America, December 20, 2024.
+79 Timour Azhari, “US flag raised in Damascus, envoy says Syria -Israel peace is possible,” Reuters, May 29, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   20 requires the Administration to report  on security conditions necessary for the reopening of a U.S.
+diplomatic mission in Damascus .
+Figure 5. President Donald Trump Hosts President Ahmed Al Sharaa
+November 10, 2025
+Source: Presidency of the Syrian Arab Republic.
+In March 2014, the State Department suspended the operations of the Syrian embassy in
+Washington, DC, and those of Syrian consulates in Michigan and Texas, and expelled Syrian
+staff.  In conjunction with the visit of President Sharaa to Washington , DC,  in November 2025,
+Syrian Foreign Minister A saad Al Shaibani reported that Secretary of State Marco Rubio had
+transmitted an approval that “provides for the lifting of all previously impo sed legal measures and
+restrictions against the Syrian Mission and the Embassy of the Syrian Arab Republic by the
+United States of Americ a.”80 According to a press report citing unnamed Syrian officials,
+Mohammad Qanatari has been appointed as Syria’s char gé d’affaires  in Washington, DC.81
+U.S. Military Operations in Syria
+U.S. forces operated in Syria from 2014 through 2025 pursuant to the 2001 and 2002
+Authorizations for Use of Military Force (AUMF). Congress repealed the 2002 AUMF in the
+FY2026 National  Defense Authorization Act. U.S. operations in Syria as part of Operation
+Inherent Resolve (OIR) seek the enduring defeat of the Islamic State. Press reports suggest that
+approximately 1,000 U.S. military personnel remain in Syria  and unnamed U.S. official s have
+said that U.S. forces are preparing to withdraw . U.S. forces withdrew from their outpost at Al
+Tanf in southern Syria and the Al Shaddadi outpost in eastern Syria in February 2026. Most U.S.
+forces in Syria have been deployed in northeast Syria in support of the SDF ; ongoing changes to
+security control and responsibilities there between the SDF and government forces may face
+80 Syrian F oreign Minister Asaad Al Shaibani ( @AsaadHShaibani ) X post, November 10, 2025,  https://x.com/
+AsaadHShaibani/ status/ 1988018696800096368 .
+81 Enab Baladi , “Who is Mohammad Qanatari Syria’s chargé d’affaires in Washington? ” January 28, 2026.
+Syria: Transition and U.S. Policy
+Congressional Research Service   21 challenges , particularly as national forces move into SDF -held areas, border security mechanisms
+are established, and SDF force s are integrated under national command . Any resulting violence
+could disrupt the region’s fragile stability . A U.S. agreement with neighboring Iraq provides for
+the continued presence in northern Iraq to conduct Syria -related counter -IS operations through
+September 2026. Prospects for the renewal or revision of this agreement remain uncertain as Iraq
+continues its government formation consultations following its November 2025 election.
+Syria Train and Equip Program FY2025 Funding and FY2026
+Legislation
+The Syria Train and Equip program, authorized by Congress since 2014 and funded via the
+Counter -ISIS Train and Equip Fund (CTEF) defense appropriation, has sought to sustain the
+defeat of the Islamic State in Syria by enabling Syrian partner forces , primarily  the SDF . In 2024,
+Congress appropriated $147.9 million in FY2025 CTEF funds for Syria programs available
+through September 2026. The FY2026 National Defense Authorization Act extended authorities
+for U.S. train and equip programs in Syria through December  2026, and amend s notice and wait
+procedures to require reporting to Congress on vetting arrangements for groups or individuals
+associated with Syria’s transitional government. The act  also requires reporting on IS detention
+facilities in Syria, U.S. force posture and acti vities in Syria, and security conditions necessary for
+the reopening of a U.S. diplomatic mission in Damascus.82
+The Trump Administration’s  FY2026 defense  appropriations  request  sought  nearly  $130  million
+for CTEF programs in Syria, including training and equipping, logistical support, stipends, repair,
+and sustainment investments to support primarily SDF -affiliated paramilitary, internal security,
+and detention personnel. The FY2026 defense appropriations act (Division A of  P.L. 119 -75)
+appropriates fund s for Syria at the requested level available through FY2027 and rescinds $50
+million in FY2025 appropriations from the CTEF account.
+The Administration has not publicly clarified how, if at all, its plans for the implementation of
+train and equip activiti es in Syria may change given changes to the roles and responsibilities of
+SDF and transitional government forces in northeastern Syria  and the withdrawal of U.S. forces
+from southern Syria . As discussed above, the January 2026 SDF -Damascus agreement calls for
+the integration of some SDF personnel into units of the Syrian security forces, but specific plans
+for implementation, command, and vetting have not been announced. U.S.-supported Syrian Free
+Army forces in southern Syria continue to integrate with nat ional forces. The FY2026 defense
+appropriation s act includes a waiver authority to allow for the provision of assistance to vetted
+Syrian forces notwithstanding other provisions of law that restrict U.S. assistance and transactions
+with Syria because of Sy ria’s designation as a state sponsor of terrorism.
+U.S. Stabilization  and Foreign Assistance
+U.S. stabilization and foreign assistance programs in Syria have been curtailed following the
+Trump Administration’s 2025 review of U.S. foreign assistance activi ties and implementation of
+agency reorganization plans and staff relocations. According to lead inspector general reporting to
+Congress, as of June 30, all USAID stabilization  programming  in Syria  had been  terminated.83
+82 The report accompanying the House -passed version  of the act  (H.Rept. 119 -231) directed the Administration to
+provide  a briefing  to the House Committee on Armed Services “not later than February 15, 2026, on the progress,
+challenges, and outlook for potential U.S. defense partnership with the new Syrian government. ” Directive report language
+is not legally binding, but agenc ies generally have regarded it as a congressional mandate and responded accordingly.
+83 LIG-OIR, Report to the U.S. Congress, July 1–December 31, 2025, pp. 3 3-37.
+Syria: Transition and U.S. Policy
+Congressional Research Service   22 Some  State  Department  stabilization programs were continued , but may end to the extent that they
+have focused on support to local authorities in northeastern Syria that are implementing
+integration agreements with the national government.84 USAID  humanitarian  assistance  activit ies
+were paused in early 2025. Some were restarted under State Department management and others
+were terminated.85 The Trump  Administration has provided congressional committees of
+jurisdiction with updated lists of assistance  programs  in Syria  that it has terminated  and preserved.
+The Trump  Administration’s  FY2026  budget  request  for foreign assistance did not include a
+specific amount for Syria programs, but, consistent with the prior Administration’s requests,
+sought authority notwithstanding other provisions of law to provide “non -lethal stabilization
+assistance  for Syria,  including  for emergency  medical  and rescue  response  and chemical weapons
+investigations.”86 The National Security, Department of State, and Related Programs
+Appropriations Act, 2026 (Division F of  P.L. 119 -75) includes this language,  and makes  funds
+available  for aid to ethnic  and religious  minorities  in Syria.
+Entry and Presence of Syrians in the United States
+In December, President Trump announced his dec ision  “to fully restrict and limit the entry of
+nationals ” of Syria, including immigrants and nonimmigrants, saying the country “ lacks an
+adequate central authority for issuing passports or civil documents and does not have appropriate
+screening and vetting measures .”87 The Trump Administration terminated the designation of Syria
+for Temporary Protected Status effective November 21, 2025.88 More than 5 0,000 Syrian
+nationals had been admitted to the United States as refugees from FY2014 through FY202 4.89
+Admission Criteria for U.S. Partners in Syria
+From 2014 through 2025 , U.S. operations against the Islamic State in Syria relied on partnership with substate
+forces. Members of Congress debated the eligibility of U.S. partners for admission into the United States in the
+case of attack by Turkish and/or Asad government forces. Several bills in the 116th Congress would have extended
+the Special Immigrant Visa (SI V) program to foreign nationals employed by the U.S. military in Syria, as well as
+their immediate families. The Syrian SIV programs proposed by these bills generally were modeled on the
+temporary SIV programs for Iraqis and Afghans who worked for or on be half of the U.S. government. During the
+117th Congress, Representatives Jason Crow and Michael Waltz reintroduced one such bill, the Syrian Partner
+Protection Act ( H.R. 2838 ), which  would have provided SIV status to a national of Syria or a stateless person who
+has habitually resided in Syria that had “partnered with, was employed by, or worked for or directly with the
+United States Government in Syria as an interpreter, translator, intelligence analyst, or in another sensitive and
+trusted capacity, on or after January 1, 2014, for an aggregate period of not less than 1 year.”
+84 LIG-OIR, Report to the U.S. Congress, July 1–December 31, 2025, pp. 3 3-37.
+85 LIG-OIR, Report s to the U.S. Congress, April 1 –June 30, 2025, pp. 31 -33; and July  1–Dec. 31, 2025, pp. 3 3-37.
+86 U.S. Department of State, FY2026  Congressio nal Budget Justification , accessed June 2, 2025.
+87 The White House, Proclamations, Restricting and Limiting the Entry of Foreign Nationals to Protect the Security of
+the United States , December 16, 2025.
+88 Department of Homeland Security U.S. Citizenship a nd Immigration Services, “Termination of the Designation of
+Syria for Temporary Protected Status ,” 90 Federal Register  45398, September 22, 2025. Temporary Protected Status is
+a temporary immigration benefit granted to eligible nationals of a country designated by the Secretary for Temporary
+Protected Status under the Immigration and Nationality Act (INA) , or to eligible aliens without nationality w ho last
+habitually resided in the designated country. During the designation period, Temporary Protected Status beneficiaries
+are eligible to remain in the United States, may not be removed, and are authorized to work and obtain an Employment
+Authorization  Document (EAD) so long as they continue to meet the requirements of Temporary Protected Status.
+89 Additionally, a pproximately 250 or fewer Syrian nationals were affirmatively granted asylum in the United States in
+each of the fiscal years from 2021 to 2023. See U.S. Department of Homeland Security, Office of Homeland Security
+Statistics , Refugees: 202 4, August 12, 20 25; and Asylees: 2023 , October 2, 2024.
+Syria: Transition and U.S. Policy
+Congressional Research Service   23 U.S. Sanctions and Syria
+From 1979  to 2024 , the United States placed a broad array of sanctions on the gove rnment of
+Syria, Syrian entities and individuals, and third parties support ing certain Syrian government
+activities. The United States also imposed targeted sanctions on terrorist  groups  active in Syria
+and associated individuals. Successive Administrations and Congress es imposed and maintained
+these sanctions as a means of raising the costs to Syrian leaders of a number of policies they
+deemed hostile to U.S. national security, foreign p olicy, and economic interests . Specific
+sanctions actions were taken by different Administrations to address the Syrian government’s
+support for terrorism, its trade in weapons of mass destruction and ballistic missile technologies,
+its interference in nei ghboring Lebanon, and its conduct during the country’s 2011 -2024 conflict.
+Sanctions Relief and Remaining Authorities
+In January 2025, the Biden Administration issued a general license to allow for certain
+transactions in Syria through July 6, 2025, to in clude transactions with the government of Syria,
+transactions related to noncommercial personal remittances, and transactions in support of the
+sale, supply, storage, or donation of energy, including petroleum, petroleum products, natural gas,
+and electric ity. President Biden also issued Executive Order 14142, amending Executive Order
+13894 (2019)90 to remove specific references to the government of Turkey and preserving
+provisions allowing the potential imposition of financial and travel sanctions on indiv iduals
+determined by the President to “threaten the peace, security, stability, or territorial integrity of
+Syria” ; or be involved in “the commission of serious human rights abuse” related to Syria.
+On May 13, 2025, President Trump said during a visit to S audi Arabia that his Administration
+was “exploring normalizing relations with Syria’s new government,” and said he would “be
+ordering the cessation of sanctions against Syria in order to give them a chance at greatness.”91
+The Administration subsequently p rovided  exemptive  relief  for sanctions  on the Commercial
+Bank  of Syria,  issued a 180 -day waiver of sanctions in the Caesar Syria Civilian Protection  Act of
+2019 (“Caesar Act,” 22 U.S.C. §8791 note),92 and issued a general  license  (GL 25) that authorized
+certain  transactions  with Syria  and designated individuals that would  otherwise  be prohibited
+under then-applicable sanctions regulations.93
+On June 30, 2025,  President  Trump  issued  Executive  Order  14312,  eliminating  or waiving  many
+Asad -era sanctions  on the government  of Syria,  while  amending Executive Order 13894 (2019)
+again to maintain  sanctions  on Asad -associated  entities  and refine mechanisms for possibly
+90 President Trump in 2019 issued Executive Order 13894 , which declared a national emergency based on U.S.
+concerns about the actions of the Turkish military in Syria. In October 2024, President Biden renewed that nat ional
+emergency declaration for one year. See 84 Federal Register  55851 and 89 Federal Register  82929 .
+91 Ben Hubbard , Jonathan Swan , and Erika Solomon , “Trump Says U.S. Will Lift Sanctions on Syria Under New
+Government ,” New York Times , May 14, 2025.
+92 In 2019, Congress enacted the Caesar Act , requiring the President to impose sanctions on persons the President
+determines to have knowingly provided significant support or knowingly engaged in significant transactions with the
+government of Syria, entities it  owns or controls, and its senior officials; certain military or mercenary forces; or to be
+subject to sanctions with respect to Syria under U.S. law; and those who knowingly sell or provide significant goods,
+services, technology or other support related to a number of economic sectors, including natural gas, petroleum, and
+“significant construction or engineering services ” for the g overnment of Syria.  Congress extended the sunset of the
+Caesar Act through December 2029 in the FY2025 National Defense Authorization Act.
+93 FINCEN, “Exception to Prohibition Imposed by Section 311 of the USA PATRIOT Act against the Commercial
+Bank of Syria,” May 23, 2025; U .S. State Department, “Providing Sanctions Relief for the Syrian People,” May 23,
+2025; OFAC, “General License No. 25, Authorizing Transactions Prohibited by the Syrian Sanctions Regulations or
+Involving Certain Blocked Persons,” May 23, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   24 imposing future sanctions on entities determined to be disrupting Syria’s transition, violating
+human rights, or threatening Syria’s stability or territorial integrity.  The order direct ed the
+Secretary of  State to  “take  all appropriate action” with respect  to Syria’s designation as a state
+sponsor of terrorism94 and the designat ion of Jabhat  Al Nusra/Hay’at Tahrir al Sham  as a Foreign
+Terrorist  Organization  and a Specially  Designated  Global  Terrorist  entity.  It also direct ed the
+Secretary of State to review President  Sharaa’s individual designation. On July 8, Secretary
+Rubio’s determination revoking the FTO designation of HTS was published.95
+On August 26, the Office of Foreign Assets Control (OFAC) published a final rule removing the
+Syrian Sanctions Regulations (31 C .F.R. Part 542) from the Code of Federal Regulations ,
+consistent with Executive Order 14312. On September  25, OFAC published a final rule that
+changed the heading of the Syria -Related Sanctions Regulations ( 31 C .F.R. part 569 ) to the
+Promoting Accountability for Assad and Regional Stabilization Sanctions Reg ulations and
+amended the renamed regulations to implement Executive Orders 14142 (2025) and 14312
+(2025).96 OFAC stated that several relevant “statutes will be fully integrated into a more
+comprehensive set of regulations at a future date ,” including statutes providing for sanctions
+related to human rights, civilian protection, drug trafficking, and defense cooperation with Russia.
+In November, the Trump Administration revoked Ahmed Al Sharaa’s designation as a Specially
+Designated Global Ter rorist under Executive Order 13224 (2001).97 In a November vote, the UN
+Security Council adopted  Resolution 2799, a U.S. -sponsored resolution remov ing Sharaa and
+interim interior minister Anas Khattab from the UN’s Islamic State and Al Qaeda sanctions list.
+In December, Congress repealed the Caesar Syria Civilian Protection Act, which among other
+things had authorized the imposition of sanctions on third -party investors in sectors key to the
+Syrian government’s recovery plans. In doing so, Congress required the executive branch to
+provide regular reports to Congress on conditions in Syria, including on the Syrian government’s
+performance relative to counterterrorism, minority protection, regional security, governance,
+human rights, and counternarcotics benchmarks.
+The Administration, to date, is reviewing but has not rescinded Syria’s status as a state sponsor of
+terrorism. If the President or his de signees act to further waive or permanently rescind the
+application of sanctions on Syria, such as Syria’s State Sponsors of Terrorism designation, then
+specific notification and certification requirements to Congress under law may apply.  In May
+2025 , the State Department announced that Secretary of State Rubio recertified Syria as a “‘not
+fully cooperating country’ (NFCC) under section 40A of the Arms Export Control Act.” The
+Government of Syria is consequently denied trade with the United States in defens e articles and
+94 Designatio n as a state sponsor of acts of international terrorism  under Section 6(j)(1)(A) of the Export
+Administration Act of 1979 or Section 1754(c) of the Export Control Reform Act of 2019 restricts export licensing for
+controlled goods and services; Section 620A (a) of the Foreign Assistance Act of 1961 prohibits most U.S. foreign aid,
+Peace Corps programs, nonemergency agricultural aid, and Export -Import Bank funding; and Section 40(d) of the
+Arms Export Control Act prohibits sales and transfers of arms and relat ed goods and services. See 50 U.S.C. §4813(c),
+22 U.S.C. §2371(a), and 22 U.S.C. §2780(d), respectively. Section 1768 of the Export Control Reform Act of 2019
+continues designations made under Section 6(j) of the Export Administration Act of 1979, which Se ction 1766 of the
+Export Control Reform Act of 2019 repealed nearly entirely. T his designation  also deprives targeted governments of
+sovereign immunity under the Foreign Sovereign Immunities Act from lawsuits based on certain acts of terrorism . See
+28 U.S. C. §1605a.  Designation as a state sponsor of international terrorism has implications elsewhere in law, see CRS
+Report R43835, State Sponsors of Acts of International Terrorism —Legislative Parameters: In Br ief.
+95 Federal Register , Public Notice 12762, July 8, 2025.
+96 90 Federal Register  46056, September 25, 2025.
+97 State Department, “Revocation of the Designation of Muhammad al -Jawlani as a Specially Designated Global
+Terrorist ,” 90 Federal Register  55231 , December 1, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   25 defense services under Section 40A of the Arms Export Control Act.98 Other terrorism, chemical
+and biological weapons and missile proliferation sanctions, human rights -related sanctions
+(addressing trafficking in persons and child soldiers),  and drug trafficking (captagon) statutory
+sanctions also continue to apply .
+The Administration has communicated explicitly and repeatedly that U.S. sanctions relief is
+conditional . For example, in May 2025 the Department of the Treasury said, “U.S. sanct ions
+relief has been extended to the new Syrian government with the understanding that the country
+will not offer a safe haven for terrorist organizations and will ensure the security of its religious
+and ethnic minorities. The U.S. will continue monitorin g Syria’s progress and developments on
+the ground.”99 Accordingly, the Administration  has preserved in amended executive orders the
+authority to  impose new sanctions on individuals determined by the President to “threaten the
+peace, security, stability, or  territorial integrity of Syria”; or be involved in “the commission of
+serious human rights abuse” related to Syria.100 The Administration is revising regulations for
+statutory and executive order -based Syria sanctions and has said revisions “ will be fully
+integrated into a more comprehensive set of regulations at a future date. ”101
+Taken together, these legislative and executive actions appear to reflect a current consensus that
+the United States should provide sanctions relief to Syria’s transitional government but remain
+vigilant regarding potential risks. Under the prevailing fram ework, the President may retain broad
+authority with regard to decisions concerning existing sanctions on Syria and Syria -based entities.
+Congress may consider whether or how to amend or rescind remaining statutory U.S. sanctions or
+to respond to the execu tive branch’s steps to rescind or impose new sanctions implemented
+pursuant to executive orders and designations.
+U.S. T argeted T errorism Sanctions
+In May 2018, the executive branch added Hayat Tahrir al Sham as an alias of the Nusrah Front, which until J uly
+2025 was designated as a Foreign Terrorist Organization under Section 219 of the Immigration and Nationality
+Act. As of February 2026 , HTS remains a Specially Designated Global Terrorist (SDGT) entity under Executive
+Order 13224. The executive branch d esignated Sharaa as an SDGT pursuant to Executive Order 13224 in 2013
+and rescinded that designation in November 2025  along with that of Interior Minister Anas Khattab. The executive
+branch retains authority to amend or rescind SDGT designations under curr ent law.
+U.S. Tariffs
+In April 2025, President  Trump  increased  tariffs  on U.S. imports  from  all global  trading
+partners.102 In July 2025 , the President issued an executive order adjusting country -specific tariffs
+that set the tariff on Syria to 41 %.103 The February 20, 2026 , U.S. Supreme Court ruling on tariffs
+98 22 U.S.C. §2781. The Secretary of State makes this determination annually by May 15; Syria has been designated
+each year since the provision was first enacted in 1996. U.S. State Department, Tammy Bruce, Department
+Spokesperson, “Certification of Cuba as a Not Fully Cooperating Country,” May 13, 2025.
+99 U.S. Department of the Treasury, “ Treasury Issues Immediate Sanctions Relief for Syria ,” May 23, 2025.
+100 The Administration’s July 2025 amendment of E xecutive Order 13894 (2019) preserves a framework for th e
+potential imposition of sanctions on actors in Syria for “(1) actions or policies that further threaten the peace, security,
+stability, or territorial integrity of Syria; or (2) the commission of serious human rights abuse.”  90 Federal Register
+41505 , August 26, 2025.
+101 U.S. Department of the Treasury, Office of Foreign Assets Control, “Amendment to the Syria -Related Sanctions
+Regulations ,” 90 Federal Register  46056, September 25, 2025.
+102 See CRS Report R48549, Presidential 2025 Tariff Actions: Timeline and Status , by Keigh E. Hammond and
+William F. Burkhart .
+103 The White House, Further Modifying the Reciprocal Tariff Rates , July 31, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   26 imposed by President Trump under the International Emergency Economic Powers Act (IEEPA, 50
+U.S.C. §§1701 et seq.) invalidated the April 2025 tariffs, and President Trump then declared new
+tariffs  under a different statute, leaving Syria as of the date of this report with a 10% tariff on most
+exports to the United States .104 In 2025, U.S. exports  to Syria  were  valued  at $5.5 million  and U.S.
+imports  from Syria were  valued  at $7.6 million.105
+Regional and International Initiatives and Interests
+The nature, duration, and effects of the Syria crisis and the intervention of external actors have
+made the outcome of Syria’s transition and the country’s stability a matter of national security
+concern  for some countries across the Middle East region and beyond. As of February 2026,
+notable statements and developments involving selected third parties include  the following.
+Israel.  The fall of the Asad regime brought an end to 50 years of rule by antagon ists of Israel who
+had facilitated the transfer of support from Iran to Israel’s enemies in Lebanon and beyond.
+During Israel’s wars against Hamas and Hezbollah following the attacks of October 7, 2023,
+Israel continued air strikes on Syrian territory; in September 2024, it conducted a special forces
+raid against Syrian missile factories.106 Israel has conducted military strikes across Syria since
+Asad’s ouster, targeting sites associated with Syrian weapons of mass destruction and defense
+research programs,  conventional weapons, and air defense systems. Israel also has demanded that
+the Syrian transitional government demilitarize three southern provinces, a demand that some
+Syrians have publicly protest ed.
+As the Asad regime collapsed  on December 8, 2024 , Israeli military forces entered the UN
+Disengagement Observation Force (UNDOF) buffer zone established by the 1974 Israel -Syria
+Disengagement Agreement. From 1974 until Asad’s ouster, most international controversy
+regarding control over Israel -Syria border areas focused on Israel’s 1981 annexation of areas of
+the Golan Heights it had captured in the 1967 Arab -Israeli war. The United States recognized
+these Israel -controlled areas of the Golan Heights as part of Israel in 2019.
+Syria’s transitional authorities report that they have communicated with UNDOF officials and
+expressed their willingness to return Syrian state forces to areas adjacent to the UNDOF zone
+provided that Israel removes its force from areas within and beyond the zone.  In November 2025,
+President Ahmed Al Sharaa,  whose family reportedly was displaced from the Golan region in
+1967  and whose nom de guerre Abu Mohammed al Jolani/Jawlani/Golani  during the insurgency
+reflected those origins , criticized what he described as I srael’s “expansionist ambitions” and
+reiterated his government’s view that “ to reach a final agreement, Israel should withdraw to their
+pre-Dec. 8 (2024) borders. ”107 Syrian  authorities  reportedly  have said in a letter  to the U.S.
+government  “we will not allow Syria to become a  source of threat to  any party, including
+Israel.”108
+104 The White House, “Fact Sheet: President Donald J. Trump Imposes a Temporary Import Duty to Address
+Fundamental International Payment Problems,” February 20, 2026. See also CRS Legal Sidebar LSB11398, Supr eme
+Court Rules Against Tariffs Imposed Under the International Emergency Economic Powers Act (IEEPA) , by
+Christopher T. Zirpoli .
+105 U.S. Census Bureau , “U.S. trade in goods with Syria ,” data accessed February 24 , 202 6.
+106 “Israeli military says commandos  raided missile plant in Syria in September ,” Reuters, January 2, 2025.
+107 Susannah George and Tobi Raji, “ Syrian president details plans to work with Americans he once fought ,”
+Washington Post , November 11, 2025.
+108 “Exclusive: Syria and Israel in direct talks focused on security, sources say,” Reuters, May 27, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   27 In a letter to the United Nations, Israel stated that it had taken “limited and temporary measures to
+counter any further threat to its citizens,” and that the (Israel Defense Forces) IDF have deployed
+temporarily in a few points and in a limited capacity east of Line A.”109 In December  2024 , Israeli
+Prime Minister Benjamin Netanyahu told the press that Israel’s seizure of control over the
+UNDOF zone was a “tempor ary defensive position until a suitable arrangement is found.”110
+Subsequent media reports suggest that the IDF has been constructing more long -term
+infrastructure in the UNDOF zone and beyond.111 In January  2025 , Israeli Defense Minister Israel
+Katz said th at Israeli forces intend to remain “at the top of Mount Hermon and in the security
+zone indefinitely to protect Golan communities, the north and all Israeli citizens.”112
+Further Israeli strikes followed sectarian violence in May and July, including strike s in Damascus
+on the Syrian  Ministry  of Defense  headquarters  and near facilities  associated  with the Syrian
+presidency.  Israel  has expressed a willingness to defend Druze communities —an offer Syrian
+Druze have differed over.113 In August 2025, Israeli strik es and a raid by troops killed Syrian
+soldiers near Kiswah.114 In November 2025, an Israeli raid and strike targeting armed Islamists
+near Beit Jinn, Syria , near the Golan Heights killed 13 Syrians according to Syrian officials.115
+Since  May,  Israel  and Syria  have  engaged  in talks to ease tensions and exchange security
+information, including in U.S. -supported meetings following the July violence in southern Syria
+and Israel’s military intervention.116 Sharaa has not precluded future Israel -Syria ties, but current
+discussions reportedly focus on security arrangements in southern Syria.117 On January 6, 2026,
+the United States, Israel, and Syria announce d plans to “ establish a joint fusion mechanism —a
+dedicated communication cell —to facilitate immediate and ongoing coordination on their
+intelligence sharing, military de -escalation, diplomatic engagement, and commercial
+opportunities under the supervision of the United States. ”118
+The prospect of Turkish -Syrian military cooperation and the possible stationing in Syria of
+additional  Turkish  military  forces —including  air and air defense  forces  in central  Syria —has
+emerged  as a matter of concern for Israel’s government .119 Turkish and Israeli officials have taken
+109 UN Document S/2024/887 , December 9, 2024.
+110 Israeli Prime Minister’s Office, “ PM Netanyahu ’s Statement from the Golan Heights ,” December 8, 2024.
+111 Loveday Morris, Zakaria Zakaria, and Meg Kelly, “ Israel is building outposts in Syria, raising local fears of
+occupation ,” Washington Post , February 2, 2025.
+112 “Syria urges IDF withdrawal from buffer zone in talks with UN observers ,” AFP/Times of Israel, January 29, 2025.
+113 More than 100,000 Druze live in the Golan Heights. Israeli Druze serve in the Israel Defense Forces and many have
+ties to the Druze community in Syria. During  the July fighting, Israeli and Syrian Druze both  crossed  their respective
+borders to defend  coreligionists . “Israeli military strikes near Syria’s presidential palace after warning over sectarian
+attacks,” Associated Press, May 2, 2025; and “Syrians in predominantly Druze city reject Israeli statements, affirm
+national unity,” Arab  News , February 25, 2025 .
+114 Dov Lieber et al., “Israeli Troops Raid Site Deep Inside Syria, Damascus Says,” Wall Street Journal , August 29,
+2025.
+115 Reham Mourshed and Euan Ward , “Israeli Raid in Southern Syria Kills at Least 13, Syrian Officials Say ,” New York
+Times , November 28, 2025.
+116 “Syria has had indirect talks with Israel to calm situation, Syrian leader says,” Reuters, May 7, 2025 ; and Euan
+Ward and Gabby Sobelman, “ After Deadly Clashes, Syria and Israel Hold Direct Talks ,” New York Times , Augus t 20,
+2025.
+117 “An interview with Ahmed al -Sharaa, Syria’s president ,” The Economist , February 4, 2025; France 24 , “Syria,
+Israel hold US -mediated talks in Paris on regional de -escalation ,” August 20, 2025; Agence France Press, “ Israel says
+in talks ‘right now’ on south Syria demilitarization , August 28, 2025.
+118 U.S. State Department, “Joint Statement on the Trilateral Meeting Between the Governments of the United States of
+America, the State of Israel, and the Syrian Arab Republic,” January 6, 2026.
+119 “Isra el, Turkey said to agree to prevent clashes in Syria, establish hotline,” Times of Israel , May 21, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   28 deconfliction steps to reduce the continuing potential for military  confrontation. In November,
+Russian and Syrian defense ministry personnel conducted a joint security survey in Quneitra
+Governorate, adjacent to the Israel -controlled Golan Heights.120 A renewed Russian security
+presence in this region could forestall Israeli concerns about a possible Turkish military presence,
+but may pose other security questions for Israel, the United Sta tes, and U.S. partners .
+Turkey.  Turkey  has emerged  as perhaps  the most  influential  international  actor  in Syria  and
+offered  security and economic assistance to the interim government; Turkish and Syrian officials
+have exchanged high level visits and Turki sh military forces remain present in areas of northern
+Syria. Turkey’s stated principal concerns in Syria appear to relate to the presence and activities of
+PKK members in areas that have been controlled by the U.S. -backed SDF. Turkey may also
+harbor a bas ic opposition to the integration of SDF personnel and Kurdish -led administrative
+figures into Syrian state bodies and have enduring concerns about future attempts by Syrian
+Kurd s to seek greater  autonomy.
+Turkey has offered military training and support t o Syria’s interim authorities, and Sharaa and
+other interim leaders have adopted positions on the future of the SDF, its integration with national
+forces, and the political future of northeast Syria that appear to align with Turkish preferences. In
+August 2025, Turkey and Syria signed a “joint training consultancy memorandum of
+understanding [MOU]” as an apparent step toward a substantive military cooperation deal.121
+Turkish officials reportedly anticipate strengthening Syria’s regular army with arms and ot her
+forms of support in hopes of helping it establish long -term stability.122 While Turkish and Syrian
+officials apparently are discussing the potential deployment of Turkish troops to some Syrian
+bases, the MOU reportedly does not address that point.123 Additionally, Turkey reportedly plans to
+avoid providing any weapons that could provoke Israel given existing tensions.124
+Closer Syrian -Turkish official ties and an expanded Turkish military presence in Syria may
+provide Turkey with greater regional infl uence, and could affect the perceptions and security
+calculations of Israel, Jordan, Iraq, and other Arab states.
+UN agencies report that there were more than 2. 3 million registered Syrian refugees in Turkey as
+of February 12 , 202 6.125
+Arab  States.  Syria’s  transitional authorities  are actively  pursuing  engagement  with Arab  states,
+whose  interests and motives may differ. For instance, Qatar may share  Turkey’s comfort with
+Sharaa’s Islamist background , while  Saudi  Arabia,  Egypt,  Jordan,  and the United  Arab  Emirates
+may harbor  reservations.  Saudi  Crown  Prince  Mohammed  bin Salman  Al Saud  facilitated  Sharaa’s
+meeting in Saudi  Arabia with President Trump and, via phone, with President Erdogan of  Turkey,
+and the kingdom and the UAE have announced plans for l arge investments in Syria. Saudi  Arabia
+and Qatar jointly paid Syria’s  outstanding  debt to the World  Bank  to enabl e new lending,  and they
+have provided months  of joint  support  for Syrian  public  sector  salaries  since mid -2025 . Iraq’s
+government  invited  Sharaa  to attend  the May Arab  Summit  in Baghdad,  but he declined  amid
+some  Iraqi  groups’  vocal  opposition  because of his past associations with  Al Qaeda and the
+Islamic State group. Jordan and Syria have continued to exchange official visits and Jordan joined
+120 Lior Ben Ari, “ Report in Syria: Russian military delegation toured Quneitra area ,” Ynet News , November 17, 2025.
+121 Soylu, “ Turkey -Syria defence deal covers training and weapons supply .”
+122 Ezgi Akin, “ After inking military pact, Turkey to provide Syria with weapons, training ,” Al-Monitor , August 14,
+2025.
+123 Soylu, “ Turkey -Syria defence deal covers training and weapons supply .”
+124 Akin, “ After inking military pact, Turkey to provide Syria with weapons, training .”
+125 UNHCR Operational Data Portal, Syria Refugee Response, https://data.unhcr.org/ en/situations/ syria .
+Syria: Transition and U.S. Policy
+Congressional Research Service   29 other  Arab states and Turkey in rejecting Israel’s July 2025 military  strikes  inside  Syria  in the
+context  of intercommunal  violence  in the southern  province  of Suweida.126
+Iran.  Syria’s transitional government control s areas of Syria formerly used by Iran and Iran -
+backed armed groups to move weapons and personnel into and beyond Syria ; Asad’s ouster
+severed long-established and important links in the networks Iran has used to project regional
+power. Syria n authorities have reported interdicting some small arms shipments to Lebanon, but
+have not accused Iran or Iran -backed groups of violating Syrian sovereignty on a broad or
+recurring basis.  This may not  prove that Iran is not attempting to do so.  In December  2024 ,
+Ahmed Al Sharaa expressed his hope that Iran and Syria could have normal relations, based on
+mutual respect for sovereignty and noninterference.127
+Syria n security bodies  reportedly have disrupted attempted Islamic State attacks against the
+Sayyida Zeinab shrine in Damascus, the protection of which Iran and pro -Iran armed groups used
+as a predicate and recruiting tool for their presence in Syria. A group known as Syrian Islami c
+Resistance Front claims to have conducted attacks since December 2024 on Israeli forces in the
+Golan Heights region from Syria: its statements feature a logo similar to Iran -backed armed
+groups in Lebanon and Iraq.128
+Syria’s transitional government, did  not join other Arab states in condemning Israeli and U.S.
+military operations against Iran  in June 2025 . Press and social media reports suggest that Israeli
+aircraft transited Syrian airspace en route to and from Iran, with Israeli strikes against militar y
+equipment in Syria since December 2024 having eliminated Syria’s already limited ability to
+control its airspace.
+Russia.  Russia was Asad’s most important military supporter . The presence in Syria of Russian
+air, ground, and naval forces both bolstered Russia’s regional power projection abilities and
+served as a bulwark for the Asad government. Russia’s decision in late 2024 to limit its military
+intervention on Asad’s behalf , and its rapid decision to engage with Syria’s transitional
+authorities , illust rate the enduring nature of Russia’s interests in Syria, with continued military
+access as a key Russian priority. Russian personnel and equipment remain at the Hmeimim air
+base and the Tartous Naval Facility .129 Russian forces withdrew their presence at th e Qamishli
+airport in northeast Syria  in January 2026 .130
+In a December 2024 interview, Sharaa described Syria’s relationship with Russia as long
+established and strategic and said the interim government would work to establish a new strategic
+relationship with Russia based on respect for the sovereignty of the Syrian state. In Apr il 2025 ,
+Sharaa confirmed he had requested the return by Russia of former Syrian president Asad , who has
+been granted asylum in Moscow.131
+In July  2025 , the Syrian Foreign Minister visited Moscow “to start a necessary discussion ...
+based on the lessons of  the past, to formulate the future.”132 The Syrian transitional government
+since has held several high -level exchanges with Russian counterparts, and President Sharaa
+126 Saudi Press Agency, “Saudi Arabia, Jordan, UAE, Bahrain, Turkiye, Iraq, Oman, Qatar, Kuwait, Lebanon and
+Egypt Support Syrian Sovereignty,” July 18, 2025.
+127 MEMRI Translation #11695, reviewed by CRS, Source - Al-Arabiya Network, December 29, 2024.
+128 Jerusalem Post , “IDF opens  fire on armed group in Syrian Golan, pro -Assad group claims responsibility ,” February
+1, 2025.
+129 LIG-OIR, Report to the U.S. Congress, April  1, 202 5–June 30, 202 5, p. 26.
+130 Paul Iddon, “What Russia’s Military Is Doing In This Strategic Syria Airport,” Forbes , August 15, 2025.
+131 Christina Goldbaum, “Syria’s Jihadist -Turned -President Seeks New Allies ,” New York Times , April 23, 2025.
+132 Reuters, “Russia’s Putin meets Syrian FM i n Moscow, Sharaa invited to Russia -Arab summit,” July 31, 2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   30 travelled to Moscow in October 2025 and January 2026  for meetings with Vladimir Putin .
+Russian defense officials have hosted Syria’s Minister of Defense and General Intelligence
+Director for consultations on future cooperation.
+Statements from Damascus and Moscow on these occasions have been relatively warm and have
+not signaled any significan t rupture or downgrade in ties. Sharaa said he would honor past
+bilateral agreements  with Russia, which may include 49 -year lease access agreements signed in
+2017 by the Asad government granting Russia access to the Hmeimim Air base in Latakia and the
+Mate rial Technical Support Point naval facility at Tartus. Russian military transport flights to
+Hmeimim were observed to have resumed in October 2025.
+Russia’s role in arming and training Syrian military personnel for decades may suggest that
+Syrian interim a uthorities could look to Russia as one source of military equipment and support
+as they rebuild and rearm Syrian security forces. Russia’s seat on the UN Security Council also
+gives it influence over international decisions related to Syria.
+Legislation and Hearings in the 119th Congress
+In the 119th Congress , legislative initiatives included a range of sanctions -related proposals prior
+to the repeal of the Caesar Syria Civilian Protection Act, along with
+• H.R. 1327 , which would direct the Secretary of Homeland Security to conduct a
+threat assessment of terrorist threats to the United States posed by individuals in
+Syria with an affiliation with a Foreign Terrorist Organization or a Specially
+Designated Global Terrorist entity ;
+• S.J.Res. 6 , which would direct the President to remove U.S. Armed Forces from
+hostilities in or affecting Syria with in 30 days of adoption and unless and until a
+declaration of war or specific authorization is enacted ; and
+• S. 3740 , which was introduced  in January 2026 as a deterrent to Syrian
+trans itional government military operations against Kurdish force s, and would
+impose comprehensive sanctions on the Syrian transitional government and
+parties conducting transactions with it  and redesignate HTS as an FTO .133
+The Senate Foreign Relations Committe e held a full committee hearing  (S. Hrg. 119 -37) on
+February  13, 2025 , entitled “After Assad: Navigating Syria Policy.”
+The House Foreign Affairs Committee Subcommi ttee on the Middle East and North Africa held a
+hearing on June 5, 2025 , entitled “After Ass ad: The Future of Syria.”
+The Helsinki Commission held a hearing on February 3, 2026 , entitled “ Securing Syria’s
+Transformation by Diminishing Russia’s Influence .”
+The House Foreign Affairs Committee held a hearing on February 10, 2026 , entitled “Syria at a
+Crossroads: U.S. Policy Challenges Post -Assad .”
+The House Financial Services Committee held a full committee markup on H.R. 4427 , the Syria
+Sanctions Accountability Act of 2025, on  July 22, 2025.
+133 See S. 3740  and Office of U.S. Senator Lindsey Graham, “Graham, Blumenthal Introduce Save The Kurds Act,”
+January 29, 2026.
+Syria: Transition and U.S. Policy
+Congressional Research Service   31 Outlook  and Issues Before Congress
+Syria’s transitional authorities are asserting domestic and international legitimacy based on their
+leadership o f the late 2024 military campaign that dislodge d Bashar Al Asad  and the acceptance
+to date by Syrians of the interim constitutional declaration and decisions they have taken . They
+are attempting to project an image of calm inevitability for their continuing leadership of the
+transition , amid sectarian violence, contested territorial control, and calls from Syrians and
+international observers for a  more  inclusive process  and greater protection for minorities . As
+procedural steps in the transition  continue , Syrian leaders face daunting challenges as they seek to
+reconstruct a functioning state apparatus that can protect Syrian sovereignty  and citizens , rebuild
+national infrastructure, and establish a self -sustaining , productive economy.
+Interim leade rs’ willingness to share power and the durability of the peace that generally has
+prevailed in Syria since mid -December 2024 may continue to be tested . Stressors may include
+decisions made regarding the political and security future of northeast Syria ; the relative
+integration and participation in the transition of Druze communities  in southern Syria ; the
+protection of the rights of Syrian minorities and women ; the possibility of renewed or expanded
+foreign military intervention; and the willingness of Syri ans to uphold order in the face of severe
+humanitarian crises, economic deprivation, sectarian violence, and vigilantism .
+Outside actors continue to approach Syria in pursuit of their discrete interests. Many regional
+countries have pledged support for th e transition in Syria, but the compatibility of their goals and
+Syrians’ willingness to embrace them  are uncertain . Israeli military operations in Syria and the
+Golan Heights region , Israeli actions to protect Syrian minority groups, and Israeli government
+demands that Syria’s government accept limits on Syrian security and military operations in
+southern Syria may lead to confrontation. The possibility of Turkish military intervention in the
+context of disputes over the future of the northeast remains pres ent. Outside actors, including the
+United States, may weigh concerns about  the resumption of conflict in Syria and the reemergence
+of transnational terrorist threats alongside goals of  support ing and shap ing the political transition,
+stabilization, and reconstruction efforts .
+In this context, Congress and the Trump Administrati on may continue to reassess U.S. interests in
+Syria  and debate approaches toward securing them  relative to U.S. priorities elsewhere.  U.S.
+policy toward Syria since 2011 has pursued parallel and at times competing interests and has
+featured a mix of evolvi ng diplomatic, military, assistance , and sanctions efforts. Views in
+Congress  and successive Administrations  regarding how the United States should approach Syria
+policy have at times been divergent  and have changed over time and in response to development s
+at home and abroad . Looking ahead, the 119th Congress may use its national security tools and
+authorities to examine and shape U.S. policies toward Syria’s interim government, various Syrian
+groups, and regional and international parties active in Syria.
+As it does so, Members may consider and debate several policy questions:
+How should United States counterterrorism operations in Syria  evolve ?
+Eliminating threats to the United States and U.S. national security interests posed by terrorist
+groups active in Syria has been a consistent goal of U.S. policy toward Syria since the Obama
+Administration. Through January 2026, the United States maintained a military presence in
+southern and northeastern Syria tasked with conducting operations against terrorist groups and
+supporting local partner forces in ensuring the enduring defeat of the Islamic State organization.
+This inc luded the provision of support to partner forces that were conducting counter -IS
+operations, detain ing thousands of IS fighters , and secur ing camps housing tens of thousands of
+individuals from formerly IS -controlled areas. Following the Syrian government’ s reassertion of
+Syria: Transition and U.S. Policy
+Congressional Research Service   32 security control in eastern Syria in January 2026  and the transfer of IS prisoners to Iraq , the
+transitional government and its security forces are assuming responsibility for remaining
+counterterrorism functions, and unnamed U.S. official s have indicated that U.S. forces are
+preparing to withdraw.
+Congress has provided authority and funding to the Department of Defense on an annual basis for
+related U.S. operations  and assistance , and changes to U.S. posture and operations or the
+extensio n of new U.S. security assistance to transitional government security forces may prompt
+new legislative reconsideration, oversight, and debate . The FY202 6 National Defense
+Authorization Act and FY2026 Defense Appropriations Act extend ed through December 20 26
+authorities for U.S. train and equip programs in Syria  and provided funding available through
+September 2027 .134 In considering Administration initiatives in 2026, Congress may act
+independently of the Administration’s requests, and congressional conside ration of defense
+appropriations and authorizations for FY202 7 may feature proposals for substantial revisions of
+U.S. policies and programs.
+Possible questions Members may consider for oversight and legislative purposes include  the
+following:
+• What is the  current nature of Syria -based terrorist threats? To what extent do
+groups active in Syria threaten the United States directly or indirectly? To what
+extent are U.S. interests and partners threatened?
+• How capable is the Syrian government of independently c ombatting terrorist
+threats in Syria? On what timeline and with what assistance might the transitional
+government be more capable of providing security for Syria independently?
+What role are foreign terrorist fighters or other extremists playing in Syria’s new
+security forces? What are the prospects for demobilization and disarmament of
+armed groups in Syria? What would such efforts entail?
+• How might changes to the posture, presence, and operations of the U.S. military
+in Syria  affect U.S. interests ? Should Congress act to support or limit
+Administration actions to change the U.S. military presence or operations in
+Syria? Can U.S. operations from Turkey, Iraq, or Jordan adequately secure U.S.
+interests and how sustainable might the presence of U.S. fo rces in those countries
+be?
+• How long and at what cost should the United States be prepared to combat
+terrorist threats in Syria?  What contributions are others making to these efforts?
+• How might the success or failure of the integration of former U.S. part ner forces
+with Syrian government forces affect U.S. interests? Should the United States
+ensure the implementation of related agreements? If so, how? Should the United
+States enter into counterterrorism and defense cooperation agreement s with
+Syria’s trans itional government ? If so, on what terms?
+• What consideration or protection, if any, does the United States owe members of
+Syrian partner forces that have supported U.S. counterterrorism objectives to
+date? What posture should the United States adopt with r egard to the
+relationships between its Syrian partners and Syria’s government? How might
+134 The act did not include a Senate -reported provision that would have required the Administration to certify the
+independent capabilities of U.S. -backed Syrian forces before reducing the number of U.S. troops in northeast Syria
+below 400.
+Syria: Transition and U.S. Policy
+Congressional Research Service   33 any such obligations best be reconciled with the security concerns of U.S. allies
+and any broader U.S. reputational interests?
+What type of relationship should the Un ited States have with Syria’s transitional
+government  and other entities in post-Asad Syria ?
+The United States suspended diplomatic operations in Syria during the 2011 -2024 conflict, but
+did not sever diplomatic relations or durably transfer recognition t o any other Syrian entity.
+President Trump’s engagement with President Sharaa and ongoing engagement with Syrian
+leaders by Secretary of State Rubio and Special Envoy for Syria Barrack reflect a de facto U.S.
+recognition of Syria’s transitional authorities .
+The Administration and Congress have rescind ed many  U.S. sanctions on the Syrian government
+and Syrian state entities that were imposed under the previous Syrian government, while
+maintaining targeted sanctions on Asad regime officials and maintaining a framework that would
+provide for the imposition of ne w sanctions on Syrian actors if deemed necessary. Uncertainty
+persists over the inclusivity of the transition and the Syrian government’s approach to minority
+communities.
+Possible questions Members may consider for oversight and legislative purposes inclu de the
+following:
+• When and on what terms , if any, should the U.S. government reestablish regular
+diplomatic  relations with Syria’s transitional government? What diplomatic
+presence should the United States and Syria have in each other’s country, and
+what opportunities , risks, and costs  might accompany the return of U.S.
+diplomatic personnel to Syria on a permanent basis?  When and under what
+circumstances should the United States release any Syrian state funds blocked in
+the United States?
+• When, how, and on what terms should the United States alter remaining sanctions
+on Syria, Syrian state entities, or individuals and groups in Syria, including U.S. -
+designated terrorist entities and individuals? What specific executive or
+legislative sanctions measures, if a ny, ought to be altered and how?
+• Under what circumstances might sanctions be reimposed ? For what purposes , on
+what terms, and with what potential effects ?
+• What measures can Congress directly affect and what measures are within the
+President’s discretion?
+Should the United States provide Syria -related foreign assistance  and humanitarian
+assistance ?
+Through January 2025, the U.S. State Department and U.S. Agency for International
+Development provided a range of foreign assistance  and security assistance in Syria, focused on
+areas outside the control of the Syrian government.135 This included stabilization programs
+focused on essential services and local governance, civil society, support for democratic
+governance, education, demining, agricultur e, support to independent media, community security,
+livelihoods, and economic growth.  U.S. humanitarian assistance supported relief efforts for
+internally displaced persons in Syria, select Syrian communities, and Syrian refugees in regional
+countries. The Trump Administration’s review of U.S. foreign assistance, the reorganization of
+executive branch entities responsible for implementing foreign assistance, and changes to the
+135 For a review of these programs see LIG -OIR, Report to the U.S. Congr ess, October 1, 2024 –December 31, 2024,
+pp. 84-99.
+Syria: Transition and U.S. Policy
+Congressional Research Service   34 U.S. military presence in Syria altered U.S. capabilities and programs. Some ass istance programs
+have ended, some have changed, and some continue on previous terms.
+Congress may inquire about the extent to which changes to U.S. foreign assistance programs and
+implementation in Syria instituted by the Trump Administration reflect lasting changes to U.S.
+policy and priorities there . Congress may consult Administration officials, implementing partners,
+and other observers to determine whether prevailing efforts are aligned with U.S. priorities and
+interest s in Syria and whether alternati ve approaches  are advisable .
+Past congressional and executive branch concerns have focused on obstacles to the delivery of
+humanitarian assistance in Syria, the potential diversion of U.S. humanitarian and security
+assistance  by entities in Syria , and  the extent to which U.S.-funded assistance programs may
+benefit Syrian entities with whom the United States has policy differences.  While many of these
+concerns were directly linked to the antagonistic relationship between the Asad government and
+the U.S. government,  and Asad’s exploitation of international aid and recovery efforts, Congress
+may also consider these issues when examinin g proposals for assistance programs in post -Asad
+Syria , and in considering Administration requests for authorities or funds .
+Possible questions Members may consider for oversight and legislative purposes include  the
+following:
+• What are Syria’s post -Asad se curity, economic, reconstruction, and humanitarian
+needs? To what extent, and h ow, are such needs being assessed and met?
+• What resources and partners are engaging to provide support  to Syria ?
+• What support, if any, should the United States provide? Using what authorities,
+resources, and mechanisms? For how long, on what terms, and at what cost?
+Syria: Transition and U.S. Policy
+Congressional Research Service   35 Appendix.  Hayat Tahrir al Sham (HTS): Leadership,
+Insurgency, Terrorism, and Governance
+Ahmed Hussein Al Sharaa was born in 1982
+to a Syrian family from Damascus.136
+According to Sharaa, his family lived in
+Riyadh, Saudi Arabia and returned to Syria
+when he was seven. Sharaa has said his
+grandfather was displaced from the Golan
+Heights amid Israel -Syria fighting during the
+June 1967 Six -Day War: Sharaa apparently
+adopted the nom de guerre Abu Mohammed
+al Jolani/Jawla ni/Golani in reference to his
+family’s roots in that area.
+Sharaa has said he travelled to Iraq in 2003,
+arriving just prior to the U.S. invasion, and
+that, after a brief return to Syria,  he again
+travelled to Iraq in 2005 and joined the
+organization that would become Al Qaeda in
+Iraq (AQI). Sharaa claims he differed with the
+group’s anti -Shia Muslim sectarian ideology
+and targeting of civilians, but Sharaa
+remained an AQI member and, according to a
+former U.S. intelligence official, he led an
+AQI cell.137 U.S. forces arrested Sharaa
+around 2005 or 2006, and imprisoned him in
+Camp Bucca in southern Iraq until late 2010
+or early 2011, when he was released.138
+Sharaa reportedly used a false identity while
+in Iraq. Sharaa says he used his time in prison
+to develo p plans for toppling the Syrian
+government. Upon Sharaa’s release, he sought
+out former associates, who were then
+organized and operating as the Islamic State
+of Iraq (ISI).
+Sharaa has said that a fter the start of the anti -
+Asad uprising in Syria in 2011, h e shared his
+plans for waging an insurgency in Syria with AQI/ISI leader Abu Bakr al Baghdadi. Sharaa said
+Baghdadi agreed to provide limited support, and Sharaa departed Iraq for Syria with funding and
+136 Biographical and historical information drawn from: Frontline , “The Frontline Interviews: The Jihadist ,” June 1,
+2021; Raya Jalabi, “ The secret history of Syria’s new leader, Ahmed al -Sharaa ,” FT Magazine , March 7, 2025;  Aaron
+Zelin, in terview with John Haltiwanger, “What to Know About the Man Who Toppled Assad, Foreign Policy ,
+December 11, 2024; Zelin, “Jihadi ‘Counterterrorism:’ Hayat Tahrir al -Sham Versus the Islamic State,” U.S. Military
+Academy Combatting Terrorism Center (CTC), CTC  Sentinel , February 2023; Hassan Hassan, “Two Houses Divided:
+How Conflict in Syria Shaped the Future of Jihadism,” CTC Sentinel , October 2018; and Charles Lister, “How al -
+Qa`ida Lost Control of its Syrian Affiliate: The Inside Story,” CTC Sentinel , Februa ry 2018.
+137 PBS Frontline Interview with Nada Bakos, Frontline , “The Frontline Interviews: The Jihadist ,” June 1, 2021.
+138 Sharaa reportedly was detained while using a false identity.  Figure A -1. Interim President of the
+Syrian Arab Repu blic Ahmed Al Sharaa
+Source s: Above : Associated Press, 2016. Below :
+Syrian Arab News Agency (SANA), February 25,
+2025.
+Syria: Transition and U.S. Policy
+Congressional Research Service   36 a small number of AQI/ISI cadres. In late 2011, Jabha t al Nusra Li -Ahl al Sham  (the Support
+Front for the People of Syria, or Nusra Front) began targeting the Asad government. According to
+the U.S. government,  from November 2011 to December 2012, the Nusra Front claimed “nearly
+600 attacks —ranging from more than 40 suicide attacks to small arms and improvised explosive
+device operations —in major city centers.” The State Department described the Nusra Front in
+2012 as “an attempt by AQI to hijack the struggles of the Syrian people for its own malign
+purposes.”139
+Under Sharaa’s leadership, the Nusra Front became a leading actor in the insurgency against
+Asad, drawing greater support from some other Syrian factions. In April 2013, Baghdadi
+attempted to reassert direct control over the Nusra Front and announced t hat Sharaa’s group
+would be dissolved into the newly announced Islamic State of Iraq and al Sham (ISIL/ISIS).
+Sharaa said he and his group were not consulted on the change, and they pledged allegiance to Al
+Qaeda leader Ayman al Zawahiri and said the Nusra  Front would continue its operations.140 While
+Islamic State and Al Qaeda leaders disputed global leadership of the jihadist movement in 2014
+and 2015, IS and Nusra Front fighters clashed in Syria, with IS forces expelling the Nusra Front
+and other armed an ti-Asad groups from large areas of northern and central Syria.
+Sharaa announced the dissolution of the Nusra Front in July 2016 and rebranded the group as
+Jabhat Fatah al Sham  (the Syrian Victory Front). In January 2017, Sharaa merged his group with
+some other armed Islamist opponents of Asad and established Hayat Tahrir al Sham  (the
+Organization for the Liberation of Syria). Al Qaeda rejected Sharaa’s decisions  and accused
+Sharaa of betrayal . Several Al Qaeda ideologues and operatives left the new coaliti on. Sharaa
+later directed HTS security operations against Al Qaeda -linked figures.
+By 2018, HTS had become the de facto authority in Idlib province in northwest Syria, coopting
+some rivals and suppressing some groups’ opposition to its leadership through force. Some Al
+Qaeda -linked elements of HTS opposed reported HTS security cooperatio n with Turkey and HTS
+leaders’ emphasis on local security and administration. These elements split from HTS, forming
+Hurras Al Din  (Guardians of Religion). In 2025, U.S. military strikes continue d to target Hurras
+Al Din members.
+HTS established the Syrian Salvation Government in Idlib to administer limited services and
+provide governance. HTS at times clashed with groups operating under the Turkey -backed Syrian
+National Army coalition, but coordi nated with them and other Islamist armed groups under a
+security mechanism known as the Fatah al Mubin  (Clear Victory) Operations Room. This
+network, in coordination with Turkey’s armed forces, resisted pro -Asad forces’ efforts to retake
+Idlib province. Th e arrangements were the precursor to the Military Operations Department that
+launched the “Deterring Aggression” operation from Idlib in November 2024 that seized Aleppo,
+Homs, and Hama, and ultimately toppled the Asad regime.
+139 U.S. State Department, “Terrorist Designations of the al -Nusrah Front as an Alias for al -Qa'ida in Iraq,” December
+11, 2012.
+140 France24 /Agence France Presse (AFP), “ Syria ’s al Nusra militants vow allegiance to al Qaeda ,” April 10, 2013.
+Syria: Transition and U.S. Policy
+Congressional Research Service  RL33487  · VERSION 183 · UPDATED  37
+Author Information
+Christopher M. Blanchard
+Specialist in Middle Eastern Affairs
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

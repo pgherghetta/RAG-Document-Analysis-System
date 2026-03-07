@@ -1,0 +1,962 @@
+FY2026 Defense Budget: Funding for Selected
+Weapon Systems
+February 20, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R48860
+Congressional Research Service
+SUMMARY
+FY2026 Defense Budget: Funding for Selected
+Weapon Systems
+The second Trump Administration’s Department of Defense (DOD)  budget request for FY20 26
+include d $848. 3 billion in discretionary funding and $113.3 billion in mandatory funding (DOD
+is “using a secondary Department of War designation, ” under Executive Order 14347, dated
+September 5, 20 25). Of the discretionary funding portion , the Administ ration requested  a
+combined total of $295.3 billion in procurement and research, development, test, and evaluation
+(RDT&E) funding , including proposed amounts  for various weapon systems of congressional
+interest.
+By way of background, i n its FY2026 budget  request , DOD included two types of funding:  mandatory  funding that DOD
+assumed Congress would provide in an FY2025 reconciliation law (later enacted as  P.L. 119 -21) and discretionary  funding
+that DOD requested for Congress to authorize and appropriate for FY2026  as part of a base budget (i.e., recurring costs to
+staff, train, and equip the armed forces) . For FY2026 , to varying degrees, DOD  proposed allocating both mand atory and
+discretionary funding for programs, projects, and activities associated with weapon systems  procurement and RDT&E .
+DOD  has described its FY2026 budget request as making “generational investments” in Administration priorities , including
+in air and missile defense , the Air Force’s  F-47 next-generation fighter aircraft , and shipbuilding . Relative to amounts
+Congress authoriz ed and appropriated for FY2025, D OD’s FY2026 request also propose d increasing funding for  certain
+hypersonic weapons programs and space -based systems. At the same time, DOD’s FY2026 request propose d reducing
+funding for other weapon systems , such as  certai n ground systems , the Navy’s F/A -XX next -generation fighter , and the Air
+Force’s E -7A Wedgetail  airborne  early  warning aircraft —changes that could lead to  program delays  or cancellation .
+During consideration of proposals for a National Defense Authorizatio n Act for Fiscal Year 2026 (NDAA; later enacted as
+P.L. 119 -60) and a Department of Defense Appropriations Act, 2026 (later enacted as  Division A of  P.L. 119 -75), Members
+of Congress proposed provid ing more funding, the same amount, or less funding than the President requested for selected
+weapon systems. The enacted versions of the bills authorized and appropriated more funding than DOD requested for the
+Virginia -class submarine, Arleigh Burke -class de stroyer, and E -7A Wedgetail, and less funding than requested for the E -2D
+Advanced Hawkeye aircraft, among other changes. Appropriators diverged from the amounts requested and those authorized
+for several weapon systems, including by providing more funding  than requested for the Medium Landing Ship, C -130J
+Hercules cargo aircraft, and the F/A -XX fighter, among others.
+Divergent views in the Administration and Congress over perceived threats, defense strategy and requirements, and program
+performance genera ted debates over FY2026 funding for weapon systems procurement and RDT&E. Disagreements
+accompanying  Congress’s decision to use, for the first time, the reconciliation process to provide additional funding to DOD,
+and DOD’s estimation of how such funds sho uld be allocated to programs, contributed to changes to funding for certain
+weapon systems. Authorizers and appropriators, for example, disagreed with the Navy’s plan to fund the procurement of
+additional Arleigh Burke (DDG -51) class destroyers and a secon d Virginia -class submarine using resources provided in the
+reconciliation process instead of  the annual authorization and appropriation process . In the enacted NDAA and defense
+appropriations act, Congress authorized and appropriated more discretionary fun ding than requested for the destroyers and
+the Virginia -class submarine.
+R48860
+February 20, 2026
+Daniel M. Gettinger
+Analyst in U.S. Defense
+Policy
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   Contents
+Introduction  ................................ ................................ ................................ ................................ ..... 1
+Background  ................................ ................................ ................................ ................................ ..... 1
+DOD FY2026 Proposed Budget, Including Reconciliation Funding  ................................ ........  1
+Congressional Action on the DOD Discretionary Funding Request  ................................ .........  3
+Funding for Selected Weapon Systems  ................................ ................................ ...........................  4
+Aircraft and Related Weapon Systems  ................................ ................................ ......................  5
+Communications and Space -Based Systems  ................................ ................................ .............  9
+Com munications Systems  ................................ ................................ ................................ ... 9
+Space -Based Systems ................................ ................................ ................................ ..........  9
+Ground Systems  ................................ ................................ ................................ ......................  12
+Hypersonic Weapons  ................................ ................................ ................................ ...............  15
+Missile Defense  ................................ ................................ ................................ .......................  17
+Missiles and Munitions  ................................ ................................ ................................ ...........  20
+Shipbuilding and Maritime Systems  ................................ ................................ .......................  24
+Tables
+Table 1. FY2026 Funding Authorizations and Appropriations for Selected DOD Aircraft  ............  6
+Table 2. FY2026 Funding Authorizations and Appropri ations for Selected DOD C4I and
+Space -Based Systems  ................................ ................................ ................................ .................  10
+Table 3. FY2026 Funding Authorizations and Appropriations for Selected DOD Ground
+Systems  ................................ ................................ ................................ ................................ ...... 13
+Table 4. FY2026 Funding Authorizations and Ap propriations for Selected DOD
+Hypersonic Weapons Programs  ................................ ................................ ................................ .. 16
+Table 5. FY2026 Funding Authorizations and Appropriations for Selecte d DOD Missile
+Defense Systems  ................................ ................................ ................................ ........................  18
+Table 6. FY2026 Funding Authorizations and Appropriations for Selected DOD Missiles
+and Munitions  ................................ ................................ ................................ .............................  21
+Table 7. FY2026 Funding Authorizations and Appropriations for Selected DOD
+Shipbuilding and Maritime Systems Programs  ................................ ................................ ..........  25
+Contacts
+Author Information  ................................ ................................ ................................ ........................  28
+FY2026 Defense Budget: Funding for  Selected Weapon Systems
+Congressional Research Service   1 Introduction
+This report addresses actions by Congress on the Trump Administration’s FY2026 budget request
+for Department of Defense ( DOD ) procurement and research, development, test, and evaluation
+(RDT&E ) funding related to programs, projects, and activi ties for selected weapon systems
+(DOD is “using a secondary Department of War designation,” under Executive Order 14347,
+dated September 5, 2025) .1 The report provides  background information on the Administration’s
+FY2026 request and on defense funding  provided in the FY2025 reconciliation law ( P.L. 119 -21).
+It details the requested and enacted funding amounts for selected weapon systems  and highlights
+points of difference between the amounts requested and those authorized and appropriated .
+Except as a m atter of background, this report does not address  the DOD budget at the account
+level, nor funding for  DOD operations and maintenance, military personnel, military
+construction, other defense -related activities , or classified funding.
+Background
+DOD FY2026 Proposed Budget , Including Reconciliation Funding
+On May 2, 2025, President Donald J. Trump submitted  to Congress  a “skinny budget”  proposal
+for FY2026  discretionary funding .2 For FY2026, t he Administration stated that it intended to
+allocate , in addition to $848. 3 billion in discretionary funding for DOD,  a total  of $113.3 billion
+for DOD from mandatory funding  that it assumed Congress would provide through the budget
+reconciliation process , for a total of $961.6 billion .3 On May 30,  the Office of Management and
+Budget released a budget appendix supplement that  outlined discretionary funding  requested by
+the Administration for DOD appropriations accounts.4 On June 26, DOD submitted additional
+information on  its FY2026 budget proposal  to Congress,  including funding requested at the line -
+item level  for DOD programs, projects, and activities.5 Spreadsheets accompanying  the
+department’s submission described such funding  by type : “FY 2026 Disc Request”  for
+1 Executive Order 14347 of September 5, 2025, “Restoring the United States Department of War,” 90 Federal Register
+43893, September 10, 2025, https://www.federalregister.gov/ documents/ 2025/ 09/10/2025 -17508/ restoring -the-united -
+states -department -of-war.
+2 White House, “ The White House Office of Management and Budget Releases the President’s Fiscal Year 2026
+Skinny Budget ,” May 2 , 2025, https://www.whitehouse.gov/ briefings -statements/ 2025/ 05/the-white -house-office -of-
+management -and-budget -releases -the-presidents -fiscal -year-2026 -skinny -budget/ . The term “skinny budget” has been
+used to refer to a partial budget request containing discretionary funding, not mandatory funding.
+3 DOD, Office of the Undersec retary of Defense, Comptroller/Chief Financial Officer, Defense Budget Overview ,
+United States Department of Defense Fiscal Year 2026 Budget Request, July 2025, https://comptroller.defense.gov/
+Portals/ 45/Documents/ defbudget/ FY2026/ FY2026_Budget_Request_Overview_Book.pdf , p. 1-2: and Letter from
+Russell T. Vought, Director, Office of Management and Budget, to Senator Susan Colli ns, Chair, Committee on
+Appropriations, United States Senate, May 2, 2025, pp. 44, 46  (of the PDF) , https://www.whitehouse.gov/ wp-conte nt/
+uploads/ 2025/ 05/Fiscal -Year -2026 -Discretionary -Budget -Request.pdf . For the broader category of national defense
+funding, of which DOD funding is a part, the Administration identified $1.01 trillion for FY2026, including $892.6
+billion in discretionary funding and $119.3 billion in mandatory funding.  See p. 43 (of the PDF).
+4 Office of Management and Budget, Technical Supplement to the 2026 Budget , Washington, DC, May 30, 2025, pp.
+225-240, https://www.whitehouse.gov/ wp-content/ uploads/ 2025/ 05/appendix_fy2026.pdf .
+5 Department of Defense ( DOD ), “Senior Officials Outline President ’s Proposed FY26 Defense Budget,” press release,
+June 26, 2025, https://www.war.gov/ News/ News -Stories/ Article/ Article/ 4227847/ senior -officials -outline -presidents -
+proposed -fy26-defense -budget/ . DOD released additional documents to accompany its FY2026 budget request in July
+and August. For example, see D OD, Office of the Undersecretary of Defense, Comptroller/Chief Financial Officer,
+Defense Budget Overview , United States Depar tment of Defense Fiscal Year 2026 Budget Request, July  2025 .
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   2 discretionary funding, “FY 2026 Reconciliation Request” for mandatory funding, and “FY 2026
+Total ” as the sum total.6
+DOD prepared  and submitted its proposed budget for FY2026 before Congress passed the
+FY2025 reconciliation law . The department stated that the House Armed Services Committee
+(HASC) markup of the One Big Beautiful Bill Act ( H.R. 1 ) served as the basis for , and mostly
+aligned with , the “ FY 2026 Reconciliation Request ” amo unts in its budget submission.7
+According to DOD, the mandatory funding provided in the reconciliation law was an “integral
+part of the DOD FY 2026 topline of $961.6 billion and complements the $848.3 billion in
+requested discretionary resources.”8 The l atter figure  included a combined total of $295.3 billion
+for account types  used to fund weapon systems, including $153.3 billion  for procurement and
+$142.0 billion for research, development, test, and evaluation (RDT&E) .9
+On July 3, 2025, the House passed the Senate -passed version of  H.R. 1 , which included various
+changes from the version first introduced by the Hous e.10 On July 4, President Trump signed the
+bill into law (enacte d as P.L. 119 -21). The law included $156.2 billion for defense.11 All funds
+carried a five -year period of availability, meaning they remain available for obligation  until
+September 30, 2029, and expend iture through FY2034.
+P.L. 119 -21 specified multipl e purposes and dollar amounts for each of the 13 sections in Title II
+of the act. Some of the funding provisions differ ed in key respects from the legislative language
+of annual appropriations acts in that they d id not specify the type of DOD appropriation s account
+(e.g., procurement , RDT&E , military construction [MILCON ]) to which the funds were to be
+allocated . Additionally, th e enacted bill did not include a n accompany ing report or explanatory
+statement linking each bill provision to budgetary line-item appropriation accounts, as is typical
+for annual appropriations acts.
+Some Members of Congress have questioned the degree to which  DOD’s  proposed  allocation of
+reconciliation resources  in its FY2026 budget request  align ed with reconciliation legi slation . For
+example, in June 2025, Senator Roger F. Wicker, chair of the Senate Armed Services Committee
+(SASC), said the Administration’s FY2026 budget “seems to be written as if there are many items
+in the reconciliation package that simply are not in t hat bill.”12 Senator Mitch McConnell, chair of
+6 The website of the DOD Comptroller/Chief Financial Officer contains spreadsheets that summarize requested dollar
+amounts at the line -item level (i.e., a particular program, project, or activity ) for each budget category account. For
+procurement and RDT&E, see Office of the Undersecretary of Defense Comptroller/Chief Financial Officer,
+Procurement Programs (P -1), Department of Defense Budget, Fiscal Year 2026 , June 2025,
+https://comptroller.defense.gov/ Portals/ 45/Documents/ defbudget/ FY2026/ FY2026_p1.pdf ; and RDT&E Programs (R -
+1), Department of Defense Budget, Fiscal Year 2026 , June 2025, https://comptroller.defense.gov/ Portals/ 45/
+Documents/ defbudget/ FY2026/ FY2026_r1.pdf .
+7 DOD, Office of the Undersecretary of Defense Comptroller/Chief Financial Officer, Department of Defense Fiscal
+Year 2026 Mandatory Funding Overview , July 2025, p. 2, https://comptroller.war.gov/ Portals/ 45/Documents/
+defbudget/ FY2026/ DoD_FY2026_Mandatory_Funding_Overview.pdf .
+8 DOD , Department of Defense Fiscal Year 2026 Mandatory Funding Overview , p. 2.
+9 DOD, Defense Budget Overview , Fiscal Year 2026 Budget Request , p. A-5.
+10 For more information, see  CRS Insight IN12580, Defense Funding in the 2025 Reconciliation Law (H.R. 1; P.L. 119 -
+21, Title II) , by Cameron M. Keys and Daniel M. Ge ttinger .
+11 Congressional Budget Office (CBO), Estimated Budgetary Effects of  P.L. 119.21 , to Provide for Reconciliation
+Pursuant to Title II of H. Con. Res. 14 , Relative to CBO’s January 2025 Baseline,  July 21, 2025,  https://www.cbo.gov/
+publication/ 61570 .
+12 Senator Roger Wicker, “Chairman Wicker Leads SASC Hearing on the FY26 Defense Budget with Senior Pentagon
+Leadership,” press release, June 18, 2025, https://www.wicker.senate.gov/ 2025/ 6/chairman -wicker -leads -sasc-hearing -
+on-the-fy26-defense -budget -with-senior -pentago n-leadership .
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   3 the Senate Appropriations Committee Defense Subcommittee (SAC -D), questioned why the
+Administration had not included investments in shipbuilding in its discretionary budget request
+and instead relied on resour ces provided through the reconciliation process: “Why are we
+allocating funds under extraordinary parliamentary authorities for capabilities that would
+otherwise have been funded in an annual appropriation? ”13
+Some Members have  reportedly  asked that the  department  provide  details concerning its plan for
+allocating the resources provided in P.L. 119 -21 to specific programs, projects, and activities.14 In
+a reported July 22, 2025, letter to Secretary of Defense  Peter B. Hegseth  (who is using “Secretary
+of War” as a “secondary title ,” under Executive Order 14347 , dated September 5, 2025 ),15 Senator
+Wicker and HASC  Chair Mike D. Rogers provided the secretary with guidance on how the
+committees intended defense funding provided in the enacted reconciliation la w to be allocated ,
+and requested that DOD submit a “spending, expenditure, or operating plan” for such funding by
+August 22.16 In October 2025, DOD reportedly submitted a partial , classified  spending plan for
+approximately $90 billion of the $156.2 billion in  defense reconciliation funding .17
+Congressional Action on the DOD Discretionary Funding Request
+Actions of t he congressional defense committees on proposed legislation to authorize and
+appropriate FY2026 funding for DOD weapon systems  have include d the following :
+• The House Committee on Appropriations (HAC) on June 16, 2025, reported a
+Department of Defense Appropriations Act, 2026 , and accompanying c ommittee
+report  (H.R. 4016 ; H.Rept. 119 -162). This activity occurred  before DOD released
+on June 26 additional details of its budget request . HAC  appears to have based its
+markup on enacted appropriations for DOD for FY2025  and on the department’s
+FY2025 projection of what it anticipated allocating in FY2026 .18 The House on
+July 18 passed an amended version of  H.R. 4016 .
+• The Senate Committee  on Appropriations  (SAC) on July 31 reported a
+Department of Defense Appropriations Act, 2026 , and accompanying committee
+report (S. 2572 ; S.Rept. 119 -52).
+• HASC on August 19 reported  the Streamlining Procurement for Effective
+Execution and Delivery and National Defense Authorization Act for Fiscal Year
+13 Senator Mitch McConnell, “ McConnell Opening Statement at SAC -D Hearing on FY 26 Budget Request for the
+Navy ,” press release, June 24, 2025, https://www.mcconnell.senate.gov/ public/ index.cfm/ pressreleases? ID=9028329A -
+8D3B -44FF -A71C -77CF39A9FFD0 .
+14 For example, see Letter from Representative Mike D. Rogers, chairman of the House Committee on Armed Services,
+and Senator Roger F. Wicker, chairman of the Senate Committee on Armed Services, to Peter B. Hegseth, Secretary of
+Defense, July 22, 2025, as published on Inside Defense , https://insidedefense.com/ sites/ insidedefense.com/ files/
+documents/ 2025/ jul/07252025_HASC_letter.pdf ; and Tony Bertuca, “ Senate Democrats raise ‘slush fund ’ concerns,
+want answers from Hegseth on reconciliation spending ,” Inside Defense , February 5, 2026, https://insided efense.com/
+daily -news/ senate -democrats -raise -slush -fund-concerns -want -answers -hegseth -reconciliation -spending
+15 E.O. 14347 .
+16 Letter from Representative Mike D. Rogers  and Senator Roger F. Wicker to Peter B. Hegseth, Secretary of Defense,
+July 22, 2025, as published on Inside Defense ; and “OBBB SASC/HASC Intent for DOD,” https://insidedefense.com/
+sites/ insidedefense.com/ files/ docume nts/2025/ jul/07252025_HASC_attachment2.pdf .
+17 Tony Bertuca, “DOD sends Congress first ‘tranche’ of budget reconciliation spending plan,” Inside Defense , October
+21, 2025, https://insidedefense.com/ daily -news/ dod-sends -congress -first-%E2%80%98tranche%E2%80%99 -budget -
+reconciliation -spending -plan.
+18 CRS analysis of H.Rept. 119 -162 and DOD budget request for FY2025. DOD’s projected figures for FY2026 may or
+may not have align ed with its actual request for FY2026.
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   4 2026 , and accompanying report  (H.R. 3838 ; H.Rept. 119 -231). The House on
+September 10 passed an amended version of H.R. 3838 .
+• SASC on July 15 reported a National Defense Authorization Act for Fiscal Year
+2026 and accompanying report (S. 2296 ; S.Rept. 119 -39). The Senate on October
+9 passed an amended version of S. 2296 .
+On December 7, HASC and SASC released a negotiated version of an FY2026 NDAA (S.
+1071 ).19 The House passed the negotiated version, a House amendment  in the nature of a
+substitute  to an unrelated  Senate bill,  on December 10 . The Senate passed the House amendment
+to S. 1071  on December 17, and the President signed the bill into law on December 18 (enacted
+as P.L. 119 -60).20
+On January 20, 2026, HAC and SAC released a negotiated version of a Department of Defe nse
+Appropriations Act, 2026 , as Division A of the Consolidated Appropriations Act, 2026 ( H.R.
+7148 ).21 The House passed H.R. 7148  on January 22. The Senate passed an amended version of
+H.R. 7148  on January 30; the House passed the amended the version of the bill on February 3.
+The President the signed the bill into law on February 3 (enacted as  P.L. 119 -75).
+Funding for Selected Weapon Systems
+This section details funding amounts and quantities  for selected defense acquisition programs  that
+DOD requested as part of President Trump’s FY2026 budget . The requested figures includ e
+discretionary amounts from  DOD’s  FY2026 budget request to Congress and mandatory amounts
+from then -proposed FY2025 reconciliation funding that the department  anticipated allocating  in
+FY2026 .22 CRS based its analysis of funding  for such programs in part on the “major weapons
+system summary” table published in the FY202 6 version of the annual DOD budget document
+Program Acquisition Cost by Weapon System ,23 as well as on programs of congressional interest .
+The amounts presented in this report may not include all costs  associated with such programs. For
+19 House Armed Services Committee, “House and Senate Armed Services Committees Release Final NDAA Text,”
+press release, December 8, 2025, https://armedservices.house.gov /news/ documentsingle.aspx? DocumentID= 6359 . On
+December 10, the Congressional Record  published a joint explanatory statement  submitted by Representative Rogers
+to accompany S. 1071 . See “Joint Explanatory Material Statement Submitted by Mr. Rogers of Alabama, Chair of the
+House Committee on Armed Services, on  S. 1071 ,” Congressional Record , vol. 171, no. 208 (D ecember 10, 2025), pp.
+H5571 -H5764 , https://www.congress.gov/ 119/crec/ 2025/ 12/10/171/208/CREC -2025 -12-10-pt2-PgH5571 -2.pdf .
+20 For more informati on, see CRS Insight IN12653, FY2026 NDAA: Status of Legislative Activity , by Valerie
+Heitshusen and Daniel M. Gettinger , and CRS Insight IN12641, FY2026 NDAA: Summary of Funding Authorizations ,
+by Daniel M. Gettinger and Cameron M. Keys .
+21 United States Senate Committee on Appropriations, “ Committee Releases Conferenced Defense, Homeland Security,
+Labor, Health and Human Services, Education, and Related Agencies, and Transportation, Housing and Urban
+Development, and Related Agencies Bills ,” January 20, 2026, https://www.appropriations.senate.gov/ news/ majority/
+committee -releases -conference d-defense -homeland -security -labor -health -and-human -services -education -and-related -
+agencies -and-transportation -housing -and-urban -development -and-related -agencies -bills. On January 22, the
+Congressional Record  published a joint explanatory statement submitte d by Representative Cole to accompany H.R.
+7148 . See “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on
+Appropriations, on  H.R. 7148 , Consolidated Appropriations Act, 2026; and  H.R. 7147 , Department of Homeland
+Security Appropriations Act, 2 026,” Congressional Record , vol. 172, no. 15 (January 22, 2026), pp. H1353 -H1909,
+https://www.congress.gov/ 119/crec/ 2026/ 01/22/172/15/CREC -2026 -01-22-pt2-PgH1353 -2.pdf .
+22 CRS analysis of amounts for certain programs is based on additional DOD data provided to CRS in response to a
+request for information on October 7, 2025, and on file with the author.
+23 DOD, Office of the Under Secretary of Defense  (Comptroller)/Chief Financial Officer, Program Acquisition Cost by
+Weapon System , July 2025, https://comptroller.defense.gov/ Portals/ 45/Documents/ defbudget/ FY2026/
+FY2026_Weapons.pdf .
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   5 example, amounts associated with military construction (MILCON) and operation and
+maintenance (O&M) to house and sustain such systems, and for military personnel (MILPERS) to
+operate  such systems , are not included. In some  cases, CRS included related programmatic
+funding that was not included in the DOD document .
+Aircraft and Related Weapon Systems
+In its FY2026 budget submission to Congress, DOD  requested  $68.3 billion in procurement  and
+RDT&E funding for aircraft and related systems, including fighters, bombers, tankers and cargo
+aircraft, attack and utility helicopters, and uncrewed aircraft systems (UAS, commonly known as
+drones).24 Of this amount , DOD requested  a total of  approxim ately  $54.9 billion for the selected
+aircraft and related systems  detailed in  Table 1.25 In its discretionary funding proposal, DOD
+requested $4 4.0 billion in procurement and RDT&E funding for the selected aircraft and related
+systems.26 Of the funding that DOD assumed Congres s would provide in the 2025 reconciliation
+law, DOD estimated that it would provide $ 10.9 billion for the selected aircraft in FY2026.27
+The enacted FY2026 NDAA  authorize d $45.0 billion in discretionary funding for the selected
+aircraft, $ 1.0 billion more  than DOD requested in discretionary resources  for such systems (see
+Table 1). The law authorize d more  funding  than requested for the Air Force E -7A Wedgetail  and
+C-130J  Hercules , and less funding than requested for the Navy E -2D Hawkeye, among other
+changes.28 The enacted NDAA did not include  proposals in the Senate -passed version of the
+NDAA to authorize more funding than requested for  certain  aircraft development programs ,
+including for the Air Force F -47 and Navy F/ A-XX next-generation fighter program s.29
+The enacted FY2026 DOD appropriations act provided $49.1 billion in discretionary funding for
+the selected aircraft, $5.1 billion more than requested (see Table 1). P.L. 119 -75 appropriated
+more funding than requested for the  E-7A Wedgetail and C -130J Hercules, and less funding than
+requested for the E -2D Hawkeye.30 The law also provided more funding than requested for the
+F/A-XX next -generation fighter aircraft program, among other changes.31
+24 DOD, Program Acquisition Cost by Weapon System , p. 1 -1.
+25 CRS analysis of DOD FY2026 budget documentation . CRS based its analysis in part on the  aircraft programs
+identified in the  “major weapons system summary” table in the  annual Program Acquisition Cost by Weapon System
+document, as well as  on aircraft  programs  that generated  congressional interest. For the former, see  DOD, Program
+Acquisition Cost by Weapon System , p. vii.
+26 CRS analysis of DOD FY2026 budget documentation .
+27 CRS analysis of DOD’s “FY2026 Reconciliation Request” in its June 26 budget reque st to Congress. Figures do not
+reflect appropriated amounts in the 2025 reconciliation law ( P.L. 119 -21) and may be subject to change. See
+“Background ” for more information.
+28 “Joint Explanatory Material Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on
+Armed Ser vices, on  S. 1071 ,” Congressional Record , pp. H5677 , H5684 , H5703 .
+29 S.Rept. 119 -39, pp. 434, 443.
+30 “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on
+Appropriations, on  H.R. 7148 , Consolidated Appropriations Act, 2026,” Congressional  Record , pp. H1448, H1471,
+H1473, H1534, and H1539.
+31 “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on
+Appropriations, on  H.R. 7148 , Consolidated Appropriations Act, 2026,” Congressional Record , p. H1520.
+CRS -6 T able 1. FY2026 Funding Authorizations and Appropriations for Selected DOD Aircraft
+(in billions of dollars of budget authority and quantities, if available)
+System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Aircraft   $ # $ # $ # $ # $ # $ #d $ # $ #d
+Bomber  (IF12945 )
+B-21 Raider  $4.49   $5.80   $5.80   $5.80   $5.80   $6.68   $5.47   $5.59
+B-1, B-2, B-52    $1.48   $1.48   $1.48   $1.48   $1.39   $1.28   $1.47
+Cargo
+KC-46A Pegasus    $3.28  15 $2.93  15 $3.32  15 $2.98  15 $3.01   $3.18  15 $3.24
+C-130J Hercules  $0.21   $0.82   $0.82   $1.19  1 $1.02  2 $1.65   $2.62  10 $2.57
+Command and Control
+E-2D Advanced
+Hawkeye    $2.09  4 $1.79  4 $0.59   $1.79  4 $1.88   $0.61   $1.68
+E-7A Wedgetail    $0.20   $0.80   $0.90   $0.85   $0.50   $0.85   $1.10
+Fighter
+F-35 Joint Strike
+Fighter (R48304 ) $1.00   $12.12  47 $12.42  47 $13.11  57 $12.32  47 $13.63   $12.04  47 $12.24
+F-47 Next Generation
+Air Dominance
+(IF12805 ) $0.90   $2.58   $2.58   $3.08   $2.58   $3.19   $2.58   $3.08
+F/A-18 Super Hornet    $2.14  $2.14  $2.14  $2.14   $2.30  $2.12   $2.14
+F-22 Raptor  $0.10   $1.91   $1.91   $1.91   $1.91   $1.61   $1.79   $1.85
+F-15 Eagle  $3.02  21 $0.79  $0.79  $0.97  $0.79   $0.89  $0.76  $0.88
+F-16 Fighting Falcon  $0.05   $0.70  $0.70  $0.85  $0.70   $0.57  $0.88  $0.68
+CRS -7 System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Aircraft   $ # $ # $ # $ # $ # $ #d $ # $ #d
+Collaborative Combat
+Aircraft (IF12740 ) $0.68   $0.18  $0.18  $0.86  $0.18   $0.49  $0.18  $0.17
+Armed Overwatch/
+Targeting    $0.16 6 $0.16 6 $0.16 6 $0.16  6 $0.08  $0.15 6 $0.15
+F/A-XX Next
+Generation Fighter    $0.07  $0.07  $0.57  $0.07   $0.97  $1.47   $0.97
+Rotorcraft
+CH-53K Heavy Lift
+Replacement
+Helicopter    $2.48  12 $2.48  12 $3.03  16 $2.61  13 $2.87  $2.47  12 $2.68
+Future Long -Range
+Assault Aircraf t
+(IF12771 )   $1.25   $1.25   $1.25   $1.25   $0.94  $1.25   $1.25
+UH-60 Black Hawk    $0.76 24 $0.86 24 $0.76 24 $0.86  24 $1.04   $0.87 24 $1.10
+CH-47 Chinook    $0.71 11 $0.71 11 $0.71 11 $0.71  11 $0.73  $0.71 11 $0.73
+V-22 Osprey
+(R48703 ) $0.14   $0.68  $0.68  $0.68  $0.68   $0.72  $0.67  $0.73
+AH-64 Apache    $0.17  $0.26 3 $0.17  $0.26  3 $0.46  $0.53 12 $0.54
+HH-60W Combat
+Rescue Helicopter  $0.05   $0.16  $0.16  $0.16  $0.16   $0.31  $0.36  $0.26
+MH-139A Grey Wolf  $0.15   $0.02 2 $0.02 2 $0.02 2 $0.02  2 $0.17   $0.08  2 $0.08
+VIP Aircraft
+VC-25B Presidential
+Aircraft    $0.68   $0.68   $0.68   $0.68   $0.60   $0.60   $0.65
+C-40 Fleet Expansion      $0.30  2   $0.25  1   $0.25  1 $0.25
+CRS -8 System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Aircraft   $ # $ # $ # $ # $ # $ #d $ # $ #d
+Trainer
+T-7A Advanced Pilot
+Training    $0.65  14 $0.65  14 $0.65  14 $0.65  14 $0.44   $0.61  14 $0.64
+Unmanned  Aircraft  (IF12797 )
+MQ-25 Stingray
+(IF12972 ) $0.10   $1.04  3 $1.04  3 $1.04  3 $1.04  3 $0.98   $1.02  3 $1.03
+MQ-4C/RQ -4 Triton/
+Global Hawk /AGS    $0.70  $0.70  $0.70  $0.70   $0.80  $0.69  $0.69
+MQ-9 Reaper/USMC
+Group 5 UAS  $0.01   $0.35   $0.35   $0.35   $0.35   $0.26   $0.34   $0.35
+MQ-1C Gray Eagle    $0.02   $0.02   $0.02   $0.02   $0.25   $0.02   $0.26
+Source: CRS analysis of DOD, Program Acquisition Cost by Weapon System , July 2025; FY2026 Procurement Programs (P -1) and Research, Development, Test & Evaluation
+Programs  (R-1) spreadsheets; FY2026 military department budget justification books;  H.Rept. 119 -231; S.Rept. 119 -39; H.Rept. 119 -162; S.Rept. 119 -52; “Joint Explanatory
+Material Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on Armed Services, on S. 1071,” Congressional Record , vol. 171, no. 208
+(December 10, 2025), pp. H5571 -H5764 ; and “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on Appropriations, on
+H.R. 714 8, Consolidated Appropriations Act, 2026; and  H.R. 7147 , Department of Homeland Security Appropriations Act, 2026,” Congressional Record , vol. 172, no. 15
+(January 22, 2026), pp. H1353 -H1909.
+Notes:  Figures rounded to the nearest hundred th. Figures include funding for aircraft spares and repair  parts. “Recon.” stands for reconciliation.
+a. CRS analysis of the column entitled “FY 2026 Reconciliation Request” in FY2026 DOD budget docum ents, FY2026 Procurement Programs (P -1) and Research,
+Development, Test & Evaluation Programs (R -1), and in FY2026 military department budget justification books. See “ Background ” for more information.
+b. CRS analysis of what DOD characterizes as its “FY 2026 Disc. Request,” or base budget, as in the discretionary funds that DOD  requested Congress authorize and
+appropria te for FY2026.
+c. HAC reported its version of the Department of Defense Appropriations Act, 2026 ( H.R. 4016 ), before DOD released the details of its budget request on June 26,
+2025. Th e committee appears  to have based its markup on FY2025 enacted DOD appropriations and on the department’s FY2025 projection of what it anticipate d
+allocating in FY2026. DOD’s projected figures may or may not align with its actual request for FY2026.  See “ Background ” for more information.
+d. H.Rept. 119 -162 and the explanatory statement that accompanied the negotiated version of the FY2026 DOD appropriations  act did not include funding table
+quantities .
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   9 Communications  and Space -Based Systems
+Communications Systems
+In its FY2026 budget submission to Congress, DOD  requested  $23.2 billion  in procurement and
+RDT&E funding for command, control, communications, computers, and intelligence (C4I)
+systems.32 In its discretionary budget proposal , DOD requested $1.2 billion  in base budget
+procurement and RDT&E funding  for the selected C4I systems  detailed in Table 2 in FY2026 .33
+Of the funding that DOD assumed Congress would provide in the 2025 reconciliation law, DOD
+estimated that it would not allocate reconciliation funds to the selected C4I systems.34
+The enacted FY2026 NDAA authorized the amount of discretiona ry funding requested for the
+selected  C4I systems  (see Table 2).35 The enacted FY2026 DOD appropriations act provided the
+amount of funding requested for the selected C4I systems.
+Space-Based Systems
+In its FY2026 budget submission to Congress, DOD reque sted $34.0 billion in procurement and
+RDT&E funding for space -based systems.36 Of this amount, DOD requested $16.2 billion for the
+selected space -based systems detailed  Table 2.37 In its discretionary budget proposal, DOD
+requested $6.6 billion in base budget funding for the selected space -based systems. Of the
+funding that DOD assumed Congress would provide in the 2025 reconciliation law, DOD
+estimated t hat it would allocate $9.6 billion to the selected space -based systems in FY2026.
+The enacted FY2026 NDAA authorized $7.1 billion for the selected space -based systems (see
+Table 2), $0.5 billion more than requested.  The FY2026 DOD ap propriations act provided $7.4
+billion for the requested space -based systems, $0. 8 billion more than requested . The law provided
+more funding than requested for the Position, Navigation, and Timing program , among other
+changes.38
+32 DOD, Program Acquisition Cost by Weapon System , p. 2 -1.
+33 CRS analysis of DOD FY2026 budget documentation . CRS based its analysis in part on the aircraft programs
+identified in th e “major weapons system summary” table in the annual Program Acquisition Cost by Weapon System
+document. See DOD, Program Acquisition Cost by Weapon System , p. vii .
+34 CRS analysis of DOD’s “FY2026 Reconciliation Request” in its June 26 budget request to Congress. Figures do not
+reflect appropriated amounts in the 2025 reconciliation law ( P.L. 119 -21) and may be subject to change. See
+“Background ” for more information.
+35 CRS was unable to determine how a proposed change to one relevant line item in H.R. 3838  would affect the funding
+authorized for these programs. See H.Rept. 119-231, p. 445.
+36 DOD, Program Acquisition Cost by Weapon System , p. 7 -1.
+37 CRS analysis of DOD FY2026 budget documentation. CRS based its analysis in part on the space -based systems
+programs identified in the “major weapons system summary” table in the  annual Program Acquisition Cost by Weapon
+System  document. See DOD, Program Acquisition Cost by Weapon System , p. viii . CRS was unable to identify the
+relevant line items for the Satellite Communications (SATCOM) Projects, for which DOD requested $5.9 bil lion,
+according to the annual DOD Program Acquisition Cost by Weapon System  summary document.
+38 “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on
+Appropriations, on  H.R. 7148 , Consolidated Appropriations Act, 2026,” Congressional Record , pp. H1485, H1542,
+and H1545.
+CRS -10 T able 2. FY2026 Funding Authorizations and Appropriations for Selected DOD C4I  and Space -Based  Systems
+(in billions of dollars of budget authority and quantities, if available)
+System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+$ # $ # $ # $ # $ # $ #d $ # $ #d
+C4I System
+Handheld, Manpack,
+and Small Form Fit
+Radios    $0.72   $0.72   $0.72   $0.72   $0.26   $0.56   $0.48
+Tactical Networking
+Technology    $0.48   $0.47   $0.48   $0.47   $0.56   $0.48   $0.72
+Space -Based System
+Missile Warning /Missile
+Tracking  (IF11697 ) $9.44   $3.53   $3.32   $3.53   $4.01   $4.19   $3.40   $3.87
+Launch Enterprise
+(IF12900 ) $0.14   $2.31  11 $2.34  11 $2.37  11 $2.37  11 $2.16   $2.29  11 $2.23
+Position, Navigation,
+and Timing    $0.73   $1.09   $0.73   $0.75   $1.11   $0.67   $1.33
+Source: CRS analysis of DOD, Program Acquisition Cost by Weapon System , July 2025; FY2026 Procurement Programs (P -1) and Research, Development, Test , & Evaluation
+Programs (R-1) spreadsheets; FY2026 military department budget justification books;  H.Rept. 119 -231; S.Rept. 119 -39; H.Rept. 119 -162; S.Rept. 119 -52; S. 1071 ; “Joint
+Explanatory Material Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on Armed Ser vices, on  S. 1071 ,” Congressional Record , vol. 171, no.
+208 (December 10, 2025), pp. H5571 -H5764; and “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representativ es Committee on Appropriations,
+on H.R. 7148 , Consolidated Appropriations Act, 2026; and  H.R. 7147 , Depart ment of Homeland Security Appropriations Act, 2026,” Congressional Record , vol. 172, no.
+15 (January 22, 2026), pp. H1353 -H1909.
+Notes: Figures rounded to the nearest hundredth . “Recon.” stands for reconciliation.
+a. CRS analysis of the column entitled “FY 2 026 Reconciliation Request” in FY2026 DOD budget documents, FY2026 Procurement Programs (P -1) and Research
+Development, Test & Evaluation Programs (R -1). See “ Background ” for more information.
+b. CRS analysis of what DOD characterizes as its “FY 2026 Disc. Request,” or base budget, as in the discretionary funds that DOD  requested Congress authorize and
+appropria te for FY2026.
+CRS -11 c. HAC reported its version of the Department of Defense Appropriations Act, 2026 ( H.R. 4016 ), before DOD released the details of its budget request on June 26,
+2025. Th e committee appears  to have based its markup on FY2025 enacted DOD appropriations and on the department’s FY2025 projection of what it anticipate d
+allocating in FY2026. DOD’s projected figures may or may not align with its actual request for FY2026.  See “ Background ” for more information.
+d. H.Rept. 119 -162 and the explanator y statement that accompanied the negotiated version of the FY2026 DOD appropriations act did not include funding table
+quantities.
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   12 Ground Systems
+In its FY202 6 budget submission to Congress, DOD requested  $11.6  billion in procurement and
+RDT&E funding for tactical vehicles, tracked combat vehicles, and weapon systems.39 Of this
+amount, DOD requested a total of $4.6 billion for the selected ground systems detaile d in Table
+3.40 Of the funding that DOD assumed Congress would provide in the 2025 reconciliation law,
+DOD estimated that it would not allocate reconcil iation funds to the selected ground systems in
+FY2026.41
+The enacted FY2026 NDAA authorized $4.7 billion for the selected ground systems, including
+more funding than requested for the Joint Light Tactical Vehicles program (see Table 3).42 The
+enacted FY2026 DOD appropriations act provided $5.0 billion for the selected ground systems,
+$0.4 billion more than requested (see Table 3). The law provided more funding than requested for
+the Paladin Integrated Management the Joint Light Tactical Vehicles programs, and less funding
+than requested for the Armored Multipurpose Vehicle program, among other changes.43
+39 DOD, Program Acquisition Cost by Weapon System , p. 3 -1.
+40 CRS analysis of DOD FY2026 budget documentation . CRS based its analysis in part on the ground systems
+programs identified in the “major weapons system summary” table in the annual Program Acquisition Cost by Weapon
+System  document, as well as on programs of congressional interest. See DOD, Program Acqu isition Cost by Weapon
+System , p. vii .
+41 CRS analysis of DOD’s “FY2026 Reconciliation Request” in its June 26 budget request to Congress. Figures do not
+reflect appropriated amounts in the 2025 reconciliation law ( P.L. 119 -21) and may be subject to change. See
+“Background ” for more information.
+42 “Joint Explanatory Materia l Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on
+Armed Services, on  S. 1071 ,” Congressional Record , p. H5683.
+43 “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on
+Appropriations, on  H.R. 7148 , Consolidated Appropriations Act, 2026,” Congressional Record ” pp. H1435, H1441,
+H1504, and H1505.
+CRS -13 T able 3. FY2026 Funding Authorizations and Appropriations for Selected  DOD Ground Systems
+(in billions of dollars of budget authority and quantities, if available)
+System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Ground Systems  $ # $ # $ # $ # $ # $ #d $ # $ #d
+Tactical Vehicles
+Joint Light Tactical
+Vehicle (IF11729 )   $0.21  138e $0.21  138e $0.41  362e $0.29  138e $0.63   $0.14  138e $0.50
+Family of Heavy
+Tactical Vehicle s   $0.15   $0.15   $0.15   $0.15   $0.18   $0.11   $0.14
+Family of Medium
+Tactical Vehicles    $0.11   $0.11   $0.11   $0.11   $0.10   $0.10   $0.10
+Tracked Vehicles
+M-1 Abrams Tank
+Modifications/
+Upgrades  (IF12495 )   $1.46  30 $1.48  30 $1.46  30 $1.48  30 $0.98   $1.66  45 $1.50
+Amphibious Combat
+Vehicle  (IF11755 )   $0.84  91 $0.84  91 $0.84  91 $0.84  91 $0.84   $0.82  91 $0.83
+Armored Multi -
+Purpose Vehicle
+(IF11741 )   $0.57  86 $0.57  86 $0.57  86 $0.57  86 $0.57   $0.43  60 $0.43
+XM30 Combat Vehicle
+(IF12094 )   $0.39   $0.39   $0.39   $0.39   $0.39   $0.38   $0.37
+Paladin Integrated
+Management    $0.26  10 $0.26  10 $0.26  10 $0.26  10 $0.73   $0.17  5 $0.73
+Stryker Family of
+Armored Vehicles
+(R44229 )   $0.15   $0.15   $0.15   $0.15   $0.54   $0.04   $0.04
+CRS -14 System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Ground Systems  $ # $ # $ # $ # $ # $ #d $ # $ #d
+M10 Booker  (IF11859 )   $0.08   $0.08   $0.08   $0.08   $0.02   $0.01   $0.01
+Weapons
+Next Generation Squad
+Weapon    $0.39   $0.39   $0.39     $0.22   $0.52   $0.39
+Source: CRS analysis of DOD, Program Acquisition Cost by Weapon System , July 2025; FY2026 Procurement Programs (P -1) and Research, Development, Test & Evaluation
+Programs  (R-1) spreadsheets; FY2026 military department budget justification books; H.Rept. 119 -231; S.Rept. 119 -39; H.Rept. 119 -162; S.Rept. 119 -52; “Joint Explanatory
+Material Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on Armed Services, on  S. 1071 ,” Congressional Record , vol. 171, no. 208
+(December 10, 2025), pp. H5571 -H5764; and “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on Appropriations, o n
+H.R. 7148 , Consolidated Appropriations Act, 2026; and  H.R. 7147 , Department of Homeland Security Appropriations Act , 2026,” Congressional Record , vol. 172, no. 15
+(January 22, 2026), pp. H1353 -H1909.
+Notes: Figures rounded to the nearest hundredth . “Recon.” stands for reconciliation.
+a. CRS analysis of the column entitled “FY 2026 Reconciliation Request” in FY2026 DOD bud get documents, FY2026 Procurement Programs (P -1) and Research
+Development, Test & Evaluation Programs (R -1). See “ Background ” for more information.
+b. CRS analysis of what DOD characterizes as its “FY 2026 Disc. Request,” or base budget, as in the discretionary funds that DOD req uested Congress authorize and
+appropriate for FY2026.
+c. HAC reported its version of the Department of Defense Appropriations Act, 202 6 (H.R. 4016 ), before DOD released the details of its budget request on June 26,
+2025. The committee appears to have based its markup on FY2025 enacted DOD appropriations and on the  department’s FY2025 projection of what it anticipated
+allocating in FY2026. DOD’s projected figures may or may not align with its actual request for FY2026.  See “ Background ” for more information.
+d. H.Rept. 119 -162 and the explanatory statement that accompanied the negotiated versio n of the FY2026 DOD appropriations act did not include funding table
+quantities.
+e. Reflects only the Marine Corps ’ quantity of the Joint Light Tactical Vehicle. The legislative funding tables did not include quantities for the Air Force, wh ich
+requested 1 05 vehicles , nor for the Army, which did not request funding to procure new vehicles.
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   15 Hypersonic Weapons
+In its FY2026 budget submission to Congress, DOD requested $13.4 billion in procurement and
+RDT&E funding for offensive and defense hypersonic warfare programs.44 Of this amount, DOD
+requested a total of $3. 0 billion for the selected hypersonic warfare programs detailed in Table
+4.45 In its discretionary budget proposal, DOD requested $ 2.9 billion in base b udget funding for
+the selected hypersonic warfare programs. Of the funding that DOD assumed Congress would
+provide in the 2025 reconciliation law, DOD estimated that it would allocate $0.1 billion  to the
+selected hypersonic warfare programs in in FY2026.
+The enacted FY2026 NDAA authorized $3.2 billion for the selected hypersonic weapons (see
+Table 4), including more funding than requested for the Air Force AGM -183A Air -Launch Rapid
+Response Weapon.46 The FY2026 DOD appropriations act provided  the amount requested  for the
+selected hyperso nic weapons .
+44 DOD, Program Acquisition Cost by Weapon System , p. 8 -1.
+45 CRS analysis of DOD FY2026 budget documentation . CRS based its analysis in part on the hypersonic weapon
+systems programs identified in the “major weapons system summary” table in the annua l Program Acquisition Cost by
+Weapon System  document. See DOD, Program Acquisition Cost by Weapon System , p. viii . CRS was unable to identify
+certain line items for the Hypersonic Defenses pr ogram . DOD  reported  request ing $2.7 billion  for such program ,
+according to the annual DOD Program Acquisition Cost by Weapon System  summary document.
+46 “Joint Explanatory Material Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on
+Armed Services, on  S. 1071 ,” Congressional Record , p. H5685.
+CRS -16 T able 4. FY2026 Funding Authorizations and Appropriations for Selected DOD Hypersonic Weapons  Programs
+(in billions of dollars of budget authority and quantities, if available)
+System Type and
+Name (relevant CRS
+produc t, if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Hypersonic
+Weapons  (R45811 ) $ # $ # $ # $ # $ # $ #d $ # $ #d
+Long-Range Hypersonic
+Weapon  $0.09   $0.89   $0.89   $0.90   $0.89   $0.96   $0.89   $0.89
+Conventional Prompt
+Strike    $0.87   $0.87   $0.87   $0.87   $0.66   $0.77   $0.84
+Hypersonic Attack
+Cruise Missile    $0.80   $0.81   $0.80   $0.80   $0.48   $0.80   $0.84
+AGM -183A Air -
+Launched Rapid
+Response Weapon    $0.39   $0.39   $0.67   $0.62     $0.57   $0.36
+Source: CRS analysis of DOD, Program Acquisition Cost by Weapon System , July 2025; FY2026 Procurement Programs (P -1) and Research, Development, Test & Evaluation
+Programs (R-1) spreadsheets; FY2026 military department budget justification books;  H.Rept. 119 -231; S.Rept. 119 -39; H.Rept. 119 -162; and S.Rept. 119 -52; “Joint
+Explanatory Material Statem ent Submitted by Mr. Rogers of Alabama, Chair of the House Committee on Armed Services, on  S. 1071 ,” Congressional Record , vol. 171, no.
+208 (December 10, 2025), pp. H5571 -H5764; and “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on Appropriations,
+on H.R. 7148 , Consolidated Appropriations Act, 2026; and  H.R. 7147 , Department of Homeland Security Appropriations Act, 2026,” Congressional Record , vol. 172, no.
+15 (January 22, 2026), pp. H1353 -H1909.
+Notes: Figures rounded to the nearest hundredt h. “Recon.” stands for reconciliation.  CRS was unable to identify certain line items for the Hypersonic Defenses projec t.
+a. CRS analysis of the column entitled “FY 2026 Reconciliation Request” in FY2026 DOD budget documents, FY2026 Procurement Programs (P -1) and Research
+Development, Test & Evaluation Programs (R -1). See “ Background ” for more information.
+b. CRS analysis of what DOD characterizes as its “FY 20 26 Disc. Request,” or base budget, as in the discretionary funds that DOD requested Congress authorize and
+appropriate for FY2026.
+c. HAC reported its version of the Department of Defense Appropriations Act, 2026 ( H.R. 4016 ), before DOD released the details of its budget request on June 26,
+2025. The committee appears to have based its markup on FY2025 enacted DOD appropriations and on the department’s FY2025 proj ection of what it antic ipated
+allocating in FY2026. DOD’s projected figures may or may not align with its actual request for FY2026.  See “ Background ” for more information.
+d. H.Rept. 119 -162 and the explanatory statement that accompanied the negotiated version of the defense appropriations did not include funding table quantities.
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   17 Missile Defense
+In its FY2026 budget submission to Congress, DOD requested  $40.2 billion in procurement and
+RDT&E funding for missile defeat and defense programs.47 Of this amount, DOD requested a
+total of $12. 7 billion for the selected missile defeat and defense programs detailed in Table 5.48 In
+its discretionary budget proposal, DOD requested $10. 3 billion in base budget procurement and
+RDT&E funding for the selected missile defense programs. Of the funding that DOD assumed
+Congress would provide in the 2025 reconciliation law, DOD estimated that it would allocate
+approximately $2. 4 billion to the selected missile defense programs in FY2026.
+The enacted FY2026 NDAA  authorized $13.2 billion for the selected missile defeat and  defense
+programs (see Table 5), $2.9 billion more than requested. The law authorize d more funding  than
+requested for the Army Patriot Advanced Capability -3 (PAC -3) Missile Segment Enhancement
+(MSE) , the Army Terminal High Altitude Area Defense (THAAD) system, and the Navy Aegis
+system , among other changes.49 The enacted NDAA  did not include a HASC proposal to
+authorize less funding than requested  for the Air Force Ground -based Midcourse Defense
+program, nor a SASC proposal to authorize more funding than requested for the PATRIOT
+Lower -Tier Air and Missile Defense Sensor program.50
+The enacted FY2026 DOD appropriations act provided $11.1 billion fo r the selected missile
+defense programs (see Table 5), $0.8 billion more than requested. The law provided more
+funding than requested for the Army PAC -3 MSE program, among other changes.51
+47 DOD, Program Acquisition Cost by Weapon System , p. 4 -1.
+48 CRS analysis of DOD FY2026 budget documentation . CRS based its analysis in part on the missile defense
+programs identified in the “major weapons system summary” table in the annual Program Acquisition Cost by Weapon
+System  document, as well as on programs of congressional interest.  See DOD, Program Acquisition Cost by Weapon
+System , p. vii .
+49 “Joint Explan atory Material Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on
+Armed Services, on  S. 1071 ,” Congressional Record , pp. H5674, H5688.
+50 H.Rept. 119 -231, p. 515; and S.Rept. 119 -39, p. 384.
+51 “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on
+Appropriations, on  H.R. 7148 , Consolidated Appropriations Act, 2026,” Congressional Record , p. H1432.
+CRS -18 T able 5. FY2026 Funding Authorizations and Appropriations for Selected  DOD Missile Defense Systems
+(in billions of dollars of budget authority and quantities, if available)
+System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Missile Defense  $ # $ # $ # $ # $ # $ #d $ # $ #d
+Ground -based
+Midcourse Defense  $0.06  $2.45   $2.05   $2.45   $2.45   $1.98   $2.33   $2.33
+PATRIOT Lower -Tier
+Air and Missile Defense
+Sensor (IF12297 ) $0.67  $1.84  $1.84  $2.45 4 $1.84   $1.75  $1.73  $1.73
+Aegis (RL33745 ) $0.45  $1.36 12e $1.36 12e $1.76 12e $1.76  12e $1.43  $1.78 12e $1.79
+Indirect Fire Protection
+Capability (IF12421 ) $0.19  $1.08   $1.07   $1.27   $1.07   $1.03   $0.92  $0.97
+Terminal High Altitude
+Air Defense (IF12645 ) $0.46 12 $1.07  25 $1.08  25 $1.22  25 $1.79  25 $1.03   $1.95  71 $1.33
+PAC-3 Missile Segment
+Enhancement  $0.41 12 $0.95 233 $0.95 233 $1.49  233 $2.69  233 $0.88  $3.04  233 $1.45
+Maneuver SHORAD
+(IF12397 ; R48477 ) $0.11  $0.92 44 $0.92 44 $0.92 44 $0.92  44 $0.29  $0.87 44 $0.87
+Medium -Range
+Intercept Capability  $0.06  $0.65  $0.65  $0.65  $0.65   $0.47  $0.65  $0.65
+Source: CRS analysis of DOD, Program Acquisition Cost by Weapon System , July 2025; FY2026 Procurement Programs (P -1) and Research, Development, Test & Evaluation
+Programs  (R-1) spreadsheets; FY2026 military department budget justification books;  H.Rept. 119 -231; S.Rept. 119 -39; H.Rept. 119 -162; S.Rept. 119 -52; “Joint Explanatory
+Material Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on Arme d Services, on  S. 1071,” Congressional Record , vol. 171, no. 208
+(December 10, 2025), pp. H5571 -H5764,  https://www.congress.gov/ 119/crec/2025/ 12/10/171/208/CREC -2025-12-10-pt2-PgH5571 -2.pdf; and “Explanatory Statement
+Submitted by Mr. Cole, Chair of the House of Representatives Committee on Appropriations, on  H.R. 7148, Consolidated Appropriations Act, 2026; and  H.R. 7147,
+Department of Homela nd Security Appropriations Act, 2026,” Congressional Record , vol. 172, no. 15 (January 22, 2026), pp. H1353 -H1909.
+Notes: Figures rounded to the nearest hundredth . “Recon.” stands for reconciliation.
+a. CRS analysis of the column entitled “FY 2026 Reconciliat ion Request” in FY2026 DOD budget documents, FY2026 Procurement Programs (P -1) and Research
+Development, Test & Evaluation Programs (R -1). See “ Background ” for more information.
+CRS -19 b. CRS analysis of what DOD characterizes as its “FY 2026 Disc. Request,” or base budget, as in the discretionary funds that DOD  requested Congress authorize and
+appropriate for FY2026.
+c. HAC reported its version of the Department of D efense Appropriations Act, 2026 ( H.R. 4016 ), before DOD released the details of its budget request on June 26,
+2025. The committee appears to have based its markup on FY2025 enacted DOD appropriations and on the department’s FY2025 proj ection of what it anticipated
+allocating in FY2026. DOD’s projec ted figures may or may not align with its actual request for FY2026. See “ Background ” for more information.
+d. H.Rept. 119 -162 and the explanatory statement that accompanied the negotiated version of the FY2026 DOD appropriations act did not include funding table
+quantities.
+e. Reflects the quantity of Standard Missile -3 (SM -3) Block IIA missiles.
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   20 Missiles and Munitions
+In its FY2026 budget submission to Congress, DOD  requested  $35.7 billion in procurement and
+RDT&E funding for missile and munitions programs.52 Of this amount, DOD requested a total of
+$30.2 billion for the selected missile and munitions programs detailed in  Table 6.53 In its
+discretionary budget proposal, DOD requested $22.6 billion in base budget funding for the
+selected missile and munitions programs.  Of the funding that DOD assumed Congress would
+provide in the 2025 reconciliation law, DOD estimated that it would allocate $7.6 billion to the
+selected missile and munitions programs in FY2026.
+The enacted FY2026 NDAA authorized $25.0 billion for the selected missile and munitions
+programs  (see Table 6), $2.4 billion more than requested . The law authorize d more  funding  than
+requested for the Air Force LGM -35A Sentinel and the Army Precision Strike Missi le, among
+other changes.54 The enacted NDAA  did not include a SASC proposal to authorize more funding
+than requested for the Navy Tactical Tomahawk Cruise Missile program , among other
+proposals.55
+The enacted FY2026 DOD appropriations act provided $23.9 billion for the selected missile and
+munitions programs (see Table 6), $1.3 billion more than requested.  The law provided more
+funding than requested for the ammunition procurement, among other changes.56 The law did not
+include a SAC proposal to provide more funding than requested for the Air Force Joint Air -to-
+Surface Standoff Missile.57
+52 DOD, Program Acq uisition Cost by Weapon System , p. 5 -1.
+53 CRS analysis of DOD FY2026 budget documentation . CRS based its analysis in part on the missile and munitions
+programs identified in the “major weapons system summary” table in the annual Program Acquisition Cost by  Weapon
+System  document, as well as selected programs of congressional interest. See DOD, Program Acquisition Cost by
+Weapon System , p. viii .
+54 “Joint Explanatory Material Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on
+Armed Services, on  S. 1071 ,” Congressional Record , p. H5674, H5704.
+55 S.Rept. 119 -39, p. 396.
+56 “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on
+Appropriations, on  H.R. 7148 , Consolidated Appropriations Act, 2026,” Congressional Record , pp. H1438 -1439,
+H1455, and H1479.
+57 S.Rept. 119 -52, p. 130.
+CRS -21 T able 6. FY2026 Funding Authorizations and Appropriations for Selected DOD Missiles and Munitions
+(in billions of dollars of budget authority and quantities, if available)
+System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Missile or Munition
+(IF11353 ) $ # $ # $ # $ # $ # $ #d $ # $ #d
+Air-to-Air
+Joint Advanced Tactical
+Missile    $1.10   $1.10   $1.10   $1.10     $1.24   $1.10
+Advanced Medium
+Range Air -to-Air
+Missile  $0.30  257 $0.51  277 $0.51  277 $1.21  277 $0.59  277 $0.82   $1.03  277 $0.53
+Air Intercept Missile    $0.31  319 $0.31  319 $0.31  319 $0.31  319 $0.24   $0.40  319 $0.31
+Air-to-Surface
+Long-Range Standoff
+Weapon    $1.05   $1.05   $1.20   $1.05   $0.79   $0.64   $0.79
+Long-Range Anti -Ship
+Missile  $0.40  89 $0.76  149 $0.76  149 $0.98  169 $0.92  143 $0.95   $0.81  149 $1.13
+Advanced Anti -
+Radiation Guided
+Missile Extended Range    $0.76  246 $0.76  246 $0.76  246 $0.76  246 $0.62   $0.66  246 $0.66
+Joint Air -to-Surface
+Standoff Missile  $0.49  245 $0.56  144 $0.56  144 $0.89  144 $0.72  144 $0.86   $1.56  144 $0.56
+Small Diameter Bomb II    $0.44  1079 $0.44  1079 $0.44  1079 $0.44  1079 $0.31   $0.61  1086 $0.44
+Joint Air -to-Ground
+Missile    $0.22  455 $0.22  455 $0.22  455 $0.22  455 $0.23   $0.22  455 $0.22
+Small Diameter Bomb I    $0.04  511 $0.04  511 $0.19  511 $0.04  511 $0.04   $0.31  511 $0.04
+CRS -22  System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Missile or Munition
+(IF11353 ) $ # $ # $ # $ # $ # $ #d $ # $ #d
+Family of Affordable
+Mass Missile  $0.66  3010
+Joint Strike Missile  $0.38  112         $0.17
+Other
+Ammunition  $0.13   $5.77  2298e $5.76  2298e $6.08  2298e $5.99  2298e $4.79   $6.63  2298e $6.65
+Chemical
+Demilitarization    $0.21   $0.21   $0.21   $0.21   $0.21   $0.21   $0.21
+Surface -to-Air
+Standard Missile -6 $0.63  129 $0.60  10 $0.49  10 $0.66  10 $0.55  10 $1.40   $0.60  10 $0.90
+Sea Sparrow    $0.58  305 $0.58  305 $0.58  305 $0.58  305 $0.54   $0.58  305 $0.58
+Stinger  $0.08   $0.43   $0.43   $0.45   $0.43   $0.06   $0.46   $0.43
+Rolling Airframe Missile    $0.14  123 $0.14  123 $0.14  123 $0.14  123 $0.13   $0.14  123 $0.14
+Surface -to-Surface
+Trident II Ballistic
+Missile Modifications
+(IF10519 ) $0.06   $3.68   $3.68   $3.68   $3.68   $3.21   $3.65   $3.65
+LGM-35A Sentinel
+(IF11681 ) $1.50   $2.65   $3.05   $4.65   $3.85   $2.04   $2.65   $2.65
+Guided Multiple Launch
+Rocket System    $1.26  6f $1.26  6f $1.26  6f $1.26  6f $1.24   $1.51  6f $1.26
+Strategic Mid -Range
+Fires System  / Typhon    $0.50   $0.50   $0.60   $0.56   $0.24   $0.48   $0.50
+Javelin    $0.37  705 $0.37  705 $0.37  705 $0.37  705 $0.36   $0.38  705 $0.37
+CRS -23  System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Missile or Munition
+(IF11353 ) $ # $ # $ # $ # $ # $ #d $ # $ #d
+Tactical Tomahawk
+Cruise Missile  $0.67   $0.28   $0.28   $0.51   $0.28   $0.87   $0.26   $0.27
+Naval Strike Missile    $0.22  106 $0.22  106 $0.22  106 $0.22  106 $0.25   $0.22  106 $0.26
+Precision Strike Missile  $0.40   $0.16  45 $0.16  45 $0.48  299 $0.48  299 $0.36   $0.45  45 $0.27
+Sea-Launched Cruise
+Missile -Nuclear
+(IF12084 ) $1.93     $0.10   $0.32   $0.21
+Source: CRS analysis of DOD, Program Acquisition Cost by Weapon System , July 2025; FY2026 Procurement Programs (P -1) and Research, Development, Test & Evaluation
+Programs  (R-1) spreadsheets; FY2026 military department budget justification books;  H.Rept. 119 -231; S.Rept. 119 -39; H.Rept. 119 -162; S.Rept. 119 -52; “Joint Explanatory
+Material Statement Submitted by Mr. Rog ers of Alabama, Chair of the House Committee on Armed Services, on  S. 1071,” Congressional Record , vol. 171, no. 208
+(December 10, 2025), pp. H5571 -H5764; and “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on  Appropriations, on
+H.R. 7148, Consolidated Appropriations Act, 2026; and  H.R. 7147 , Department of Homeland Security Appropriations Act, 2026,” Congressional Record , vol. 172, no. 15
+(January 22, 2026), pp. H1353 -H1909.
+Notes: Figures rounded to the nearest tenth. “Recon.” stands for reconciliation.
+a. CRS analysis of the column entitled “FY 2026 Reconciliation Request” in FY2026 DOD budget documents, FY2026 Procurement Programs (P -1) and Research
+Development, Test & Evaluation Programs (R -1). See “ Background ” for more information.
+b. CRS analysis of what DOD characterizes as its “FY 2026 Disc. Request,” or base budget, as in the discretionary funds that DOD  requested Congress authorize and
+appropriate for  FY2026.
+c. HAC reported its version of the Department of Defense Appropriations Act, 2026 ( H.R. 4016 ), before DOD released the details of its budget request on June 26,
+2025. The committee appears to have based its markup on FY2025 enacted DOD appropriations and on the department’s FY2025 projection of what it anticipated
+allocating in FY2026. DOD’s projec ted figures may or may not align with its actual request for FY2026.  See “ Background ” for more information.
+d. H.Rept. 119 -162 and the explanatory statement that accompanied the negotiated version of did not include funding table quantities.
+e. Quantity figure reflects only the number of Joint Direct Attack Munition (JDAM) bombs .
+f. Marine Corps quantities only. The legislative funding tables did not include quantities of the GMLRS for the Army, which requ ested 5,976  GMLRS rockets, according
+to Army budget just ification documents.
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service   24 Shipbuilding and Maritime Systems
+In its FY2026 budget submission to Congress, DOD requested  $65.0 billion in procurement and
+RDT&E funding for shipbuilding and maritime systems programs.58 Of this amount, DOD
+requested a total of $ 48.1 billion for the selected shipbuilding and maritime systems programs
+detailed in Table 7.59 In its discretionary budget proposal , DOD requested $ 21.3 billion in base
+budget funding for the selected shipbuilding and maritime systems  programs (see Table 7). Of the
+funding that DOD assumed Congress would provide in the 2025 reconciliation law, DOD
+estimated that it would allocate $26.7 billion to the selected shipbuilding and maritime systems
+programs.
+The enacted FY2026 NDAA authorized $25.4 billion for the selected shipbuilding and maritime
+systems programs (see Table 7), $4.1 billion more than requested. The law authorize d more
+funding than requested for the Virgini a-class submarine, Columbia -class submarine, and Arleigh
+Burke -class destroyer , among other changes.60
+The enacted FY2026 DOD appropriations act provided $26.2 billion for the selected shipbuilding
+and maritime s ystems programs (see Table 7), $4.9 billion more than requested.  The law
+provided more funding than requested for the Virginia -class submarine, Arleigh Burke -class
+destroyer, and Medium Landing Ship, among other changes.61
+58 DOD, Program Acquisition Cost by Weapon System , p. 6 -1.
+59 CRS analysis of DOD FY2026 budget documentation . CRS based its analysis in part on the shipbuilding and
+maritime systems programs identified in the “major weapons system summary” table in the annua l Program
+Acquisition Cost by Weapon System  document, as well as selected programs of congressional interest. See DOD,
+Program Acquisition Cost by Weapon System , p. viii .
+60 “Joint Explanatory Material Statement Submitted by Mr. Rogers of Alabama, Chair of the House Committee on
+Armed Services, on  S. 1071 ,” Congressional  Record , pp. H5679, H5680.
+61 “Expl anatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on
+Appropriations, on  H.R. 7148 , Consolidated Appropriations Act, 2026,” Congressional Recor d, pp. H1457 -H1458
+CRS -25 T able 7. FY2026 Funding Authorizations and Appropriations for Selected  DOD Shipbuilding and Maritime Systems Programs
+(in billions of dollars of budget authority and quantities, if available)
+System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Shipbuilding
+Program  $ # $ # $ # $ # $ # $ #d $ # $ #d
+Amphibious Craft
+San Antonio -class
+Amphibious Ship
+(R43543 ) $2.69  1 $0.11   $0.11   $0.11   $0.10   $0.08   $0.20   $0.11
+America -class
+Amphibious Assault
+Ship (R43543 ) $3.99  1 $0.05   $0.05   $0.05   $0.05   $0.06   $0.14   $0.05
+Medium Landing Ship
+(R46374 ) $1.96  9 $0.01   $0.01   $0.01   $0.01   $0.23   $0.01   $0.81
+Carriers
+Gerald R. Ford -class
+Nuclear Aircraft
+Carrier  (RS20643 )   $3.62   $3.62   $3.62   $3.62   $3.49   $3.63   $3.62
+(Aircraft Carrier)
+Refueling Complex
+Overhaul    $2.27   $2.26   $2.27   $2.27   $1.83   $2.07   $2.07
+Frigates/Destroyers
+Arleigh Burke -class
+Destroyer (RL32109 ) $5.58  2 $0.36   $0.86  1 $8.04  2 $1.26   $5.46   $2.11   $2.11
+Constellation -class
+Guided Missile Frigate
+(R44972 )/FF(X)  Frigate    $0.08   $0.08   $0.08     $0.18   $0.18   $0.43e
+Other
+CRS -26 System Type and
+Name (relevant CRS
+product , if available ) FY2026 DOD Request  Authorization  Appropriation
+Recon.
+Requesta Base Requestb H.R. 3838  S. 2296  Enacted
+(P.L. 119 -60) H.R. 4016c S. 2572  Enacted
+(P.L. 119 -75)
+Shipbuilding
+Program  $ # $ # $ # $ # $ # $ #d $ # $ #d
+John Lewis -class Fleet
+Replenishment Oiler
+(R43546 ) $1.93  2 $0.09   $0.09   $0.09   $0.09   $1.69   $0.17   $0.09
+Unmanned Undersea
+Vehicles  $0.32   $0.05   $0.05   $0.05   $0.05   $0.15   $0.05   $0.03
+Medium and Large
+Unmanned Surface
+Vessels  (R45757 ) $1.19   $0.03   $0.03   $0.03   $0.03   $0.15   $0.03
+Submarines
+Columbia -class Ballistic
+Missile Submarine
+(R41129 ) $1.93   $9.55  1 $9.55  1 $9.56  1 $10.26  1 $10.84   $12.95  1 $9.85
+Virginia -class
+Submarine (RL32418 ) $7.13   $5.08  1 $6.08  1 $6.28  1 $7.62   $11.98   $7.62  1 $7.01
+Source: CRS analysis of DOD, Program Acquisition Cost by Weapon System , July 2025; FY2026 Procurement Programs (P -1) and Research, Development, Test & Evaluation
+Programs (R-1) spreadsheets; FY2026 military department budget justification books;  H.Rept. 119 -231; S.Rept. 119 -39; H.Rept. 119 -162; S.Rept. 119 -52; “Joint Explanatory
+Material Statement Submitted by Mr. Rogers of Alaba ma, Chair of the House Committee on Armed Services, on  S. 1071,” Congressional Record , vol. 171, no. 208
+(December 10, 2025), pp. H5571 -H5764; and “Explanatory Statement Submitted by Mr. Cole, Chair of the House of Representatives Committee on Appropriati ons, on
+H.R. 7148 , Consolidated Appropriations Act, 2026; and  H.R. 7147 , Department of Homeland Security Appropriations Act, 2026,” Congressional Record , vol. 172, no. 15
+(January 22, 2026), pp. H1353 -H1909.
+Notes: Figures rounded to the nearest hundredth . “Recon.” stands for reconciliation.
+a. CRS analysis of the column entitled “FY 2026 Reconciliation Request” in FY2026 DOD budget documents, FY2026 Procurement Programs (P -1) and Research
+Development, Test & Evaluation Programs (R -1). See “ Background ” for more information.
+b. CRS analysis of what DOD characterizes as its “FY 2026 Disc. Request,” or base budget, as in the discretionary funds that DOD  requested Congress authorize and
+appropriate for FY2026.
+c. HAC reported its version of the Department of Defense Appropriations Act, 2026 ( H.R. 4016 ), before DOD released the details of its budget request on June 26,
+2025. The committee appears to have based its markup on FY2025 enacted DOD appropriations and on the department’s FY2025 proj ection of what it anticipated
+allocating in FY2026. DOD’s projected figures may or may not align with its actual request for FY2026.  See “ Background ” for more information.
+CRS -27 d. H.Rept. 119 -162 and the explanatory statement that accompanied the negotiated version of the FY2026 DOD appropriations act did not include funding table
+quantities.
+e. On November  25, 2025, the Navy cancelled the Constellation -class frigate program. Figure includes funding for a different class of Navy frigates, the FF(X).
+FY2026 Defense Budget: Funding for Selected Weapon Systems
+Congressional Research Service  R48860  · VERSION 3 · NEW  28
+Author Information
+Daniel M. Gettinger
+Analyst in U.S. Defense Policy
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

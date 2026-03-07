@@ -1,0 +1,690 @@
+History of the Federal Communications
+Commission’s Spectrum Auctio n Authority :
+1993-2025
+February 23, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R48861
+Congressional Research Service
+SUMMARY
+History of the Federal Communications
+Commission’s Spectrum Auction Authority:
+1993 -2025
+Radio spectrum (“spectrum”) is the continuum of frequencies used to  provide wireless services,
+such as radio broadcasting, mobile communications, and satellite services. Certain fr equency
+bands are allocated for specific services; this means that not all frequencies are available to all
+users and for all uses. Thus, spectrum is often described as a finite and valuable resource. In
+1934, Congress created the Federal Communications Co mmission (FCC)  and charged it with
+manag ing and allocat ing nonfederal use of spectrum. It grants licenses to nonfederal entities to
+use specific frequencies and sets terms and conditions to serve the public interest, avoid
+interference among  users, and promote the most efficient use of spectrum.
+In 1993, Congress authorized the FCC to use competitive bidding (i.e., auctions) to grant licenses
+for rights to use specific frequencies for commercial wireless communications. That general spectrum auction authority was
+originally due to expire on September 30, 1998, but Congress extended it several times. In 2012, Congress granted a long -
+term (10 -year) extension, as part of the Middle Class Tax Relief and Job Creation Act of 2012 ( P.L. 112 -96), which was set
+to expire on September 30, 2022. Four  additional exte nsions were made during the 117th Congress  that allowed the FCC to
+conduct spectrum auction activities through March 9, 2023, when t he FCC ’s spectrum auction authorit y expired. Loss of
+spectrum auction authority meant that the FCC could not auction any new  spectrum  bands to meet existing and future
+demands for wireless communications, accommodate new technologies that often lead to economic growth, improve spectral
+efficiencies, or advance U.S . government priorities through spectrum allocation . Loss of spec trum auction authority also
+meant loss of proceeds from such auctions .
+During the approximately two years that the general auction authority remained lapsed, Congress debated a number of
+options to reinstate it , including stand -alone bills that would extend the FCC’s auction authority and comprehensive spectrum
+packages that would identify bands for future auctions, enhance interagency planning and coordination on spectrum,
+designate funding from spectrum auction proceeds to specific programs (e.g., im provements to 911 centers, investment in
+spectrum -sharing research and development), and extend the FCC’s auction authority . During  the 117th Congress, three bills
+and one Senate amendment would have extend ed the FCC’s auction authority  (H.R. 7783 , H.R. 7624 , S. 4117 , and S.Amdt.
+6585 ). None became law. In the 118th Congress, four bills would have extended or reinstated the authority ( H.R. 1 108, H.R.
+3345 , H.R. 3565 , and S. 650 ). None became law.
+The FCC’s spectrum auction authority was reinstated during the 119th Congress in P.L. 119 -21, the FY2025 reconciliation
+law (commonly referred t o as “the One Big Beautiful Bill Act”) . The law , enacted July 4, 2025 , includes  several spectrum
+provisions . Specifically, Title IV, Section 40002 , reinstates the FCC’s spectrum auction authority  for nine years, through
+September 30, 2034 . It also  directs the auction of 800 megahertz of spectrum for commercial wireless use  and sets timelines
+for spectrum auctions, designed to meet budgetary goals agreed to in the Concurrent Resolution on the Budget for Fiscal
+Year 2025 ( H.Con.Res. 14 ). The auctions are expected to generate over $85 billion in offsetting receipts from FY2025 to
+FY2034, according to the Congressional Budget Office.
+Much of the spectrum in the range targeted in P.L. 119 -21 is already allocated for specific uses and assigned to specific users .
+Reallocation of services from one band to ano ther, as called for in the act,  is often complex , and it takes time  to assess costs
+to incumbent users and impact s on services . Those factors mean that  the FCC and the National Telecommunications and
+Information Administration, which manages and allocates spectrum for federal use, may face challenges in identifying 800
+megahertz of spectrum for reallocation and auction in the time lines  specified in the act. Congress may be interested in
+monitoring the spectrum auctions  outlined in P.L. 119 -21, including  the bands selected for reallocation ; interagency
+coordination on reallocation ; impacts on incumbent users, including federal agency users ; costs of reallocation ; and proceeds
+generated.
+R48861
+February 23, 2026
+Patricia Moloney Figliola
+Specialist in Internet and
+Telecommunications
+Policy
+Jill C. Gallagher
+Specialist in
+Telecommunications
+Policy
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   Contents
+Introduction  ................................ ................................ ................................ ................................ ..... 1
+History of the FCC’s Spec trum Auction Authority (1981 -2022) ................................ .....................  2
+Omnibus Budget Reconciliation Act of 1993 ( P.L. 103 -66) ................................ .....................  2
+Balanced Budget Act of 1997 ( P.L. 105 -33) ................................ ................................ .............  3
+Deficit Reduction Act of 2005 ( P.L. 109 -171) ................................ ................................ ..........  3
+Digital T elevision Delay Act ( P.L. 111 -4) ................................ ................................ .................  3
+Middle Class Tax Relief and Job Creation Act of 2012 ( P.L. 112 -96) ................................ ...... 3
+Spectrum Pipeline Act of 2015 ( P.L. 114 -74)................................ ................................ ............  3
+Conclusion  ................................ ................................ ................................ ................................  4
+Legislative Activity in the 117th Congress to Extend the FCC’s Spectrum Auction
+Authority  ................................ ................................ ................................ ................................ ...... 4
+Short -Term Extensions of the FCC’s Auction Authority in the 117th Congress  ........................  4
+Other Legislati ve Proposals in the 117th Congress to Extend the FCC’s Auction
+Authority  ................................ ................................ ................................ ................................  4
+Spectrum Innovation Act of 2022 ( H.R. 7624 ) ................................ ................................ ... 5
+Spectrum Innovation Act of 2022 ( S. 4117 ) ................................ ................................ ....... 5
+Extending America’s Spectrum Auction Leadership Act of 2022 ( H.R. 7783 ) ..................  6
+S.Amdt. 6585  ................................ ................................ ................................ ......................  6
+Conclusion  ................................ ................................ ................................ ................................  6
+Proposals in the 118th Congress to Extend or Reinstate the FCC’s Auction Authority  ...................  6
+Stand -Alone Bills in the 118th Congress to Extend or Reinstate the FCC’s Spectrum
+Auction Authority  ................................ ................................ ................................ ..................  7
+Comprehensive Spectrum Proposals in the 118th Congress  ................................ ......................  7
+Spectrum Auction Reauthorization Act of 2023 (H.R. 3565)  ................................ .............  7
+Spectrum Pipeline Act of 2024 (S. 3909)  ................................ ................................ ...........  8
+Spectrum and National Security Act of 2024 (S. 4207)  ................................ ......................  8
+Other Legislation Related to Spectrum Auction Authority in the 118th Congress  .....................  9
+FAA Reauthorization Act of 2024 (P.L. 118 -63) ................................ ................................ . 9
+Saving Americans’ Valuable Earnings on the National ACP Act (H.R. 8709)  ..................  10
+Supporting National Security with Spectrum Act (H.R. 93 40) ................................ .........  10
+Servicemember Quality of Life Improvement and National Defense Authorization
+Act for Fiscal Year 2025 (P.L. 118 -159) ................................ ................................ ........  10
+Consequences of the Lapse in the FCC’s Spectrum Auction Authority  ................................ .........  11
+Awarding Licenses for Completed Auctions  ................................ ................................ ............  11
+Spectrum Planning  ................................ ................................ ................................ ...................  11
+Reinstatement of the FCC’s Spectrum Auction Authority in the 119th Congress  ..........................  12
+Figures
+Figure 1. The FCC’s Spectrum Auction Authority: Tim eline of Changes  ................................ ..... 15
+Contacts
+Author Information  ................................ ................................ ................................ ........................  16
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   1 Introduction
+Radio spectrum (“spectrum”) is the continuum of frequencies allocated for radio  transmissions
+that enable wireless communications, such as radio and television broadcasting, mobile (i.e.,
+cellular) communications, maritime and aeronautical radio communications, satellite
+communications, radar detection, and more. Certain frequency bands are allocat ed for specific
+services; this means that not all frequencies are available to all users and for all uses. Thus,
+spectrum is often described as a finite and valuable resource. Private companies and government
+agencies need spectrum  to provide wireless serv ices. As wireless technology use increas es, so
+does demand for spectrum .
+In 1934, Congress created the Federal Communications Commission (FCC ) and charged it with
+manag ing nonfederal use of spectrum.1 The FCC  grants licenses to nonfederal entities to use
+specific frequencies within those bands and sets terms and conditions to serve the public interest,
+avoid interference among users, and promote the most efficient use of spectrum. According to the
+FCC, “Managing the airwaves is arguably the  FCC ’s most impo rtant function. Nearly every
+commercial device that transmits a wireless signal on a radio frequency, from AM radios to
+satellites to 5G cell phones, must comply with our rules, from licensing to interference.”2 The
+National Telecommunications and Informa tion Administration (NTIA), an agency in the
+Department of Commerce (DOC), manages federal use of spectrum.
+In 1993, Congress authorized the FCC to use competitive bidding (i.e., auctions) to grant licenses
+for rights to use specific frequencies for commer cial wireless communications.3 That authority
+was originally due to expire on September 30, 1998, but Congress has extended it several times ,
+including a long-term extension through September 30, 202 2, which was granted as part of the
+Middle Class Tax Relief and Job Creation Act of 2012 ( P.L. 112 -96).
+Four additional extensions were made during the 117th Congress, which extended the FCC’s
+spectrum auction authority to Ma rch 9, 2023 , as discussed in more detail below . After Congress
+did not come to agreement on terms of an  extension, the FCC’s spectrum auction authority
+expired on March 9, 2023. During the 117th Congress, several pieces of legislation would have
+extended t he FCC’s spectrum auction authority, either as stand -alone legislation or as part of
+comprehensive spectrum legislation ; none were enacted . These bills are discussed below in
+“Legislative Activity  in the 117 th Congress to Extend the FCC’s Spectrum Auction Authority .”
+In the 118th Congress, some Members expressed support for reinstating the FCC’s spectrum
+auction authority, but after some debate , no agreement was reached .4 Proposals include d a stand -
+alone bill; a comprehensive spectrum package that would include, among other things, an
+extension of FCC’s auction authority; and provisions in an annual appropriations bill.  These bills
+are discussed below in “ Proposals in the 118 th Congress to Extend or Reinstate the FC C’s
+Auction Authority .”
+On July 4, 2025,  P.L. 119 -21, the FY2025 reconciliation law (commonly referred to as “the One
+Big Beautiful Bill Act”) , was enacted . Title IV , Section 40002 , of the act reinstated the FCC’s
+1 47 U.S.C. § §301 et seq.
+2 Evan Swarztrauber , host , More Than Seven  Dirty Words , episode 18, “Going Once, Going Infinitely:  How the FCC
+Went from ‘Beauty Contests’  to Spectrum Auctions ,” Federal Communications Commission (FCC), January 19, 2021,
+https://www.fcc.gov/ news -events/ podcast/ going -once -going -infinitely .
+3 47 U.S.C. §309(j) .
+4 Jimm Phillips and Howard Buskirk, “No Hill Consensus on Reconsidering Sept. 30 FCC Spectrum Authority
+Renewal Bid,” Communications Daily , May 1, 2023, https://communicationsdaily.com/ news/ 2023/ 05/01/No-Hill-
+Consensus -on-Reconsidering -Sept-30-FCC -Spectrum -Authority -Renewal -Bid-2304280027 .
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   2 auction authority for nine years, through September 30, 2034 . The auctions and timelines
+included in the act are designed to meet budgetary goals agreed to in H.Con.Res. 14 , a budget
+resolution,  and are expected to generate over $85 billion in offsetting receipts from FY2025 to
+FY2034, according to the Congressional Budget Office  (CBO) .5
+This report provides a brief history of the FCC’s spectrum auction authority ; legislative activity in
+the 117th, 118th, and 119th Congress es aimed at extending or reinstating this auction authority ; and
+a discussion  of the FCC’s current auction authority.
+History of the FCC’s Spectrum Auction Authority
+(1981-2022)
+In 1981, p rior to granting spectrum auction authority to the FCC, Congress added Section 309(i)
+to the Communications Act of 1934 in the Omnibus Budget Reconciliation Act of 1981 ( P.L. 97 -
+35, §1242 ). Section 309(i)  granted  the FCC authority to assign licenses to prequalified applicants
+by random selection (i.e., lottery).6 Under this system, applicants would apply for spectrum
+licenses , and the FCC would randomly assign  them  frequencies . As stated by the FCC in a 1997
+report to Congress, the prequalification process often took many months (20 months in one case),
+and some license winners had “no intention of providing service to the public” and instead “were
+eager to trade th eir license rights for windfall profits.”7 Economists, including those within the
+FCC, advocated for auctions  as a means to distribute spectrum licenses —to “rely on market
+forces to drive spectrum to its most valuable, evolving uses, and to diversi fy owne rship.”8
+Congress has mandated and relied on spectrum auctions as a means to make spectrum available
+for new technologies  and to fund congressional priorities (e.g., public safety programs , deficit
+reduction).
+Omnibus Budget Reconciliation Act of 1993 (P.L. 103-66)
+In the Omnibus Budget Reconciliation Act of 1993 ( P.L. 103 -66, §6002), Congress first granted
+the FCC authority to conduct auctions to assign spectrum , in part to address profiteering and
+warehousing of spectrum . P.L. 103 -66 amended the Communi cations Act of 1934 , adding Section
+309(j), which allowed the FCC to use competitive bidding (i.e., auctions) to grant spectrum
+licenses. The act required the FCC to protect the public interest and promote specific objectives,
+such as speeding deployment o f new technology and services to rural regions, increasing
+competition and diversity among licensees, recovering some of the value of this federal resource
+for the public, and achieving the most efficient use of spectrum.9 By awarding licenses to the
+5 Congressional Budget Office  (CBO) , Public Law 119 -21, to Provi de for Reconciliation Pursuant to Title II of H. Con.
+Res. 14 Title IV, Committee on Commerce, Science, and Transportation Section 40002, Spectrum Auctions , October
+28, 2025, https://www.cbo.gov/ public ation/ 61838 .
+6 See Communications Act of 1934, as amended , at https://transition.fcc.gov/ Reports/ 1934new.pdf . Codified at 47
+U.S.C. §309(i).
+7 FCC , Report to Congress on Spectrum Auctions , FCC 97 -353, adopted September 30, 1997, released  October 9, 1997 ,
+p. 7, https://wireless.fcc.gov/ auctions/ data/ papersAndStudies/ fc970353.pdf .
+8 Cathleen O’Grady, “Econ omic Nobel Honors Pioneers of Auction Theory,” Science , October 2, 2020,
+https://www.science.org/ content/ article/ economics -nobel -honors -pioneers -aucti on-theory ; and Samuel J . Heyman
+Service to America Medals, “2021 Paul A. Volcker Career Achievement Award to Evan R. Kwerel, Ph.D, Senior
+Economic Advisor , FCC,” https://servicetoamer icamedals.org/ honorees/ evan -kwerel/ .
+9 Sections 309(j)(7) and (8) discuss treatment of revenue from spectrum auctions , and state that the FCC may not base a
+finding of public interest, convenience, and necessity solely or predominantly on the expectat ion of federal revenue .
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   3 highest bidders from a diverse pool and including build -out requirements as a condition of
+licensing, the FCC could ensure that spectrum  holders were ready and able to use the spectrum,
+provide services to consumers in all area s, and enhance competition. Under this act, the FCC’s
+auction authority was scheduled to expire on September 30, 1998.
+Balanced Budget Act of 1997  (P.L. 105-33)
+On August 5 , 1997, in the Balanced Budget Act of 1997  (P.L. 105 -33, §3002), Congress extended
+the FCC’s auction authority for 10  years , allowing the FCC to use competitive bidding for license
+applications through September 30, 2007.
+Deficit Reduction Act of 2005  (P.L. 109-171)
+The Deficit Reduction Act of 2005 ( P.L. 109 -171, §3003), signed into law on  February 8, 2006,
+extended FCC auction authority for four years, through September 30, 2011. The act specified
+that $7.363 billion of proceeds from the authorized auctions be transferred to the General Fund of
+the U.S. Treasury.  It also set aside a portio n of the proceeds for digital television transition and
+public safety communications, and created the Digital Television Transition and Public Safety
+Fund.10
+Digital Television Delay Act  (P.L. 111-4)
+The Digital Television Delay Act ( P.L. 111 -4, §5), signed into law on  February 11, 2009, extended
+the FCC’s auction authority for one year, through  September 30, 2012 .
+Middle Class Tax Relief and Job Creation Act of 2012  (P.L. 112-96)
+The Middle Class Tax Relief and Job Creation Act of 2012 ( P.L. 112 -96, Title VI) included
+several spectrum -related provisions. It established a process for television broadcasters to release
+spectrum licensed to them and for the FCC to auction that spectrum for commercial use. It
+included provisions to auction certain spectrum and apply proceeds from those auctions toward
+deficit reduction. It also required that auction proceeds  be used (1) to establish the First
+Responder Network Authority to build , deploy, and operate a public safety broadband network
+and (2) to fund several new public safety programs and initiatives. The act (§6405) also extended
+the FCC’s auction authority for 10 years, through September 30, 2022.
+Spectrum Pipeline Act of 2015  (P.L. 114-74)
+The Spectrum Pipeline Act of 2015 (Title X in the Bipartisan Budget Act of 2015 , P.L. 114 -74)
+require d the FCC to auction certain spectrum as specified in  Section 1004(a) of the act.11 The act
+extended FCC auction authority for only this designated spectrum through September 30, 2025.
+10 For more information, see CRS Report R40674, Spectrum Policy in the Age of Broadband: Issues for Congress , by
+Linda K. Moore . For further in quiries, congressional staff may contact Jill C. Gallagher or Patricia Moloney Figliola.
+11 A “spectrum pipeline plan” refers to the federal government selecting frequencies for auction and setting the timeline
+for conducting these auctions.
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   4 Conclusion
+As the FCC’s general auction authority was set to expire on September 30, 202 2, the 117th
+Congress took up the issue , proposing legislation to extend it. Proposals in the 117th, 118th, and
+119th Congresses are discussed below.
+Legislative Activity  in the 117th Congress to Extend
+the FCC’s Spectrum Auction Authority
+The 117th Congress passed , and the President signed into law,  four short -term extensions of the
+FCC’s spectrum auction authority . Three bills were also introduced and one Senate amendment
+offered that would have extended either the FCC’s general auction authority (i.e., authority to
+auction any band) or the FCC’s authority to auction specific bands. None of those four proposals
+became law.
+Some of the bills provided short -term extensions that would have allowed Congress more time to
+negotiate a longer -term extension or a comprehensive spectrum bill. Some of the bills were more
+comprehensive, identifying spectrum for auction and providing for  longer -term extensions of
+auction authority, as discussed below.
+Short-Term Extensions of the FCC’s Auction Authority  in the 117th
+Congress
+On September 30, 2022, President Biden signed the Continuing Appropriations and Ukraine
+Supplemental Appropriation s Act, 2023 (P.L. 117 -180). Division C, Title I, Section 101 , extended
+the FCC’s spectrum auction authority from September 30, 2022, to December 16, 2022.
+On December 16, 2022, President Biden signed the Further Continuing Appropriations and
+Extensions Act, 2023 ( P.L. 117 -229). Division B, Title I, Section 101 , extended the FCC’s
+spectrum au ction authority from December 16, 2022, to December 23, 2022.
+On December 23, 2022, President Biden signed the Further Additional Continuing Appropriations
+and Extensions Act, 2023 ( P.L. 117 -264). Division B, Title I, Section 101 , extended the FCC’s
+spectrum auction authority from December 23, 2022, to December 30, 2022.
+On December 29, 2022, President Biden signed the Consolidated Appropriations Act, 2023 ( P.L.
+117-328). Division O, Title IX, Section 901 , extended the FCC’s spectrum auction authority from
+December 30, 2022, to March 9, 2023.
+Since no further extension legislation was signed  into law by the March 9, 2023, deadline, the
+FCC’s spectrum auction authority lapsed on that date.
+Other Legislative Proposals in the 117th Congress to Extend the
+FCC’s Auction Authority
+In addition to the short -term extensions described above, Members in troduced three bills and one
+Senate amendment during the 117th Congress to extend either the FCC’s general auction authority
+or the FCC’s authority to auction specific bands. Some were stand -alone, longer -term extensions
+(e.g., 18 months, two years). Others were comprehensive spectrum proposals to exten d the FCC’s
+general auction authority , among other things . None became law.
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   5 Spectrum Innovation Act of 2022 ( H.R. 7624 )
+The Spectrum Innovation Act of 2022 ( H.R. 7624 , H.Rept. 117 -429) was passed by the House on
+July 27, 2022, and referred to the Senate Committee on Commerce , Science, and Transportation.
+The bill would have extended the FCC’s spectrum auction authority through March 31, 2024.
+This bill would have rep ealed Section 90008 of the Infrastructure Investment and Jobs Act (IIJA;
+P.L. 117 -58), which provided funds from the Spectrum Relocation Fund (SRF)12—a funding
+mechanism thr ough which federal agencies can recover certain costs for spectrum relocation or
+sharing —to the Department of Defense (DOD) to study the 3.1 -3.45 GHz band (also called the
+lower 3 GHz band) in order to make it available for shared (federal and nonfederal) use.13 H.R.
+7624  specified a new purpose and process for auctioning the 3.1 -3.45 GHz band. Specifically, for
+federal entities operating in th is band , the bill would have provided  funding from the SRF for
+research and development, engineering studies, economic analyses, activities with respect to
+reconfiguring systems,  or other planning activities to make spectrum available for nonfederal use,
+shared federal and nonfederal use, or a combination thereof.
+Among other things, t he bill would have established the Public Safety and Secure Networks Fund
+and directed a portion of spectrum auction proceeds for specific purposes. The bill would have
+provided $3.08 billion in spectrum auction proceeds  to supplement the Secure and Trusted
+Communications Networks Reimbursement Program (also known as the “rip and replace”
+program).14 Additionally, the bill would have made available $10 billion from such proceeds  to
+improve 911 systems and services.
+Spectrum Innovation Act of 2022 ( S. 4117)
+The Spectrum Innovation Act of 2022 ( S. 4117 ) would have repealed Section 90008 of the IIJA;
+mandated the auction of the 3.1 -3.45 GHz band for nonfederal, shared federal and nonfederal use,
+or a combination thereof; and extended the FCC’s authority to auction this segment of spectrum
+for seven years f rom the date of enactment of the bill. The bill would have directed the Office of
+Management and Budget to transfer SRF funding to federal entities operating in the 3.1 -3.45 GHz
+band for planning and conduct ing studies to facilitate the reallocation, with oversight from NTIA
+and the Executive Office of the President. It would have required the Secretary of Commerce to
+identify 200 megahertz of spectrum  for reallocation and to work with DOD, the FCC, and the
+White House Office of Science and Technology Polic y to make spectrum available for new uses
+while also protecting incumbent users .
+12 As authorized by the Commercial Spectrum Enha ncement Act, Title II , of P.L. 108 -494, the Spectrum Relocation
+Fund (SRF) provides a centralized and streamlined funding mechanism through which federal agencies can recov er the
+costs associated with relocating their radio communications systems or sharing the reallocated spectrum.  For more
+information, see National Telecommunications and Information Administration ( NTIA), “Annex O: Procedures and
+Guidance Related to the Sp ectrum Relocation Fund and Transition Activities in Support of Relocation or Sharing by
+Federal Government Stations,” in Manual of Regulations for Federal Radiofrequency Spectrum Management , January
+2021, https://ntia.gov/ publications/ redbook -manual .
+13 The Department of Defense (DOD) is “using a secondary Department of War designation,” as specified in Executive
+Order  14347 of September 5, 2025, “Restoring the United States Department of War ,” 90 Federal Register  43893 ,
+September 10, 2025, https://www.federalregister.gov/ documents/ 2025/ 09/10/2025 -17508/ restoring -the-united -states -
+department -of-war. For more inform ation on the 3.1 -3.45 GHz band, see CRS In Focus IF12350, Repurposing 3.1 -3.55
+GHz Spectrum: Issues for Congress , by Jill C. Gallagher .
+14 For more information on the “rip and replace” program, see CRS I nsight IN11663, Secure and Trusted
+Communications Networks Reimbursement Program: Frequently Asked Questions , by Jill C. Gallagher .
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   6 Extending America’s Spectrum Auction Leadership Act of 2022 ( H.R. 7783 )
+The Extending America’s Spectrum Auction Leadership Act of 2022 ( H.R. 7783 ) would have
+extended F CC auction authority through March 31, 2024 (i.e., 18 months from its September 30,
+2022, expiration ).
+S.Amdt. 6585
+S.Amdt. 6585  was a comprehensive spectrum package submitted as an amendment to the
+Consolidated Appropriations Act, 2023 ( P.L. 117 -328). It would have amended Section 90008 of
+the IIJA; mandated the auction of the 3.1 -3.45 GHz band for nonfederal use, shared federal and
+nonfederal use, or a comb ination thereof; and for DOD and other affected agencies operating in
+the 3.1 -3.45 GHz band , provided funds from the SRF to study the feasibility of making the band
+available for nonfederal use, shared federal and nonfederal use, or a combination thereof. It
+specified a new process for coordinating the identification and auction of frequencies, authorized
+the FCC to auction those frequencies available for auction, set aside auction proceeds  for deficit
+reduction and several public interest programs, identif ied several spectrum bands for future study
+and auction, invested in spectrum research, and extended the FCC’s auction authority through
+December 31, 2025. The bill proposed changes to the IIJA related to the reallocation of the 3.1 -
+3.45 GHz band from fede ral (e.g., DOD) to nonfederal use —including DOD’s role in identifying
+available frequencies, how much of the band could be reallocated from federal to nonfederal use,
+and how the band could be shared between federal and nonfederal users.15
+Conclusion
+Whil e there  was bipartisan support to extend the FCC’s auction authority,16 Congress did not
+agree  on other provisions included in these comprehensive spectrum bills;17 none of the proposals
+passed. At the end of the 117th Congress (January 3, 2023), the  FCC had general auction authority
+through March 9, 2023 , under P.L. 117 -328.
+Proposals in the 118th Congress to Extend or
+Reinstate the FC C’s Auction Authority
+In the 118th Congress, several bills were introduced to extend the FCC’s general auction authority
+before it expired ; however, none of the bills passed. Thus, on March 9, 2023, the FCC’s general
+auction authority expired —for the first  time in its 30 -year history . After the FCC’s auction
+authority lapsed, several comprehensive spectrum packages were introduced  that would have,
+15 Jimm Phillips, “ 3.1-3.45 GHz 5G Structure Deal Elusive in Spectrum Bi ll Talks ’ Waning Days ,” Communications
+Daily , December 16, 2022, https://communicationsdaily.com/ news/ 2022/ 12/16/31345 -GHz -5G-Structure -Deal -
+Elusive -in-Spectrum -Bill-Talks -Waning -Days -2212150076 .
+16 U.S. Congress, Senate  Committee on  Commerce, Science, and Transportation, Subcommittee on Communications ,
+Media, and Broadband , Future of Spectrum , hearing, 117th Cong., 2nd sess., August 2, 2022, p. 2. See comments from
+Sen. Ben Ray Luján , Chair of the Subcommittee , noting that the House had, in the previous week, passed a bipartisan
+bill extending the FCC’s auction authority and that S. 4117 , the Spectrum Innovation Act of 2022, which would extend
+the FCC’s auction authority, among other things, also had bipartisan sponsorship and support.
+17 Jimm Phillips, “GOP Split on Cantwel l Spectrum Bill Seen Possible Ahead of Senate Commerce Markup,”
+Communications Daily , May 1, 2024, https://communicationsdaily.com/ article/ 2024/ 05/01/gop-split-on-cantwell -
+spectrum -bill-seen-possible -ahead -of-senate -commerce -markup -2404300052 .
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   7 among other things,  reinstate d the FCC’s general auction authority , typically  for several years ;
+however, none of the bills passed.
+Below is a description of the bills and various approaches Members of Congress proposed to
+extend or restore spectrum auction authority, including stand -alone bills, comprehensive spectrum
+bills, and related bills that restored FCC auction authority for certain bands or restored FCC
+auction authority for specific purposes.
+Stand-Alone Bills  in the 118th Congress  to Extend or Reinstate the
+FCC’s Spectrum Auction Authority
+Three stand -alone bills introd uced in the 118th Congress would have extended or reinstated the
+FCC’s spectrum auction authority :
+• H.R. 1108 , introduced on February 21, 2023, would have extended  the FCC’s
+auction  authority through May 19, 2023.
+• H.R. 3345 , introduced on May 15, 2023, would have reinstated the FCC’s
+auction authority through June 30, 2023.
+• S. 650 , introduced on March 2, 2023, would have extended  the FCC’s auction
+authority through September 30, 2023.
+Comprehensive Spectrum Proposals in the 118th Congress
+In addition to th e short -term, stand -alone vehicles, Members introduced comprehensive spectrum
+legislation that would have, among other things, reinstated the FCC ’s general auction authority.
+None of this legislation passed .
+Spectrum Auction Reauthorization Act of 2023 ( H.R. 3565 )
+The Spectrum Auction Reauthorization Act of 2023 ( H.R. 3565 ) would have, among other
+spectrum provisions, reinstated the FCC’s spectrum auction authority through September 30,
+2026.
+H.R. 3565  also proposed to expand permitted uses and other aspects of the  SRF.18 The bill also
+creates a spectrum pipeline, directing the  Assistant Secretary of Commerce for Communications
+and Information  (i.e., head of NTIA ) to conduct feasibility assessments of the 4.4 -4.94 GHz and
+7.125 -8.5 GHz bands to determi ne the potential to make additional spectrum available for
+nonfederal use or for shared federal and nonfederal use. The bill stipulated federal coordination
+procedures between the FCC and NTIA to improve spectrum management and required additional
+reportin g to Congress and the public on spectrum actions and decisions. The bill would have
+establishe d a Spectrum Auction Trust Fund in the U.S. Treasury, in which proceeds from certain
+spectrum auctions would be deposited and used for purposes and programs speci fied in the act,
+including deficit reduction, $3.08 billion to fully fund the rip -and-replace program, $14.8 billion
+18 For example, H.R. 3565  would have (1) provide d SRF funding to NTIA for implementing new spectrum -sharing
+approaches (i.e., incumbent informing capabilities that enable federal spectrum users to alert nonfederal users about
+where and when federal systems are operating to manage harmful interference in shared spectrum); (2) expand ed SRF
+funding to additional agencies that may be affected by changes to the lower 3 GHz band; and (3) direct ed DOD to
+report more extensively about its use of SRF funding.
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   8 to support Next Generation 911, $5 billion to support “middle mile” broadband projects,19 and
+other programs.
+Spectrum Pipeline Act of 202 4 (S. 3909)
+The Spectrum Pipeline Act of 2024 ( S. 3909 ) would have reinstated the FCC’s spectrum auction
+autho rity through September 30, 2027. Further, it would have created a spectrum pipeline —
+directives to agencies to identify and auction spectrum for future use. The bill did not identify
+specific bands but set specific quantities of spectrum to auction and dire cted the two spectrum
+management agencies, the FCC and NTIA, to identify specific bands and to auction those bands
+in a specific timeframe.
+The bill directed the head  of NTIA to identify a specific quantity of spectrum —2,500
+megahertz —for reallocation from federal use to nonfederal use or to shared federal and
+nonfederal use, including not less than 1 ,250 megahertz for full -power , commercial licensed use
+cases .20 The head of NTIA  was directed to identify spectrum for reall ocation within a specific
+timeframe : specifically, 1 ,250 megahertz for reallocation within two years and the remaining
+spectrum within five years.
+Under the bill, the FCC would have been required to auction the spectrum identified by NTIA and
+to grant lic enses within a specific timeframe. No later than three years from enactment, the FCC
+would complete an auction for a certain quantity of spectrum —600 megahertz —and within six
+years of enactment , the FCC would complete one or more auctions for any remaining  spectrum.
+The bill also would have required the FCC to make a specific quantity of spectrum (no less than
+125 megahertz) available for unlicensed use and , within eight years of enactment, to make
+available any spectrum that is not auctioned and available (e.g., licenses in the FCC inventory).
+Among other things, the bill would have required that NTIA and the FCC report to Congress on
+their progress and prop osed changes to the SRF to allow funds to be used for state -of-the-art
+systems.
+Spectrum and National Security Act of 2024  (S. 4207)
+The Spectrum and National Security Act of 2024 ( S. 4207 ) was a comprehensive spectrum bill
+that would have , among other things,  reinstated  the FCC’s general auction authority through
+September 30, 2029 .
+In addition, the  bill would ha ve
+• provided funding through proceeds from  spectrum auctions  to establish a national
+testbed for dynamic spectrum sharing ;
+• developed  regional tec hnology hubs ;
+• mandated increased coordination between federal spectrum management
+agencies and established a spectrum dispute resolution process ;
+19 Middle mile infrastruc ture is defined at 47 U.S.C. §1741 (a)(9) as “any broadband infrastructure that does not connect
+directly to an end -user location, including an anchor institution ” and includes such things as leased dark fiber, undersea
+cables, transport connectivity to dat a centers, and radio tower access. For more information on Next Generation 911,
+see CRS Report R48015, Funding the Transition to Next Generation 911 (NG911): Considerations for Congress , by
+Colby Leigh Pech tol.
+20 In S. 3909 , “the term ‘full-power commercial licensed use cases ’ means flexible use wireless broadband services
+with base station power levels sufficient for high -power, hig h-density, and wide -area commercial mobile services,
+consistent with the service rules under part 27 of title 47, Code of Federal Regulations , or any successor regulations .”
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   9 • created a spectrum pipeline that included feasibility studies of the 7.125 -8.5 GHz
+and 37 GHz bands a nd provided funding for such st udies;
+• required completion of an auction of the 12.7-13.25 GHz band by December 30,
+2027; and
+• creat ed a Spectrum Auction Trust Fund in the U.S. Treasury to hold the proceeds
+from certain auctions , which were to be used for deficit reduction, relocation o r
+sharing costs for incumbent users affected by spectrum reallocation, and fund ing
+certain programs in the act (e.g., rip -and-replace program to replace China -based
+equipment in U.S. networks , and Next Generation 911 ).
+Other Legislation  Related to Spectrum Auction Authority  in the
+118th Congress
+As none of the short -term bills or the comprehensive bills described above passed  during the 118th
+Congress , the FCC’s general auction authority remained lapsed after it expired on March 9, 2023.
+This meant that no new spectrum was made available through auctions during the 118th Congress.
+While telecommunication companies could not obtain new spectrum through FCC auctions, they
+continued to acquire spectrum through the secondary market.21
+Some Members propos ed spectrum -related bills that would have restored FCC auction authority
+for certain bands or certain purposes , sought to address spectrum management issues that were
+under debate (e.g., interagency coordination on spectrum) , or proposed distribution of sp ectrum
+auction proceeds separate from the comprehensive spectrum legislation, as discussed below .
+However, none of these proposed bills provided a long -term extension (e.g., 10 years) of the
+FCC’s auction authority , providing instead an extension up to 7 years in some cases .
+FAA Reauthorization Act of 2024 ( P.L. 118-63)
+Section 318  of the FAA Reauthorization Act of 2025  (P.L. 118 -63), signed into law on  May 16,
+2024, directed the Department of Transportation Inspector General to  audit the Federal Aviation
+Administration’s ( FAA’s ) internal proc edures to communicate the positions of civil aviation
+operators, stakeholder s, and  national airspace safety issues to NTIA during spectrum reallocation
+and auction decisions. It also required that the FAA Administrator  conduct research, in
+consultation wit h NTIA and the FCC , on aviation spectrum use to assess  the impact of
+reallocations on civil aviation operations .
+While this did not affect FCC auction authorities, it  indicate d congressional attention to
+interagency spectrum coordination  processes  and dis putes,22 potential complexities in spectrum
+reallocation decisions, and a need for interagency coordination  on spectrum auction decisions.
+21 For example, see United States Cellular Corporation, Form 8 -K, October 17, 2024, https://www.sec.gov/ Archives/
+edgar/ data/ 821130/000082113024000058/usm -20241017.htm  (documenting that Verizon agree d to purchase certain
+spectrum licenses from US cellular for $1 billion) ; and  T-Mobile, “T -Mobile to Acquire UScellular Wireless Operations
+and Deliver Exceptional Value, a Superior 5G Experience and Unparalleled Benefits to Millions of Customers,” press
+release, May 28, 2024, https://www.t -mobile.com/ news/ business/ uscellular -acquisition -operations -assets  (documenting
+T-Mobile’s acquisition of substantially all of UScellular’s wireless operations, including specified spectrum assets) .
+22 CRS In Focus IF12028, Aviation Concerns Regarding the Rollout of 5G Wireless Telecommunications Networks , by
+Bart Elias .
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   10 Saving Americans’ Valuable Earning s on the National ACP Act ( H.R. 8709 )
+The Saving Americans’ Valuable Earnings on the National ACP Act ( H.R. 8709 ) would  have ,
+among oth er things, appropriate d $3.08 billion for the rip -and-replace program and $6 billion for
+the Affordable Connectivity Program (ACP).23 It would also have require d, no later than two
+years after enactment, the FCC to initiate auctions for (1) AWS -3 bands and  (2) any other
+unassigned spectrum that the FCC previously offered at auction (and did not assign).24
+As auction proceeds are deposited in the Treasury (unless otherwise directed by Congress), this
+bill would have, in effect, established a means to reimbu rse the Treasury for the funds
+appropriated for the rip -and-replace program and ACP .
+Supporting National Security with Spectrum Act ( H.R. 9340 )
+The Supporting National Security with Spectrum Act ( H.R. 9340 ) would have appropriated $3.08
+billion for the rip -and-replace program and required the FCC to auction certain spectrum —
+specifically AWS -3 licenses it held in its inventory. Similar ly to H.R. 8709 , this bill would ha ve,
+in effect, established a means to reimburse the Treasury for funds appropriated for the rip -and-
+replace prog ram.
+Servicemember Quality of Life Improvement and National Defense
+Authorization Act for Fiscal Year 2025 ( P.L. 118-159)
+The Servicemember Quality of Life Improvement and National Defense Authorization Act for
+Fiscal Year 2025 ( FY2025 NDAA; P.L. 118 -159), signed into law on  December 23, 2024,
+contains  spectrum provisions in Title LIV, the Spectrum and Secure Technology and Innovation
+Act of 2024. Specifically, the act require d, among other things, that  the FCC initiate, no later than
+18 months after enactment, an auction for remaining AWS -3 spectrum in its inventory. The act
+established a Spectrum Auction Trust Fund in the U.S. Treasury to which any proceeds from the
+auction are to be deposited. The act  grant ed the FCC authority to borrow up to $3.08 billion from
+the Treasur y to carry out the rip -and-replace program and grant ed DOC  the authority to borrow
+from the Treasury up to $220 million for the Regional Technology and Innovation Hub
+program .25 If funds remain ed, an additional amount of up to $280 million  would be granted for
+the Regional Technology and Innovation Hub program, with the remainder deposited in the
+Treasury for deficit reduction .
+The FCC has borrowed the $3.08 billion to fully fund the rip-and-replace program  and has
+distributed those funds to eligible network operators . Projects have a completion deadline of May
+23 For more information on the Affordable Connectivity Program ( ACP ), see CRS In Focu s IF12637, The End of the
+Affordable Connectivity Program: Options for Consumers and Congress , by Patricia Moloney Figliola .
+24 This bill ( H.R. 8709 ) is similar to the Secure and Affordable Broadband Extension Act ( H.R. 9193 ), introduced by
+Rep. Nikki Budzinski on July 30, 2024.  AWS stands for “advanced wireless services” and includes spectrum in the
+1,695 -1,710 MHz, 1,755 -1,780 MHz, and 2,155 -2,180 MHz bands. For more information, see CRS Report R48534,
+Advanced Wireless Services (AWS -3) Spectrum: Issues for Congress , by Jill C. Gallagher .
+25 For information on the Regional Technology and Innovation Hubs program, see CRS Insight IN11925, Regiona l
+Technology and Innovation Hubs: An Overview and Issues for Congress , by Julie M. Lawhorn and Marcy E. Gallo .
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   11 8, 2026.26 The FCC is taking action to prepare for the auction of the AWS -3 licenses; the auction
+is scheduled to start on June 2, 2026.27
+Consequences of the Lapse in  the FCC’s Spectrum
+Auction Authority
+As Congress did not pass an extension , the FCC’s spectrum auction authority lapsed  on March 9,
+2023 .28 This lapse  created uncertainty around the activities the FCC could perf orm.29
+Awarding Licenses for Completed Auctions
+While the FCC did not have authority to auction new spectrum licenses, policymakers and
+stakeholders  debated whether the FCC could grant licenses already won from previous auctions
+but not yet granted . The FCC asserted that the auction authorities defined in Title 47, Section
+309(j)(11),  of the U.S. Code  applied the expiration date to both its auction authority  and its
+authority to grant licenses  after an auction.30 This was an issue of debate because, at the time, the
+FCC had completed an auction of the 2.5 GHz band but had not awarded all licenses before its
+auction authority expired. To resolve this ambiguity, Congress passed the 5G Spectrum Authority
+Licensing Enf orcement Act ( 5G SALE Act ; P.L. 118 -27), which authorized the FCC to grant
+licenses won in the 2.5 GHz auction. The act did not apply to licensees facing the same scenario
+in the future.
+In P.L. 119 -21, Congress  addressed this issue by amending Title 47, Section  309(j)(11), striking
+language that applied the expiration date to both the FCC’s a uction authority and its authority to
+grant licenses after an auction.31 It enables the FCC to award licenses after an auction, even if its
+auction authority has expired.
+Spectrum Planning
+The lapse in authority also created uncertainty around FCC spectru m-planning activities and
+future spectrum availability.32 Some entities continued to acquire spectrum on the secondary
+market (e.g., acquisitions, mergers), but the U.S. government could not make spectrum available
+26 FCC  Wireline Competition Bureau , Secure and Trusted Communications Networks Reimbursement Program Seventh
+Report , December 19, 2025, pp. 2 -3, https://docs.fcc.gov/ public/ attachments/ DOC -416757A1.pdf .
+27 FCC, “Auction of Advanced Wireless Services (AWS -3) Licenses; Filing Requirements, Minimum Opening Bids,
+Upfront Payme nts, and Other Procedures for Auction 113,” 90  Federal Register  59979, December 23, 2025.
+28 CRS Report R47578, The Federal Communications Commission’s Spectrum Auction Authority: History and Options
+for Reinstatement , by Patricia Moloney Figliola and Jill C. Gallagher .
+29 Howard Buskirk, “ House Republican Criticizes FCC for Not Issuing T -Mobile 2.5 GHz Licenses Amid Authority
+Lapse ,” Communications Daily , April 19, 2023, https://communicationsdaily.com/ search/ view? search_id= 66722 .
+30 U.S. Congress, House Committee on Energy and Commerce, Subcommittee on Communications and Technology,
+Oversight of the Federal Communications Com mission , hearing, 118th Cong., 1st sess., May 21, 2023,
+https://energycommerce.house.gov/ events/ communications -and-technology -subcommittee -hearing -oversight -of-the-
+federal -communications -commission  (see statements of FCC Chairwoman Jessica Rosenworcel on video at 1:56:34).
+31 P.L. 119 -21, Title IV, §40002(b)(1).
+32 Jimm Phillips and Howard Buskirk, “ Rosenworcel, Other Biden Officials Push for US Leadership on 6G at Summit ,”
+Communications Daily , April 24, 2023 , https://communicationsdaily.com/ news/ 2023/ 04/24/rosenworcel -other -biden -
+officials -push -for-us-leadership -on-6g-at-summit -2304210069 .
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   12 through auction (i.e., competitive bidding).33 This uncertainty could reappear if the authority wer e
+allowed to lapse again in the future.
+Reinstatement of the FCC’s Spectrum Auction
+Authority in the 119th Congress
+P.L. 119 -21 was signed into law on July 4, 2025 . Title IV , Section 40002 , contains several
+spectrum provisions.34 Section 40002(b)(1) reinstate s the FCC’s general auction authority through
+September 30, 2034 , except for the 3.1-3.45 GHz and 7.4 -8.4 GHz bands , for which the authority
+does not apply.
+In addition, Section 40002  mandates the following actions:
+• The FCC  is required  to grant licenses through competitive bidding (i.e., auctions)
+for 300 megahertz of spectrum, including not less than 100 megahertz in the
+3.98-4.2 GHz band within two years of enactment.
+• NTIA, in consultation with the FCC, is directed to identify 500 megahertz of
+spectrum in the 1.3 -10.5 GHz range (excluding the 3.1 -3.45 GHz and the 7.4 -8.4
+GHz bands) for reallocation from federal use to nonfederal use , shared federal
+and nonfederal use , or a combination thereof, for full -power , commercial
+licensed use. The FCC is also directed to, within four years of enactment,
+complete one or more auctions for no less than 200 megahertz of this spectrum
+and for the remaining spectrum no later than eight years after enactment.
+• DOC is p rovide d with  $50 million to assist NTIA with spectrum analysis of three
+bands —2.7-2.9 GHz , 4.4-4.9 GHz , and 7.25 -7.4 GHz —and to publish a biennial
+report on the value of federally  held spectrum.35
+The auctions specifie d in P.L. 119 -21 are timed to occur over the next eight years and  are
+expected to generate over $85 billion in offsetting receipts from FY2025 to FY2034, according to
+CBO.36
+With  previous  auction authority renewal s, Congress has often required the FCC and NTIA to
+make additional spectrum available for commercial wireless use through auctions. In some
+legislation, Congress named specific bands for auction;37 in other cases, Congress directed the
+FCC and NTIA to identify and reallocate bands for auction.38 In P.L. 119 -21, Congress required
+both. It identifie d the upper C -band ( 3.98-4.2 GHz) for auction  and direct ed the FCC and NTIA to
+33 For example, see United States Cellular Corporation, “UScellular Announces Sale of Select Spectrum Assets for $1.0
+Billion,” press release, October 18, 2024, https://www.prnewswire.com/ news -releases/ uscellular -announces -sale-of-
+select -spectrum -assets -for-1-0-billion -302279983.html .
+34 For more information, see CRS Report R48862, Spectrum Provisions in P.L. 119 -21, the FY2025 Reconciliation
+Law, by Jill C. Gallagher .
+35 P.L. 119 -21, Title IV, §40002 .
+36 CBO, “Table 4. Estimated Budgetary Effects of  Public Law 119 -21, to Provide for Reconc iliation Pursuant to Title II
+of H. Con. Res. 14 , Relative to CBO’s January 2025  Baseline : Title IV, Committee on Commerce, Science, and
+Transportation,” July 21, 2025,  spreadsheet available at  https://www.cbo.gov/ publication/ 61570 .
+37 For example, see  P.L. 112 -96, Title VI , §6103 .
+38 For example, see Consolidate d Appropriations Act, 2018, P.L. 115 -141, Division P  (Repack Airwaves Yielding
+Better Access for Users of Modern Services [RAY BAUM’S ] Act of 2018) , Title VI  (Making Opport unities for
+Broadband Investment and Limiting Excessive and Needless Obstacles to Wireless Act [MOBILE NOW Act ]), §603,
+enacted March 23, 2018.
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   13 identify the remainder. In some case s, Congress has, as in P.L. 119 -21, exclude d certain bands
+from  reallocation an d auction.39
+During previous discussions concerning spectrum auction authority, some Members asserted that
+long-terms extensions of the FCC’s spectrum auction authority gives both federal agencies and
+the wireless industry planning certainty.40 They advocated for long -term extension, similar to that
+adopted in 2012 ( P.L. 112 -96, Title V) , which extended the authority for a decade.41 They asserted
+that the 2012 app roach was effective and integral to supporting innovation and economic growth
+in the United States.42 These Members supported development of comprehensive spectrum
+legislation that would have coupled a long -term reinstatement of the FCC’s spectrum auction
+authority with the identification of spectrum for several future auctions, the allocation of auction
+proceeds  to public interest programs, and the improvement of interagency spectrum
+coordination.43 Comprehensive spectrum legislation, such as that found in  Title VI of P.L. 112 -96,
+and, more recently, in Title VI, Section 4002 , of P.L. 119 -21, may provide options for Congress to
+achieve multiple spectrum goals and avoid another lapse in spectrum auction authority .
+Freeing spectrum for commercial use can spur innovation, improve services, yield economic
+gains, and bolster U.S. leadership in the gl obal telecommunications market. However, with the
+growth in wireless communications, there is increasing demand for spectrum  to support multiple
+technologies (e.g., mobile, satellite, Wi -Fi, drones), applications, and uses .44 Much of the
+spectrum, especially in the mid -band range (1 -6 GHz) —where P.L. 119 -21 is targeting spectrum
+for reallocation —is in use. Reallocating spectrum from one use to a nother is complex and often
+requires technical studies and time to determine the feasibility and costs and benefits of
+reallocating spectrum and relocating or reconfiguring existing systems.
+The FCC and NTIA may face challenges in identifying and realloca ting 800 megahertz of
+spectrum for full -power, commercial licensed use in the spectrum range and timelines specified in
+P.L. 119 -21, some of which were expedited in a Decemb er 19, 2025 , presidential memorandum
+titled “Winning the 6G Race .”45 Another challenge for the FCC and NTIA is balancing spectrum
+needs of incumbent users, including federal agencies performing mission -critical functions, and
+commercial use rs, whose busine sses may need spectrum to provide services. Configuration of
+spectrum and terms of use can affect auction proceeds. As Congress is relying on proceeds from
+spectrum auctions to fund provisions in P.L. 119 -21, it may seek to monitor (1) agencies’ progress
+in identifying spectrum for reallocation ; (2) bands selected for reallocation ; (3) the impact of
+reallocation on incumbent users, including federal agency users performing cr itical functions ; (4)
+39 Spectrum Pipeline Act of 2015, P.L. 114 -74, Title X, §1004, enacted November 2, 2015  (which excluded the 1 ,675-
+1,695 MHz band from reallocation).
+40 “Senate Hearing on Wireless Spectrum,” C -SPAN.org, August 2, 2022,  https://www.c -span.org/ video/ ?522120 -1/
+senate -hearing -wireless -spectrum  (see statement of Sen. John Thune at 0:14:38) .
+41 Jimm Phillips and Howard Buskirk, “Congress E xtends Spectrum Bill Talks Via FCC Stopgap, but Stumbling
+Blocks Remain,” Communications Daily , October 3, 2022, https://communicationsdaily.com .
+42 “Senate Hearing on Wireless Spectrum,” video, C-SPAN, August  2, 2022,  https://www.c -span.org/ video/ ?522120 -1/
+senate -hearing -wireless -spectrum  (see opening statements of Sen. Roger Wicker at 00:08:05 and Sen. John Thune at
+00:14:26)  (hereinafter “Senate Hearing on Wireless Spectrum,” C -SPAN ).
+43 “Senate Hearing on Wireless Spectrum,” C -SPAN .
+44 Coleman Bazelon and Paroma Sanyal, “How Much License d Spectrum Is Needed to Meet Future Demands for
+Network Capacity ?,” April 17, 2023, pp. 9, 17, https://api.ctia.org/ wp-content/ uploads/ 2023/ 04/Network -Capacity -
+Constraints -and-the-Need -for-Spectrum -Brattle.pdf  (showing increasing demands for wireless data [p. 9] and
+projecting future spectrum deficits [p. 17 ]).
+45 White House, “Winning the 6G Race,” presidential memorandum  of December 19, 2025,
+https://www.whitehouse.gov/ presidential -actions/ 2025/ 12/national -security -presidential -memorandum -nspm -8-0bda/ .
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   14 auction proceeds and timelines to ensure budgetary targets are met ; and (5) costs of reallocations
+that can diminish auction proceeds.
+Figure 1 illustrates the changes in the FCC’s spectrum auction authority from 1981  to 2005.
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service   15 Figure 1. The FCC’s Spectrum Auction Authority: Timeline of Changes
+(1981 -2025)
+Source:  CRS.
+Notes:  FCC = Federal Communications Commission; FirstNet = First Responder Network Authority;
+GHz = gigahertz .
+History of the FCC’s Spectrum Auction Authority: 1993 -2025
+Congressional Research Service  R48861  · VERSION 5 · NEW  16
+Author Information
+Patricia Moloney Figliola
+Specialist in Internet and Telecommunications
+Policy
+Jill C. Gallagher
+Specialist in Telecommunications Policy
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.

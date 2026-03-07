@@ -1,0 +1,1666 @@
+U.S.-South Korea Alliance : Background and
+Issues for Congress
+March 5, 2026
+Congressional Research Service
+https://crsreports.congress.gov
+R48877
+Congressional Research Service
+SUMMARY
+U.S.-South Korea Alliance: Background and
+Issues for Congress
+In the wake of the Korean War (1950 -53), the United States and South Korea (officially the
+Republic of Korea, or ROK) forged an alliance that  remains one of the United States’ most
+significant  military arrangements in Asia. Under the Mutual Defense Treaty that took effec t in
+1954, the United States and South Korea committed  to defend each other against armed attack.
+Today, a bout 28,500 U.S. troops are stationed in South Korea . The alliance has traditionally
+focused on  perceived threats from North Korea (officially the Dem ocratic People’s Republic of Korea, or DPRK ), which
+have changed  as North Korea has developed weapons of mass destruction (WMD) and missile capabilities . South Korea is
+included under the U.S. “nuclear umbrella,” also known as extended deterrence .
+Over the last few decades, the United States and South Korea have taken steps to reform the alliance. These steps unfolded as
+South Korea emerged as a wealthier country due to its rapid economic growth. For example, in 1991, bilateral negotiations
+led Sout h Korea to begin defraying the cost of hosting U.S. troops. Both sides also are preparing a change in operational
+control in the event of war , moving from the existing structure of U.S. and South Korean soldiers operating under a
+binational command led by a U.S. general, to a binational command led by an ROK general with a U.S. deputy. Since 2022,
+the allies have upgraded their consultations over the U.S. extended deterrence commitment, partly  to respond to growing calls
+within South Korea for the acquisiti on of an independent nuclear weapons capability. South Korea  also has helped bolster
+trilateral security cooperation with the United States and Japan, particularly since a trilateral summit at Camp David in 2023.
+The U.S. -ROK alliance may have reached an inflection point, some observers say , as the administrations of Donald Trump
+and Lee Jae Myung seek to further “ modernize ” the alliance . Amid rapidly changing threats by the People’s Republic of
+China, Russia, and North Korea, President s Trump and Lee appea r ready  for South Korea to take a more active role in the
+alliance and to broaden the alliance’s mission . President Lee has stated an inten tion for South Korea to  acquire  nuclear
+submarines , which President Trump says he supports. South Korea potentially could employ such submarines to counter
+North Korea and possibly China, though the wisdom of deploying ROK military assets against China is debated among ROK
+policymakers and experts.  In addition, in November 2025, U.S. Secretary of Defense Pete Hegseth  reporetedly stated that
+U.S. forces in South Korea could be used for a “regional contingency,” which may include a China -Taiwan conflict.
+Historically, Congress has supported the U.S. -ROK alliance on a broad, bipartisan basis. Through legislation, oversight, and
+other tools, Congress may direct and influence the executive branch’s handling of the alliance. For instance, Members insert
+provisions related to South Korea and North Korea into the annual National Defense Authorization Act (NDAA). In addition,
+the H ouse and Senate Armed Services Committees generally hold hearings the first quarter each year on U.S. military
+activities in the Indo -Pacific that include the commander of U.S. Forces Korea. During these hearings, Members may raise
+questions about U.S. -ROK  joint war planning, the evolution of perceived regional threats, and other alliance issues.
+As the U.S. -ROK alliance potentially enters a new period , Congress may face  several key issues related to its  legislative,
+oversight , and appropriations roles  that could affect how the United States and South Korea  navigate decisions , including:
+• Should the United States alter its force presence in South Korea, and if so, how ? What impact would
+increasing, reducing, or maintaining the U .S. force presence in South Korea have on U.S. national security
+interests, South Korea’s security, and regional and global security?
+• What might an alliance response look like in potential contingencies  involving China, including around
+Taiwan or the Sout h China Sea ? What role , if any,  would U.S. forces in South Korea potentially play in
+these scenarios ?
+• Should the United States  promote  U.S.-ROK -Japan cooperation , and if so, to what extent ?
+• In what ways do U.S.-ROK alliance  planners  incorporate the North  Korean nuclear threat in to
+policymaking , relative to other concerns  such as China?  Should the United States and South Korea adjust
+combined military exercises and other aspects of the alliance’s posture to complement outreach to North
+Korea ? If so, to what extent ?
+• Should Congress approve the Trump and Lee government s’ plans for South Korea to acquire U.S. nuclear -
+powered submarine technology and U.S. approval to enrich and reprocess nuclear fuel?  R48877
+March 5, 2026
+Daniel J. Longo
+Analyst in Foreign Affairs
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   Contents
+The U.S. -South Korea Alliance  and Congress’s Role  ................................ ................................ ..... 1
+Military Forces in South Korea  ................................ ................................ ................................ ....... 5
+U.S. Forces Korea (USFK)  ................................ ................................ ................................ ....... 5
+United Nations Command (UNC)  ................................ ................................ .............................  6
+Combined Forces Command (CFC)  ................................ ................................ ..........................  7
+South Korea’s Defense Industry and Purchases of U.S. Weapon Systems  ................................ ...... 9
+Key Issues for Congress  ................................ ................................ ................................ ................  10
+U.S. Troops Levels in South K orea ................................ ................................ .........................  10
+“Strategic Flexibility”: Alliance Coordination Off the Korean Peninsula  ..............................  14
+Role of U.S. Forces in a Potential Conflict over Taiwan  ................................ ..................  15
+Role of ROK Forces in a Potential Conflict over Taiwan  ................................ .................  16
+Congress, “Strategic Flexibility,” and Taiwan  ................................ ................................ .. 17
+Cost Sh aring  ................................ ................................ ................................ ............................  18
+Chain of Command/Wartime Operational Control ................................ ................................ .. 20
+Delays and Reassessment of OPCON Transition Plan  ................................ .....................  21
+Debate Around OPCON Plan Implementation  ................................ ................................ . 22
+OPCON and the United Nations Command  ................................ ................................ ..... 22
+Extended Deterrence on the Korean Peninsula and South Korea’s Nuclear Armament
+Debate  ................................ ................................ ................................ ................................ .. 23
+Congress’s Role in Extended Deterrence  ................................ ................................ ..........  25
+U.S.-ROK -Japan Trilateral C ooperation  ................................ ................................ .................  26
+U.S.-South Korean Cooperation on Shipbuilding  ................................ ................................ ... 27
+U.S.-ROK Alignment on North Korea  ................................ ................................ ....................  29
+Figures
+Figure 1. Map of the Korean Peninsula  ................................ ................................ ...........................  1
+Figure 2. U.S. and South Korean Forces Conduct a Training Raid Associated with
+Bilateral Exercise Freedom Shield 25  ................................ ................................ ..........................  3
+Figure 3. Map of USFK, UNC, and CFC Bases  ................................ ................................ ..............  9
+Figure 4 . U.S. Troops in South Korea, 1955 -2023  ................................ ................................ ........  13
+Figure 5. Ohio -Class Ballistic -Missile Submarine USS Kentucky  Enters Busan, South
+Korea , for a Port Visit in July 2023  ................................ ................................ ............................  24
+Figure 6. ROK President Yoon, U.S. President Biden, and Japanese Prime Minister
+Kishida at Camp  David  ................................ ................................ ................................ ..............  26
+Figure 7. President Trump and Kim Jong -Un at Hanoi Summit  ................................ ...................  29
+Tables
+Table 1. The Three U.S. -Led Commands (Tri -Command) on the Korean Peninsula  ......................  8
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service  Appendixes
+Appendix A. Legislation Related to U.S. -South Korea Security Issues from the 118th
+Congress  ................................ ................................ ................................ ................................ ..... 31
+Appendix B. Legislation Related to U.S. -South Korea Security Issues from the 116th
+Congress  ................................ ................................ ................................ ................................ ..... 33
+Appendix C. U.S. -ROK Mutual Defense Treaty  ................................ ................................ ...........  36
+Contacts
+Author Information  ................................ ................................ ................................ ........................  37
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   1 The U.S.-South Korea Alliance  and Congress’s Role
+The U.S. -South Korea (Republic of Korea; ROK) al liance dates back to the 1950 -1953 Korean
+War, during which more than 36,000 Americans died in -theater  helping South Korea repel a
+North Korean invasion .1 In 1953, military commanders from the United States (representing the
+United Nations Command), the ( North) Korean People’s Army, and the Chinese People’s
+Volunteer Army signed an Armistice Agreement. The United Nations General Assembly adopted
+the agreement the same year, and the Korean Peninsula remained divided at the 38th Parallel
+(Figure 1). The combatants never signed a formal peace treaty, and the Korean Peninsula
+technically remains in a state of war.2
+Figure 1. Map of the Korean Peninsula
+Source: Created by CRS using Esri and based on data from the U.S. Department of State.
+1 Defense Casualty Analysis System, “ U.S. Military Casualties —Korean War Casualty Summary ,”
+https://dcas.dmdc.osd.mil/ dcas/ app/conflictCasualties/ korea/ koreaSum .
+2 United Nations Command, “Armistice Negotiations,” https://www.unc.mil/ History/ 1951 -1953 -Armistice -
+Negotiations/ .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   2 The United States and South Korea signed the U.S.-ROK Mutual Defense Treaty  on October 1,
+1953 . The Senate provided its advice and consent to ratification of the Treaty on January 26,
+1954 , and President Eisenhower ratified it on February 5, 1954. The Treaty entered into force in
+November 1954.3 Under the Treaty, the United States and South Korea  agreed  “to defend
+themselves against external armed attack so that no potential aggressor could be under the illusion
+that either of them stands alone in the Pacific area.”4 U.S. forces have  maintained  an ongoing
+presence on the Korean Peninsula  under Art icle IV of the Treaty . The alliance traditionally has
+focus ed on the perceived North Korean threat , which has evolved as North Korea  (formally
+known as the Democratic People’s Republic of Korea, or DPRK)  has developed  its weapons of
+mass destruction ( WMD ) and missile  capabilities .
+As of February  2026 , about 28,500 U.S. troops  are stationed in South Korea, known as U.S.
+Forces Korea (USFK) .5 USFK  comprises predominately Army personnel  operating some of the
+U.S. military’s most advanced combat capabilities .6 Most U.S. troops in South Korea are assigned
+to Camp Humphreys, which underwent a major expansion in the 2010s and is the largest U.S.
+overseas military base  in terms of land area .7 Meanwhile, overall ROK forces include about
+570,000  active -duty servicemembers and another 3.1 million reservists .8 U.S. and South Korean
+forces face multiple risks from North Korea : North Korea continues to develop ballistic missiles
+and can strike th e South Korean capital of Seoul with artillery fire.9 According to the Defense
+Intelligence Agency  in its 2025 Worldwide Threat Assessment , the DPRK has a “nuclear -armed
+missile force operating ballistic and cruise missiles” that  have the ability to reach  U.S. forces in
+the Indo -Pacific .10 North Korea also is developing —and may have already developed —missiles
+with the capability to reach U.S. territory, including the U.S. homeland.11
+To prepare their forces to, if necessary , “fight tonight” —a USFK motto —the United States and
+South Korea  have conducted combined and joint training and exercises , such as Freedom Shield
+(Figure 2). The exercises are designed to facilitate readiness  and operational cohesion . North
+Korea  has responded  to drills , for example calling them  “incursive, confrontational war
+rehearsal (s).”12
+Successive U.S. presidential administrations generally have indicated  strong support for the U.S. -
+South Korea alliance  as a “linchpin” for security and stability on the Korean Peninsula and across
+the Indo -Pacific.13 Although U.S. alliance managers have particularly emphasized perceived
+3 U.S. Forces Korea , “Mutual Defense Treaty Between the Uni ted States and the Republic of Korea; October 1, 1953 ,”
+https://www.usfk.mil/ portals/ 105/documents/ sofa/ h_mutual%20defense%20treaty_1953.pdf . See Appendix C  for full
+text of the U.S. -ROK Mutual Defense Treaty.
+4 U.S. Forces Korea , “Mutual Defense Treaty Between the United States and the Republic o f Korea; October 1, 1953 .”
+5 U.S. Department of State, “ U.S. Security Cooperation With the Republic of Korea (ROK) ,” Fact Sheet, January 20,
+2025.
+6 Ministry of National Defense of the Republic of Korea, “2022 Defense White Paper .”
+7 U.S. Army, “History of U.S. Army Garrison Humphreys,” https://home.army.mil/ humphreys/ about/ history .
+8 “South Korea: Section 3 —Force Structures,” Forecast International 2024.
+9 D. Sean Barne tt et al., “North Korean Conventional Artillery,” Rand Corporation, August 6, 2020.
+10 Defense Intelligence Agency, 2025 Worldwide Threat Assessment , May 11, 2025, pp. 20-21.
+11 Defense Intelligence Agency, 2025 Worldwide Threat Assessment , May 11, 2025, pp. 20-21.
+12 “North Korea Ramps Up Criticism Against South Korea -U.S. Drills, but No Mention of Missile Launch ,” Korea
+JoonAng Daily , March 11, 2025.
+13 U.S. Department of Defense, “ Obama, South Korean President Reaffirm U.S. -South Korea Alliance ,” September 6,
+2016; Trump White House Archives, “ Joint Press Release by the United States of America and the Republic of Korea ,”
+November 8, 2017; U.S. Embassy in the Republic of Korea, “Leaders’ Joint Statement in Commemoration of the 70th
+(continued...)
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   3 threats by No rth Korea, they also have couched the role of the alliance in global terms, advancing
+cooperation in global health, cutting -edge technological development, and other areas. This
+cooperation is grounded in shared values and mutual trust.14
+Congress historically has supported the U.S. -
+South Korea alliance on a broad, bipartisan
+basis. Through oversight, legislation, and
+other tools, Congress may routinely influence
+the executive branch’s handling of the
+alliance. For example, the annual National
+Defense Authorizat ion Act (NDAA) often
+contains  provisions related to South Korea
+and North Korea. In addition, the House and
+Senate Armed Services Committees generally
+hold annual hearings in the first quarter of the
+year on U.S. military activities in the Indo -
+Pacific tha t include the Commander of U.S.
+Forces Korea. These hearings provide
+opportunities for Members to raise questions
+about U.S. -ROK joint war planning, the U.S.
+and ROK militaries’ state of readiness, the
+evolution of perceived regional threats, the
+effective ness of bilateral extended deterrence
+discussions, and other alliance issues.
+In April 2023, then-South Korean President Yoon Suk -yeol addressed a Joint Meeting of
+Congress during his visit to Washington, DC, to mark the 70th anniversary of the U.S. -ROK
+alliance.  Yoon was the seventh South Korean  president to give such an address and the first to do
+so since 2013.15 In his remarks, Yoon said the alliance has evolved into a “global alliance” that
+extends beyond traditional security, into ar tificial intellig ence, quantum technology, outer space,
+and cyberspace.16
+Support for maintaining and modernizing the alliance is broadly bipartisan, but U.S.
+policymakers , including in Congress,  continue to  debate how the allies should share the cost of
+maintaining U.S. forces in South Korea, the appropriate size of the U.S. troop presence, the role
+of USFK off  the peninsula, and how the allies should  share operational leadership .
+Debates on these issues arise at a time when President Trump and ROK President Lee —both of
+whom took office in 2025 —have expressed interest in changes to the alliance. President Trump’s
+2025 National Security Strategy  (NSS)  appears to reposition South Kore a as a potential player not
+only in areas surrounding the Korean Peninsula, but also in broader U.S. regional security
+priorities. The NSS calls on allies including South Korea to develop the military capabilities
+Anniversary of t he Alliance Between the U.S. and the ROK,” April 27, 2023 ; The White House, “Joint Fact Sheet on
+President Donald J. Trump’s Meeting with President Lee Jae Myung,” November 13, 2025.
+14 The White House, “Joint Fact Sheet on President Donald J. Trump’s Meeti ng with President Lee Jae Myung .”
+15 U.S. Embassy in the Republic of Korea, “South Korean President Yoon Suk Yeol’s Address to a Joint Session of
+U.S. Congress,” April 28, 2023.
+16 U.S. Embassy in the Republic of Korea, “South Korean President Yoon Suk Yeol ’s Address to a Joint Session of
+U.S. Congress ,” April 28, 2023.  Figure 2. U.S. and South Korean Forces
+Conduct a Training Raid Associated with
+Bilateral Exercise Freedom Shield 25
+March 19, 2025
+Source: U.S. Forces Korea (USFK) ,
+https://www.usfk.mil/ Media/ Images/ igphoto/
+2003671813/ .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   4 “necessary to deter adversaries and protec t the First Island Chain.”17 Meanwhile, the latest
+National Defense Strategy says, “South Korea is capable of taking primary responsibility for
+deterring North Korea with critical but more limited U.S. support.”18 Potentially as part of its goal
+to have So uth Korea lead more in the alliance, the Trump Administration has expressed support
+for South Korea’s interest in acquiring nuclear submarines. Depending on the parameters of
+cooperation  between the United States and South Korea on the development of nucle ar-powered
+submarines , it could  require a new bilateral nuclear cooperation agreement  under the Atomic
+Energy Act  (AEA)  of 1954, as amended (P.L. 83 -703; 42 U.S.C. §§2111 et seq ).19 The Trump
+Administration  also has indicated an increased focus on wider regional threats in the Indo -Pacific
+such as China, which could lead to the reconfiguration of U.S. forces in South Korea.20 The Lee
+administration has pledged to increase ROK defense spending, purchase more U.S. weapons, and
+continue to modernize ROK forces.21 Both sides also have committed to accelerate changes to
+alliance command -and-control structures  and enhance trilateral cooperation with Japan , topics
+touched on in the FY2026 NDAA .22
+South Korean Political Parties and the Alliance
+According to multiple polls conducted in recent years, over 85% of South Koreans say they value the U.S. -ROK
+alliance and over 70% have reported positive opinions of the United States.23 Since at least 2014, South Koreans
+have consistently indicated that t he United States is their favorite nation, according to one opinion poll.24
+Although South Korea’s two main parties support the U.S.-ROK alliance, historically  they have held notably
+different views on how to approach North Korea, China, and Japan. In gene ral, compared to their conservative
+counterparts, left -of-center Minjoo Party politicians have tended to advocate for South Korea ’s achieving greater
+strategic autonomy, to promote more conciliatory approaches to North Korea, and to express greater distrus t of
+Japan. Compared to their progressive counterparts, right -of-center People Power Party (PPP) politicians have
+tended to emphasize the importance of maintaining a strong U.S. -ROK alliance, to be more skeptical of the value
+of engaging North Korea, to ex press less reluctance  to enter into formal cooperative arrangements with Japan,
+and in recent years , to be  more willing to criticize China’s behavior.25
+Although these differences generally remain, over the last decade t hese dynamics have shifted amid int ensified
+U.S.-China competition and an increasingly hostile North Korea, narrowing the policy gap between both parties.
+More recently, the left -of-center Minjoo Party has more cautiously supported engagement with North Korea,
+17 The First Island Chain generally refers to islands running from Japan, Taiwan, parts of the Philippines, and Malaysia.
+The White House, “National Security Strategy of the United States of A merica,” November 2025.
+18 U.S. Department of War, 2026 National Defense Strategy, January 23, 2026.
+19 See, generally, Atomic Energy Act of 1954, 42 U.S.C. §§2011 , et seq . (P.L. 83 -703), and  CRS In Focus IF11999,
+AUKUS Nuclear Cooperation , by Paul K. Kerr and Mary Beth D. Nikitin .
+20 See, for example, Chad O ’Carroll , “How US Forces Korea Is Changing Its Tune on Mission to Counter North
+Korea ,” NKNews , June 12, 2025.
+21 The White House, “Fact Sheets Joint Fact Sheet on President Donald J. Trump’s Meeting with President Lee Jae
+Myung,” November 13, 2025; “ Statesmen’s Forum: His Excellency Lee Jae Myung, President of the Republic of
+Korea ,” transcript of remarks, Center for Strategic and International Studies, August 25, 2025.
+22 Section 1268 deals with plans to transfer wartime operational control (OPCON). Section 1271 touches on U.S. -ROK -
+Japan trilateral defense cooperation. For more, see “Chain  of Command /Wartime Operational Control ” and “U.S.-
+ROK -Japan Trilateral Cooperation ” sections of this report.
+23 Kester Abbott, “ What Does Lee Jae Myung’s Victory Mean for South Korea’s Indo -Pacific Strategy, and for
+Australia? ” United States Studies Centre, June 26, 2025; The Asan Institute for Pol icy Studies, “South Koreans and
+Their Neighbors 2025,” April 28, 2025.
+24 The Asan Institute for Policy Studies, “South Koreans and Their Neighbors 2025,” April 28, 2025.
+25 Yul Sohn, “ The Future of Korean Democracy and Institutional Reform] Polarized Politi cs, Fissured Diplomacy: How
+Partisanship Imperils South Korea’s Foreign Polic y,” East Asia Institute, April 8, 2025, https://www.eai.or.kr/ press/
+press_01_view.php? no=11257 ; Darcie D raudt -Véjares, The Transformation of South Korean Progressive Foreign
+Policy , Carnegie Endowment for International Peace, May 29, 2025 .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   5 advocated for a  stronger role of the U.S. -ROK alliance in ROK national security, and expressed willingness to
+improve strategic ties with Japan.  This is particularly true among many younger progressives.26
+Military Forces in South Korea
+Three U.S.-led military commands on the Korean Peninsula support the ROK :
+• U.S. Forces Korea (USFK, a unilateral U.S. command);
+• United Nations Command (UNC, a multinational command led by the United
+States); and
+• Combined Forces Command (CFC, a bilateral U .S./ROK command)
+Through tradition and U.S. -ROK bilateral agreement, the USFK  commander  concurrently serves
+as commander of the UNC and CFC . If hostilities resumed on the Korean Peninsula, the CFC
+may lead U.S., South Korean, and multinational troops under the UNC .27 As of February  2026 ,
+the three commands  are led by U.S. Army General Xavier Brunson, who m the Senate confirmed
+for th is role in September 2024 .28
+(For a brief summary of the three U.S. -led commands —known as the “ Tri-command” —see Table
+1 below.  For a map of USFK, UNC, and CFC bases, see Figure 3.)
+U.S. Forces Korea  (USFK)
+Headquartered at Camp Humphreys, U.S. Forces Korea  is a four -star level subordinate unified
+command, responsible for organizing, training , and equipping U.S. forces on the Korean
+Peninsula.29 In his role as Commander of USFK, General Brunson reports to the commander  of
+Indo-Pacific Command  (USINDOPACOM) , who in turn reports to the Secretary of Defense .30
+Components of USFK include  but are not limited to :
+• the Eighth  Army, which provides the U.S. ground component on the Korean
+Peninsula ;31
+• the Seventh Air Force, responsible for the application of air power on the Korean
+Peninsula;32 and
+26 Darcie Draudt -Véjares, The Transformation of South Korean Progressive Foreign Policy , Carnegie Endowment for
+International Peace, May 29, 2025 .
+27 United States Forces Korea, “Combined Forces Command,” https://www.usfk.mil/ About/ CFC/ .
+28 Congressional Record —Senate , daily edition , vol. 170, no. 149 (September 24, 2024).
+29 A “subordinate unified command” refers to a command that a Unified Combatant Commander (in this instance, the
+Commander, USINDOPACOM) establishes to manage particular missions or operations on a permanent basis,
+comprising forces from at least two  military services. For more  information , see https://www.armed -
+services.senate.gov/ imo/media/ doc/brunson_apq_responses.pdf .
+30 The U.S. Secretary of Defense i s using “Secretary of War” as a “secondary title” under Executive Order  14347 dated
+September 5, 2025. For more on USINDOPACOM, se e U.S. Indo -Pacific Command, “About USINDOPACOM,”
+https://www.pacom.mil/ About -USINDOPACOM/ .
+31 United States Eighth Army, https://8tharmy.korea.army.mil/ site/.
+32 United States Seventh Air Force, https://www.7af.pacaf.af.mil/ About -Us/.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   6 • U.S. Naval Forces Korea, which assists the U.S. Seventh Fleet (based in Japan)
+and the ROK  Navy with plans, policies , and training ; it is based at  Fleet
+Activities Chinhae, the only U.S. Navy installation in South Korea .33
+United Nations Command (UNC)
+UN Security Council Resolutions 83 and 84 established the UNC in July 1950 in response to the
+outbreak of the Korean War, which began when North Korea invaded South Korea on June 25,
+1950.34 Member states —led by a U.S. commander —committed to defending South Korea and
+fought during the Korean War.  UNSC Resolution 84 authorized “the unified command at its
+discretion to use the United Nations flag in the course of operations against North Korean  forces
+concurrently with the flags of the various nations participating.”35 In 1953, U.S. General Mark
+Clark signed the Armistice Agreement on behalf of the UNC.36 After the war, the UNC
+maintained operational control of South Korea’s military until the e stablishment of the Combined
+Forces Command in 1978.
+Under Armistice conditions , the UNC ’s responsibilities include enforcing the Armistice
+Agreement,  coordinating contributions among UNC member states  (known as “Sending States”) ,
+and facilitating dialogu e with North Korea. UNC’s  staff is roughly 100 personnel.37 The UNC
+Military Armistice Commission monitors compliance with the Armistice Agreement via
+inspections at the De -Militarized Zone (DMZ) at the border of North and South Korea and
+investigates alle ged violations of the Armistice Agreement.38 In addition, UNC -Rear “supports the
+transit and operation of UNC sending states ’ forces through Japan during the Armistice at
+designated UNC facilities. There are seven bases currently designated as UNC faciliti es in Japan,
+which fly the UN flag. ” These bases are shared with U.S. Forces Japan (USFJ).39
+If hostilities resume, the UNC —which has 18 member states —may provide  “an efficient,
+exercised, and enduring platform to coordinate Sending State contributions  to enable “ security
+and stability on the Korean Peninsula .”40 The s even designated UNC -Rear bases across Japan
+33 U.S. Navy Region Korea, https://cnrk.cnic.navy.mil/ .
+34 From 1910  to 1945, Japan colonized the Korean Peninsula. After Japan’s defeat in World War II in 1945, the United
+States and the Soviet Union agreed to divide the Korean Peninsula, wit h each controlling roughly half. The 38th parallel
+became the demarcation line between the two occupation zones. Both the United States and the Soviet Union installed
+their own leaders —Syngman Rhee in the south, and Kim Il -Sung in the north. Mutual mistrus t prevented the holding of
+elections meant to decide the leader of the entire peninsula. For more  information , see United Nations Command,
+“History of the Korean War,” and United States National Archives, “US Enters the Korean Conflict,”
+https://www.archives.gov/ education/ lessons/ korean -conflict#background .
+35 United Nations Command, UNSC Resolutions 83 and 84, https: //docs.un.org/ en/S/RES/ 83(1950)  and
+https://docs.un.org/ en/S/RES/ 85(1950) .
+36 U.S. Department of Defense, “ Long Diplomatic Wrangling Finally Led to Korean Armistice 70 Years Ago ,” July 24,
+2023.
+37 United Nations Command, “Unified in Purpose,” https://www.unc.mil/ About/ Our-Role/ ; CRS interview with U.S.
+Forces Korea official, April 30, 2025 .
+38 United Nations Command, “ Military Armistice Commis sion—Secretariat .”
+39 United Nations Command, “United Nations Comman d—Rear.”
+40 United Nations Command, “Unified in Purpose,” https://www.unc.mil/ About/ Our-Role/ ; UNC Member States
+include: Australia, B elgium, Canada, Colombia, Denmark, France, Germany, Greece, Italy, Netherlands, New Zealand,
+Norway, Philippines, South Africa, Thailand, Türkiye (Turkey ), the United Kingdom, and the United States . For more
+information , see https://www.war.gov/ News/ Releases/ Release/ article/ 3587434/ republic -of-korea -and-united -nations -
+comm and-member -states -defense -ministerial/  and https://www.usfk.mil/ Media/ Press -Products/ Press -Releases/ Article/
+3859125/ germany -joins -united -nations -command/ .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   7 may serve as logistic and supply bases to manage the flow of international forces into South
+Korea, aided by U.S. Forces Japan.41
+Combined Forces Command (CFC)
+The Combined Forces Command is a bilateral U .S./ROK headquarters established in 1978 to
+deter conflict with North Korea and, if necessary, lead U.S., ROK , and United Nations Command
+forces to defend South Korea. The CFC has no day -to-day assigned forces; rather, the CFC has
+temporarily assigned forces from both countries under Armistice conditions for combined
+military exercises to ensure combat readiness.42 Should hostilities resume, the CFC may be the
+designated theater -level operatio nal command for those forces.  Senior  U.S. and ROK  civilian
+leaders  may jointly authorize the activation of the CFC  and assign troops under its command  if
+hostilities escalate beyond a certain threshold .43
+The CFC takes its direction from a bilateral steer ing committee  called the Military Committee ,
+which serves as a structure for high -level military coordination between the United States and
+South Korea . The Military Committee  provides the CFC commander with bilaterally  formulated
+guidance and direction.  In addition, the U.S. Secretary of Defense (U.S. Secretary of War) and the
+ROK Minister of National Defense provide input or reaffirm decisions of the Military Committee
+via annual Security Consultative Meetings (SCMs).44
+41 United Nations Command, “United Nations Comman d—Rear,” https://www.unc.mil/ Organization/ UNC -Rear/ .
+42 United States Forces Korea, “Combined Forces Command,” https://www.usfk.mil/ About/ CFC/ ; CRS interview with
+U.S. Forces Korea official, April 30, 2025 .
+43 CRS interview with U.S. Forces Korea official, April 30, 2025 .
+44 Shawn Creamer, “Theater -Level Command an d Alliance Decision Making Architecture in Korea,” International
+Council on Korean Studies, pp. 7 -11, http://icks.org/ data/ ijks/1498534150_add_file_3.pdf .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   8 T able 1. The Three U.S. -Led Commands (Tri -Command) on the Korean Peninsula
+United States Forces Korea
+• Unilateral U.S. command  (under U.S. Indo -Pacific Command)
+• Established in July 1957
+• About 28,500 troops
+• Organizes, trains, and equips U.S. forces in South Korea
+• Major components include  8th Army , 7th Air Force , and U.S. Naval Forces Korea
+United Nations Command
+• U.S.-led multilateral command
+• Established in July 1950 by UN Security Council Resolutions 83 and 84
+• 18 member states  (as of February  2026)
+• Under the 1953 Armistice , monitors the Armistice Agreement and facilitates daily military -to-
+military contacts at the De -Militarized Zone (DMZ)
+• If Armistice is breached , would coordinate, command, and control non -U.S./non-ROK
+international coalition contributions to support the ROK
+Combined Forces Command
+• Bilateral U.S./ROK command
+• Established in November 1978
+• Commander: four-star U.S. Army general; Deputy commander:  four-star ROK Army general
+• Designated theater -level command for USFK, ROK, and UN forces if hostilities resumed
+• Forces assigned temporarily during combined exercises and in the event the CFC is activated
+shoul d hostilities on the peninsula resume
+Source:  CRS, based on information from U.S. Forces Korea  and United Nations Command .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   9 Figure 3. Map of USFK, UNC, and CFC Bases
+Source: CRS, using data from Esri.
+Notes:  The Joint Security Area (JSA) is located at the Demilitarized Zone (DMZ); United Nations Command
+bases in Japan are  co-located on U.S. Forces Japan ( USFJ) facilities and  referred to as “UN C-Rear.”
+South Korea ’s Defense Industry and Purchases of
+U.S. Weapon Systems
+As of 2024, South Korea had the world’s 11th-largest military budget  based on total  monetary
+expenditures , spending roughly $47.6 billion or 2.6% of its gross domestic product (GDP).45
+South Korea has a mature and increasingly sophisticated defense industr y and was the 8th-largest
+defense exporter in 2023 , measured as a share of the world’s defense exports .46 Internationally,
+South Korean firms compete in the aerospace, shipbuilding, and armored vehicles industries,
+among others.47 One source’s  “Top 100” de fense companies ranking for 202 5 featured three
+South  Korean defense companies —Hanwha, LIG Nex1, and Hyundai Rotem .48 South Korea’s
+latest program —Defense Innovation 4.0, announced in March 2023 —aims to utilize advanced
+technologies such as artificial intelligence and unmanned systems to develop a more effective
+military less reliant on foreign sources  of defense equipme nt. Defense Innovation 4.0  takes into
+account South Korea’s low birth rate and declining population, which may impact future ROK
+45 Xiao Liang et al., “Trends in World Military Expenditure, 2024,” Stockholm International Peace Research Institute,
+April 2025.
+46 U.S. Department of Commerce, “South Korea Country Commercial Guide: Defense Industry Equipment,” December
+5, 2023, https://www.trade.gov/ country -commercial -guides/ south -korea -defense -industry -equipment .
+47 Hunter Slingbaum  and Kaitlyn King , “Will South Korea’s Defense Industry  Boom Change U.S. -ROK Military
+Relations? ” Stimson Center, August 19, 2024, https://www.stimson.org/ 2024/ will-south -koreas -defense -industry -
+boom -change -u-s-rok-military -relations/ .
+48 “Top 100 for 202 5,” Defense News , accessed March 5, 2026 , https://people.defensenews.com/ top-100/.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   10 troop strength .49 President Lee has pledged to mak e South Korea the world’s fourth -largest
+defense industry  by increasing domes tic production capacity and export s through 2030. His plan
+includes l owering barriers to entry for defense technology innovators and increased government
+investments in aerospace research and development.50
+South Korea is a major purchaser of U.S. defense articles and services through the Foreign
+Military Sales (FMS) and Direct Commercial Sales (DCS) programs. As of 2025, the United
+States has over $30 billion in active government -to-government sales cases with South Korea
+under the FMS System. Some recent FMS sales to South Korea that were notified to Congress
+include the F -35 Joint Strike Fighter, Patriot Advanced Capability -3 missile systems, Global
+Hawk Unmanned Aerial Vehicle, and Aegis Combat Systems. From FY2019 to FY2021, the
+United States authorized  the export of over $3.4 billion in defense articles to South Korea via
+DCS, including gas turbine engines and military electronics.51 In November 2025, South Korea
+pledged to purchase $25 billion worth of U.S. military equipment by 2030.52
+The 110th Congress passed legislation that upgraded South Korea’s status as an arms purchaser
+from a “Major Non -NATO Ally” to the “NATO Plus Three” category ( P.L. 110 -429), which ha s
+subsequently become “NATO Plus Five.” This upgrade increases the threshold for the
+requirement that the U.S. executive branch notify Congress of pending arms sales, from $14
+million to $25 million. Congress has 15 days to consider the sale and take legis lative steps to
+block the sale, compared to 30 days for Major Non -NATO Allies.
+Key Issues for Congress
+U.S. Troops Levels in South Korea
+Since the U.S. -ROK Mutual Defense Treaty was signed  in 1953 , the United States  gradually  has
+reduced troop levels on th e Korean Peninsula. These reductions often coincided with calls  by
+some leaders in the United States  for South Korea to contribute more to the alliance  and/or with
+shifting U.S. global security priorities . President Eisenhower ordered the number decreased from
+around 75,000 to around 55,000 by 1960. In 1971, President Nixon withdrew the Seventh
+Infantry Division consisting of about 20,000 troops as part of the “Nixon Doctrine,” which called
+for fewer U.S. troops in allied countries as those allies developed  their own military power.
+President George W. Bush in 2004 ordered the withdrawal of 12,000 troops from South Korea, to
+be deployed to Iraq during the Iraq War. The number of U.S. troops has remained at around
+28,500 since then  (this number may include ro tational troops) .53 (See Figure 4 for U.S. troop
+levels in South Korea over time.)
+49 U.S. Department of Commerce, “South Korea Co untry Commercial Guide: Defense Industry Equipment,” December
+5, 2023, https://www.trade.gov/ country -commercial -guides/ south -korea -defense -industry -equipment .
+50 Anna J. Park, “ Lee Vows ‘ Bold Investments’ to Elevate Korea to Top-Tier Defense Power ,” The Korea Times ,
+October 20, 2025.
+51 State Department, “ U.S. Security Cooperation with the Republic of Korea (ROK) ,” January 20, 2025 .
+52 The White House, “Joint Fact Sheet on President Donald J. Trump’s Meeting with President Lee Jae Myung,”
+November 13, 2025.
+53 Larry Niksch , “Potential Sources of Opposition to a U.S. Troop Withdrawal from South Korea,” National Committee
+on North Korea  (NCNK), April 2019, https://www.ncnk.org/ sites/ default/ files/ issue -briefs/
+Opposition_US_Troop_Withdrawal_South_Korea.pdf ; Dr. Tim Kane, “U.S. Troop Deployments, 1950 -2023,”
+American Lyceum, November 2024, https://www.ustroopdeployments.com/ ; U.S. Department of State, “ U.S. Security
+Cooperation with the Republic of Korea (ROK) ,” fact sheet, January 20, 2025.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   11 The issue of U.S. troop levels in South Korea continues to be a subject of debate amid changing
+political , security , and other  dynamics , and it has become  particularly relevant under President
+Trump.  In his first term, President Trump reportedly planned to  propose withdrawing all U.S.
+troops from South Korea, but advisors convinced him not to do  so.54 In the spring of 2025  during
+Trump’s second term , the Trump Administration reportedly was  considering relocating some
+4,500 U.S. troops from South Korea to Gu am and other locations  in the Indo -Pacific region.55 The
+Pentagon denied the report . Some experts say th is idea stems from the Trump Administration’s
+aim to reorient U.S. forces in the Indo -Pacific to focus on a potential conflict with China.56
+During a U .S.-ROK summit in Washington with President Lee on August 25, 2025, President
+Trump floated the idea of the United States taking ownership of land in South Korea where there
+are U.S. military facilities. While it has raised legal questions among some experts, it also may
+suggest that the Trump Administration intends to maintain a  U.S. troop presence in South
+Korea.57 In November 2025, U.S. Secretary of Defense Pete Hegseth  and his ROK counterpart
+“reaffirmed that U .S. Forces Korea (USFK) will maintain force and posture levels to support
+Alliance efforts to prevent armed conflict on the Korean Peninsula and promote peace and
+stability in Northeast Asia.”58
+Some experts have argued that the U.S. troop presence in Sou th Korea is an integral part of the
+U.S. mutual defense commitment59 and reducing the U.S. presence on the Korean Peninsula could
+raise questions among North and South Koreans about the credibility of that commitment.60
+Concerns about the U.S. commitment t o South Korean security particularly might resonate  if U.S.
+troops reductions  come at a time when the Trump Administration’s Department of Defense , which
+is “using a secondary Department of War designation,” under Executive Order 14347 dated
+September 5, 2 025, has already said it is  prioritizing  “reorienting toward deterring aggression by
+Communist China.”61 Other analysts contend that South Korea is now capable of defending itself
+and that a continued U.S. presence is provocative to nuclear -armed North Kor ea, which may
+perceive the large U.S. military footprint as a threat.62 Rather than maintain a large force
+presence, they argue, the United States could instead seek to extract concessions from North
+Korea related to its nuclear program in exchange for red uced troop levels.63
+U.S. presidents  generally ha ve exercised wide latitude in altering the number of U.S. military
+personnel in South Korea, but Congress has taken an active role in shaping troop levels on the
+54 Carol E. Lee  et al., “ Kelly Thinks He’s Saving U.S. from Disaster, Calls Trump ‘Idiot,’ Say White House staffers ,”
+NBC News, May 1, 2018.
+55 Nancy Youssef et al ., “U.S. Considers Withdrawing Thousands of Troops from South Kor ea,” The Wall Street
+Journal , May 23, 2025.
+56 Sean Parnell, post on X, May 23, 2025; Victor Cha, “ The Meaning of U.S. Troop Withdrawals from Korea ,” Center
+for Strategic and International Studies, June 2, 2025.
+57 Jooheon Kim  and Shreyas Reddy , “What Trump’s Improbable Bid for ROK Land Reveals About His North Korea
+Plans,” NK News , August 26, 2025, https://www .nknews.org/ 2025/ 08/what -trumps -improbable -bid-for-rok-land-
+reveals -about -his-north -korea -plans/ ?t=1772732443773 .
+58 U.S. Department of Defense, “ 57th Security Consultative Meeting Joint Communique ,” November 14, 2025.
+59 Daniel Post, “ Renewing Its Vow s: U.S. Commitment to the Defense of South Korea ,” Georgetown Journal of
+International Affairs , January 6, 2025.
+60 Victor Cha, “ The Meaning of U.S. Troop Withdrawals from Korea .”
+61 U.S. Department of Defense, “ Remarks by Secretary of Defense Pete Hegseth a t the 2025 Shangri -La Dialogue in
+Singapore ,” May 31, 2025.
+62 Doug Bandow, “ Why Is America Still in South Korea? ” Cato Institute, April 20, 2023, https://www.cato.org/
+commentary/ why-america -still-south -korea .
+63 Karl Friedhoff, “ US Troop Drawdown in South Korea Worth Considering ,” The Hill , February 2, 2019.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   12 peninsula at times  (for more, see the case studies on the Carter and first Trump Administrations
+below) . Today, amid changing U.S./ROK assessments of the threats from  the People’s Republic
+of China  (PRC , or China)  and North Korea, the debate over U.S. troop numbers on the peninsula
+remains salient , as South Korea enhances its own military capabilities and  President Trump has
+publicly expressed dissatisfaction with the asymmetric nature of the U.S. -ROK alliance.64
+Congress may wish to consider whether to support or oppose adj usting the number and
+composition of U.S. forces in South Korea. Congress also may consider the perceived strategic
+value of more U.S. forces in the INDOPACOM area of responsibility (AOR) to respond to a
+regional crisis, or the South Korean government ’s historical financial support for the U.S. troop
+presence there. Congress may  also consider legislating in support of a smaller force presence in
+South Korea because the presence may be provocative to U.S. adversaries in the region, or based
+on uncertainty ab out South Korea’s support for using U.S. forces based in South Korea for a
+conflict with China. Drawing upon its war -related powers, Congress could enact legislation that
+sets troop minimums or troop maximums.65 In Section 1268 of  the FY2026 NDAA  (P.L. 119 -60),
+Congress inserted a provision to prohibit the use of funds to reduce the  approximate  total number
+of U.S. troops  permanently stationed in or deployed to South Korea below 28,500 until 60 days
+after the Secretary of Defense meets certain conditions. These conditions include certification by
+the Secretary to Congress that such a reduction serves U.S. national security  interest s and has
+been done in consultation with U.S. allies and partners, including South Korea and Japan. It
+would further require  the Secretary to submit to the appropriate committees of Congress  an
+analysis of the impact such a reduction may have on t he security of the United States, South
+Korea, and Japan ; U.S.-ROK joint activities and armed forces interoperability ; and other
+considerations .
+Members also may show  support for or opposition to altering the U.S. troop presence in South
+Korea via open he arings, letters to the Administration, and/or  other public statements. Congress
+may request briefings from the Department of Defense (also now Department of War) and other
+relevant executive agencies on the potential impact of an altered troop presence and  related issues
+and commission committee reports to further investigate the topic.
+64 See, for exam ple, Thomas Marcesa, “ Reducing U.S. Troops in South Korea Would Be ‘Problematic ,’ Top
+Commander Warns,” UPI, April 11, 2025.
+65 For example, Section 1254 of the FY2020 NDAA ( P.L. 116 -92) and Section 1258 of the FY2021 NDAA ( P.L. 116 -
+283) restricted the use of funds to reduce U.S. troops in South Korea below 28,500 until the Defense Department met
+certain conditions. Conversely, Section 8125 of the Department of Defense Appropriations Act of 1989 ( P.L. 100 -463)
+limit s the number of active -duty U.S. forces in Japan and South Korea to 94,450 at the end of each fiscal year.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   13 Figure 4. U.S. Troops in South Korea, 1955 -2023
+Source: CRS, based on data from Dr. Tim Kane, “U.S. Troop Deployments , 1950 -2023,” American Lyceum,
+November 2024, https://www.ustroopdeployments.com/ ; U.S. Department of Defense .
+The Role of Congress in U.S. Troop Withdrawal Proposals
+The following are two selected historical examples of how Congress exerted its authority over the issue of U.S.
+troop withdrawals from South Korea.
+Congress and President Carter’s Failed Withdrawal Plan
+In 1977, President Carter ordered a review of U.S. policy toward the Korean Peninsula . Carter intended to
+withdraw roughly 15,000 U.S. ground troops from the Korean Peninsula between 1977 and 1980, and reportedly
+sought guidance not on whether  to withdraw American ground troops, but on how to withdraw them.66 Carter’s
+plan faced opposition  from various stakeholders, including Congress. Members voiced concerns during committee
+hearings and elsewhere. In Section 512 of the Foreign Relations Authorization Act for Fiscal Year 1978 ( P.L. 95 -
+105), Congress asserted that U.S. policy toward Korea “should continue to be arrived at by joint decision of the
+President and the Congress” and that “the United States should seek to accomplish such reduction [of troops] in
+stages consistent with United States interests in Asia, notably Japan, and with the security interests of the Republic
+of Korea.” Amid building pressure, by July 1979, the White House said it would not pursue the withdrawal plan.67
+66 Don Oberdorfer and Robert Carlin, The Two Koreas: A Contemporary History , 3rd ed. (Ba sic Books, 2013), pp. 84 -
+108.
+67 Larry Niksch, “Potential Sources of Opposition,” NCNK; Clint Work, US Troops in Korea: From History’s Vantage
+Point ,” Stimson Center, May 8, 2018, https://www.38no rth.org/ 2018/ 05/cwork050818/ .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   14 Congress and Troop Levels in the First Trump Administration
+Congress also opposed a reported first Trump Administration plan to propose a “complete withdrawal of U.S.
+forces from South Korea.”68 Some analysts suggested such a U.S. troop withdrawal may have been floated durin g
+U.S.-North Korea high -level diplomatic engagement in 2018 aimed at negotiating a peace treaty to end the Korean
+War.69
+Congress responded in part via legislation. In Section 1264 of the FY2019 NDAA ( P.L. 115 -232), Congress
+prohibited the use of federal funds to reduce the number of active -duty U.S. troops in South Korea below 22,000,
+unless the Secretary of Defense certified to Congress that “such a reduction is in the na tional security interest of
+the United States and will not significantly undermine the security of United States allies in the region.” The same
+law required the Secretary of Defense to consult with South Korea, Japan, and other allies. Moreover, Section
+1254 of the FY2020 ( P.L. 116 -92) and Section 1258 of the FY2021 ( P.L. 116 -283) NDAAs prohi bited the use of
+funds to reduce active -duty troop levels below 28,500 until 90 days after the Secretary of Defense certified to
+Congress the aforementioned conditions.
+Congress relaxed its requirements during the Biden Administration but still supported a robust alliance. The
+NDAAs for FY2022 -FY2025 expressed the sense of Congress that the United States should continue
+strengthening the U.S. -ROK alliance and maintain the current force strength of 28,500 U.S. military personnel.70
+“Strategic Flexibility” : Alliance Coordination Off the Korean
+Peninsula
+The U.S. -ROK alliance traditionally has focused on countering the DPRK threat. The level and
+make -up of U.S. forces in South Korea, as well as their training and exercise activities, are aimed
+at deterring a nd, if necessary,  defeating North Korea. Over the decades, U.S. officials have
+wrestled with the question of whether, and to what extent, U.S. Forces Korea ( USFK ) should
+expand its activities  to address broader regional threats , particularly with respect to Taiwan . In a
+January 2006 joint statement between the n-U.S. Secretary of State Condoleezza Rice and then -
+ROK Foreign Minister Ban Ki -Moon, the countries “confirmed their understanding” that the
+ROK “ respects the necessity for strategic flexibili ty of the U.S. forces in the ROK .” The
+statement further provided:
+The ROK, as an ally, fully understands the rationale for the transformation of the U.S.
+global military strategy… . In the implementation of strategic flexibility, the U.S. respects
+the ROK position that it shall not be involved in a regional conflict in Northeast Asia
+against the will of the Korean people.71
+The allies issued this statement after the George W. Bush Administration announced it would
+redeploy roughly 3,600 U.S. troops from Sou th Korea to Iraq as part of a policy to shift troops to
+where the United States deemed them most needed.72 The United States also announced it was
+reevaluating its force posture on the Korean Peninsula per the 2004 Global Defense Posture
+Review. These move s reportedly concerned South Korea. In addition, ROK officials increasingly
+68 Mark Esper, “ ‘I Want to Meet with the Taliban’: Tales of Trump’s Head -Scratching Diplomacy ,” Politico , May 9,
+2022; U.S. Congress, House Committee on Foreign Affairs,  Subcommittee on Asi a and the Pacific and
+Nonprolife ration , On the Eve of the Summit: Options for U.S. Diplomacy with North Korea , 116th Congress, 1st session,
+February 26, 2019, https://www.govinfo.gov/ content/ pkg/CHRG -116hhrg35364/ pdf/CHRG -116hhrg35364.pdf . Jung
+Min-ho, “Pulling US Troops Out of Korea Was Trump ’s Second -Term Priorit y, Esper ’s Memoir Reveals ,” The Korea
+Times , June 16, 2022.
+69 For more, see CRS Report R45169, A Peace Treaty with North Korea? , by Emma Chanlett -Avery et al.
+70 See Section 1252 of the FY2022 NDAA ( P.L. 117 -81); Section 1265 of the FY2023 NDAA ( P.L. 1 17-263); Section
+1301 of the FY2024 NDAA ( P.L. 118 -31); and Section 1311 of the FY2025 NDAA ( P.L. 118 -159).
+71 U.S. Department of State, “United States and the Republic of Korea Launch Strategic Consultation for Allied
+Partnership ,” January 19, 2006, https://2001 -2009.state.gov/ r/pa/prs/ps/2006/ 59447.htm .
+72 “Presidents Agree to Redeploy U.S. Forces in Korea to Iraq ,” The Chosun Daily , May 18, 2004.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   15 feared that “strategic flexibility” of USFK could bring ROK forces into a conflict off the
+peninsula, particularly around Taiwan, which is discussed below.73
+As the nature of perceived threats has evolved, the United States and South Korea have sought to
+broaden the alliance’s scope. In 2022, both sides agreed to upgrade the alliance to a “global
+comprehensive strategic alliance,” meant to address not only Nort h Korea but also larger cross -
+cutting issues such as cyber, economic, and health security.74 The following year, U.S. and ROK
+military leaders agreed to a “Defense Vision of the U.S. -ROK Alliance” that includes  promoting
+regional peace and stability bilate rally and with like -minded partners.75
+“Strategic flexibility”  has received renewed attention as the second Trump Administration aims to
+modernize the U.S. -ROK alliance to more actively respond to threats not just from  North Korea
+but also China . In U.S. -ROK joint statements in 2025 —including at the Trump -Lee summit in
+November —both sides  committed  to “enhance U.S. conventional deterrence posture against all
+regional threats to the Alliance, including the DPRK .”76 At least one Member  of Congress ha s
+expressed support for strategic flexibility of U.S. forces as long as (1) the U.S. -ROK alliance can
+continue to deter North Korea and (2) Congress plays an oversight role in discussions around
+strategic flexibility.77
+Role of U.S. Forces in a Potential Conflict over Taiwan
+Some experts  increasingly are discussing the role USFK may play in a possible conf lict over
+Taiwan, the self -governing island democracy of 23 million people across the strait from mainland
+China, over which the PRC claims sovereignty. Publicly, senior U.S. military officials have cast
+the U.S. -ROK alliance’s responsibilities in broad re gional terms that suggest the alliance could
+have a role to play if conflict breaks out over Taiwan. USFK Commander General Xavier
+Brunson reportedly has said that USFK is “not solely focused on deterring North Korea but also
+part of a broader Indo -Pacific  strategy.”78 In 2022, former USFK Commander Robert Abrams
+reportedly said the United States would keep “all options” open regarding which forces it might
+use in a conflict over Taiwan, including USFK.79
+The second Trump Administration describes China  as the overseas “pacing threat” and appears to
+be repurposing  USFK for potential use in a Taiwan contingency.80 For example, t he U.S. Air
+73 Clint Work, “ What’s in a Tripwire: The Post -Cold War Transformation of the US Military Presence in Korea ,”
+Stimson Center, June 9, 2022, https://www.stimson.org/ 2022/ whats -in-a-tripwire -the-post-cold-war-transformation -of-
+the-us-military -presence -in-korea/ .
+74 Ministry of Foreign Affairs of the Republic of Korea, “ Korea, US Upgrade Ties to ‘Global Comprehensive Strategic
+Alliance ,’” May 25, 2022, https://www.mofa.go.kr/ eng/brd/m_5674/ view.do? seq= 320723 .
+75 U.S. Department of Defense, “ Defense Vision of the U.S. -ROK Alliance ,” November 13, 2023.
+76 The White House, “Joint Fact Sheet on President Donald J. Trump’s Meeting with President Lee Jae Myung,”
+November 13, 2025; U.S. Department  of Defense, “ 57th Security Consultative Meeting Joint Communique ,” November
+14, 2025.
+77 See, for example, “ US Senator Says Congress Will Review Shipbuilding Reforms After Lee -Trump Summit ,”
+Yonhap, August 21, 2025, https://www.koreatimes.co.kr/ southkorea/ politics/ 20250820/ us-senator -says-congress -will-
+review -shipbuilding -reforms -after-lee-trump -summit .
+78 Kook -hee Park and Seo -young Kim, “ USFK Chief Denies Troop Cut in S. Korea, Reaffirms Regional Deployment
+Flexibility ,” The Chosun Daily , May 29, 2025.
+79 “Hints Dropped That USFK Might Have to Help Defend Taiwan ,” Korea JoongAng Daily , September 27, 2022.
+80 U.S. Department of Defense, “ Secretary of Defense Pete Hegseth Delivers Keynote Address at Special Operations
+Forces Week 2025 ,” May 6, 2025; Lee Hyo -jin, “ S. Korea on Edge as US Eyes USFK Role in Taiwan  Contingencies ,”
+The Korea Times , March 31, 2025; Andrew Yeo, Korea Pro Podcast, December 3, 2024, https://koreapro.org/ category/
+south -korea -news -podcast/ latest/ special -episode -with-andrew -yeo-trump -2-0-and-alliance -challenges -ep-50/2207357/ ?
+t=1741979519824 .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   16 Force established  a permanent presence of MQ -9 Reaper drones at Kunsan Air Base on South
+Korea’s west coast in September 2025.81 The d rones  reportedly will support intelligence,
+surveillance, and reconnaissance operations, and their  range covers the DMZ as well as the East
+China Sea and Taiwan.82 Some d efense experts say that a dual -purpose USFK prepared for threats
+on the Korean Peninsu la and in the Taiwan Strait align s with U.S. theater -wide deterrence
+efforts —particularly vis -à-vis China —and argue its value would be greater if the United States
+deployed precision strike and other advanced military capabilities on the peninsula. However , if a
+conflict around Taiwan broke out, some expert s have question ed whether redistributing troops
+may reduce readiness or increase South Korea’s vulnerability  to PRC or North Korean
+provocations .83 In addition, USFK largely consists of U.S. Army ground forces, and in its
+configuration as of February  2026 , USFK’s effectiveness for use in a Taiwan conflict may be
+limited.84 Some observers have noted that the Trump Administration  could decide  to bolste r air
+and naval assets on the peninsula while reducing ground forces to better counter PRC and other
+regional threats .85
+Role of ROK Forces in a Potential Conflict over Taiwan
+Even if USFK were to adopt a dual -purpose posture, it is less clear what role ROK forces might
+play in a conflict over Taiwan. South Korean civilian and military leadership h ave taken a more
+cautious approach to questions about possible ROK actions in the event of a cross -Strait conflict.
+This caution may find its roots in mult iple South Korean concerns, including U.S. abandonment if
+USFK were deployed off the peninsula; entanglement of South Korean forces in a regional
+conflict; and the possibility that North Korea  might seek to take advantage of a distracted United
+States duri ng a Taiwan conflict  and undertake military provocations against South Korea. Such
+scenarios may make U.S. and ROK bases in South Korea a target. South Korean officials have
+argued that in any conflict, the ROK military should remain focused on the North K orean threat.86
+In a Taiwan contingency, some analysts expect U.S. policymakers to count on South Korea to
+continue deterring North Korea and provide indirect military assistance to Taiwan , such as
+logistical support for U.S. forces and reconnaissance aga inst PRC military assets.87 In 2022, then -
+President Yoon underscored that in the event of a Taiwan contingency, “ the top priority for … the
+U.S. Korean alliance on the Korean peninsula would be based on our robust defense posture, [so]
+we [South Korea] must deal with the North Korean threat first .”88 While campaigning, current
+President Lee was asked whether, if he were elected, South Korea would aid Taiwan if China
+81 U.S. Air Force, Kunsan Air Base, “ 431st Expeditionary Reconnaissance  Squadron Activates, Hosts Assumptions of
+Command ,” September 29, 2025.
+82 Brad Lendon, “ US Establishes New Reaper Drone Unit 250 Miles from China ,” CNN , September 30, 2025.
+83 Jeongmin Kim  and Joon Ha Park , “What North Korea Stands to Lose If US Forces Korea Expands Mission to
+China ,” NK News , May 1, 2025 ; Andrew Yeo and Hanna Foreman, “ Is South Korea Ready to Define Its Role in a
+Taiwan Strait Contingency? ” Brookings Institution, March 28, 2025.
+84 Clint Work, “ Seoul’s Dilemma in the Face of a New Sole Pacing Threat and Scenario ,” Korea Economic Institute,
+April 2, 2025.
+85 “US Expert Not Ruling Out Possible Change in USFK Force Posture in Next 3 Years ,” The Korea Herald ,
+November 21, 2025.
+86 Bruce Klingner, “ South Korea Cannot Afford to Sit O ut Taiwan Contingencies ,” Heritage Foundation, October 30,
+2024, https://www.heritage.org/ china/ report/ south -korea -cannot -afford -sit-out-taiwan -contingencies ; Clint Work,
+“Siloed No More: The U.S. -ROK Alliance a nd a Taiwan Conflict,” Korean Economic Institute of America, March 31,
+2025, https://keia.org/ publication/ siloed -no-more -the-u-s-rok-alliance -and-a-taiwan -conflict/ .
+87 Bruce Klingner, “South Korea Cannot Afford to Sit Out Taiwan Contingencies ,” Heritage Foundation, October 30,
+2024, https://ww w.heritage.org/ china/ report/ south -korea -cannot -afford -sit-out-taiwan -contingencies .
+88 Fareed Zakaria, CNN , September 25, 2022, https://transcripts.cnn.com/ show/ fzgps/ date/2022 -09-25/segment/ 01.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   17 attacked it. “ I will think about that answer when aliens are about to invade the earth ,” Lee
+replied.89 More broadly , if South Korea intends to pursue the development of nuclear -powered
+submarines, some U.S. officials have said the United States would expect South Korea to use
+those submarines to support combined efforts to counteract China in the region.90
+Changes in South Korea’s Rhetoric vis -à-vis China and T aiwan
+During the 2010s, the South Korean government generally was reluctant to risk jeopardizing its relationship with
+China, its top export destination and key partner in managing challenges related to North Korea.91 Since 2020,
+this reluctance appears to have receded, as South Korea has sought to align itself closer to the United States amid
+perceived PRC regional aggression.92 The South Korean defense community also has r ecognized that a
+contingency around Taiwan could have military and economic implications on the peninsula.93 From 2021, U.S. -
+ROK joint leaders’ statements included references to Taiwan.94 On the eve of his April 2023 summit with
+President Biden, President Yoon reportedly referred to Taiwan’s situation as a “global issue,” and claimed that
+China was causing cross -Strait tensions by attempting to “change the status quo by force.”95
+Despite South Korea’s increased willingness to criticize China’s behavior, so me South Korean policymakers —
+especially progressives —tend to be less comfortable than their U.S. counterparts with high levels of bilateral
+tension with China. Under the current Lee administration, U.S. -ROK joint statements have reference d “the
+importance of maintaining peace and stability across the Taiwan Strait.” At the same time, following his November
+2025 summit with PRC President Xi Jinping, Lee said the two countries were “on a path of mutual prosperity as
+strategic cooperative partners.”96
+Congres s, “Strategic Flexibility ,” and Taiwan
+Whether South Korea would allow U.S. forces based on its territory to conduct offensive
+operations against China in a Taiwan contingency is a highly sensitive and unsettled issue . The
+U.S.-ROK Mutual Defense Treaty  grants to the United States “the right to dispose United States
+land, air and sea forces in and about the territory of the Republic of Korea as determined by
+mutual agreement.” The Department of Defense ( DOD )’s ability to use these locations may be
+affected by political developments beyond U.S. control. South Korea might oppose the use of
+U.S. forces on the Korea Peninsula for a variety of reasons, including a South Korean reluctance
+to provoke China, or a preference to keep all U.S. forces in South Korea focused on the threat of
+North Korea, or a political leadership that feels a reluctance to support a U.S. -China contingency
+operation.
+Congress may consider these uncertainties when making decisions about funding the U.S. force
+posture in South Kore a, or when considering legislation that would affect the size and scope of
+the U.S. force posture in South Korea. Congress also may consider whether or not DOD
+89 Charlie Campbell, “ Exclusive: Lee Jae -myung Aims to Steer South Korea Past Its Moment of Crisis and Mounting
+Challenges ,” Time Magazine , May 29, 2025.
+90 John Lee, “ Nuclear Submarines Force Issue of How Far Seoul Publicly Alig ns with US Goals,” Korea Pro ,
+November 21, 2025.
+91 United Nations Comtrade Database, 2024.
+92 William Gallo, “ Caught in US -China Rivalry, South Korea Inches Toward Washington ,” Voice of America, June 5,
+2023.
+93 Russell Hsaio, “ Taiwan and South Korea Enhancing Their Engagement as Chinese Aggression Intensifies ,” Global
+Taiwan Institute, September 20, 2023.
+94 The White House, “U.S. -ROK Leaders’ Joint Statement,” May 21, 2021; “United States -Republic of Korea Leaders’
+Joint Statement,” May 21, 2022; “ Leaders’ Joint Statement in Commemoration of the 70th Anniversary of the Alliance
+Between the United States of America and the Republic of Korea ,” April 26, 2023.
+95 “South Korea ’s Yoon Opens Door for Possible Military Aid to Ukraine,” Reuters , April 19, 2023 .
+96 Yoo Jee -ho, “Lee Says Summit with China ’s Xi Put Bilateral Ties Back on Track ,” Yonhap News Agency,
+November 2, 2025.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   18 adequately accounts for this kind of political risk in its strategic and operational planning. I f
+Congress identifies concerns with DOD’s approach, Congress could direct DOD to develop new
+plans, strategies, or reports to address these risks.
+Cost Sharing
+Since 1991, South Korea has offset the cost of stationing U.S. forces on the Korean Peninsula via
+so-called “Special Measures Agreements” (SMAs).97 U.S.-ROK SMAs signed since the late -
+2000s generally have lasted five years. ROK payments —a combination of in -kind and cash
+contributions —fall into three categories: labor (salaries for South K oreans who work on U.S.
+bases); logistics; and construction (by ROK firms for U.S. facilities). A 2021 analysis from the
+Government Accountability Office (GAO) found that South Korea provided $3.3 billion
+cumulatively in both cash and in -kind financial sup port from 2016 through 2019.98
+American domestic fiscal concerns largely prompted  the first SMA in 1991.99 In the late 1980s,
+the United States experienced growing budget deficits, prompting calls for South Korea to pay
+more to support U.S. Forces Korea (U SFK), particularly since South Korea had emerged as a
+middle -income country. These calls coincided with a gradual reduction of U.S. troop levels on the
+Korean Peninsula. Some Members of Congress asserted that South Korea should offset more of
+the direct co sts incurred by USFK and take more responsibility for its own security  (for example,
+see S. 1439  in the 101st Congress (1989 -1990)).
+U.S.-ROK SMAs  contain “special measures” —or excep tions —related to Article V of the Status
+of Forces Agreement ( SOFA ), which entered into force in 1967 and provides a legal framework
+for how U.S. military personnel operate in South Korea. Article V stipulates that the United States
+will cover all costs fo r maintaining its military presence in the ROK, with the exception of costs
+associated with facilities.100 (The SOFA was concluded pursuant to Article IV of the U.S. -ROK
+Mutual Defense Treaty, which states that the ROK grants to the United States “the right  to
+dispose United States land, air and sea forces in and about the territory of the Republic of Korea
+as determined by mutual agreement.”)
+Although U.S.-ROK burden -sharing talks  historically  have been contentious, they became
+particularly divisive during the first Trump Administration due to U.S. requests for steep
+increases in ROK contributions.101 President Trump reportedly asked South Korea to increase its
+contribution by roughly 400%.102 Amid an impasse , the two countries signed a one -year stop -gap
+SMA  covering the 2019 calendar year  that raised South Korea’s annual contribution by around
+8%.103 After the two sides were unable to bridge their differences in subsequent negotiations  over
+a long er-term SMA , about 4,500 South Koreans who worked on U.S. bases were furloughed after
+97 U.S. Department of State, “ U.S. Security Cooperation with the Republic of Korea (ROK) ,” January 20, 2025.
+98 U.S. Government Accountability Office (GAO), BURDEN SHARING: Benefits and Costs Associated with the U.S.
+Military , GAO -21-270, March 17, 2021, p. 17, https://www.gao.gov/ assets/ gao-21-425.pdf .
+99 Won Gon Park , “A Challenge for the ROK -U.S. Alliance: Defense Cost -Sharing,” East Asia Institute, July 2013.
+100 U.S. Forces Koreas, “U.S. -ROK Status of Fo rces Agreement,” https://www.usfk.mil/ Portals/ 105/Documents/
+Contracting/ Contractor%20Links%20Sept%2015/ US-ROK% 20SOFA_1966 -67.pdf#page= 5.
+101 Phil Stewart and Idrees Ali , “Exclusive: Inside Trump ’s Standoff with South Korea over Defense Costs,” Reuters ,
+April 11, 2020, https://www.reuters.com/ article/ world/ exclusive -inside -trumps -standoff -with-south -korea -over-
+defense -costs -idUSKCN21T051/ .
+102 Nicole Gaouette , “Trump Hikes Price Tag for US Forces in Korea Almost 400% as Seoul Questions Alliance ,”
+CNN , November 15, 2019, https://www.cnn.com/ 2019/ 11/14/politics/ trump -south -korea -troops -price -hike/ index.html .
+103 U.S. Department of State, “Agreement Between the United States of America and the Republic of Korea (Special
+Measures Agreement),” March 8, 2019, https://www.state.gov/ wp-content/ uploads/ 2019/ 06/19-405-Korea -SMA.pdf .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   19 the 2019 stop-gap SMA expired in December 2019.  The two sides were unable to reach an
+agreement in 2020. At the time, some Members of Congress expressed  concerns about th e lapse ,
+warning of potential negative impacts on U.S. military operations and readiness in the Indo -
+Pacific region.104 Then -USFK Commander Gen. Robert Abrams also voiced concerns .105 In
+March 2021, the Biden Administration concluded a new five-year SMA . Und er that 11th SMA,
+South Korea agreed to pa y about $1 billion in 2021 , a 13.9% increase from the 2019 SMA.
+Subsequent annual increases were tied to increases in South Korea’s defense budget.  The
+agreement entered into force in 2021 and applied retroactively  to all of calendar year 2020.106
+On November 4, 2024, the United States and South Korea concluded the 12th SMA. According  to
+the Biden Administration upon finalizing the text, the deal would “ strengthen our Alliance and
+our shared defense .”107 The SMA ente red into force on November 29, a day after ratification by
+the ROK National Assembly.108 This 12th SMA covers the years  2026 -2030 and increases South
+Korea’s 2025 contribution by 8.3%, to roughly $1.19 billion in 2026.109 Under the SMA,
+subsequent annual increases are tied to South Korea’s inflation rate and “shall not exceed” 5%.110
+Like its immediate predecessor, the 12th SMA includes a mechanism for South Korean workers on
+U.S. bases to be paid for up to a year after the agreement expire s, upon th e request of the United
+States.  The mechanism is designed to minimize the risk of South Korean base workers being
+furloughed  as they were in 2020 .
+In a break from previous patterns, t he two allies concluded the 12th SMA more than a year before
+the 11th SMA  was set to expire in December 2025.111 The Biden Administration concluded the
+12th SMA with South Korea as an executive agreement, and —as was the case with its predecessor
+agreements —the President did not submit it to Congress for approval. Some observers speculated
+the Biden Administration and South Korea negotiated the 12th SMA earlier than usual to insulate
+the U.S. -ROK alliance from possible policy shifts if President Trump were  reelected to office.112
+In November 2025, President s Trump and Lee announce d that South Korea had “shared its plan
+to provide comprehensive support for U.S. Forces Korea amounting to $33 billion in accordance
+104 Office of U.S. Congresswoman Grace Meng, Letter from Congresswoman Meng to Secretaries Pompeo and Esper,
+November 15, 2019, https://meng.house.gov/ sites/ evo-subsites/ meng -evo.house.gov/ files/
+Meng%20Letter%20to%20Pompeo%20and%20Esper.pdf ; Office of Congressman Ami Bera, Letter from
+Congressman Bera to Secretaries Pompeo an d Esper, March 11, 2020.
+105 Kim Gamel, “Furlough of South Korean Workers Would Have ‘Negative Impact’ on Military Operations and
+Readiness, USFK Commander Says,” Stars and Stripes , February 24, 2020, https://www.stripes.com/ theaters/
+asia_pacific/ furlough -of-south -korean -workers -would -have -negative -impact -on-military -operations -and-readiness -
+usfk-commander -says-1.620021 .
+106 U.S. Department of State, “Agreement Between the United States of America and the Republic of Korea (Special
+Measures Agreement),” April 8, 2021, https://www.state.gov/ wp-content/ uploads/ 2021/ 10/21-901-Korea -Defense -
+SMA.pdf .
+107 U.S. Department of State, “ROK Special Measures Agreement Consultations,” October 4, 2024.
+108 “New Defense Cost-Sharing Deal with U.S.  Officially Takes Effect,” The Korea Times , November 29, 2024.
+109 Kim Seung -yeon , “S. Korea, U.S. Sign Defense Cost-Sharing Deal Ahead of U.S. Elections ,” November 4, 2024,
+Yonhap News Agency, https://en.yna.co.kr/ view/ AEN20241104010200315 .
+110 U.S. Department of State, “Agreement Between the United States of America and the Republic of Korea (Special
+Measures Agreement),” signed November 4, 2024, https://www.state.gov/ wp-content/ uploads/ 2025/ 05/24-1129 -Korea -
+Defense -Special -Measures -Agreement.pdf#page= 5.
+111 U.S. Department of State, “Agreement Between the United States of America and the Republic of Korea (Speci al
+Measures Agreement),” signed April 8, 2021, https://www.state.gov/ wp-content/ uploads/ 2021/ 10/21-901-Korea -
+Defense -SMA.pdf .
+112 Song Sang -ho, “ New S. Korea -U.S. Defense Cost Deal Adds Stability to Alliance, but Trump Question Lingers:
+Experts ,” Yonhap News Agency, October 5, 2024.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   20 with ROK legal requirements.”113 It is unclear how this plan interacts with or relates to the 12th
+SMA, but ROK National Security Advisor Wi Sung -lac reportedly has said the $33 billion figure
+could include indirect costs such as waived taxes and fees for U.S. troops in South Korea.114 Such
+indirect costs typically have not been  part of  SMAs.115
+Congress may choose to utilize various tools to influence U.S. -ROK cost -sharing negotiations
+and agreements. Initially, Congress could use its oversight authority to conduct hearings on the
+executive branch’s implementation of the SMA or to establish congr essional notification and
+reporting requirements. Congress may consider whether to exercise its spending power to
+encourage the executive branch to pursue Congress’s preferred posture toward the SMA.
+Congress also could increase or decrease funding for the  bilateral alliance to advance its policy
+toward the 12th SMA.  Congress also may choose to seek clarification as to how the reported $33
+billion in ROK contributions to USFK factor into the 12th SMA, and what understanding the
+United States and South Korea  have rega rding  the timeframe  for the contributions , specific areas
+of support  for USFK , and other details.
+Chain of Command /Wartime Operational Control
+For nearly three decades, U.S. and ROK leaders have discussed changing the way  U.S. and ROK
+forces are  integrated. In particular, the two allies are in the process of changing operational
+control, or OPCON, a military term that refers to the legal authority to direct and control military
+forces in the execution of missions or wartime operations. Under the current arrangement, each
+country retains operational control of its forces under armistice conditions  (conditions short of
+war).116 In the event that hostilities on the Korean Peninsula escalate beyond a certain threshold,
+the United States and South Korea may decide  to activate the Combined Forces Command ( CFC )
+and implement a “wartime OPCON” structure for directing military forces. Under the current
+arrangement, t his structure  would put U.S. and ROK forces under the CFC’s command, led by a
+four-star U.S. general with a South Korean deputy.117 Neither country would relinquish command
+authority over its own troops.
+In 2007, the U.S. and ROK reached a bilateral agreement to change the wartime OPCON
+structure, but it remains unimplemented  (see below) . Under the wartime OPCON structure laid
+out in the 2007 agreement, a n ROK general would become the CFC head, and the U.S. general
+would serve a s deputy. As is the case under the current (pre -OPCON transfer) arrangement,
+neither country would relinquish command authority over its own troops.118 The 2007 agreement
+to change wartime OPCON , which President  George W. Bush reached with progressive ROK
+President Roh Moo -hyun (in office 2003 -2008), was intended to reflect the ROK’s advances in
+economic and military strength and place the military alli es on more equal footing.
+113 The White House, “Joint Fact Sheet on President Donald J. Trump’s Meeting with President Lee Jae Myung,”
+November 13, 2025.
+114 “Seoul’s Pledge of $33 Billion in Support to USFK Shows Growing Defense Burden Under Trump ,” Hankyoreh ,
+November 17, 2025.
+115 U.S. Government Accountability Office (GAO), BURDEN SHARING: Benefits and Costs Associated with the U.S.
+Military , GAO -21-270, March 17, 2021, p. 41.
+116 In the early years of the U.S. -ROK alliance, all U.S. and ROK forces were under the operational control of the
+USFK commander. In 1994, the allies agreed to transfer armistice  (non-wartime)  operational control of the RO K forces
+to a South Korean general.
+117 CRS interview with U.S. Forces Korea official, April 30, 2025 ; Kathryn Botto, “ Why Doesn’t South Korea Have
+Full Control over Its Military? ” Carnegie Endowment  for International Peace , August 21, 2019 .
+118 “Military Con siderations for OPCON Transfer on the Korean Peninsula ,” Council on Foreign Relations, March 20,
+2020, https://www.cfr.org/ blog/ military -considerations -opcon -transfer -korean -peninsula .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   21 Congress may consider whether or not to conduct  oversight of this issue. In the F Y2024 NDAA
+(P.L. 118 -31), Congress required the Secretary of Defens e and Secretary of State to submit a
+report to Congress describing under what conditions South Korean mili tary forces would be ready
+to assume wartime operational control of the CFC, and to what extent the South Korean military
+meets such conditions.  In Section 1268 of the FY2026 NDAA  (P.L. 119 -60), Congress inserted a
+provision  to prohibit  the use of funds  to complete the transition of wartime OPCON “in a manner
+which deviates from a bilaterally agreed plan  to effectuate such a transition” until 60 days after
+the Secretary of Defense meet s certain conditions . These conditions include a certification to
+Congress that the transition “is in the national security interest of the United States” and includes
+consu ltations with U.S. allies and partners, including South Korea and Japan. In addition, the
+Secretary would be required to submit an assessment to Congress that includes how the ROK -led
+CFC would report to U.S. and ROK national command authorities , and other  details. Members
+may opt to include or omit such provision s in future legislation.
+Congress also may consider holding public or classified hearings on the state of U.S. -ROK
+combined readiness as well as U.S. military officials’ assessments of present and  future ROK
+military capabilities that could lead to the transfer of wartime OPCON .
+Delays and Reassessment of OPCON Transition Plan
+The United States and South Korea have twice delayed implementation of the wartime OPCON
+plan, both times under conservative South Korean presidents. In 2010, when Lee Myung -bak was
+president (in office 2008 -2013), the implementation was postponed to 2015 after North Korea’s
+second nuclear test in 2009 and the sinking of South Korean Navy vessel Cheonan  in 2010  raised
+concerns over whether South Korean forces were adequately prepared to assume OPCON
+responsibility .
+As the 2015  deadline approached, South Korean officials  under President Park Geun -hye (in
+office 2013 -2017)  reportedly worried that th eir military was not fully prepared for North Korean
+threats  and that Pyongyang might interpret implementation of the wartime OPCON plan as a
+weakening of the alliance’s deterrence.119 In October 2014, the United States and South Korea
+announced they would take a “conditions -based approach” to the wartime OPCON plan.120 The
+most recent version of the plan  is the 2018 Conditions -based Wartime Operational Control
+(OPCON) Transition Plan (COTP)  Change One.121 This plan  lays out three bilaterally agreed -
+upon benchmarks  that must be fulfilled before the transfer can take place . These benchmarks
+assess three conditions:
+1. “Military capabilities of South Korean forces  required to lead the combined
+defense;
+2. “Comprehensive Alliance response capabilities against Nort h Korean nuclear and
+missile threats; and
+3. “Security environment on the Korean peninsula and in the region  that is
+conducive to a stable transition of the wartime OPCON .”122
+119 Song Sang -ho, “Allies Rack Brains over OPCON Transfer,” The Korea Herald , May 6, 2014.
+120 U.S. Department of Defense, “Joint Communiqué: The 46th ROK -U.S. Security Consultative Meeting,” Oct ober 23,
+2014.
+121 CRS interview with U.S. Forces Korea official, April 30, 2025 .
+122 Ministry of Defense of the Republic of Korea, “2022 Defense White Paper, ” https://www.mnd.go.kr/ user/ mndEN/
+upload/ pblictn/ PBLICTNEBOOK_202307280406019 810.pdf .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   22 Both sides continue to monitor capabilities and readiness regarding Conditions 1 and  2. In
+meeting Condition 3 , U.S. and South Korean  defense officials have said they would “remain in
+close consultation for the assessment of the security environment .”123
+Debate Around OPCON Plan Implementation
+Wartime OPCON plan implementation  has generate d debate in South Korea.  Generally,
+progressive South Korean leaders (such as former President Moon Jae -in, who was in office from
+2017 -2022) have favored greater national autonomy within the alliance. Some South Korean
+progressives have argued implementat ion is necessary for their country to achieve complete
+control over national sovereignty and self -defense.124 Conservative South Korean leaders (such as
+former President Yoon Suk -yeol, who was in of fice from 2022  to 2025 ) have tended to be more
+comfortable with the status quo.  The administration of P resident Lee Jae  Myung, a progressive,
+reportedly has proposed to achieve the OPCON transfer by 2030 .”125 In November 2025, the
+United States and South Korea agreed to “develop a roadmap to acquire the capabilities necessary
+to expedite the fulfillment of conditions required for wartime OPCON transition” and move
+forward with the second of a three -phase assessment of ROK capabilities in 2026.126
+Some experts note that the CFC comm ander reports directly to the U.S. and South Korean
+presidents, who in turn decide whether to provide troops to the CFC from their respective
+militaries. The nationality of the CFC commander is largely immaterial, they say, and therefore
+the issue is not r elated to ROK sovereignty.127 Other defense analysts have cautioned that the
+implementation of the 2007 OPCON agreement could diminish  the CFC’s role  and reduce  the
+extent of U.S. involvement in a potential security contingency on the peninsula .128
+OPCON an d the United Nations Command
+Transitioning wartime OPCON control to the South Korean military also has raised questions
+about the future role of the United Nations Command (UNC). Under the current arrangement, a
+U.S. four -star general leads the CFC, UNC, and USFK, making him “triple -hatted.” After the
+transition, the USFK commander would continue to lea d the UNC. Some experts say that a South
+Korean commander heading the CFC may pose challenges for CFC -UNC -USFK defense
+coordination. As a result, they argue, the alliance should ensure smooth coordination among the
+three commands, and particularly between the South Korean -led CFC and the UNC, which has
+123 U.S. Department of Defense, “ 56th Security Consultative Meeting Joint Communique ,” October 30, 2024,
+https://www.war.g ov/News/ Releases/ Release/ Article/ 3951794/ 56th-security -consultative -meeting -joint-communique/ ;
+Asami Asaki, The Wartime OPCON Transfer Issues and the U.S. -ROK Alliance , The National Institute for Defense
+Studies, September 2021,  https://www.nids.mod.go.jp/ english/ publication/ briefing/ pdf/2021/ briefing_e202109.pdf .
+124 Lami Kim, “ A Hawkish Dove? President Moon Jae -in and South Korea’s Military Buildup ,” War on the Rocks ,
+September 15, 2021, https://warontherocks.com/ 2021/ 09/a-hawkish -dove -president -moon -jae-in-and-south -koreas -
+military -buildup/ .
+125 Hwang Joo -young , “Lee Proposes Wartime OPCON Transfer by 2030 ,” The Korea Herald , August 13, 2025;
+Jeongmin Kim, “South Korean Presidential Candidates’ Defense Platforms Diverge by Ideology,” Korea  Pro, May 22,
+2025 .
+126 U.S. Department of Defense, “ 57th Security Consultative Meeting Joint Communique ,” November 14, 2025.
+127 Lami Kim, “A Hawkish Dove?” War on the Rocks ; “Not a Sovereignty Issue: Understanding the Transition of
+Military Operational Control between the United States and South Korea ,” Institute for Security and Development
+Policy (ISP), April 2021, https://www.isdp.eu/ publication/ not-a-sovereignty -issue -understanding -the-transition -of-
+military -operational -control -between -the-united -states -and-south -korea/ .
+128 Anna J. Park, “ Is Korea Ready for OPCON transfer? ” The Korea Times , Marc h 6, 2025.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   23 bases across South Korea and Japan.129 The UNC -Rear bases in Japan would be critical hubs to
+facilitate the flow of non -U.S./non -ROK international forces in a conflict.
+Extended Deterrence on the Korean Penin sula and South Korea’s
+Nuclear Armament Debate130
+The U.S. -ROK Mutual Defense Treaty provides extended deterrence —the ability and
+commitment of the United States to deter attack against South Korea, including nuclear attack.
+Extended deterrence may include a U.S. nuclear response and is sometimes referred to as the
+“nuclear umbrella.” ROK concerns around extended deterrence largely stem from U.S. ambiguity
+in official statements —that is, the United States has neither  publicly nor explicitly committed to  a
+nuclear , rather than conventional , response against North Korea in a conflict if North Korea
+(officially the Democratic People’s Republic of Korea, or DPRK)  used nuclear weapons against
+South Korea. The U.S. 2022 Nuclear Posture Review (NPR) states , “Any nuc lear attack by North
+Korea against the United States or its Allies and partners is unacceptable and will result in the end
+of that regime.”131 The NPR also states that “as long as Allies and partners face nuclear threats,
+extended nuclear deterrence will re main a pillar of regional security architectures .”132 The NPR
+says this system is based on “a lly and partner confidence that the United States has the will and
+capability to meet its security commitments.” The United States extends nuclear deterrence to its
+allies through missile defenses, forward -deployed nuclear weapons, and U.S.-based aircraft
+capable of conventional or nuclear missions that could be deployed in a crisis. Extended
+deterrence also includes consultations, joint exercises and planning, and U .S. force presence.133
+Since the early 2000s, multiple North Korean nuclear weapon and missile tests have sharpened
+North Korea’s  threat to South Korea. Advancing DPRK capabilities, including its potential ability
+to reach the continental United States wit h inter -continental ballistic missiles (ICBMs), have
+increased uncertainty in the ROK about the credibility of U.S. security guarantees and heightened
+a sense of vulnerability to North Korean threats.134 In response to South Korean concerns, in July
+2016 , the U.S.  and South Korean governments  agreed to deploy a Terminal High Altitude Area
+Defense (THAAD) battery to U.S. Forces Korea. The THAAD battery is stationed at a South
+Korean military base in Seongju, about 130 miles south of Seoul.135 A Department of Defense
+(also now Department of War) press release said the deployment’ s purpose was to “ensure the
+security of South Korea and that of its people, and to protect alliance military forces from North
+Korea ’s weapons of mass destruction and ballistic missile threats .”136 The system undergoes
+periodic updates to respond to North Korean threats.137
+129 “Not a Sovereignty Issue ,” ISP; “ Military Considerations for OPCON Transfer ,” CFR.
+130 This section was co -authored with Mary Beth D. Nikitin, Specialist in Nonproliferation, Foreign Affairs, Defense,
+and Trade Division.
+131 U.S. Department of Def ense, National Defense Strategy of the United States of America, Including the 2022 Nuclear
+Posture Review and the 2022 Missile Defense Review , October 27, 2022.
+132 U.S. Department of Defense, National Defense Strategy of the United States of America, Inclu ding the 2022 Nuclear
+Posture Review and the 2022 Missile Defense Review , October 27, 2022.
+133 See CRS In Focus IF12735, U.S. Extended Deterrence and Regional Nuclear Capabilities , by Anya L. Fink .
+134 See CRS In Focus IF10472, North Korea’s Nuclear Weapons and Missile Programs , by Mary Beth D. Nikitin and
+Daniel M. Gettinger .
+135 CRS In Focus IF12645, The Terminal High Altitude Area Defense (THAAD) System , by Andrew Feickert .
+136 U.S. Department of Defense, “U.S. to Deploy THAAD Missile Battery to South Korea,” July 8, 2016 .
+137 United States Forces Korea, “MND and U.S. Joint Statement on THAAD Updates,”  PA-001-22, October 7, 202 2.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   24 Over the past decade, some South Koreans have advocated for the U.S. redeployment of tactical
+nuclear weapons to the country; the United States withdrew nuclear weapons from the Korean
+Peninsula in 1991.138 Others have argued for South Kor ea to develop its own nuclear weapons.
+Some public opinion polls in the last 10 years also suggest a majority of the South Korean public
+supports developing a domestic nuclear weapons capability  and has confidence in U.S. alliance
+commitments.139 Strategic thinkers in South Korea, such as academics, business leaders, and
+government officials, generally appear less enthusiastic about an independent nuclear deterrent.140
+Conservative South Korean politicians have tended to favor ROK nuclear armament more than
+their progressive counterparts, with North Korea as the primary motivator. President Lee Jae
+Myung has said he opposes both redeployment of U.S. tactical nuclear weapons and South Korea
+developing its own nuclear weapons because doing so could lead to stron g pushback from the
+international community.141 At a December 3, 2025, press conference, President Lee said, “ The
+denuclearization of the Korean Peninsula is a fundamental principle agreed upon by both North
+and South, and we have no intention of deviating from it.”142
+In an apparent  bid to reassure South Koreans
+skeptical of U.S. extended deterrence —and
+discourage South Korean nuclear ambitions —
+the two governments issued the “Washington
+Declaration” during then-President Yoon’s
+2023 State Visit to the White House.143
+Presidents Biden and Yoon announced new
+efforts to increase nuclear deterrence
+consultations, reaffirmed Washington’s
+pledge to Seoul, and clarified Seoul’s
+nonproliferation commitments. The
+Washington Declaration states that the ROK
+has “full confidence in U.S. extended
+deterrence commitments and recognizes the
+importance, necessity, and benefit of its
+enduring reliance on the U.S. nuclear
+deterrent.”144 It also reaffirms South Korea’s
+commitment to the Nuclear Nonproliferation
+Treaty (NPT) , under which it commits to not de veloping nuclear weapons.
+138 See CRS Report R44950, Redeploying U.S. Nuclear Weapons to South Korea: Background and Implications in
+Brief , by Amy F. Woolf and Emma Chanlett -Avery ; Jennifer Ahn, “ The Evo lution of South Korea’s Nuclear Weapons
+Policy Debate ,” Council on Foreign Relations, August 16, 2022.
+139 J. James Kim  et al. , “Asan Report: Fundamentals of South Korean Public Opinion on Foreign Policy and National
+Security,” The Asan Institute for Policy Studies, September 2021; Toby Dalton, Karl Friedhoff and Lami Kim,
+“Thinking Nuclear: South Korean Attitudes on Nuclear Weapons: Public Opinion Survey,” The Chicago Council on
+Global Affairs, February 21, 2022.
+140 Victor Cha, “Breaking Bad: South Korea’s Nu clear Option,” CSIS, April 2024.
+141 Jeongmin Kim , “Where South Korea’s Candidates Stand on Foreign Policy: All You Need to Know,” Korea Pro ,
+May 30, 2025.
+142 Kim Tae -jun, “Lee Jae -myung Defends Nuclear Initiatives as Non -Proliferation Compliant ,” The Chosun Daily ,
+December 3, 2025.
+143 U.S. Embassy in the Republic of Korea, “ Washington Declaration ,” April 27, 2023, https://kr.usembassy.gov/
+042723 -washington -declaration/ .
+144 U.S. Em bassy in the Republic of Korea, “ Washington Declaration ,” April 27, 2023, https://kr.usembassy.gov/
+042723 -washington -declaration/ . Figure 5. Ohio -Class Ballistic -Missile
+Submarine USS Kentucky  Enters Busan,
+South Korea, for a Port Visit in July 2023
+Source: U.S. Strategic Command.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   25 The Washington Declaration articulated a pledge to enhance bilateral planning, exercises, and
+other consultations related to nuclear deterrence. It established a Nuclear Consultative Group
+(NCG), which met for the first time in J une 2023.145 The NCG is intended to align and advance
+efforts to bolster deterrence against DPRK nuclear threats, with a particular emphasis on joint
+planning for ROK conventional support to U.S. nuclear operations and on enhancing the visibility
+of U.S. “s trategic asset deployments” to the peninsula.146 To demonstrate the U.S. commitment to
+extended deterrence after the Washington Declaration, the Biden Administration sent the nuclear -
+capable ballistic -missile submarine USS Kentucky  to Busan in July 2023, th e first visit by a U.S.
+ballistic -missile submarine to South Korea in decades ( Figure 5).147
+The United States continues to offer statements of reassurance about the alliance. A bilateral joint
+statement at the Fourth Nuclear Consultative Group meeting on January 10, 2025, said,  “any
+nuclear attack by the DPRK against the United States or its allies is unacceptable and will result
+in the end of that regime. The U.S. commitment to extended deterrence to the ROK is backed by
+the full range of U.S. capabilities, including nuclear.”148 U.S. officials  repeated that commitment
+after a bilateral meeting of top defense and foreign affairs officials on November 3 -4, 2025.149 In
+December 2025, the NCG held its first meeting under the second Trump Administration.
+Congress’s Role in Extended D eterrence
+The Senate provided its advice and consent to ratification of the U.S. -ROK Mutual Defense
+Treaty on January 26, 1954.150 On the occasion of the Treaty’s 70th anniversary in 2024, the
+House and Senate introduced bills commemorating the Treaty and r ecognizing the importance of
+the alliance.151 The Senate -passed resolution ( S.Res. 175 ) says, “the United States assures its
+ironclad security commitment to the Republic of Korea, including the United States extended
+deterrent underpinned by the full range of United States capabilities, including nuclear
+capabilities.” In addition to standalone bills, Congress has expressed support for the alliance as
+part of the defense auth orization process. For example, Section 1344 of the FY2025 National
+Defense Authorization Act ( P.L. 118 -159) required the Secretary of Defense (also now Secretary
+of War) t o submit a plan to Congress by March 1, 2025, to include a description of “resources,
+budget, and personnel needed to strengthen United States extended deterrence commitments to
+the Republic of Korea,” including nuclear consultations, strategic planning an d related activities.
+Section 1271 of the FY2026 NDAA (P.L. 119 -60) prohibit s the use of certain funds defense -wide
+and available for the Office of the Secretary of Defense  until the Secretary of Defense  submits the
+aforementioned report to Congress.  Congress also reviews these policies through hearings such as
+the annual Indo -Pacific military posture hearings in the armed services committees.152
+145 U.S. Embassy and Consulate in the Republic of Korea, “Joint Readout of the Inaugural U.S. -ROK Nuclear
+Consultative Group Meeting,” July 18, 2023.
+146 U.S. Embassy and Consulate in the Republic of Korea, “Washington Declaration,” April 27, 2023.
+147 Reuters, “ U.S. Nuclear -Armed Submarine Visits South Korea as Allies Talk War Planning ,” July 18, 2023.
+148 U.S. Department of Defense, “ Joint Press Statement on the Fourth Nuclear Consultative Group Meeting ,” January
+10, 2025.
+149 U.S. Department of Defense, “ 57th Security Consultative Meeting Joint Communique ,” November 14, 2025.
+150 U.S. Forces Korea, “Mutual Defense Treaty Between the United States and the Republic of Korea; October 1,
+1953,” https://www.usfk.mil/ portals/ 105/documents/ sofa/ h_mutual%20defense%20treaty_1953.pdf .
+151 See, for example, S.Res. 175  and H.Res. 318 .
+152 See House Armed Services Committee, “U.S. Military Posture and National Security Challenges in the Indo -Pacific
+Region,” April 9, 2025, and Senate Armed Services Committee, “To Receive Testim ony on the Posture of the United
+States Indo -Pacific Command and United States Forces Korea in Review of the Defense Authorization Request for
+Fiscal Year 2026 and the Future Years Defense Program,” April 10, 2025.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   26 U.S.-ROK-Japan Trilateral Cooperation
+U.S.-ROK -Japan trilateral coordination
+reach ed unprecedented levels under
+Presidents Biden and Yoon, and then-
+Japanese Prime Minister Kishida, at the
+August 2023 Camp David Summit ( Figure
+6). The three leaders —who are all now out of
+office —announced several initiatives for a
+“new era of trilateral partnership” that
+included pledges to convene trilateral
+meetings at high levels ( including an annual
+leaders’ meeting), expand trilateral military
+exercises, and abide by a “Commitment to
+Consult” on regional conflicts and challenges.
+South Korea -Japan  relations historically have
+been  fraught because of a territorial dispute
+and sensit ive issues stemming from Japan’s
+colonization of the Korean Peninsula from
+1910 to 1945. Beginning in 2018, a series of
+actions and retaliatory countermeasures by both governments involving trade, security, and
+history -related controversies caused South Ko rea-Japan relations to plummet, eroding U.S. -ROK -
+Japan policy coordination .
+For over a decade, Members of Congress have expressed support for deeper U.S. -ROK -Japan
+cooperation and concern when relations between Seoul and Tokyo have taken a downturn.153 A
+cooperative relationship between the two countries and among the three benefits U.S. interests
+because it arguably enhances regional stability, helps coordination over North Korea policy, and
+boosts each country’s ability to deal with the strategic challeng es posed by China’s rise.
+Congress may choose to issue joint resolutions expressing support for and reaffirming the
+importance of trilateral cooperation. It also may consider whether or not to mandate the
+Department of Defense and Department of State to re port on progress over multiple years on the
+development of the trilateral secretariat established in 2024, multidomain military exercises,
+information sharing, and other areas of security and diplomatic engagement. Section 1271 of the
+FY2026 NDAA  (P.L. 119 -60) prohibits the use of certain funds defense -wide and available for
+the Office of the Secretary of Defense until the Secretary of Defense  submits to Congress a report
+on how he intends to advanced U.S. -ROK -Japan trilateral cooperation , as required by the FY2025
+NDAA ( P.L. 118 -159). Members may choose to hold  hearings with senior U.S. defense officials
+and experts assessing the current state of trilateral cooperation , contextualized by U.S. strategic
+objectives regionally and globally. In addition, Congress may opt to continue , stop, increase, or
+decrease fund ing U.S. contributions to trilateral cooperation -related activities , such as the military
+exercises and other efforts.
+153 For example, in February 2019, when So uth Korea -Japan relations were entering a particularly tense phase, a
+bipartisan, bicameral group of lawmakers, including the chairmen and ranking members of the House Foreign Affairs
+Committee and Senate Foreign Relations Committee, co -sponsored a resolut ion (H.Res. 127  and S.Res. 67 ) affirming
+the importance of U.S.-South Korea -Japan trilateral cooperation.  Figure 6. ROK President Y oon, U.S.
+President Biden, and Japanese Prime
+Minister Kishida at Camp David
+August 18, 2023
+Source: The White House 46 Archived, on X.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   27 U.S.-South Korean Cooperation on Shipbuilding154
+Delays in U.S. Navy shipbuilding programs, U.S. shipbuilding capacity constraints, and
+maintenance backlogs for Navy ships —particularly when viewed in comparison to China’s naval
+and commercial shipbuilding activities and China’s much -larger shipbuilding capacity —have
+prompted discussions in Congress about options for accelerating the constru ction of new Navy
+ships, reducing Navy ship maintenance backlogs, and increasing the capacity of the U.S.
+shipbuilding industry.155 (For more on U.S. shipbuilding capacity, see  CRS Report RL32665,
+Navy Forc e Structure and Shipbuilding Plans: Background and Issues for Congress , by Ronald
+O'Rourke .) Within these discussions, some observers have focused on options for increasing U.S.
+cooperation on shipbuilding with South Korea and Japan, whose shipbuilders a re widely regarded
+as being among the world’s most modern and efficient. Potential areas of U.S. cooperation with
+South Korea on shipbuilding include the following:
+• sharing of shipbuilding best practices;
+• investment by South Korean shipbuilders in U.S. shi pyards;
+• conducting maintenance, repair, and overhaul (MRO) work on U.S. Navy ships
+in South Korean shipyards; and
+• building new ships for the U.S. Navy in South Korean shipyards.
+The United States and South Korea cooperate in the first three areas above. As an example of
+cooperation in the first area, in April 2025, the U.S. shipbuilder Huntington Ingalls Industries
+(one of the top builders of new ships for the U.S. Navy) signed a memorandum of understanding
+(MOU) with Hyundai Heavy Industries  (one of South Korea’s top three shipbuilders) for the
+sharing of shipbuilding best practices.156 Regarding the second area listed above, in August 2025,
+the South Korean government pledged to i nvest $150 billion to support shipbuilding in the United
+States as part of a broader bilateral trade deal. The investment project —called “ Make American
+Shipbuilding Great Again, ” or MASGA —reportedly would enable South Korean shipbuilders to
+create new ship yards in the United States and reestablish shipbuilding supply chains.157 The
+details and timeline for investments remain unclear , but the $150 billion may largely consist of
+loan guarantees rather than direct investments .158 In addition, i n December 2024, Hanwha
+(another one of South Korea’s top three shipbuilders) completed its purchase of Philly Shipyard
+154 This section was prepared by Ronald O’Rourke, former Specialist in Naval Affairs, Foreign Affairs, Defense, and
+Trade Division.
+155 CRS Report RL32665, Navy Force Structure and Shipbuilding Plans: Backgro und and Issues for Congress , by
+Ronald O'Rourke . See also CRS Testimony TE10110, The State of U.S. Shipbuilding , by Ronald O'Rourke  (statement
+before Armed Services Committee, Seapower and Projection Forces Subcommittee, U.S. House of Representatives,
+March 11, 2025).
+156 See, for example, Zita Ballinger Fletcher , “Top US, South Korean Shipbuilders Partner to Bolster Vessel
+Production ,” Defense News , April 7, 20235; Sam LaGrone, “ Naval Shipbuilder HII Signs Agreement with South
+Korean Shipyard Hyundai Heavy Industries ,” USNI News , April 7, 2025; Matthew Beinart , “HII, South Korea’s HD
+Hyundai Heavy Industries Sign MoU For Accelerating Sh ip Production ,” Defense Daily , April 7, 2025; Mike Glenn ,
+“Largest U.S., South Korean Shipbuilding Companies to Collaborate to Ramp up U.S. Ship Production ,” Washington
+Times , April 7, 2025; Brad Lendon, “ US and South Korean Warship Makers Sign Deal That C ould Help Narrow Naval
+Race with China ,” CNN , April 8, 2025. For an article discussing how the adoption of South Korean and Japanese
+shipbuilder best practices could improve U.S. Navy shipbuilding, see Peter E. Jaquith, “Asian vs. U.S. Warship Design,
+Prod uction Engineering, and Construction Practice,” Naval Engineers Journal , December 2019 , pp. 55-58.
+157 Kan Hyeong -woo, “Korea Sails into US Shipbuilding with $150b MASGA Push,” The Korea Herald , July 31,
+2025; Lydia DePillis and Choe Sang -Hun, “South Korea Reaches Trade Deal with Trump ,” The New York Times , July
+30, 2025.
+158 Heesu Lee, “ Korea Expects $350 Billion US Fund to Be Less Than  5% Equity ,” Bloomberg , August 3, 2025.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   28 in Philadelphia, a builder of ships for the U.S. government that had been owned by the
+Norwegian firm Aker ASA. Hanwha plans to moderniz e and expand operations at the shipyard,
+which is now known as Hanwha Philly Shipyard , and in August 2025 Hanwha committed $5
+billion as part of the $150 MAGSA project .159 Regarding the third area above, South Korean
+shipyards have performed MRO work on cer tain U.S. military s hips.160 The fourth area listed
+above —building new ships for the U.S. Navy in South Korean shipyards —has not occurred.
+Two issue s for Congress are whether cooperation in one or more of the first three areas could or
+should be increased, and whether to initiate cooperation in the fourth area. Congress may consider
+whether or not to publicly encourage bilateral cooperation in the first three areas  and could hold
+hearings on the impacts of such cooperation on U.S. economic security interests . South Korean
+shipyards  have expressed interest in continuing to conduct MRO work on U.S. military ships, and
+in building ships for the U.S. Navy.161 Some other observers have similarly suggested using South
+Korean (or Japanese) shipyards to build ships fo r the U.S. Navy as a near -term or stop -gap means
+of responding to U.S. shipbuilding capacity constraints.162 In April 2025, President Trump
+reportedly expressed openness to the idea of purchasing foreign -built ships for the Navy.163 The
+potential for expande d U.S. -South Korean cooperation in shipbuilding has gained prominence in
+overall U.S. -South Korean relations.164
+The ability of foreign shipyards to perform MRO work on U.S. military ships is limited by 10
+U.S.C. §8680. The building of ships  in foreign ship yards  for U.S. armed forces is prohibited by
+10 U .S.C. §8679 and (for U.S. Coast Guard ships) by 14 U .S.C. §1151. Both of these statutes
+permit presidential waivers and exceptions for the national security interest, with the President
+required to submit a notification to Congress 30 days prior to making a contract pursuant to an
+exception or waiver. The building  of ships for  the Navy is additionally prohibited by a recurring
+provision in the annual Department of Defense appropriations act that has not included a
+159 See, for example, Hanwha, “Hanwha Announces $5 Billion Philly Shipyard Investment as Part of South Korea’s
+Commitment to US Shipbuilding Growth,” August 27, 2025; Justin Katz, “Hanwha Closes $100M Deal to Take Over
+Philly Shipyard,” Breaking Defense , December 19, 2024. See also Rich Abott, “Incoming Philly Shipyard Owners Aim
+to Bring It Back to 1940s Prominence Plus Incoming M&As and Partnerships,” Defense Daily , October 24, 2024; John
+Grady, “ New Philly Shipyard Owners Promise ‘Big Time’ Investment ,” USNI News , October 23 (updated October 24),
+2024; Valerie Insinna , “New Hanwha Defense USA Exec Sets Sights on Navy Contracts for Philly Shipyard ,”
+Breaking Defense , October 10, 2025; Nick Wilson, “ Hanwha Eyes Module Production Work at Newly  Acquired Philly
+Shipyar d,” Inside Defense, October 10. 2024.
+160 See, for example, U.S. Forces Korea, “USNS Wally Schirra  Completes Major Maintenance at South Korean
+Shipyard,” March 12, 2025, https://www.usfk.mil/ Media/ Newsroom/ News/ Article/ 4119997/ usns-wally -schirra -
+completes -major -maintenance -at-south -korean -shipyard/ .
+161 See, for example, Chang Dong -woo, “U.S. Navy Secretary Hopes for More Cooperation with Korean Shipbuilders
+amid U.S. Shipbuilding Push,” Yonhap , May 8, 2025; Joyce Lee , “South Korea ’s Hanwha Ocean Targets US Navy
+Orders as Trump Seeks Shipbuilding Ties,” Reuters, May 5, 2025; “ South Korea Offers to Build Five Aegis Destroyers
+per Year to Help the US Counter China at Sea,” Army Recognition , April 11, 2025.
+162 See, for example, Tom Sharpe, “ Trump Plans to Rebuild the US Navy in Korean Shipyards. We  Already Know This
+Works Well,” Telegraph (UK) , January 9, 2025; Brian T. Di Mascio , “Foreign Shipyards Can Help the U.S. Navy
+Build Its Fleet ,” U.S. Naval Institute Proceedings , October 2024; Douglas Robb , “Japan, South Korea and the US
+Should  Mirror AUKUS for Destroyers ,” Defense News , October 5, 2023; Ajeyo Basu, “ US Navy Looking at Japan,
+South Korea to Counter China ’s Military Power ,” Firstpost , June 5, 2023; Brad Lendon, “ These May Be the World’s
+Best Warships. And They’re Not American ” CNN , June 3, 2023.
+163 Howard Altman, “ Trum p Considering Buying Foreign Ships to Make Up Gap with China ,” The War Zone , April 11,
+2025; Song Sang -ho, “ Trump Says U.S. May Buy ‘Top-of-the-Line’ Ships from ‘Close’ Countries ,” Yonhap , April 11,
+2025.
+164 See for example, Choe Sang -Hun, “South Korea Hopes Shipbuilding Will Give It an Edge in Trade Talks ,” New
+York Times , April 17 (updated April 18), 2025; James JB Park , “South Korea’s Dockyards: A  New Factor in Korea -US
+Military Burden -Sharing ,” Diplomat , November 21, 2024; Kan Hyeong -woo, “Korean Shi pbuilders Upbeat on
+Trump’s Call for Collaboration ,” The Korea Herald , November 10, 2025.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   29 presidential waiver or exception. Supporters in Congress and elsewhere of 10 U .S.C. §8680, 10
+U.S.C. §8679, 14 U .S.C. §1151, and the recurring provision in the annual DOD appropriations act
+argue that these provisions help preserve U.S. shipbuilding capacity and U.S. shipbuilding jobs,
+and that expanding the use of foreign shipyards for performing MRO work  on U.S. military ships
+or using foreign shipyards to build new ships for the Navy could be detrimental to U.S.
+shipbuilding capacity and expose the United States to foreign supply chains that could be
+vulnerable in wartime.165 Congress may choose to amend (or even repeal) 10 U.S.C. §8679 and
+14 U.S.C. §1151 in a number of ways. For example, S. 406  (Ensuring Naval Readiness Act) and
+S. 407  (Ensuring Coast Guard Readiness Act ) would allow the President to issue waivers if the
+foreign shipyard is “ located in a North Atlantic Treaty Organization member country or a country
+in the Indo -Pacific region that is party to a mu tual defense treaty with the United States .” Both
+bills would further require the Secretary of the Navy and Commandant of the Coast Guard,
+respectively, to certify to Congress that the foreign shipyard is not “ owned or operated by a
+Chinese company or a multinational company domiciled in the People’s Republic of China. ” In
+addition, Congress may request briefings from U.S. national security officials on the potential
+merits and risks of constructing U.S. Navy and Coast Guard vessels in foreign shipyards .
+U.S.-ROK Alignment on North Korea
+Since the breakdown of nuclear diplomacy
+between President Trump and North Korean
+leader Kim Jong -un in Hanoi in 2019, the
+United States and North Korea have had little
+substantive contact  (Figure 7). During that
+time, North Korea has advanced key aspects
+of its military forces, including its strategic
+weapons.166 President  Trump  has expressed
+interest in meeting with Kim “in the
+appropriate future.”167 Some observers  say
+South Korea fears  it could be exclude d from
+such talks .168 South Korean President Lee Jae
+Myung has said he will “keep channels of
+communication with North Korea open and
+pursue peace on the Korean Peninsula
+through dialogue an d cooperation.”169
+The second Trump Administration and Lee
+administration appear to diverge over whether to modify U.S. -ROK combined military exercises
+to create space for dialogue with North Korea. U.S. officials have cited the importance of bilateral
+165 See, for example, Matthew Paxton , “Outsourcing the US Shipyard Industrial Base Will Outsource American
+Sovereignty ,” Breaking Defense , August 5, 2024.
+166 Office of t he Director of National Intelligence , “Annual Threat Assessment of the U.S. Intelligence Community,”
+March 2025.
+167 “Trump Says He Wants to Meet North Korea ’s Kim Jong Un During South Korean President ’s Visit,” CNA, August
+25, 2025, https://www.youtube.com/ watch? v=8DqshoJD3rc .
+168 Julian Ryall, “ South Korea Fears Being Sidelined by Trump -Kim Revival ,” DW, February 3, 2025.
+169 “Full Text : President Lee Jae -myung’s June 4 Inaugural Address ,” Korea Pro, June 4, 2025.  Figure 7. President Trump and Kim Jong -
+Un at Hanoi Summit
+February 2019
+Source: Trump White House Archived on Flickr .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   30 exercises for maintaining military readiness, while some ROK officials have suggested that
+scaling them back could ease tension with North Korea and create opportunity for dialogue.170
+To enhance U.S.-ROK security alignment on North Korea, Congress could consi der how the
+alliance’s strategic framing incorporates North Korea relative to other regional concerns , such as
+China. Congress could  request briefings from the  Department of Defense or other executive
+branch agencies to learn more  on current thinking and future plans for the U.S.-ROK alliance. In
+tandem with briefings, Congress could mandate annual reports across several years on how the
+Administration  and its South Korean counterpart  are planning for contingencies involving North
+Korea  and what concrete steps the two allies  are taking to further deter Kim from aggression and
+return to denuclearization negotiations .
+On the other hand, if Congress were to  seek to support  a more unilateral approach to North
+Korea, it could require ex ecutive branch reports on how the administration plans to engage with
+the Kim regime outside the U.S. -ROK alliance and what impacts such engagement are likely to
+have on regional security dynamics.
+170 Bahk Eun -ji, “Seoul, Washington Diverge over Joint Drills as Korea Signals Flexibility, US Stresses Readiness ,”
+The Korea Times , December 14, 2025; Thomas Maresca , “Military Exercises ‘Critically Important, ’ U.S. Forces Korea
+commander says ,” UPI, December 12, 2025.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   31 Appendix A.  Legislation Related to U.S. -South
+Korea Security Issues f rom the 118th Congress
+P.L. 118 -159, Servicemember Quality of Life Improvement and National Defense
+Authorization Act for Fiscal Year 2025 . Section 1311 expresse d the sense of Congress that the
+United States should reinforce its alliance with South Korea, including by maintaining the current
+force posture of 28,500 servicemembers on the Korean Peninsula and strengthening “mutual
+defense base cooperation.” Section 1344 r equire d the Department of Defense no later than March
+1, 2025, to submit to Congress a plan to “strengthen United States extended deterrence
+commitments to the Republic of Korea as identified in the December 16, 2023, Joint Press
+Statement on the United St ates-Republic of Korea Nuclear Consultative Group.” Section 1345
+require d the Secretary of Defense to submit to Congress by March 1, 2025, a plan “to advance
+trilateral defense cooperation among the United States, Japan, and the Republic of Korea.” The
+report was to have covered  trilateral communication mechanisms, ballistic missile defense,
+trilateral military exercises, and countering malicious cyber activities. H.R. 5009  was passe d by
+the House on 12/11/2024 (281 -140, Roll no. 500); it was passed by the Senate on 12/18/2024 (85 -
+14, Record Vote Number: 325); it was signed by the President on 12/23/2024.
+P.L. 118 -31, the National Defense Authorization Act for Fiscal Year 2024.  Section 1301
+expressed the sense of Congress that the United States should reinforce its alliance with South
+Korea, including by maintaining the 28,500 U.S. troops stationed in S outh Korea and by
+enhancing bilateral coordination on extended deterrence as noted in the Washington Declaration
+adopted on April 26, 2023. Section 1318 required the Secretary of Defense and Secretary of State
+to submit a report to Congress describing unde r what conditions South Korean military forces
+would be ready to assume wartime operational control of the U.S. -ROK Combined Forces
+Command and to what extent the South Korean military currently meets such conditions. Section
+1319 required the Secretary of  Defense to commission an independent study from a federally
+funded research and development center assessing, among other things, potential modifications to
+the U.S. Indo -Pacific Command that would affect U.S. Forces Korea, in response to the changing
+security environment. This report was due to Congress no later than 360 days after enactment of
+this act. H.R. 2670  passed the Senate on 12/13/2023 (87 -13, Record Vote Number: 343) and
+passed the House on 12/14/2023 (310 -118, Roll no. 723). The President signed the bill on
+12/22/2023.
+H.R. 7152  (Wexton), Korean American Divided Families National Registry Act . H.R. 7152
+would have require d the Department of State to identify Korean American families who wish to
+be reunited with family members who live in North Korea and establish a national registry of
+information on those families to (1) facilitate future reunions, and (2) provide a repository of
+information about such families.  This bill was introduced in the House on 1/30 /2024 and passed
+the House on 6/25/2024. It was received in the Senate and referred to the Senate Committee on
+Foreign Relations on 7/8/2024.
+H.R. 6355  (Ryan), Never Forgotten Korea n War POW Act . This bill would have amend ed the
+Combat Duty Pay Act of 1952 to require that former members  of the uniformed services who
+were captured or entered a missing -in-action status during the Korean War while serving as a
+member of a combat unit in Korea receive combat pay for each month spent in a captured or
+missing -in-action status, rather than just  a total of four months. H.R. 6355  was introduced on
+11/9/2023 and referred to the House Committee on Armed Services the same day.
+H.R. 1369  (Sherman), Peace on the Korean Peninsula Act . The bill would have stated that it is
+the sense of Congress that the State Department should “pursue serious, urgent diplomatic
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   32 engagement with North Korea and South Korea in pursuit of a binding peace agreement
+constituting a formal and final end to the state of war between North Korea, South Korea, and the
+United States.” The bill would have required that within 180 days of enactment the Department of
+State report to Congress  on a “clear roadmap” for achieving lasting peace on the Korean
+Peninsula.  The bill would have required the Department of State to report to Congress a review of
+the restrictions on travel by U.S. nationals to North Korea, including whether such restrictio ns
+should be adjusted to allow travel to North Korea to attend a funeral, burial, or commemoration
+of a relative. H.R. 1369  was introduced 3/3/2023 and referred to the House Committ ee on Foreign
+Affairs.
+H.R. 958  (Steel), To require certain reports and briefings relating to North Korea.  H.R. 958
+would have require d the President to report to Congress relating to (1) arms trafficking involving
+North Korea, (2) operators of foreign airports and sea ports that fail to in spect cargo to or from
+North Korea, and (3) cooperation between North Korea and Iran. This bill also would have
+required the President to provide a briefing to Congress twice a year regarding measures to deny
+specialized financial messaging services to des ignated North Korean financial institutions. This
+bill was introduced in the House on 2/9/2023 and referred to the House Committee on Foreign
+Affairs the same day.
+H.Res. 318  (Meng ) / S.Res. 175  (Menendez), Recognizing the importance of the 70th
+anniversary of the signing of the Mutual Defense Treaty between the United States and the
+Republic of Korea on Oct ober 1, 1953.  This resolution recognize d the 70th anniversary of the
+signing of the Mutual Defense Treaty between the United States and South Korea. Affirming the
+importance of the U.S. -South Korean alliance as the “linchpin to safeguarding peace, security ,
+and prosperity on the Korean Peninsula,” the resolution welcome d President Yoon Suk -yeol to the
+United States. It also support ed ongoing defense and security ties, call ed for continued promotion
+of human rights, and encourage d close cooperation between t he United States, South Korea, and
+Japan. H.Res. 318  was introduced in the House on 4/24/2023 and referred to the House
+Committee on Foreign Affairs the same day. S.Res. 175  was submitted and agreed to in the
+Senate without amendment  by Unanimous Consent on 4/26/2023.
+H.Res. 1056  (Connolly) / S.Res. 545  (Sullivan) , Recognizing the imp ortance of trilateral
+cooperation among the United States, Japan, and South Korea.  H.Res. 1056  was introduced
+on 3/5/2024 and agreed to by voice vote on 9/9/2024. S.Res. 545  was introduced on 2/8/2024 and
+referred to the  Senate  Committee on Foreign Relations on 2/8/2024.
+H.Res. 620  (Williams) / S.Res. 186  (Sullivan ), A resolution seeking justice for the Japanese
+citizens abducted by North Korea.  This resolution would have called on North Korea to release
+any abducted foreign nationals, including those from Japan. It also  would have  urged North
+Korea to return the remains of deceased abductees, to make restitution, to apologize, and to
+permanently cease such activities. H.Res. 620  was introduced on 7/26/2023 and referred to the
+House Committee on Foreign Affairs the same day. S.Res. 186  was referred to the Senate
+Committee on Foreign Relations on 5/1/2023.
+H.Res. 126  (Kim), Encouraging reunions of divided Korean -American families.  The
+resolution would  have called on the United States and North Korea to begin the process of
+reuniting Korean Americans with their immediate relatives in North Korea. H.Res. 126  was
+introduced on 2/1 4/2023 and referred to House Committee on Foreign Affairs .
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   33 Appendix B.  Legislation Related to U.S. -South
+Korea Security Issues from the 116th Congress
+The 116th Congress was particularly active on U.S. -South Korea alliance issues, amid reports that
+President Trump was  considering withdrawing some or all U.S. troops from South Korea and
+bilateral defense cost -sharing negotiations had grown divisive .
+P.L. 116 -283, William M. (Mac) Thornberry National Defense Authorization Act for Fiscal
+Year 2021.  Section 1258  prohibited the use of funds to reduce the 28,500 active -duty U.S.
+servicemembers on the Korean Peninsula until 90 days after the Secretary of Defense certifies to
+the congressional defense committees that (1) “ such a  reduction is in the national security interest
+of the United States and will not signifi cantly undermine the security of United States allies in the
+region” and (2) “the Secretary [of Defense] has appropriately consulted with allies of the United
+States, including South Korea and Japan, regarding such a reduction.”  H.R. 6395  was passed by
+the House on 12/28/2020 (322 -87, Roll no. 253); it was passed by the Senate on 01/01/2021
+(Record Vote Number: 291); and signed by the President on 01/01/2021.
+P.L. 116 -92, National Defense Authorization Act for Fiscal Year 2020. Section 1254 prohibit ed
+the use of funds to reduce the 28,500 active -duty U.S. servicemembers on the Korean Peninsula
+until 90 days after  the Secretary of Defense certifies to the congressional defense committees  that
+(1) “the reduction is in the national security interest  of the United States and will not significantly
+undermine the  security of United States allies in the region ” and (2) “the Secretary [of Defense]
+has appropriately consulted with allies  of the United States, including South Korea and Japan,
+regarding such a reduction. ” Section 1256 expresse d the sense of Congress that the United States
+“remains committed” to the U.S. -ROK alliance as “essential to the peace and stability in the Indo -
+Pacific region.” Furthermore, Congress stated in this section that U.S.-ROK -Japan cooperation is
+necessary to fight piracy, conduct disaster relief efforts, and protect maritime security. Section
+1257 expressed the sense of Congress that diplomacy, economic sanctions, and credible
+deterrence are “essential” to address North Korea’s conventional threats and weapons o f mass
+destruction program. Congress further stated that North Korea threatens U.S. forces on the
+Korean Peninsula and U.S. allies in the region, and that its recent missile tests were
+“destabilizing.” S. 1790  was passed by the House on 12/11/2019 (377 -48, Roll no. 672); it was
+passed by the Senate on 12/17/2019 (86 -8, Record Vote Number: 400); and signed by the
+President on 12/20/2019.
+H.R. 6639  (Khanna) / S. 4020  (Markey), No Unconstitutional War with North Korea Act of
+2020.  This bill would have prohibit ed the use of federal funds for mi litary force in or against
+North Korea unless (1) Congress has declared war, (2) Congress has enacted specific statutory
+authority for such military force, or (3) the President is exercising powers as Commander -in-
+Chief in a national emergency stemming fro m an attack against the United States or the Armed
+Forces. H.R. 6639  was introduced in the House on 4/28/2020 and referred to the House
+Committee on Foreign Affairs. S. 4020  was introduced in the Senate on 6/22/2020 and referred to
+the Senate Committee on Foreign Relations.
+H.R. 7234  (Bera) / S. 4018  (Markey), We Go Together Act.  This bill would have require d the
+President, before changing U.S. policy with respect to the U.S. -South Korea Mutual Defense
+Treaty, to provide Congress with (1) a detailed justification for the change, (2) a certification that
+the change is in the U.S. national interest, and (3) a certification that an alternative agreement or
+measure is in place to replace any lost capacity or benefits s temming from the change. H.R. 7234
+was introduced in the House on 6/18/2020 and referred to the House Committee on Foreign
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   34 Affairs. S. 4018  was introduced on 6/22/2020 and referred to the Senate Committee on Foreign
+Relations.
+H.R. 4084  (Barr), Otto Warmbier North Korea Nuclear Sanctions Act of 2019.  This bill
+would have impose d sanctions on North Korean financial institutions, companies, and certain
+North Korean individuals due to North Korea’s “proliferation and testing of WMD.” H.R. 4084
+was introduced in the House on 7/26/2019 and referred to the House Committee on Financial
+Services.
+H.R. 2949  (Engel) / S. 1658  (Menendez), North Korea Policy Oversight Act of 2019. The bill
+would have require d the State Department to report to Congress on diplomatic engagement with
+and by North Korea. I t also would have mandate d the Department of State  to brief Congress after
+every high -level U.S. -DPRK diplomatic meeting. Furthermore, this bill would have require d the
+President to notify Congress within five days of entering into any agreement with North  Korea
+regarding the DPRK’s nuclear and missile program s. H.R. 2949  was introduced in the House on
+5/23/2019 and referred to the House Committee on Foreign Affairs. S. 1658  was introduced in the
+Senate on 5/23/2019 and referred to the Senate Committee on Foreign Relations.
+H.R. 2047  (Gree n) / S. 985  (Lee), Allied Burden Sharing Report Act of 2019.  This bill would
+have require d the Secretary of Defense to submit a report to Congress each year detailing “the
+activities o f [South Korea  and other countries ] to contribute to military or stability operations in
+which the Armed Forces of the United States are a participant. ” The report would also have had to
+outline limitations placed by South Korea on using such contributions, and what the United States
+was doing to minimize those limitations. H.R. 2047  was introduced in the House o n 4/3/2019 and
+referred to the House Committee on Foreign Affairs. S. 985  was introduced on 4/2/2019 and
+referred to the Senate Committee on Foreign Relations.
+H.R. 889  (Gallagher), United States and Republic of Korea Alliance Support Act.  This bill
+would have barred the Department of Defense  from reducing the number of active -duty
+servicemembers deployed to South  Korea below 22,000, unless DOD made  certain certifications,
+including that such a reduction was in the interest of national security. H.R. 889  was introduced in
+the House on 1/30/20 19 and referred to the House Committee on Armed Services.
+S. 3395  (Hirono), Korean War Divided Families Reunification Act. This bill would have
+directed  the Department of State to con sult with South Korea and representatives of Korean
+Americans with family in North Korea on reunification efforts. S. 3395  was introduced in the
+Senate on 3/5/2020 and referred to the  Senate Committee on Foreign Relations.
+H.Res. 127  (Engel) / S.Res. 67  (Menendez), Expressing the sense of the House of
+Representatives/Senate on the importance and vitality of the United States alliances with
+Japan and the Republic of Korea, a nd our trilateral cooperation in the pursuit of shared
+interests.  The resolution “reaffirm [ed] the commitment of the United States to defend” Japan and
+the Republic of Korea under their respective mutual defense treaties with the United States.
+H.Res. 127  was introduced in the House on 2/13/2019 and agreed to on 9/24/2019. S.Res. 67  was
+introduced in the Sena te on 2/12/2019 and agreed to on 4/10/2019.
+H.Res. 1016  (Wenstrup) / S.Res. 623  (Portman), Recognizing the 3rd anniversary of the
+passing of Otto Frederick Warmbier and condemning the North Korean regime for their
+continued human rights abuses.  This resolution expresse d remembrance for the life of Otto
+Frederick Warmbier on the third anniversary of his death. The resolution condemn ed North Korea
+for his death and call ed for sanctions against North Korea to remain fully implemented until
+North Korea commit ted to the suspe nsion of its proliferation of weapons of mass destruction.
+H.Res. 1016  was introduced in the House on 6/22/2020 and referred to the House Subcommittee
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   35 on Asia, the Pacific and Non proliferation on 7/13/2020. S.Res. 623  was introduced in the Senate
+on 6/16/2020 and agreed to by Unanimous Consent on 6/18/2020.
+H.Res. 1012  (Bera) / S.Res. 615  (Gardner), Recognizing the 70th anniversary of the outbreak
+of the Korean War and the transformation of the United States -South Korea alliance into a
+mutually beneficial, global partnership.  This resolution reaffirm ed the critical importance of
+the alliance between the United States and South Korea. The resolution encourage d coordination
+between the two countries in certain areas and emphasize d that the United States Forces Korea
+remain ed prepared to counter third -party aggression. H.Res. 1012  was introduced in the House on
+6/22/2020 and agreed to wi thout objection on 11/18/2020. S.Res. 615  was introduced in the
+Senate on 6/11/2020 and referred to the Senate Committee on Foreign Relations.
+H.Res. 809  (Suozzi) / S.Res. 152  (Lankford), Expressing the importance of the United States
+alliance with the Republic of Korea and the contributions of Korean Americans in the
+United States.  This resolution “recognize [d] the vital role the alliance of the United States and
+the Republic of Korea plays in promoting peace and security in the Indo -Pacific region”  and
+called for further strengthening of ties between the two countries. H.Res. 809  was introduced in
+the House on 1/24/2020 and agreed to without objection on 11/18/2020. S.Res. 152  was
+introduced in the Senate on 4/9/2019 and agreed to by Unanimous Consent on 1/8/2020.
+S.Res. 435  (Risch), Reaffirming the importance of the General Security of Military
+Information Agreement  between the Republic of Korea and Japan, and for other purposes.
+This resolution (1) reaffirm ed the importance of the General Security of Military Information
+Agre ement (GSOMIA) between South Korea and Japan; (2) encourage d South Korea and Japan
+to rebuild trust and pursue cooperation on mutual interests; and (3) expresse d support for
+strengthened alliances between the United States, South Korea, and Japan.  (The GSO MIA is an
+agreement that allows Japan and South Korea to directly share military intelligence with one
+another.) S.Res. 435  was introduced in the Senate on 11/20/2019 and agreed to in the Senate on
+11/21/2019.
+H.Res. 152  (Khanna), Calling for a formal end of the Korean war.  This resolution  would have
+“call [ed] for the conclusion of a binding peace agreement constituting a formal and final end to
+the state of war between North Korea, South Korea, and the United States.” A t the same time, it
+would have  affirm ed that such a binding peace agreement would not have any legal effect on the
+U.S.-ROK mutual defense treaty, which would “remain in force indefinitely.” H.Res. 152  was
+introduced in the House on 2/26/2019 and referred to the House Committee on Foreign Affairs.
+H.Res. 439  (Steube), Maintaining North Korea’s seizure of the  vessel USS Pueblo  and its
+detention of the crew were in violation of international law and seeking the return of the
+USS Pueblo  to the United States.  This resolution would have maintain ed that the January 23,
+1968, seizure by North Korea of the USS Pueblo  and the detention of its crew violate d
+international law, and sought  the return of the USS Pueblo  to the United States. H.Res. 439  was
+introduced in the House on 6/12/2019 and referred to the House Committee on Foreign Affairs.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service   36 Appendix C.  U.S.-ROK Mutual Defense Treaty
+T ext of the Mutual Defense Treaty Between t he United States and the Republic of
+Korea , October 1, 1953
+The Parties to this Treaty,
+Reaffirming their desire to live in peace with all peoples and a ll governments, and desiring to strengthen the fabric
+of peace in the Pacific area,
+Desiring to declare publicly and formally their common determination to defend themselves against external
+armed attack so that no potential aggressor could be under the illusion that either of them stands alone in the
+Pacific area,
+Desiring further to strengthen their effort s for collective defense for the preservation of peace and security
+pending the development of a more comprehensive and effective system of regional security in the Pacific area,
+Have agreed as follows:
+ARTICLE I
+The Parties undertake to settle any international disputes in which they may be involved by peaceful means in such
+a manner that international peace and security and justice are not endangered and to refrain in their international
+relations from the threat or use of force in any manner incon sistent with the Purposes of the United Nations, or
+obligations assumed by any Party toward the United Nations.
+ARTICLE II
+The Parties will consult together whenever, in the opinion of either of them, the political independence or
+security of either of the  Parties is threatened by external armed attack. Separately and jointly, by self help and
+mutual aid, the Parties will maintain and develop appropriate means to deter armed attack and will take suitable
+measures in consultation and agreement to implement t his Treaty and to further its purposes.
+ARTICLE III
+Each Party recognizes that an armed attack in the Pacific area on either of the Parties in territories now under
+their respective administrative control, or hereafter recognized by one of the Parties as l awfully brought under the
+administrative control of the other, would be dangerous to its own peace and safety and declares that it would act
+to meet the common danger in accordance with its constitutional processes.
+ARTICLE IV
+The Republic of Korea grants,  and the United States of America accepts, the right to dispose United States land,
+air and sea forces in and about the territory of the Republic of Korea as determined by mutual agreement.
+ARTICLE V
+This Treaty shall be ratified by the United States of Am erica and the Republic of Korea in accordance with their
+respective constitutional processes and will come into force when instruments of ratification thereof have been
+exchanged by them at Washington.
+ARTICLE VI
+This Treaty shall remain in force indefinit ely. Either Party may terminate it one year after notice has been given to
+the other Party.
+IN WITNESS WHEREOF the undersigned Plenipotentiaries have signed this Treaty.
+DONE in duplicate at Washington, in the English and Korean languages, this first day o f October 1953.
+UNDERSTANDING OF THE UNITED STATES
+[The United States Senate gave its advice and consent to the ratification of the treaty subject to the following
+understanding:]
+It is the understanding of the United States that neither party is obligated , under Article III of the above Treaty, to
+come to the aid of the other except in case of an external armed attack against such party; nor shall anything in
+the present Treaty be construed as requiring the United States to give assistance to Korea except in the event of
+an armed attack against territory which has been recognized by the United States as lawfully brought under the
+administrative control of the Republic of Korea.
+U.S.-South Korea Alliance: Background and Issues for Congress
+Congressional Research Service  R48877  · VERSION 2 · NEW  37
+Author Information
+Daniel J. Longo
+Analyst in Foreign Affairs
+Disclaimer
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should n ot be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyr ight protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permissio n of the copyright holder if you wish to
+copy or otherwise use copyrighted material.
