@@ -45,13 +45,13 @@ def embed_text(text):
 # -----------------------------
 def summarize_chunk(chunk_text, max_tokens=100):
     prompt = f"""
-Summarize the following text in 2-3 concise sentences, keeping all facts intact. Do not add extra information.
+    Summarize the following text in 2-3 concise sentences, keeping all facts intact. Do not add extra information.
 
-Text:
-{chunk_text}
+    Text:
+    {chunk_text}
 
-Summary:
-"""
+    Summary:
+    """
     output = generator(prompt, max_new_tokens=max_tokens)
     return output[0]["generated_text"]
 
