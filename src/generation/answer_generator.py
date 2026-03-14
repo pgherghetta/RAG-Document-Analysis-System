@@ -1,74 +1,103 @@
-# src/generation/answer_generator.py
-
 import os
 import sys
-import json
-import numpy as np
-import faiss
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
+from sentence_transformers import SentenceTransformer
 
 # -----------------------------
-# Prevent multiprocessing crashes on macOS
+# Add parent folder to sys.path.
 # -----------------------------
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
-os.environ["OMP_NUM_THREADS"] = "1"
-os.environ["MKL_NUM_THREADS"] = "1"
-
-# Add parent folder to sys.path to import retriever
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 
 from retrieval.retriever import retrieve
-from sentence_transformers import SentenceTransformer
-from openai import OpenAI
 
 # -----------------------------
-# OpenAI API setup
+# LLM Model Settings
 # -----------------------------
-openai_api_key = os.getenv("OPENAI_API_KEY")
-if not openai_api_key:
-    raise ValueError("Please set your OPENAI_API_KEY in your environment variables.")
+LLM_MODEL_NAME = "google/flan-t5-large"
+MAX_CHUNK_TOKENS = 150   # Truncate each chunk to avoid model limits.
+TOP_K_CHUNKS = 3         # Number of chunks to use.
 
-client = OpenAI(api_key=openai_api_key)
+print(f"Loading LLM model ({LLM_MODEL_NAME})...")
+tokenizer = AutoTokenizer.from_pretrained(LLM_MODEL_NAME)
+model = AutoModelForSeq2SeqLM.from_pretrained(LLM_MODEL_NAME)
+
+# Use a text2text-generation pipeline.
+generator = pipeline(
+    "text2text-generation",
+    model=model,
+    tokenizer=tokenizer,
+    max_new_tokens=200
+)
 
 # -----------------------------
-# Load embedding model (CPU only)
+# Embeddings model for retrieval
 # -----------------------------
+EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 print("Loading embedding model...")
-model = SentenceTransformer("all-MiniLM-L6-v2", device="cpu")
-print("Embedding model loaded successfully.")
+embedding_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
+
+def embed_text(text):
+    """Return embeddings for a single text string."""
+    return embedding_model.encode(text)
 
 # -----------------------------
-# Answer generation function
+# Summarize each chunk individually.
+# -----------------------------
+def summarize_chunk(chunk_text, max_tokens=100):
+    prompt = f"""
+Summarize the following text in 2-3 concise sentences, keeping all facts intact. Do not add extra information.
+
+Text:
+{chunk_text}
+
+Summary:
+"""
+    output = generator(prompt, max_new_tokens=max_tokens)
+    return output[0]["generated_text"]
+
+# -----------------------------
+# Generate answer using summarized chunks.
 # -----------------------------
 def generate_answer(query, top_chunks):
     """
-    Generate an answer to the query using the retrieved text chunks.
+    Generate an answer using retrieved document chunks.
+    Each chunk is first summarized to reduce input length and improve fluency.
     """
-    context_text = "\n\n".join([chunk["text"] for chunk in top_chunks])
-    prompt = (
-        f"Answer the question using the context below:\n\n{context_text}\n\n"
-        f"Question: {query}\nAnswer:"
-    )
 
-    # OpenAI v1 client call
-    response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0
-    )
+    summarized_chunks = []
+    for chunk in top_chunks:
+        # Truncate and summarize chunk.
+        tokens = tokenizer.encode(chunk["text"], truncation=True, max_length=MAX_CHUNK_TOKENS)
+        truncated_text = tokenizer.decode(tokens, skip_special_tokens=True)
+        summary = summarize_chunk(truncated_text)
+        summarized_chunks.append(f"[Source: {chunk['source_file']}, Chunk {chunk['chunk_index']}]\n{summary}")
 
-    answer = response.choices[0].message.content
-    return answer
+    context_text = "\n\n".join(summarized_chunks)
 
-# -----------------------------
-# Test the pipeline
-# -----------------------------
+    prompt = f"""
+    Answer the question using ONLY the summarized information below.
+    Do NOT make up information. Be concise (3-5 sentences). Cite sources using (Source: filename, Chunk number).
+
+    Summarized Context:
+    {context_text}
+
+    Question:
+    {query}
+
+    Answer:
+    """
+    output = generator(prompt)
+    return output[0]["generated_text"]
+
+
+
+
 if __name__ == "__main__":
     query = "What are the main cybersecurity threats?"
-    
     print("Retrieving top chunks...")
-    top_chunks = retrieve(query, top_k=5)  # Use your FAISS retriever
+    top_chunks = retrieve(query, top_k=TOP_K_CHUNKS)
 
-    print("Generating answer...")
+    print("Generating answer with summarized chunks...")
     answer = generate_answer(query, top_chunks)
 
     print("\n=== ANSWER ===\n")
