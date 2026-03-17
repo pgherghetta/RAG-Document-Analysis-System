@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
 from sentence_transformers import SentenceTransformer
 
 # -----------------------------
-# Add parent folder to sys.path.
+# Add parent folder to sys.path
 # -----------------------------
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 
@@ -14,14 +14,14 @@ from retrieval.retriever import retrieve
 # LLM Model Settings
 # -----------------------------
 LLM_MODEL_NAME = "google/flan-t5-large"
-MAX_CHUNK_TOKENS = 150   # Truncate each chunk to avoid model limits.
+MAX_CHUNK_TOKENS = 100   # Truncate each chunk to avoid model limits.
 TOP_K_CHUNKS = 3         # Number of chunks to use.
 
 print(f"Loading LLM model ({LLM_MODEL_NAME})...")
 tokenizer = AutoTokenizer.from_pretrained(LLM_MODEL_NAME)
 model = AutoModelForSeq2SeqLM.from_pretrained(LLM_MODEL_NAME)
 
-# Use a text2text-generation pipeline.
+# Use a text2text-generation pipeline
 generator = pipeline(
     "text2text-generation",
     model=model,
@@ -41,64 +41,46 @@ def embed_text(text):
     return embedding_model.encode(text)
 
 # -----------------------------
-# Summarize each chunk individually.
-# -----------------------------
-def summarize_chunk(chunk_text, max_tokens=100):
-    prompt = f"""
-    Summarize the following text in 2-3 concise sentences, keeping all facts intact. Do not add extra information.
-
-    Text:
-    {chunk_text}
-
-    Summary:
-    """
-    output = generator(prompt, max_new_tokens=max_tokens)
-    return output[0]["generated_text"]
-
-# -----------------------------
-# Generate answer using summarized chunks.
+# Generate answer using chunks directly
 # -----------------------------
 def generate_answer(query, top_chunks):
     """
     Generate an answer using retrieved document chunks.
-    Each chunk is first summarized to reduce input length and improve fluency.
+    This version uses the full chunk text without summarization.
     """
 
-    summarized_chunks = []
+    context_chunks = []
     for chunk in top_chunks:
-        # Truncate and summarize chunk.
+        # Truncate chunk to avoid model limit
         tokens = tokenizer.encode(chunk["text"], truncation=True, max_length=MAX_CHUNK_TOKENS)
         truncated_text = tokenizer.decode(tokens, skip_special_tokens=True)
-        summary = summarize_chunk(truncated_text)
-        summarized_chunks.append(f"[Source: {chunk['source_file']}, Chunk {chunk['chunk_index']}]\n{summary}")
+        context_chunks.append(f"[Source: {chunk['source_file']}, Chunk {chunk['chunk_index']}]\n{truncated_text}")
 
-    context_text = "\n\n".join(summarized_chunks)
+    context_text = "\n\n".join(context_chunks)
 
     prompt = f"""
-    Answer the question using ONLY the summarized information below.
-    Do NOT make up information. Be concise (3-5 sentences). Cite sources using (Source: filename, Chunk number).
+Answer the question using ONLY the information below.
+Do NOT make up information. Be concise (3-5 sentences). Cite sources using (Source: filename, Chunk number).
 
-    Summarized Context:
-    {context_text}
+Context:
+{context_text}
 
-    Question:
-    {query}
+Question:
+{query}
 
-    Answer:
-    """
+Answer:
+"""
     output = generator(prompt)
     return output[0]["generated_text"]
 
-
-
-
+# -----------------------------
+# Local test
+# -----------------------------
 if __name__ == "__main__":
-    query = "What are the main cybersecurity threats?"
+    query = "What are some current strategic allies of the United States?"
     print("Retrieving top chunks...")
     top_chunks = retrieve(query, top_k=TOP_K_CHUNKS)
-
-    print("Generating answer with summarized chunks...")
+    print("Generating answer...")
     answer = generate_answer(query, top_chunks)
-
     print("\n=== ANSWER ===\n")
     print(answer)
