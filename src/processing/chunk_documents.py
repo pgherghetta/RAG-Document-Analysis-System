@@ -4,15 +4,15 @@ import json
 # -----------------------------
 # Folders
 # -----------------------------
-PROCESSED_FOLDER = "data/processed"          # input text files
-CHUNKS_FOLDER = os.path.join(PROCESSED_FOLDER, "chunks")  # output folder
+PROCESSED_FOLDER = "data/processed"          # Input text files
+CHUNKS_FOLDER = os.path.join(PROCESSED_FOLDER, "chunks")  # Output folder
 os.makedirs(CHUNKS_FOLDER, exist_ok=True)
 
 # -----------------------------
 # Chunking parameters
 # -----------------------------
-WORDS_PER_CHUNK = 500  # you can adjust to 500–1000
-OVERLAP = 50           # words to overlap between chunks for context
+WORDS_PER_CHUNK = 500  # You can adjust to 500–1000.
+OVERLAP = 50           # Number of words to overlap between chunks for context.
 
 # -----------------------------
 # Get all text files
@@ -42,11 +42,11 @@ for txt_file in text_files:
         chunk_file_name = f"{os.path.splitext(txt_file)[0]}_chunk{chunk_index:03d}.txt"
         chunk_path = os.path.join(CHUNKS_FOLDER, chunk_file_name)
 
-        # Save chunk
+        # Save chunk.
         with open(chunk_path, "w", encoding="utf-8") as cf:
             cf.write(chunk_text)
 
-        # Save metadata for RAG (source file + chunk number)
+        # Save metadata for RAG (source file + chunk number).
         all_chunks_metadata.append({
             "chunk_file": chunk_file_name,
             "source_file": txt_file,
@@ -54,7 +54,7 @@ for txt_file in text_files:
             "num_words": len(chunk_words)
         })
 
-        # Move start forward, keeping overlap
+        # Move start forward, keeping overlap.
         start += WORDS_PER_CHUNK - OVERLAP
         chunk_index += 1
 

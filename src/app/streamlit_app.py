@@ -1,7 +1,7 @@
 import sys
 import os
 
-# Add src folder to Python path so generation & retrieval can be imported
+# Add src folder to Python path so generation & retrieval can be imported.
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 import streamlit as st
@@ -11,7 +11,8 @@ from retrieval.retriever import retrieve
 st.title("RAG Document Q&A")
 
 st.markdown("""
-Ask a question and the system will retrieve relevant document chunks and generate an answer with citations.
+Ask a question about select congress.gov documents from early 2026. The RAG system will retrieve relevant document 
+            chunks and generate an answer with citations.
 """)
 
 query = st.text_input("Enter your question:")
@@ -26,12 +27,13 @@ if query:
         st.info("Generating answer...")
         answer = generate_answer(query, top_chunks)
         
-        # Display the answer
+        # Display the answer.
         st.subheader("Answer")
         st.write(answer)
         
-        # Display the corresponding chunks
+        # Display the corresponding chunks.
         st.subheader("Retrieved Chunks / Sources")
+
         for i, chunk in enumerate(top_chunks, start=1):
-            st.markdown(f"**Chunk {i} — Source: {chunk['source_file']}**")
-            st.write(chunk["text"])
+            with st.expander(f"Chunk {i} — Source: {chunk['source_file']}"):
+                st.write(chunk["text"])
