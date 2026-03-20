@@ -1,30 +1,23 @@
 import os
 import json
 
-# -----------------------------
 # Folders
-# -----------------------------
-PROCESSED_FOLDER = "data/processed"          # Input text files
+PROCESSED_FOLDER = "data/processed"    # Input text files
 CHUNKS_FOLDER = os.path.join(PROCESSED_FOLDER, "chunks")  # Output folder
 os.makedirs(CHUNKS_FOLDER, exist_ok=True)
 
-# -----------------------------
-# Chunking parameters
-# -----------------------------
-WORDS_PER_CHUNK = 500  # You can adjust to 500–1000.
-OVERLAP = 50           # Number of words to overlap between chunks for context.
+# Chunking parameters.
+WORDS_PER_CHUNK = 500  
+# Number of words to overlap between chunks for context.
+OVERLAP = 50         
 
-# -----------------------------
-# Get all text files
-# -----------------------------
+# Get all text files.
 text_files = [f for f in os.listdir(PROCESSED_FOLDER) if f.lower().endswith(".txt")]
 print(f"Found {len(text_files)} text files to chunk.")
 
 all_chunks_metadata = []
 
-# -----------------------------
-# Process each text file
-# -----------------------------
+# Process each text file.
 for txt_file in text_files:
     txt_path = os.path.join(PROCESSED_FOLDER, txt_file)
     with open(txt_path, "r", encoding="utf-8") as f:
@@ -60,9 +53,7 @@ for txt_file in text_files:
 
 print(f"Total chunks created: {len(all_chunks_metadata)}")
 
-# -----------------------------
-# Save metadata JSON
-# -----------------------------
+# Save metadata JSON.
 metadata_path = os.path.join(CHUNKS_FOLDER, "chunks_metadata.json")
 with open(metadata_path, "w", encoding="utf-8") as f:
     json.dump(all_chunks_metadata, f, indent=4)

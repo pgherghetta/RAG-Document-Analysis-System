@@ -2,7 +2,7 @@ import os
 import sys
 import pandas as pd
 
-# Prevent parallel tokenizer warnings
+# Prevent parallel tokenizer warnings.
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["OMP_NUM_THREADS"] = "1"
 os.environ["MKL_NUM_THREADS"] = "1"
@@ -12,14 +12,12 @@ sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from retrieval.retriever import retrieve
 from generation.answer_generator import generate_answer
 
-# Text similarity metrics
+# Text similarity metrics.
 from evaluate import load
 rouge = load("rouge")
 bert_score = load("bertscore")
 
-# -----------------------------
 # Evaluation Questions & References
-# -----------------------------
 evaluation_data = [
     {
         "question": "What are current cybersecurity threats?",
@@ -31,9 +29,8 @@ evaluation_data = [
     },
 ]
 
-# -----------------------------
-# Run RAG pipeline
-# -----------------------------
+
+# Run RAG pipeline.
 records = []
 
 print("\nRunning local RAG evaluation...\n")
@@ -57,13 +54,13 @@ for entry in evaluation_data:
     rouge_score = rouge.compute(predictions=[answer], references=[ref_answer])
     bertscore_score = bert_score.compute(predictions=[answer], references=[ref_answer], lang="en")
 
-    # Simple heuristic retrieval score: fraction of reference keywords found in chunks
+    # Simple heuristic retrieval score: fraction of reference keywords found in chunks.
     keywords = set(ref_answer.lower().split())
     retrieved_text = " ".join([c.lower() for c in contexts])
     overlap = sum(1 for kw in keywords if kw in retrieved_text)
     retrieval_score = overlap / max(1, len(keywords))
 
-    # Append record
+    # Append record.
     records.append({
         "question": question,
         "reference_answer": ref_answer,
@@ -78,11 +75,9 @@ for entry in evaluation_data:
         "bert_f1": bertscore_score["f1"][0]
     })
 
-# -----------------------------
-# Save results
-# -----------------------------
+# Save results.
 df = pd.DataFrame(records)
-output_path = "local_rag_evaluation_simple.csv"
+output_path = "./local_rag_evaluation_simple.csv"
 df.to_csv(output_path, index=False)
 
 print(f"\nSaved evaluation results to {output_path}")

@@ -2,16 +2,12 @@ import os
 import sys
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
 
-# -----------------------------
-# Add parent folder to sys.path
-# -----------------------------
+# Add parent folder to sys.path.
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 
 from retrieval.retriever import retrieve
 
-# -----------------------------
 # LLM Model Settings
-# -----------------------------
 LLM_MODEL_NAME = "google/flan-t5-large"
 MAX_CHUNK_TOKENS = 200
 TOP_K_CHUNKS = 3
@@ -28,9 +24,7 @@ generator = pipeline(
     max_new_tokens=200
 )
 
-# -----------------------------
-# Generate answer
-# -----------------------------
+# Generate answer.
 def generate_answer(query, top_chunks):
 
     context_chunks = []
@@ -69,9 +63,7 @@ Answer:
 
     return output[0]["generated_text"]
 
-# -----------------------------
 # Local test
-# -----------------------------
 if __name__ == "__main__":
 
     query = "What are current cybersecurity threats?"
